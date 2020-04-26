@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to the Seldovia Scrapbook
 
 You can use the [editor on GitHub](https://github.com/alaskamapscience/seldovia/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
