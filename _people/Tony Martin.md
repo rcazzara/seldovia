@@ -1,0 +1,54 @@
+---
+birth_date: null
+birth_place: null
+cemetery_plot: null
+death_date: null
+death_place: null
+family_name: null
+given_names: null
+title: William Richard Miller
+---
+
+# Tony Martin
+
+# September 15, 1886, Bulgaria -- April 1977, Seldovia Alaska
+
+**Tony Dementroff Martin** was born September 15, 1886 in
+Toshevo, Bulgaria. His native language was German. Census records
+indicate that he came to the US about 1906 and was living on the Kenai
+Peninsula as early as 1920, and in Seldovia by 1930. His naturalization
+papers from 1930 say that his name was officially changed from Triffan
+Marinoff to Tony Martin at that time.
+
+Tony was involved in just about every activity that was happening in
+Seldovia area in his day. He was an active fur farmer and salmon
+fisherman. In 1928 the Pacific Fisherman's Yearbook reported that he had
+produced 80 barrels and 25 half barrels of pickled herring in that
+season.
+
+Hank Kroll relates a story that involved Tony:
+
+*Tony Martin was one of my father\'s friends. He lived directly across
+Seldovia Bay from the town. The Urban renewal contractors had left
+hundreds of cases of dynamite in a shed next to where he was living. My
+father and I went across the bay with his little Diesel Boat. It didn't
+have a name except Diesel Boat. He let it go dry at half-tide below were
+the dynamite was stored and we proceeded to carry cases of dynamite down
+and load it in the boat.. *
+
+*\
+Tony was glad to get some of the dynamite out of his front yard and
+helped us carry the stuff. A week later the authorities burned up all
+the rest of the rest of the dynamite. It was good that we got our share
+first. As any homesteader can tell you dynamite is a very useful tool.\
+  *
+
+*We had the boat loaded in a couple hours and had to wait for the tide
+to float it. After eleven hours of zigzagging and pounding we entered
+Tuxedni Bay. Pop beached the boat about a mile from Crescent River and
+we proceeded to pack all the explosive up into the woods. We stacked it
+on scrap lumber and covered it with the remains of a surplus army tent
+left over from WWII. Those old olive drab canvas tents were
+good camouflage. Over the years we used the dynamite to remove stumps,
+build roads, and blast boulders into pieces so that we could remove them
+off the sand spit. Steve Kroll*
