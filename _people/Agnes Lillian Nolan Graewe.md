@@ -1,12 +1,12 @@
 ---
-birth_date: null
-birth_place: null
+birth_date: November 13, 1882l
+birth_place: Chicago, Illinois
 cemetery_plot: null
-death_date: null
-death_place: null
+death_date: September 20, 1947
+death_place: Seldovia, AK
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Agnes Lillian Nolan Graewe
 ---
 
 # Agnes Lillian Nolan Graewe
@@ -14,7 +14,7 @@ title: William Richard Miller
 **November 13, 1882, Chicago, Illinois -- September 20, 1947, Seldovia,
 Alaska**
 
-**Agnes Lillian** **Nolan** was born in Chicago, Illinois
+**Agnes Lillian Nolan** was born in Chicago, Illinois
 November 13, 1882 to Joseph W. and Rachel Ford Nolan. She
 married Oscar **Graewe** (1887-1952) in Los Angeles on December 17,
 1923. Oscar was from Itzehoc, Germany, near Hamburg and he became a

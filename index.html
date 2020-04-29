@@ -1,12 +1,10 @@
 ---
 layout: default
-title: "Seldovia People"
+title: Seldovia People
 ---
 
-<ul>
-  {% for people in site.people %}
-    <li>
-      <a href="{{ people.url }}">{{ people.title }}</a>
-    </li>
-  {% endfor %}
-</ul>
+{% for people in site.people %}
+
+<a href="{{ people.url | prepend: people.baseurl }}">{{ people.title }}</a>
+
+{% endfor %}

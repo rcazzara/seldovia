@@ -1,12 +1,12 @@
 ---
-birth_date: null
-birth_place: null
+birth_date: 1840- 1843
+birth_place: Bavaria
 cemetery_plot: null
-death_date: null
-death_place: null
-family_name: null
-given_names: null
-title: William Richard Miller
+death_date: March 9, 1915
+death_place: Seldovia, Alaska
+family_name: Bloch
+given_names: Adam
+title: Adam Bloch and English
 ---
 
 # Adam Bloch

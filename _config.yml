@@ -5,3 +5,10 @@ theme: jekyll-theme-leap-day
 collections:
   people:
     output: true
+
+defaults:
+  - scope:
+      path: "_people"
+      type: people
+    values:
+      layout: post
