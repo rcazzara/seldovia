@@ -5,6 +5,7 @@ theme: jekyll-theme-leap-day
 collections:
   people:
     output: true
+    permalink: /:collection/:name
 
 defaults:
   - scope:

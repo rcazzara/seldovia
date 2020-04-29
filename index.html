@@ -3,8 +3,10 @@ layout: default
 title: Seldovia People
 ---
 
-{% for people in site.people %}
+<ul>
+    {% for people in site.people %}
 
-<a href="{{ people.url | prepend: people.baseurl }}">{{ people.title }}</a>
+    <a href="{{ people.url }}">{{ people.title }}</a>
 
-{% endfor %}
+    {% endfor %}
+</ul>
