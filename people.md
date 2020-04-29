@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: "Seldovia People"
-permalink: "/people/"
 ---
 
 <ul>
