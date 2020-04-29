@@ -1,11 +1,11 @@
 ---
-birth_date: null
-birth_place: null
+birth_date: March 1872
+birth_place: Kodiak, AK
 cemetery_plot: null
-death_date: null
-death_place: null
-family_name: null
-given_names: null
+death_date: June 27, 1945
+death_place: Seldovia, AK
+family_name: Alexandroff
+given_names: Anisem
 title: Anisem Alexandroff
 ---
 
