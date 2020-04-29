@@ -78,5 +78,5 @@ Islands, Bristol Bay, Prince William Sound, and sometimes Dutch Harbor
 or Kodiak In the fall they fish or tender cod. Starting October 15 we
 start filming King Crab for deadliest catch that usually finishes our
 year, give or take the random charter we pick
-up.![](assets/images/Joseph Arthur Kurtz/media/image1.jpeg){width="4.254861111111111in"
+up.![](../assets/images/Joseph Arthur Kurtz/media/image1.jpeg){width="4.254861111111111in"
 height="3.5in"}

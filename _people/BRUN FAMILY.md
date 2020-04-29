@@ -23,7 +23,7 @@ September 15, 1939 at the age of 82.
 # Mervin Howard Brun
 
 **November 16, 1921, Chignik, Alaska -- February 9, Seldovia,
-Alaska**![](assets/images/BRUN FAMILY/media/image1.jpeg){width="0.5430555555555555in"
+Alaska**![](../assets/images/BRUN FAMILY/media/image1.jpeg){width="0.5430555555555555in"
 height="0.8423611111111111in"}
 
 **Mervin Brun** was born Nov. 16, 1921, in Chignik. As a

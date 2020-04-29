@@ -62,7 +62,7 @@ apologetic politeness, he said, \'I guess I pretty drunk - I come back
 after.\' And so he did through the weeks of our association. I left
 esteeming his friendship and protesting inwardly against the statement
 that he was \'old enough for
-died\'.\"*![](assets/images/Balashov Family 2/media/image1.jpeg){width="2.34375in"
+died\'.\"*![](../assets/images/Balashov Family 2/media/image1.jpeg){width="2.34375in"
 height="4.052083333333333in"}
 
 # Other Balashoff Family Members in the Seldovia City Cemetery:

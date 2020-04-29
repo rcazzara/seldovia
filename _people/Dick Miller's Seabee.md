@@ -13,7 +13,7 @@ title: William Richard Miller
   --------------------------------------------------------------------------------------------------------------------------------------------------
   \< [prev](http://www.seabee.info/rc3_205.htm) \| [prod](http://www.seabee.info/rc3_201_400.htm) \| [next](http://www.seabee.info/rc3_207.htm) \>
 
-![N6031K](assets/images/Dick Miller's Seabee/media/image1.gif){width="6.666666666666667in"
+![N6031K](../assets/images/Dick Miller's Seabee/media/image1.gif){width="6.666666666666667in"
 height="4.166666666666667in"}
 
 ##### NC6031K Photo: © Wanted! 

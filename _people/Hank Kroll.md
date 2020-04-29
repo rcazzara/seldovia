@@ -13,7 +13,7 @@ title: William Richard Miller
 
 # Alaska\'s Mad Trapper 1949 Seldovia
 
-![http://2.bp.blogspot.com/-DLwb5ZOY8nw/TwaRBQBoEaI/AAAAAAAAAyI/YiSXwbXYKxI/s640/168587\_489420054393\_613504393\_5572942\_3914048\_n.jpg](assets/images/Hank Kroll/media/image1.jpeg){width="6.666666666666667in"
+![http://2.bp.blogspot.com/-DLwb5ZOY8nw/TwaRBQBoEaI/AAAAAAAAAyI/YiSXwbXYKxI/s640/168587\_489420054393\_613504393\_5572942\_3914048\_n.jpg](../assets/images/Hank Kroll/media/image1.jpeg){width="6.666666666666667in"
 height="4.927083333333333in"}
 
 **Reprinted with permission** from The Free Lance Star Fredericksburg,
@@ -56,7 +56,7 @@ whisper, what had happened. She laughed out loud and said, \"Oh, that
 was only the Mad trapper.\" As we walked outside, thee bearded man,
 Kroll, came forward and introduced himself.             
 
-![http://1.bp.blogspot.com/-p6T0ReJl5C4/TwaSTOCCgqI/AAAAAAAAAyY/wym-B\_MR12o/s640/Seldovia.jpg](assets/images/Hank Kroll/media/image2.jpeg){width="6.666666666666667in"
+![http://1.bp.blogspot.com/-p6T0ReJl5C4/TwaSTOCCgqI/AAAAAAAAAyY/wym-B\_MR12o/s640/Seldovia.jpg](../assets/images/Hank Kroll/media/image2.jpeg){width="6.666666666666667in"
 height="4.9375in"}
 
 FThe Theater is the square building on the left.
@@ -84,7 +84,7 @@ and had built the airplane, the instructor bailed out. Some time later,
 Midge said, the engine fell out off the airplane near Valdez and Kroll
 managed to glide in and land on a glacier.
 
-![http://4.bp.blogspot.com/-KSxkyQoG4pU/TwaRhoWfzCI/AAAAAAAAAyQ/1hkpYFmMQkE/s400/grandpa.jpg](assets/images/Hank Kroll/media/image3.jpeg){width="4.166666666666667in"
+![http://4.bp.blogspot.com/-KSxkyQoG4pU/TwaRhoWfzCI/AAAAAAAAAyQ/1hkpYFmMQkE/s400/grandpa.jpg](../assets/images/Hank Kroll/media/image3.jpeg){width="4.166666666666667in"
 height="3.1354166666666665in"}
 
 The trapper earned his title, she said, because he was an excellent

@@ -52,7 +52,7 @@ including Nikolai 1847. Reader Nikolai Stefanov was the Kenai-born son
 of Deacon Stefan Ivanov Sorokovikov and Tatiana Ivanova Kompkova;
 educated in a theological seminary in Eastern Siberia. He worked as a
 song leader in Kenai from
-1875-188730.![](assets/images/SOROKOVIKOV/media/image1.jpeg){width="1.7194444444444446in"
+1875-188730.![](../assets/images/SOROKOVIKOV/media/image1.jpeg){width="1.7194444444444446in"
 height="3.2159722222222222in"}
 
 **Konstantine (Conste) Sorokovikoff**, b. January 24, 1871

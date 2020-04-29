@@ -13,7 +13,7 @@ title: William Richard Miller
 
 # Feb. 2, 1938 in Angoon, Alaska -- Nov. 12, 2008 in Seldovia, Alaska
 
-![](assets/images/JOHN ABELARD ARDENIA/media/image1.jpeg){width="1.6458333333333333in"
+![](../assets/images/JOHN ABELARD ARDENIA/media/image1.jpeg){width="1.6458333333333333in"
 height="2.2708333333333335in"}
 
 (Alaska Native) **John Abelard Ardenia Sr**. died Friday,

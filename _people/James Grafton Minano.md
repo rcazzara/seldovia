@@ -63,7 +63,7 @@ Walter were not going to school, he arranged to have them sent from
 Coldfoot to Eklutna on the Teddy H. Soon after, James Sr. grew homesick
 for his sons and, taking Buddy with him, left the rest of the family in
 Coldfoot and moved to Eklutna in 1927.
-![](assets/images/James Grafton Minano/media/image1.jpeg){width="1.2965277777777777in"
+![](../assets/images/James Grafton Minano/media/image1.jpeg){width="1.2965277777777777in"
 height="2.06875in"}
 
 By the 1930 US Census, Jim and Walter had finished school but they were

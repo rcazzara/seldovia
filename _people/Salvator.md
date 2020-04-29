@@ -9,7 +9,7 @@ given_names: null
 title: William Richard Miller
 ---
 
-![](assets/images/Salvator/media/image1.jpeg){width="6.820833333333334in"
+![](../assets/images/Salvator/media/image1.jpeg){width="6.820833333333334in"
 height="3.8694444444444445in"}
 
 # THE SALVATOR
@@ -52,7 +52,7 @@ Seldovia, Registered Seward, ON 116364
 Fairbanks News Miner September 13, 1930: WILL CONVERT SCHOONER INTO
 FLOATING CANNERY
 
-![](assets/images/Salvator/media/image2.JPG){width="7.134027777777778in"
+![](../assets/images/Salvator/media/image2.JPG){width="7.134027777777778in"
 height="2.088888888888889in"}Axel Anderson and Peter Belmont of Seldovia
 have purchased the schooner Salvatore from Libby, McNeil and Libby and
 plan to convert it into a one-line floating cannery. It will be stripped

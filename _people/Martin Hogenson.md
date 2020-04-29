@@ -49,5 +49,5 @@ Fairbanks Daily News Miner, August 15, 1966.
 Nick is buried in the Seldovia City Cemetery, Plot \#190, next to his
 father, Martin Hogenson.
 
-![](assets/images/Martin Hogenson/media/image1.jpeg){width="7.833333333333333in"
+![](../assets/images/Martin Hogenson/media/image1.jpeg){width="7.833333333333333in"
 height="10.2in"}

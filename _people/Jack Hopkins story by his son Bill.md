@@ -47,7 +47,7 @@ them," adds Nansi (Wattenburg) Bohne (KQNY).
 ![L-R: jack on far right sets up the drag saw for the back cut while
 Lloyd and another logger work on the undercut of a Genesee Valley
 Ponderosa pine. c. 1949.
-](assets/images/Jack Hopkins story by his son Bill/media/image2.jpeg){width="3.3291666666666666in"
+](../assets/images/Jack Hopkins story by his son Bill/media/image2.jpeg){width="3.3291666666666666in"
 height="2.2680555555555557in"}
 
 L-R: jack on far right sets up the drag saw for the back cut while Lloyd
@@ -63,7 +63,7 @@ person working for wages.
 
 ![Jack with the \"Evey\" with a three-log load of sugar pine at
 Greenville, CA. c.
-1950.](assets/images/Jack Hopkins story by his son Bill/media/image3.jpeg){width="3.3291666666666666in"
+1950.](../assets/images/Jack Hopkins story by his son Bill/media/image3.jpeg){width="3.3291666666666666in"
 height="2.048611111111111in"}
 
 Jack with the "Evey" with a three-log load of sugar pine at Greenville,
@@ -97,7 +97,7 @@ Woodsman Gypo drag saw and just before the advent of the McCulloch
 lightweight power chain saw.
 
 ![Lloyd shows off their handiwork as my dad adjusts the drag
-saw.](assets/images/Jack Hopkins story by his son Bill/media/image4.jpeg){width="3.3291666666666666in"
+saw.](../assets/images/Jack Hopkins story by his son Bill/media/image4.jpeg){width="3.3291666666666666in"
 height="2.25625in"}
 
 Lloyd shows off their handiwork as my dad adjusts the drag saw.
@@ -128,7 +128,7 @@ could and then helped Jack to a truck and drove him to Greenville's Dr.
 Wilbur Batson for emergency medical treatment."
 
 ![Greenville\'s Jake Jenner with the Plumas Queen. Swain Mountain c.
-1965.](assets/images/Jack Hopkins story by his son Bill/media/image5.jpeg){width="2.5in"
+1965.](../assets/images/Jack Hopkins story by his son Bill/media/image5.jpeg){width="2.5in"
 height="2.658333333333333in"}
 
 Greenville's Jake Jenner with the Plumas Queen. Swain Mountain c. 1965.
@@ -175,7 +175,7 @@ lumber mills in Greenville.
 
 ![Gypo (independent) logging truck driver, Bob Stoy, with his classic
 Sterling logging truck. Swain Mountain c.
-1965.](assets/images/Jack Hopkins story by his son Bill/media/image6.jpeg){width="2.548611111111111in"
+1965.](../assets/images/Jack Hopkins story by his son Bill/media/image6.jpeg){width="2.548611111111111in"
 height="2.5in"}
 
 Gypo (independent) logging truck driver, Bob Stoy, with his classic
@@ -209,7 +209,7 @@ the truck.
 ![No time for tea as loggers eat lunch standing up and stir their coffee
 with their thumbs. L-R: Timber faller Ben Jasper, Jack Hopkins, Cat
 skinner Maurice Olson, and timber faller Sox
-Stevens.](assets/images/Jack Hopkins story by his son Bill/media/image7.jpeg){width="2.658333333333333in"
+Stevens.](../assets/images/Jack Hopkins story by his son Bill/media/image7.jpeg){width="2.658333333333333in"
 height="2.5in"}
 
 No time for tea as loggers eat lunch standing up and stir their coffee
@@ -245,7 +245,7 @@ made jokes about those beans for months."
 
 ![The Hopkins family pose with the Sierra Queen. L-R: Bill with our dog,
 Spike, Tom, Jim, Evelyn and Jack. c.
-1959.](assets/images/Jack Hopkins story by his son Bill/media/image8.jpeg){width="2.5125in"
+1959.](../assets/images/Jack Hopkins story by his son Bill/media/image8.jpeg){width="2.5125in"
 height="2.561111111111111in"}
 
 The Hopkins family pose with the Sierra Queen. L-R: Bill with our dog,
@@ -344,7 +344,7 @@ saying, "that S.O.B.," and not phonetically.
 
 ![The wreck of the Gobbler on the road to the Greenville Saddle, Homer
 Lake Timber Sale c.
-1967.](assets/images/Jack Hopkins story by his son Bill/media/image9.jpeg){width="3.3291666666666666in"
+1967.](../assets/images/Jack Hopkins story by his son Bill/media/image9.jpeg){width="3.3291666666666666in"
 height="2.24375in"}
 
 The wreck of the Gobbler on the road to the Greenville Saddle, Homer
@@ -394,7 +394,7 @@ top of the Cat, crushing the Cat's canopy into the driver's seat and
 controls.
 
 ![A three-log load of white fir. Homer Lake Timber Sale c.
-1967.](assets/images/Jack Hopkins story by his son Bill/media/image10.jpeg){width="2.75625in"
+1967.](../assets/images/Jack Hopkins story by his son Bill/media/image10.jpeg){width="2.75625in"
 height="2.5125in"}
 
 A three-log load of white fir. Homer Lake Timber Sale c. 1967.
@@ -435,7 +435,7 @@ to obtain lift that is more common on the coast in Oregon, Washington
 and Alaska. Here, Cat skinner Maurice Olson of (Portola) Keddie poses
 with the Cat D-7 with a hydraulic dozer that my father named Tweety
 Bird. Swain Mountain c.
-1965.](assets/images/Jack Hopkins story by his son Bill/media/image11.jpeg){width="3.3291666666666666in"
+1965.](../assets/images/Jack Hopkins story by his son Bill/media/image11.jpeg){width="3.3291666666666666in"
 height="2.365972222222222in"}
 
 The style of logging in Plumas County and Lassen County was known as
@@ -482,7 +482,7 @@ years of real time to accomplish true proficiency.
 
 ![ The Northwest Model 6 with a Young heel boom, out riggers and
 grapples. Swain Mountain c.
-1965](assets/images/Jack Hopkins story by his son Bill/media/image12.jpeg){width="3.2319444444444443in"
+1965](../assets/images/Jack Hopkins story by his son Bill/media/image12.jpeg){width="3.2319444444444443in"
 height="2.5in"}
 
 The Northwest Model 6 with a Young heel boom, out riggers and grapples.
@@ -559,7 +559,7 @@ mind.
 
 ![My hard-working mother and father, Jack and Evelyn Hopkins,
 Greenville, CA. c.
-1966.](assets/images/Jack Hopkins story by his son Bill/media/image13.jpeg){width="2.5in"
+1966.](../assets/images/Jack Hopkins story by his son Bill/media/image13.jpeg){width="2.5in"
 height="2.561111111111111in"}
 
 My hard-working mother and father, Jack and Evelyn Hopkins, Greenville,
@@ -761,7 +761,7 @@ Company logo crosscut saw that once hung on the Hopkins Logging Company
 office building in Greenville. John secured it from a garage sale, saved
 it, and gave it to me years later. I was astonished when I met up with
 the old saw
-again.](assets/images/Jack Hopkins story by his son Bill/media/image14.jpeg){width="3.3291666666666666in"
+again.](../assets/images/Jack Hopkins story by his son Bill/media/image14.jpeg){width="3.3291666666666666in"
 height="2.5in"}
 
 In 2003, I traveled to Greeville. Here, my high school friends, Mike

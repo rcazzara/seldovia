@@ -12,7 +12,7 @@ title: William Richard Miller
 **AFSC Historical Corner:  *Osprey*,  BOF\'s first Alaska patrol boat**
 
   -----------------------------------------------------------------------------------------------------------
-  ![](assets/images/US Osprey/media/image1.jpeg){width="4.688888888888889in" height="3.446527777777778in"}\
+  ![](../assets/images/US Osprey/media/image1.jpeg){width="4.688888888888889in" height="3.446527777777778in"}\
   **The steamer *Osprey***.  Bureau of Fisheries photo, 1914.
 
   -----------------------------------------------------------------------------------------------------------
@@ -138,8 +138,8 @@ Puget Sound and Southeast Alaska out of Ketchikan. She became the first
 Foss tug to work in Alaska (Skalley).
 
   -------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](assets/images/US Osprey/media/image2.jpeg){width="4.457638888888889in" height="2.5194444444444444in"}\
-  ![](assets/images/US Osprey/media/image3.jpeg){width="4.457638888888889in" height="1.5923611111111111in"}
+  ![](../assets/images/US Osprey/media/image2.jpeg){width="4.457638888888889in" height="2.5194444444444444in"}\
+  ![](../assets/images/US Osprey/media/image3.jpeg){width="4.457638888888889in" height="1.5923611111111111in"}
 
   **Two views of the diesel tug *Foss 19* before and after her 1940 deckhouse remodel -- significantly changed since her *Osprey* days with the BOF.**\
   Top: Foss Maritime Co. photo.  Bottom: from Pacific Motor Boat, Dec. 1947.\
@@ -172,7 +172,7 @@ Publishing, Seattle.
  
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](assets/images/US Osprey/media/image4.jpeg){width="4.457638888888889in" height="2.873611111111111in"}\
+  ![](../assets/images/US Osprey/media/image4.jpeg){width="4.457638888888889in" height="2.873611111111111in"}\
   **The *Foss 19* seen listing ashore near logs.**  Photo from the Captain Lloyd H. \"Kinky\" Bayers collection, 1898-1967: book 32, album 16, photo 2.  Alaska State Library Historical Collections.
 
   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
@@ -180,9 +180,9 @@ Publishing, Seattle.
 # Additional reading:
 
   ------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  !](assets/images/US Osprey/media/image5.png){width="0.15555555555555556in" height="0.12569444444444444in"}   Evermann, B. W. 1914. \"New Steamer for Patrol Work\". Alaska Fisheries and Fur Industries in 1913, p.8-9. U.S. Dep. Commer., Bur. Fish. Doc. 782.  ([.pdf, 29.6 MB. - NOAA Central Library(http://docs.lib.noaa.gov/rescue/cof/COF_1913.PDF))
-  ![](assets/images/US Osprey/media/image6.png){width="0.15555555555555556in" height="0.12569444444444444in"}   \"Scuttle Butt Pete\". 1947. Scutt Reviews the *Foss 19* -- from Yacht to Modern Tugboat. Pacific Motor Boat, Dec. 1947. p.53 (photo on p.51)
-  !](assets/images/US Osprey/media/image7.png){width="0.15555555555555556in" height="0.12569444444444444in"}   Kiffer, D. 2005. The Grounding of the *Princess Sophia*. [SitNews (Ketchikan) website(http://www.sitnews.us/Kiffer/PrincessSophia/120505_princess_sophia.html)  (last accessed 4-10-13)
+  !](../assets/images/US Osprey/media/image5.png){width="0.15555555555555556in" height="0.12569444444444444in"}   Evermann, B. W. 1914. \"New Steamer for Patrol Work\". Alaska Fisheries and Fur Industries in 1913, p.8-9. U.S. Dep. Commer., Bur. Fish. Doc. 782.  ([.pdf, 29.6 MB. - NOAA Central Library(http://docs.lib.noaa.gov/rescue/cof/COF_1913.PDF))
+  ![](../assets/images/US Osprey/media/image6.png){width="0.15555555555555556in" height="0.12569444444444444in"}   \"Scuttle Butt Pete\". 1947. Scutt Reviews the *Foss 19* -- from Yacht to Modern Tugboat. Pacific Motor Boat, Dec. 1947. p.53 (photo on p.51)
+  !](../assets/images/US Osprey/media/image7.png){width="0.15555555555555556in" height="0.12569444444444444in"}   Kiffer, D. 2005. The Grounding of the *Princess Sophia*. [SitNews (Ketchikan) website(http://www.sitnews.us/Kiffer/PrincessSophia/120505_princess_sophia.html)  (last accessed 4-10-13)
   ------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------

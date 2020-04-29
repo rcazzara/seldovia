@@ -17,7 +17,7 @@ Posted: 13 Oct 2015 04:01 PM PDT
 *Submitted by Frieda Erickson*
 
 ![Eric
-Erickson](assets/images/David John Ericson/media/image1.jpeg){width="2.4659722222222222in"
+Erickson](../assets/images/David John Ericson/media/image1.jpeg){width="2.4659722222222222in"
 height="2.488888888888889in"}Oro Valley, AZ -- David John "Eric"
 Erickson died on Tuesday, October 6, 2015, in Oro Valley. Eric was born
 August 14, 1943, in Cheyenne, Wyoming to parents Harold Erickson and

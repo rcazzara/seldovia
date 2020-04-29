@@ -16,7 +16,7 @@ May 2, 1894, Unalaska, Alaska -- November 28, 1944, Seldovia, Alaska
 # Alice LARSEN Nutbeem
 
 **September 15, 1899, Unga, Alaska -- July 13, 1990, Homer,
-Alaska**![](assets/images/Ted and Alice Nutbeem/media/image1.jpeg){width="1.2819444444444446in"
+Alaska**![](../assets/images/Ted and Alice Nutbeem/media/image1.jpeg){width="1.2819444444444446in"
 height="1.8854166666666667in"}
 
 **Theodore \"Ted" NUTBEEM** was the son of Albert and
@@ -31,7 +31,7 @@ there attending school until he was 18 years of age.
 Alice was raised in Unga Village, Unga Island, Shumagin Islands, Alaska
 along with her six sisters and five brothers. She attended the Unga
 Village school.
-![](assets/images/Ted and Alice Nutbeem/media/image2.jpeg){width="1.2333333333333334in"
+![](../assets/images/Ted and Alice Nutbeem/media/image2.jpeg){width="1.2333333333333334in"
 height="1.7145833333333333in"}
 
 Peter Adolf Larsen was from Denmark, he left his Denmark home when he

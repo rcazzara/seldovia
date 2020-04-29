@@ -36,5 +36,5 @@ contract work for the US Government. They lived in Nicaragua and
 Newfoundland and Edward also worked at Ascension Island. He eventually
 married again and he died in Florida in 1987.
 
-![](assets/images/Elizabeth MacKenzie/media/image1.jpg){width="6.5in"
+![](../assets/images/Elizabeth MacKenzie/media/image1.jpg){width="6.5in"
 height="3.6555555555555554in"}

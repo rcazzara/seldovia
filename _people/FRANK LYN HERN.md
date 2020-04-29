@@ -32,7 +32,7 @@ and finally Harlingen field from which he was graduated November 16,
 was transferred to Walla Walla, Wash., army air field where he completed
 his final training aboard the Liberator.
 
-![](assets/images/FRANK LYN HERN/media/image1.jpeg){width="4.905555555555556in"
+![](../assets/images/FRANK LYN HERN/media/image1.jpeg){width="4.905555555555556in"
 height="3.863888888888889in"}
 
 By 1966, Frank was living in Seldovia, and working as a bush pilot of
@@ -129,7 +129,7 @@ Nourishment during the flight will consist of a high protein chocolate
 drink, water, and malted milk tablets.
 
 **[Winnipeg Free Press Newspaper Archives, May 2, 1966, p.
-3]{.underline}**![](assets/images/FRANK LYN HERN/media/image2.jpeg){width="5.218055555555556in"
+3]{.underline}**![](../assets/images/FRANK LYN HERN/media/image2.jpeg){width="5.218055555555556in"
 height="3.3305555555555557in"}
 
 **Fairbanks News Miner**: Sept. 26, 1966 - Wreckage believed to be that

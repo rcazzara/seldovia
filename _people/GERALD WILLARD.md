@@ -47,8 +47,8 @@ bought it from them in 1978, I think. I had the concrete basement wall
 repaired where the door was. The shoe sewing machine was owned by Chris
 Wheeler, and didn't have anything to do with the hospital. I bought it
 from Chris. With a little WD-40 I got it running.
-"*![](assets/images/GERALD WILLARD/media/image1.jpeg){width="4.308333333333334in"
-height="2.964583333333333in"}![](assets/images/GERALD WILLARD/media/image2.jpeg){width="2.8152777777777778in"
+"*![](../assets/images/GERALD WILLARD/media/image1.jpeg){width="4.308333333333334in"
+height="2.964583333333333in"}![](../assets/images/GERALD WILLARD/media/image2.jpeg){width="2.8152777777777778in"
 height="3.8159722222222223in"}
 
 Seldovia poet Andy Anderson says "Gerry was loved by everyone and was

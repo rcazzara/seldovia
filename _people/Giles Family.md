@@ -165,11 +165,11 @@ Seldovia.
 # Larry George Giles
 
 ## April 7, 1920, Canada -- December 23, 1975, Seldovia, Alaska
-![](assets/images/Giles Family/media/image1.jpeg){width="1.1513888888888888in"
+![](../assets/images/Giles Family/media/image1.jpeg){width="1.1513888888888888in"
 height="1.4722222222222223in"}
 
 **[Elaine Merle STEURER
-Giles**![](assets/images/Giles Family/media/image2.jpeg){width="1.0659722222222223in"
+Giles**![](../assets/images/Giles Family/media/image2.jpeg){width="1.0659722222222223in"
 height="1.0715277777777779in"}
 
 ## July 29, 1922, Wisconsin -- January 16, 2010, Washington

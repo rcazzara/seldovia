@@ -21,5 +21,5 @@ lived in Sitka, Alaska with a son Gene Allen Albertson, born in 1931.
 Matt died on January 10, 1954 and has the distinction of having been
 buried in the Seldovia City Cemetery Plot \#1, even though his was not
 the first burial.
-![](assets/images/Matt Alberton/media/image1.jpeg){width="1.5395833333333333in"
+![](../assets/images/Matt Alberton/media/image1.jpeg){width="1.5395833333333333in"
 height="1.351388888888889in"}

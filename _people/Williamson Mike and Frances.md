@@ -24,7 +24,7 @@ with his father and siblings, Lloyd, Beaula, Harry and Chuck. The
 Williamsons were a lively, good-hearted bunch. They learned young to
 work hard and take care of themselves and each other. As Mike would say,
 they were "as independent as a hog on
-ice".![](assets/images/Williamson Mike and Frances/media/image1.png){width="1.5951388888888889in"
+ice".![](../assets/images/Williamson Mike and Frances/media/image1.png){width="1.5951388888888889in"
 height="2.370833333333333in"}
 
 In Oregon, Mike learned early to hunt, fish and trap. He told old
@@ -119,7 +119,7 @@ failed in 2010, the decision was made to bring him to Pittsburgh for
 care. Living with his son, near five grandchildren and eight
 great-grandchildren in an Orthodox Jewish community in "civilization"
 was Mike's final great
-adventure.![](assets/images/Williamson Mike and Frances/media/image2.jpeg){width="2.2729166666666667in"
+adventure.![](../assets/images/Williamson Mike and Frances/media/image2.jpeg){width="2.2729166666666667in"
 height="1.7270833333333333in"}
 
 Mike passed away peacefully on Monday morning, February 11, 2013. To the

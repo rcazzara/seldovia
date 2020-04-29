@@ -14,7 +14,7 @@ title: William Richard Miller
 **February 29, 1928, San Francisco, California -- September 18, 2012,
 Seldovia, Alaska**
 
-![](assets/images/Frederick Walter Newmeyer not in cemetery/media/image1.jpeg){width="0.7666666666666667in"
+![](../assets/images/Frederick Walter Newmeyer not in cemetery/media/image1.jpeg){width="0.7666666666666667in"
 height="0.7666666666666667in"}
 
 85 year old [World War

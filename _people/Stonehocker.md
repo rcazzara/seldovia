@@ -13,7 +13,7 @@ James Jethro "Jim" Stonehocker
 
 January 18, 1864, Montezuma, Iowa -- May 10, 1939, Seldovia, Alaska
 
-![](assets/images/Stonehocker/media/image1.jpeg){width="2.025in"
+![](../assets/images/Stonehocker/media/image1.jpeg){width="2.025in"
 height="3.3868055555555556in"}
 
 James Jethro "Jim" Stonehocker was born Jan. 18, 1864 in Montezuma, Iowa
@@ -27,5 +27,5 @@ James left for Alaska in 1919 and they never heard from him again.
 He died May 10, 1939 in Seldovia, Alaska. He probably lived in a cabin
 on the creek that bears his name, near China Poot Bay in Kachemak Bay.
 
-![](assets/images/Stonehocker/media/image2.jpeg){width="4.402777777777778in"
+![](../assets/images/Stonehocker/media/image2.jpeg){width="4.402777777777778in"
 height="3.4631944444444445in"}

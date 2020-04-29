@@ -97,11 +97,11 @@ her Social Security papers.**
 
 12. **Adam "Crow" Calvin Cleghorn 1915-1978
     died in Seldovia and is buried in the Seldovia City Cemetery Plot
-    \#209**![](assets/images/James Naismith Cleghorn family/media/image1.jpeg){width="2.6694444444444443in"
+    \#209**![](../assets/images/James Naismith Cleghorn family/media/image1.jpeg){width="2.6694444444444443in"
     height="4.9in"}
 
 **\
 \
 \
-**![](assets/images/James Naismith Cleghorn family/media/image2.jpeg){width="3.7152777777777777in"
+**![](../assets/images/James Naismith Cleghorn family/media/image2.jpeg){width="3.7152777777777777in"
 height="3.857638888888889in"}

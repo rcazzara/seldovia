@@ -21,7 +21,7 @@ Haugesund, Norway and naturalized on 26 May, 1947. He married Marie
 Anderson on December 27, 1920, in Unalaska, Alaska. They had twelve
 children during their marriage. He died on March 1, 1951, in Seldovia,
 Alaska, at the age of 58.
-![](assets/images/Sigurd Halversen family/media/image1.jpeg){width="1.2368055555555555in"
+![](../assets/images/Sigurd Halversen family/media/image1.jpeg){width="1.2368055555555555in"
 height="1.46875in"}
 
 **Marie Anderson** was born May 10, 1904 in Unalaska, Alaska. She
@@ -68,7 +68,7 @@ Children:
 
 ## January 6, 1903, Washington -- March 13, 1957 Seldovia, Alaska
 
-![](assets/images/Sigurd Halversen family/media/image2.jpeg){width="1.5354166666666667in"
+![](../assets/images/Sigurd Halversen family/media/image2.jpeg){width="1.5354166666666667in"
 height="2.09375in"}
 
 Ray married Marie Anderson Halvorsen in Seldovia, Alaska

@@ -10,7 +10,7 @@ title: William Richard Miller
 ---
 
 **[Remembering Our
-Children**![](assets/images/Remembering Our Children/media/image1.jpeg){width="1.21875in"
+Children**![](../assets/images/Remembering Our Children/media/image1.jpeg){width="1.21875in"
 height="1.011111111111111in"}
 
 # Terry Meehan

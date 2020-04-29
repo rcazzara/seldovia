@@ -28,5 +28,5 @@ Alexandroffs were sometimes listed in US Census records as "Creole",
 meaning of a Russian father and Alaska native woman. All of the men in
 the photo below were considered "Creoles".
 
-![](assets/images/ANISEM ALEXANDROFF/media/image1.jpeg){width="5.48125in"
+![](../assets/images/ANISEM ALEXANDROFF/media/image1.jpeg){width="5.48125in"
 height="4.561111111111111in"}
