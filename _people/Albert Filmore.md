@@ -6,7 +6,8 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: "Albert Filmore"
+layout: default
 ---
 
 # Albert Filmore/Fillmore/Fulmor

@@ -11,4 +11,4 @@ defaults:
       path: "_people"
       type: people
     values:
-      layout: post
+      layout: default
