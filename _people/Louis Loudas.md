@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Louis Loudas
 
-# February 14, 1894, Greece - November 1978, Seldovia, Alaska
+## February 14, 1894, Greece - November 1978, Seldovia, Alaska
 
 **Louis Loudas** was born Feb. 14, 1894 in Greece and died
 Nov. 1978 in Seldovia, Alaska. He owned the Coffee Cup Café. Louie could

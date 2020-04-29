@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Joseph Arthur "Joe" Kurtz
 
-# October 31, 1909, Wisconsin - August 29, 2003, Anchorage
+## October 31, 1909, Wisconsin - August 29, 2003, Anchorage
 
 **Joseph Arthur KURTZ** 93, died August 29, 2003 at
 Providence Alaska Medical Center of natural causes. A graveside service

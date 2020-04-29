@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Katherine FOX Kashevarof
 
-# May 6, 1906, Unga, Alaska -- March 2, 1998, Anchorage, Alaska
+## May 6, 1906, Unga, Alaska -- March 2, 1998, Anchorage, Alaska
 
 # Diane Helena KASHEVAROF
 

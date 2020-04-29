@@ -10,7 +10,7 @@ title: William Richard Miller
 ---
 
 **[Remembering Our
-Children]{.smallcaps}**![](assets/images/Remembering Our Children/media/image1.jpeg){width="1.21875in"
+Children**![](assets/images/Remembering Our Children/media/image1.jpeg){width="1.21875in"
 height="1.011111111111111in"}
 
 # Terry Meehan
@@ -41,7 +41,7 @@ in Trina Lake. He was 12 years old.
 
 # Kenneth "Kenny" Berger
 
-# July 5, 1957, Anchorage, Alaska -- July 9, 1966
+## July 5, 1957, Anchorage, Alaska -- July 9, 1966
 
 **Kenneth "Kenny" Berger** was born July 5, 1957 in
 Anchorage, Alaska to Merle and Lillian Hojnacke Berger. Merle had a
@@ -52,11 +52,11 @@ boats in the harbor. He was 9 years old.
 
 # Allen Hans Elvsaas
 
-# 1953, Alaska -- July 1970, Seldovia, Alaska
+## 1953, Alaska -- July 1970, Seldovia, Alaska
 
 Allen Hans Elvsaas was born in 1953 to Fred and Gladys Ogle Elvsaas. He
 drowned in Seldovia July 1970.
 
 # Gary "Tuffy" Allen
 
-# 1955, Alaska -- July 1975, Seldovia, Alaska
+## 1955, Alaska -- July 1975, Seldovia, Alaska

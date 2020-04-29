@@ -11,11 +11,11 @@ title: William Richard Miller
 
 # Marlin "Mike" Thomas Williamson
 
-# June 17, 1926, Oregon -- February 11, 2013, Pennsylvania
+## June 17, 1926, Oregon -- February 11, 2013, Pennsylvania
 
 # Frances Lucille JENKINS Williamson
 
-# October 30, 1927, Yoakum, Texas -- August 7, 2001, Seldovia, Alaska
+## October 30, 1927, Yoakum, Texas -- August 7, 2001, Seldovia, Alaska
 
 **Marlin "Mike" Thomas Williamson** was born in Corvalis,
 Oregon on June 17, 1926. He was the youngest of the 5 children of Emma
@@ -134,4 +134,4 @@ Mountain Man.
 
 *To contact or send condolences to Mike's family:  Tsuri and Batsheva
 Williamson at 5720 Munhall Rd, Pittsburgh, PA. 15217-2010
-  [[412-480-4913]{.underline}](tel:412-480-4913)*
+  [412-480-4913(tel:412-480-4913)*

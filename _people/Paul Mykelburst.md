@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Paul Elias Myklebust
 
-# January 15, 1894, Sovde, Norway -- October 3, 1944, Seldovia, Alaska
+## January 15, 1894, Sovde, Norway -- October 3, 1944, Seldovia, Alaska
 
 **Paul Elias Myklebust** was born in Norway. In 1913 he
 sailed on the *Empress of Britain* from Liverpool arriving in New

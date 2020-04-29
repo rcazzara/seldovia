@@ -38,7 +38,7 @@ Seldovia City Cemetery, Plot \#241.
 
 # Virginia YUTH Bailey
 
-# August 16, 1924, Seldovia, Alaska -- April 4, 1973, Washington
+## August 16, 1924, Seldovia, Alaska -- April 4, 1973, Washington
 
 When **Virginia YUTH (Cochrane) (Bailey)** was born on
 August 16, 1924, in Seldovia, Alaska, her father, Matt, was 54, and her
@@ -54,7 +54,7 @@ Plot \#240. Her headstone reads: Virginia Bailey August 16, 1924 - April
 Alaska**
 
 Matt and Eugenia were also the parents of **[Hartley Hedwick
-Yuth]{.smallcaps}** who was raised in Seldovia and entered the U.S. Army
+Yuth** who was raised in Seldovia and entered the U.S. Army
 in 1945. He had been employed as a commercial fisherman. Mr. Yuth was a
 member of the Veterans of Foreign Wars, the Seldovia Native Corp., and
 Cook Inlet Region Inc. He enjoyed fishing and cooking, and loved

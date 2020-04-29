@@ -139,7 +139,7 @@ daughter **Elizabeth Bessie Markle** (1917-1921) are
 buried in the old Seldovia Hillside Cemetery near Main Street.
 
 By her second husband she had two known children: 1) **[Elizabeth
-\"Bessie\" MARKLE]{.smallcaps}**; and 2) \"Baby\" MARKLE. Her only
+\"Bessie\" MARKLE**; and 2) \"Baby\" MARKLE. Her only
 grandchildren came from her eldest three known children. Her death
 certificate indicates that she died in Anchorage of a puerperal
 infection, i.e., puerperal sepsis, a condition that arises from
@@ -489,4 +489,4 @@ the community as a whole.
 
 # Cecilia Majorie ENGLISH Gruber
 
-# April 29, 1929, Seldovia, AK -- April 1983, Seldovia, AK
+## April 29, 1929, Seldovia, AK -- April 1983, Seldovia, AK

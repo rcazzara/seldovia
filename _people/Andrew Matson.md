@@ -6,12 +6,12 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Andrew Matson
 ---
 
 # Andrew "ANDY" MATSON
 
-# July 10, 1882, Kotka, Finland -- February 26, 1949, Seldovia, Alaska
+## July 10, 1882, Kotka, Finland -- February 26, 1949, Seldovia, Alaska
 
 # Demnina "NINA" OSKOLKOFF Edelman Matson
 

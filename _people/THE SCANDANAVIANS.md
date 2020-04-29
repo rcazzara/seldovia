@@ -17,7 +17,7 @@ title: William Richard Miller
 Norway, died in Seldovia in 1933 and buried in Seldovia Hillside
 Cemetery. His daughter **Dorothy ANDERSON Warren**
 (1928-1945) and his infant grandson, **[Robert Eugene
-Anderson]{.smallcaps}**, (1948-1948) son of Jack, Jr. and Lois May
+Anderson**, (1948-1948) son of Jack, Jr. and Lois May
 ERICKSON Anderson, are buried in the City Cemetery.
 
 **Clement Anderson was** born in Norway in 1874, and
@@ -118,7 +118,7 @@ He arrived in Anchorage August 1920. He died in Seldovia January 29,
 1965. There is no record of a marriage or children.
 
 **Peter Jackson (**father of **[Peter
-Jackson]{.smallcaps}** born in Valdez August 13, 1898. Pete, Jr. was a
+Jackson** born in Valdez August 13, 1898. Pete, Jr. was a
 life-long fisherman throughout Southcentral Alaska, but in 1942 he was
 registered for WWII draft while living in Seldovia. He died in Seldovia
 in 1962**.**
@@ -136,7 +136,7 @@ prospectors crossing Valdez Glacier, May 29, 1898 (W.H. Crary Diary, p.
 Shepard.  Jacobsen & Thorstensen were in a dispute over Landlock Bay
 (Copper Mt.) claims with L. L. Williams & Associates, entered agreement
 for development rights with Alaska Commercial Company, 3/7/1898, ML, BK.
-2, p. 97; Jacobsen sold White Eagle Claim to F. C. Lawrence for \$1.00.
+2, p. 97; Jacobsen sold White Eagle Claim to F. C. Lawrence for \.00.
 In 1901 he was part of an "exciting trip down the Copper River" with
 Albert Dowling and others (trip described in Pathfinder, IV:10. 8/1923).
 Nels died in Seldovia in May 1951.
@@ -151,7 +151,7 @@ children including:
     including:
 
 > **John Nels Jenson** son of **[Mary Jacobsen and Nels
-> John Jensen]{.smallcaps}** born March 1, 1924, married Alice Clark in
+> John Jensen** born March 1, 1924, married Alice Clark in
 > Seldovia in 1947, died June 1953 in Kodiak, buried in Seldovia City
 > Cemetery.
 
@@ -159,7 +159,7 @@ children including:
     Yugoslaia- Aug 1965, Washington).
 
 > **Nellie Jacobson Pilskog** (1907-1978) married **[Nels
-> Rasmusen Pilskog]{.smallcaps}** (see below).
+> Rasmusen Pilskog** (see below).
 
 **Carl John Lund** -- October 14, 1874, Bergen, Norway,
 and immigrated to the US in 1893. He had three sons and five daughters
@@ -307,7 +307,7 @@ member. He died in Seattle on Jan. 6, 1968 at the age of 62. He was a
 Edwin Edelman father of **Nina Edelman Lund** and Jacob
 (Jack) Edelman who was husband of **Pauline Juliussen
 Edelman** and father of [**Jacqueline Edelman and Emma
-Edelman**.]{.smallcaps}
+Edelman**.
 
 **Gus Holmstrom** was born in Bromarv, Finland in 1880. He
 was the husband of **Anna WALNUSSON Holmstrom** born in
@@ -342,7 +342,7 @@ Yuth** who was born Dec. 19, 1897 in Ninilchik, Alaska,
 and died Nov. 23, 1970 in Seldovia, Alaska.
 
 Matt and Eugenia were the parents of **[Hartley Hedwick
-Yuth]{.smallcaps}** who was raised in Seldovia and entered the U.S. Army
+Yuth** who was raised in Seldovia and entered the U.S. Army
 in 1945. He had been employed as a commercial fisherman. Mr. Yuth was a
 member of the Veterans of Foreign Wars, the Seldovia Native Corp., and
 Cook Inlet Region Inc. He enjoyed fishing and cooking, and loved

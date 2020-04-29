@@ -6,12 +6,12 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Crickett Forrest
 ---
 
 # Leroy "Cricket" FORREST
 
-# 1936, Alaska -- July 3, 1948, Seldovia, Alaska
+## 1936, Alaska -- July 3, 1948, Seldovia, Alaska
 
 **Leroy "Cricket" Forrest** was only 11 years old when he
 drowned in Seldovia on July 3, 1948. His mother was Helen Skinner of

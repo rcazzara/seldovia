@@ -6,7 +6,7 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Balashoff Family 2
 ---
 
 # BALASHOFF FAMILY
@@ -24,7 +24,7 @@ through 1940, the most recently made public.
 
 There are 8 individuals interred in the Seldovia City Cemetery. Three of
 them are infants. Adam Bloch's 2^nd^ wife [**[Elizabeth Balashoff Bloch
-Markle]{.smallcaps}**](../Word_Documents/Adam%20Bloch%20and%20English.doc)
+Markle**](../Word_Documents/Adam%20Bloch%20and%20English.doc)
 is buried in the Seldovia Hill Cemetery in the town. See more
 information about her in the Bloch Family section.
 
@@ -77,7 +77,7 @@ here.
 
 **Mikkell/Mike Balashoff**, born November 10, 1910, died
 in 1967, was the son of Mike Sr. **[Virginia Sorokovikoff
-Balashoff]{.smallcaps}** , wife of Mike Balashoff, Jr. (1918-July 7,
+Balashoff** , wife of Mike Balashoff, Jr. (1918-July 7,
 1946) The three infant children of Mike and Virginia Balashoff are also
 interred in the Seldovia City Cemetery
 

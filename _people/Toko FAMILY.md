@@ -16,12 +16,12 @@ times.
 
 # Fred Toko
 
-# 1882, Alaska -- 1945, Seldovia, Alaska
+## 1882, Alaska -- 1945, Seldovia, Alaska
 
 When
 
 # Katie Toko
 
-# 1902, Seldovia, Alaska -- 1946, Seldovia, Alaska
+## 1902, Seldovia, Alaska -- 1946, Seldovia, Alaska
 
 Katie Toko was the daughter of Fred Toko (1882-1945) and was

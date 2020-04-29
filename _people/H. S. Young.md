@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Hartley Scott Young
 
-# July 19, 1879, Ontario Canada -- February 10, 1945, Seldovia, Alaska
+## July 19, 1879, Ontario Canada -- February 10, 1945, Seldovia, Alaska
 
 **Hartley Scott YOUNG,** was born in Thornbury, Ontario
 Canada on July 19, 1879 to John and Mary SCOTT Young.

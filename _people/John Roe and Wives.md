@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # John J. Roe
 
-# July 11, 1893, Norway -- December 1, 1972
+## July 11, 1893, Norway -- December 1, 1972
 
 # Anna J. Dartgige Roe
 
@@ -60,7 +60,7 @@ September 30, 1941 in Seldovia and is buried in Seldovia City Cemetery,
 Plot \#81.
 
 On May 10, 1943 John Roe married **[Velma Evelyn
-SHAFFORD]{.smallcaps}**, born December 6, 1913 in Rocky Ford, Colorado.
+SHAFFORD**, born December 6, 1913 in Rocky Ford, Colorado.
 Velma died May 27, 1945 in Seldovia. She is buried in Seldovia City
 Cemetery, Plot \#81.
 

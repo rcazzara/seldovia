@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Frank S. "Dusty" Gruber
 
-# August 1870 in Marion, Ohio --August 2, 1939, Seldovia, AK
+## August 1870 in Marion, Ohio --August 2, 1939, Seldovia, AK
 
 **Frank S.** **Gruber** was born August 1870 in Marion,
 Ohio to John J. Gruber and Martha Sayers Gruber. His

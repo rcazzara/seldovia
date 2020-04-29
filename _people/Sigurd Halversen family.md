@@ -44,7 +44,7 @@ Children:
 
 5.  **Margaret Halvorsen Josefsen** (1926 - 1969)\*
     married **Frank Anderson**, **[Robert
-    Falconer]{.smallcaps}** and **Simon Josefsen\***
+    Falconer** and **Simon Josefsen\***
 
 6.  **Edith Halvorsen Hollman** (1927 - 1982)\* married
     Richard Hollman (1924-1974-Seward)
@@ -66,7 +66,7 @@ Children:
 
 # Ray Herbert Swaney
 
-# January 6, 1903, Washington -- March 13, 1957 Seldovia, Alaska
+## January 6, 1903, Washington -- March 13, 1957 Seldovia, Alaska
 
 ![](assets/images/Sigurd Halversen family/media/image2.jpeg){width="1.5354166666666667in"
 height="2.09375in"}

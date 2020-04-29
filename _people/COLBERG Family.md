@@ -6,7 +6,7 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Colberg Family
 ---
 
 # COLBERG Family
@@ -19,7 +19,7 @@ moving to Washington State.**
 
 # Albert Linus Colberg
 
-# April 24, 1896, Moe, Norway -- January 3, 1942, Seldovia, Alaska
+## April 24, 1896, Moe, Norway -- January 3, 1942, Seldovia, Alaska
 
 **Albert was naturalized in Seward in 1929. He was living on his own in
 Seldovia in 1930, working as a fisherman. He was a First Mate on the oil
@@ -61,7 +61,7 @@ Anchorage, Alaska, at the age of 71.
 
 # Calvin LaVerne Colberg
 
-# May 9, 1933, Seward, Alaska -- 2004, Seward, Alaska
+## May 9, 1933, Seward, Alaska -- 2004, Seward, Alaska
 
 When Calvin Leverne Colberg was born on May 9, 1933, in Seward, Alaska,
 his father, John, was 46 and his mother, Eliza, was 29. He had one
@@ -69,15 +69,15 @@ brother and one sister. He died on January 14, 2004, at the age of 70.
 
 # Calvin Matt Colberg
 
-# December 16, 1963 -- 1983, Seldovia, Alaska
+## December 16, 1963 -- 1983, Seldovia, Alaska
 
 # Alta ROSENBUSH Colberg
 
-# February 24, 1934 -- January 20, 2020, Anchorage, Alaska
+## February 24, 1934 -- January 20, 2020, Anchorage, Alaska
 
 **Alta Crete ROSENBUSH Colberg** was born on Feb. 24,
 1934, in Seattle, Wash., to **Alta Crete Phillips** and **[Leslie Grant
-Rosebush]{.smallcaps}**. Her family moved to Seldovia, Alaska in 1936,
+Rosebush**. Her family moved to Seldovia, Alaska in 1936,
 when she was a young girl. Seldovia is where she spent the majority of
 her life. She married, first, in 1951, Albert Martin Peterson, and they
 had three children, Albert, Liza and Leslie. Then, in 1955 she married

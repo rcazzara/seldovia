@@ -13,11 +13,11 @@ title: William Richard Miller
 
 # Theophilus William Lloyd
 
-# April 30, 1873, Kansas -- July 3, 1937 Seldovia, Alaska
+## April 30, 1873, Kansas -- July 3, 1937 Seldovia, Alaska
 
 # Susan Loretta LAFFERTY Lloyd
 
-# May 10, 1883 South Dakota -- May 23, 1965 Alaska
+## May 10, 1883 South Dakota -- May 23, 1965 Alaska
 
 **Theophilus William "T.W."** **Lloyd** was born in Kansas
 City, Kansas April 30, 1873. By 1900 he was a farmer in Jackson Hole,
@@ -58,7 +58,7 @@ was born August 16, 1906 in Jackson, Wyoming. She married Robert
 **Leroy** **Duffy** in Aberdeen, Washington
 March 24, 1928, and they lived in Washington until he died in 1940.
 Later she came to Seldovia to visit her parents and met [**[Carl
-Harry]{.smallcaps} Nordenson**](../Word_Documents/Nordenson.docx). They
+Harry Nordenson**](../Word_Documents/Nordenson.docx). They
 were married April 16, 1942 in Seldovia. Grace died April 17, 1961 in
 Seldovia, and Carl died January 8, 1968 in Seldovia. They are both
 buried in the Seldovia City Cemetery, Plots \#73 and \#233.

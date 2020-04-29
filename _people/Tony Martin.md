@@ -6,12 +6,12 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Tony Martin
 ---
 
 # Tony Martin
 
-# September 15, 1886, Bulgaria -- April 1977, Seldovia Alaska
+## September 15, 1886, Bulgaria -- April 1977, Seldovia Alaska
 
 **Tony Dementroff Martin** was born September 15, 1886 in
 Toshevo, Bulgaria. His native language was German. Census records

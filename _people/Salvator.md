@@ -94,9 +94,9 @@ cartoon image of W.C. Whitney and J.B. Haggin scheming about horse
 rearing in Kentucky.
 
 **Salvator** (1886--1909) was an
-[[American]{.underline}](https://en.wikipedia.org/wiki/United_States)
-[[thoroughbred]{.underline}](https://en.wikipedia.org/wiki/Thoroughbred)
-[[race horse]{.underline}](https://en.wikipedia.org/wiki/Race_horse)
+[American(https://en.wikipedia.org/wiki/United_States)
+[thoroughbred(https://en.wikipedia.org/wiki/Thoroughbred)
+[race horse(https://en.wikipedia.org/wiki/Race_horse)
 considered by many to be one of the best racers during the latter half
 of the 19th century.
 
@@ -120,74 +120,74 @@ wages.
 
 # Background
 
-Bred by [[Daniel
-Swigert]{.underline}](https://en.wikipedia.org/w/index.php?title=Daniel_Swigert&action=edit&redlink=1)
-of [[Elmendorf
-Farm]{.underline}](https://en.wikipedia.org/wiki/Elmendorf_Farm) in
-[[Lexington,
-Kentucky]{.underline}](https://en.wikipedia.org/wiki/Lexington,_Kentucky),
+Bred by [Daniel
+Swigert(https://en.wikipedia.org/w/index.php?title=Daniel_Swigert&action=edit&redlink=1)
+of [Elmendorf
+Farm(https://en.wikipedia.org/wiki/Elmendorf_Farm) in
+[Lexington,
+Kentucky(https://en.wikipedia.org/wiki/Lexington,_Kentucky),
 Salvator was sired by Prince Charlie out of Salina (by
-[[Lexington]{.underline}](https://en.wikipedia.org/wiki/Lexington_(horse))).
+[Lexington(https://en.wikipedia.org/wiki/Lexington_(horse))).
 (Salvator was the last great horse Swigart bred; his best stallions had
 grown old and died.) On his sire\'s side, he went back to the tremendous
 mare
-[[Pocahontas]{.underline}](https://en.wikipedia.org/wiki/Pocahontas_(horse))
-by [[Glencoe]{.underline}](https://en.wikipedia.org/wiki/Glencoe_I). On
+[Pocahontas(https://en.wikipedia.org/wiki/Pocahontas_(horse))
+by [Glencoe(https://en.wikipedia.org/wiki/Glencoe_I). On
 his dam\'s side, through Lexington, he carried the blood of
-[[Boston]{.underline}](https://en.wikipedia.org/wiki/Boston_(horse))
+[Boston(https://en.wikipedia.org/wiki/Boston_(horse))
 sired by Timoleon sired by Sir Archie sired by
-[[Diomed]{.underline}](https://en.wikipedia.org/wiki/Diomed).
+[Diomed(https://en.wikipedia.org/wiki/Diomed).
 
 Unusual for the times, the dark chestnut with a large white blaze was
 born in 1886 in
-[[California]{.underline}](https://en.wikipedia.org/wiki/California).
-[[James Ben Ali
-Haggin]{.underline}](https://en.wikipedia.org/wiki/James_Ben_Ali_Haggin)
+[California(https://en.wikipedia.org/wiki/California).
+[James Ben Ali
+Haggin(https://en.wikipedia.org/wiki/James_Ben_Ali_Haggin)
 had purchased his dam, Salina, and shipped her to his 44,000-acre
-(180 km^2^) [[Rancho Del
-Paso]{.underline}](https://en.wikipedia.org/wiki/Rancho_Del_Paso) with
-Salvator *in utero*. Haggin had made his money in the [[California Gold
-Rush]{.underline}](https://en.wikipedia.org/wiki/California_Gold_Rush)
+(180 km^2^) [Rancho Del
+Paso(https://en.wikipedia.org/wiki/Rancho_Del_Paso) with
+Salvator *in utero*. Haggin had made his money in the [California Gold
+Rush(https://en.wikipedia.org/wiki/California_Gold_Rush)
 of 1849, so much of it he was suddenly one of the wealthiest men in
-[[America]{.underline}](https://en.wikipedia.org/wiki/United_States),
+[America(https://en.wikipedia.org/wiki/United_States),
 and he used his new wealth to establish the biggest horse breeding
 operations in world history. Aside from the thousands of grazing acres
 he owned in
-[[Arizona]{.underline}](https://en.wikipedia.org/wiki/Arizona), [[New
-Mexico]{.underline}](https://en.wikipedia.org/wiki/New_Mexico) and
+[Arizona(https://en.wikipedia.org/wiki/Arizona), [New
+Mexico(https://en.wikipedia.org/wiki/New_Mexico) and
 Southern California, he headquartered at the Rancho del Paso near the
 present-day city of
-[[Sacramento]{.underline}](https://en.wikipedia.org/wiki/Sacramento). He
+[Sacramento(https://en.wikipedia.org/wiki/Sacramento). He
 bought breeding horses from every state that bred fine thoroughbreds, as
 well as shipping them in from
-[[Ireland]{.underline}](https://en.wikipedia.org/wiki/Ireland),
-[[Australia]{.underline}](https://en.wikipedia.org/wiki/Australia) and
-[[England]{.underline}](https://en.wikipedia.org/wiki/England).
+[Ireland(https://en.wikipedia.org/wiki/Ireland),
+[Australia(https://en.wikipedia.org/wiki/Australia) and
+[England(https://en.wikipedia.org/wiki/England).
 Eventually he bought Swigert\'s Elmendorf Farm and moved his
 headquarters there. Haggin added to the property until he held 8,700
 acres (35 km^2^) of prime bluegrass. (Over time, and through several
-owners, this property was broken up into stud farms like [[Spendthrift
-Farm]{.underline}](https://en.wikipedia.org/wiki/Spendthrift_Farm),
-[[Greentree
-Stud]{.underline}](https://en.wikipedia.org/wiki/Greentree_Stable), and
+owners, this property was broken up into stud farms like [Spendthrift
+Farm(https://en.wikipedia.org/wiki/Spendthrift_Farm),
+[Greentree
+Stud(https://en.wikipedia.org/wiki/Greentree_Stable), and
 others.)
 
 In the fall of 1887, Haggin\'s Eastern trainer, Matthew Byrnes, and
-jockey [[George \"Snapper\"
-Garrison]{.underline}](https://en.wikipedia.org/w/index.php?title=George_%22Snapper%22_Garrison&action=edit&redlink=1)
+jockey [George \"Snapper\"
+Garrison(https://en.wikipedia.org/w/index.php?title=George_%22Snapper%22_Garrison&action=edit&redlink=1)
 arrived at the ranch to choose the best young horses to take back to
-[[New
-York]{.underline}](https://en.wikipedia.org/wiki/New_York_(state)).
+[New
+York(https://en.wikipedia.org/wiki/New_York_(state)).
 Salvator was one of their choices.
 
-At Monmouth Park, the [[Grade
-III]{.underline}](https://en.wikipedia.org/wiki/Graded_stakes_race)
-[[Salvator Mile
-Handicap]{.underline}](https://en.wikipedia.org/wiki/Salvator_Mile_Handicap)
+At Monmouth Park, the [Grade
+III(https://en.wikipedia.org/wiki/Graded_stakes_race)
+[Salvator Mile
+Handicap(https://en.wikipedia.org/wiki/Salvator_Mile_Handicap)
 will be in its 69th running in 2016.
 
-Following the creation of the [[National Museum of Racing and Hall of
-Fame]{.underline}](https://en.wikipedia.org/wiki/National_Museum_of_Racing_and_Hall_of_Fame)
+Following the creation of the [National Museum of Racing and Hall of
+Fame(https://en.wikipedia.org/wiki/National_Museum_of_Racing_and_Hall_of_Fame)
 in 1955, Salvator was one of the horses inducted.
 
 The race itself commemorates the great 19th century champion Salvator,

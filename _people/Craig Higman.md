@@ -6,12 +6,12 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Craig Higman
 ---
 
 # Craig "Higgy" Higman
 
-# 1945-- June 19, 2016 Seldovia, Alaska
+## 1945-- June 19, 2016 Seldovia, Alaska
 
 **Craig "Higgy" Higman** passed away on June 19 in Homer,
 by the side of his son, Bretwood "Hig" Higman. He had been out for a

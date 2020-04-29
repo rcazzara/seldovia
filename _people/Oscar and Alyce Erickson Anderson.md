@@ -16,7 +16,7 @@ Alaska**
 
 # Oscar William ANDERSON
 
-# April 1866, Sweden -- 1940, Palmer, Alaska
+## April 1866, Sweden -- 1940, Palmer, Alaska
 
 **Alyce Laura ERICKSON**, the daughter of Lars and
 Elizabeth Erickson, was born August 1868 in Bishop Hill, Illinois. She

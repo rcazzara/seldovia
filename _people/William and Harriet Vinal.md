@@ -11,11 +11,11 @@ title: William Richard Miller
 
 # William Vinal
 
-# March 14, 1860, Maine -- died July 3, 1940, Seldovia, AK
+## March 14, 1860, Maine -- died July 3, 1940, Seldovia, AK
 
 # Harriet J. SOUTHERLAND Vinal
 
-# October 20, 1867, Maine -- died October 10, 1937, Seldovia, AK
+## October 20, 1867, Maine -- died October 10, 1937, Seldovia, AK
 
 **Harriet J. SOUTHERLAND Vinal** was born October 20, 1867
 in Portage, Maine to Charles and Caroline Sutherland.

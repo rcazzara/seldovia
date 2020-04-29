@@ -105,4 +105,4 @@ Summer 2005
 
 # John "Pierre" Int-hout
 
-# June 30, 1924, Maurice, Iowa -- January 16, 2015, Seldovia, Alaska
+## June 30, 1924, Maurice, Iowa -- January 16, 2015, Seldovia, Alaska

@@ -16,7 +16,7 @@ as a longshoreman in Vancouver, B.C. in 1917. He had families in
 Washington and Alaska. In 1930 he was a storekeeper in Chignik with his
 3^rd^ wife **Nellie Anderson** (Norwegian/Alaskan) and
 their children, **Floyd Lowell Suydam** and **[Marilyn
-Suydam]{.smallcaps}**. In 1932, another son, Antril, was born there. The
+Suydam**. In 1932, another son, Antril, was born there. The
 **Suydam** family has a deep presence in the Seldovia
 community.
 
@@ -25,12 +25,12 @@ community.
 **April 30, 1923, Chignik, Alaska -- December 2, 1987, Seldovia,
 Alaska**
 
-**[[Stella Alexandria
-Brun](file:///C:\Users\Ginny\Desktop\Seldovia%20Cemetery%20resources%20Oct%20update\Seldovia%20Cemetery%20Scrapbook\Brun.doc)]{.smallcaps}**
+**[Stella Alexandria
+Brun](file:///C:\Users\Ginny\Desktop\Seldovia%20Cemetery%20resources%20Oct%20update\Seldovia%20Cemetery%20Scrapbook\Brun.doc)**
 was the daughter of **Carl and Martha Brun,** born in
 Chignik April 30, 1923. She married first **[Edward
-Wallin]{.smallcaps}** and had daughters **[Carol Eve
-Wallin]{.smallcaps}** and **honeybee Wallin.** Then she
+Wallin** and had daughters **[Carol Eve
+Wallin** and **honeybee Wallin.** Then she
 married **Floyd Lowell Suydam** (1928-2002).
 **Floyd** was born in Idaho but came to Alaska. Stella is
 buried in the Seldovia City Cemetery Plot \#565.
@@ -41,7 +41,7 @@ buried in the Seldovia City Cemetery Plot \#565.
 Seldovia, Alaska**
 
 **Lowell Keith Suydam** was born to **[Floyd Lowell
-Suydam]{.smallcaps}** and **Stella BRUN Suydam** on January 27, 1953 in
+Suydam** and **Stella BRUN Suydam** on January 27, 1953 in
 Chignik Lagoon. He spent most of his life in Seldovia, having graduated
 from Susan B. English School in 1972. He commercial fished in Chignik
 Lagoon all his life. Starting as a young boy, Lowell learned from his
@@ -61,10 +61,10 @@ buried in the Seldovia City Cemetery Plot \#554.
 
 # Marilyn SUYDAM Fisk
 
-# October 21, 1956, Seldovia, Alaska -- June 2, 1998, Seldovia, Alaska
+## October 21, 1956, Seldovia, Alaska -- June 2, 1998, Seldovia, Alaska
 
 Marilyn Rae Suydam was born in Seldovia on October 21, 1956 to **[Floyd
-Lowell Suydam]{.smallcaps}** and **Stella BRUN Suydam.** When she was a
+Lowell Suydam** and **Stella BRUN Suydam.** When she was a
 sophomore at Susan B. English School in Seldovia in 1971, she won an
 essay contest sponsored by the Alaska Loggers' Association. She married
 twice, to Unknown Cooley, and Leigh Fisk. She died June 2, 1998. She is

@@ -11,8 +11,8 @@ title: Agnes Lillian Nolan Graewe
 
 # Agnes Lillian Nolan Graewe
 
-**November 13, 1882, Chicago, Illinois -- September 20, 1947, Seldovia,
-Alaska**
+## November 13, 1882, Chicago, Illinois -- September 20, 1947, Seldovia,
+Alaska
 
 **Agnes Lillian Nolan** was born in Chicago, Illinois
 November 13, 1882 to Joseph W. and Rachel Ford Nolan. She

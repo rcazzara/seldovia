@@ -19,7 +19,7 @@ Florence, Lydia, Elizabeth, Harriet, Fred, Barbara, Ollie and David.**
 # Alexsandra Potorochin Elxnit
 
 **[March 16, 1885, Kodiak, Alaska -- September 1953,
-Alaska]{.smallcaps}**
+Alaska**
 
 Alexsandra's family, the Potorochins, lived for ten years in Eagle
 Harbor near Saltery Cove on Kodiak Island. According to the birth
@@ -45,12 +45,12 @@ Elxnit** who was born in 1867.
 
 Her daughter Dora lived in Kodiak until 1913 when she moved to Seldovia
 and attended the Seldovia Territorial School. She married **[Axel
-Ursin]{.smallcaps}** of Seldovia and the couple had four children:
+Ursin** of Seldovia and the couple had four children:
 Rayder, Laura, Norman and Eleanor.
 
 # Nicholai "Nick" Grenieff Elxnit
 
-# November 3, 1903, Seldovia, Alaska-- May 26, 2001, SeldoviaAlaska
+## November 3, 1903, Seldovia, Alaska-- May 26, 2001, SeldoviaAlaska
 
 **Nicholai Grienoff Elxnit was the son of Harry (Rufus)
 Grenieff and Alexandra Potorochin Fomin. Alexandra married Alexander

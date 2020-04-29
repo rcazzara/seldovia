@@ -18,9 +18,9 @@ title: William Richard Miller
   -----------------------------------------------------------------------------------------------------------
 
 With the urgent need to protect Alaska\'s fishing products valued at
-nearly \$17 million in 1911, the Bureau of Fisheries (BOF) acquired its
+nearly \7 million in 1911, the Bureau of Fisheries (BOF) acquired its
 first patrol vessel. In the fall of 1912, the coal-burning steamer
-*Wigwam* was purchased for \$13,000 from the Alaska Packers Association,
+*Wigwam* was purchased for \3,000 from the Alaska Packers Association,
 who had previously rebuilt the ship to top condition in compliance with
 the Steamboat-Inspection Service\'s recommendations. Prior to her BOF
 service, the \"little old steamer\" was \"one of the first cannery
@@ -50,7 +50,7 @@ holding additional sacks of coal, the *Osprey* had limited bunker space
 which allowed stowage for only 7.5 tons of coal. This resulted in a
 steaming radius amounting to about 350 miles, much less than the
 distance required for the demanded service. Another factor was that the
-cost of coal at that time was \$8.50 to \$12.75 a ton and was usually
+cost of coal at that time was \$8.50 to \2.75 a ton and was usually
 obtained at Unalaska on the Aleutian Islands. It was estimated that an
 engine conversion would save up to 90% in reduced fuel costs.\
 \
@@ -89,8 +89,8 @@ In 1918 the *Osprey* participated in two notable rescues in Alaska. Late
 in the spring, she towed the boat *Good Tidings* -- in danger after
 breaking down during a storm -- 10 miles to Ketchikan. Then in late
 October and most of November, the *Osprey* joined the BOF vessels
-[[*Auklet* and
-*Murre*]{.underline}](https://www.afsc.noaa.gov/history/vessels/boats/auklet-murre.htm)
+[*Auklet* and
+*Murre*(https://www.afsc.noaa.gov/history/vessels/boats/auklet-murre.htm)
 in Alaska to search for bodies from the Canadian Pacific steamship
 *Princess Sophia*, which struck Vanderbilt Reef on 25 October, losing
 343 lives with no survivors.\
@@ -180,15 +180,15 @@ Publishing, Seattle.
 # Additional reading:
 
   ------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![](assets/images/US Osprey/media/image5.png){width="0.15555555555555556in" height="0.12569444444444444in"}   Evermann, B. W. 1914. \"New Steamer for Patrol Work\". Alaska Fisheries and Fur Industries in 1913, p.8-9. U.S. Dep. Commer., Bur. Fish. Doc. 782.  ([[.pdf, 29.6 MB. - NOAA Central Library]{.underline}](http://docs.lib.noaa.gov/rescue/cof/COF_1913.PDF))
+  !](assets/images/US Osprey/media/image5.png){width="0.15555555555555556in" height="0.12569444444444444in"}   Evermann, B. W. 1914. \"New Steamer for Patrol Work\". Alaska Fisheries and Fur Industries in 1913, p.8-9. U.S. Dep. Commer., Bur. Fish. Doc. 782.  ([.pdf, 29.6 MB. - NOAA Central Library(http://docs.lib.noaa.gov/rescue/cof/COF_1913.PDF))
   ![](assets/images/US Osprey/media/image6.png){width="0.15555555555555556in" height="0.12569444444444444in"}   \"Scuttle Butt Pete\". 1947. Scutt Reviews the *Foss 19* -- from Yacht to Modern Tugboat. Pacific Motor Boat, Dec. 1947. p.53 (photo on p.51)
-  ![](assets/images/US Osprey/media/image7.png){width="0.15555555555555556in" height="0.12569444444444444in"}   Kiffer, D. 2005. The Grounding of the *Princess Sophia*. [[SitNews (Ketchikan) website]{.underline}](http://www.sitnews.us/Kiffer/PrincessSophia/120505_princess_sophia.html)  (last accessed 4-10-13)
+  !](assets/images/US Osprey/media/image7.png){width="0.15555555555555556in" height="0.12569444444444444in"}   Kiffer, D. 2005. The Grounding of the *Princess Sophia*. [SitNews (Ketchikan) website(http://www.sitnews.us/Kiffer/PrincessSophia/120505_princess_sophia.html)  (last accessed 4-10-13)
   ------------------------------------------------------------------------------------------------------------- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
   ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   A Poor Evaluation
 
-  The *Osprey* was considered to be well constructed, however, after the Bureau\'s Deputy Director, E. Lester Jones, lived aboard her for 60 days during his 1914 inspection of the Alaska fisheries, his opinion of the vessel was unfavorable. In his *Report of Alaska Investigations, 1914* ([[.pdf, 17.4 MB)]{.underline}](https://www.afsc.noaa.gov/history/pubs/RAI-1914.pdf#osprey)  Jones expressed the following:\
+  The *Osprey* was considered to be well constructed, however, after the Bureau\'s Deputy Director, E. Lester Jones, lived aboard her for 60 days during his 1914 inspection of the Alaska fisheries, his opinion of the vessel was unfavorable. In his *Report of Alaska Investigations, 1914* ([.pdf, 17.4 MB)(https://www.afsc.noaa.gov/history/pubs/RAI-1914.pdf#osprey)  Jones expressed the following:\
   \
   \"In reference to the unseaworthiness of the *Osprey*, I feel well qualified to pass judgment, for in my investigations and research this season I lived aboard her for 60 days and found conditions far from satisfactory. Her freeboard amidships is just 12 inches. From the deck to the top of the pilot house the distance is over 14 feet, and with the greater part of her machinery above the water line the vessel is so topheavy that a good breeze renders it dangerous to leave the dock. In an unusual blow last fall, the *Osprey* without warning turned completely on her side, lying flat on the water long enough for the engine room to be flooded. The officers and crew were penned up in this treacherous boat, and only by an act of Providence did a counter flurry right her in the next few seconds.\
   \

@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Peter Jackson
 
-# August 13, 1898, Alaska -- 1962, Seldovia, Alaska
+## August 13, 1898, Alaska -- 1962, Seldovia, Alaska
 
 Peter Jackson, born in Chenega on August 13, 1898, was the son of Peter
 and Olga Jackson. His father Peter was born in Norway in 1859 to a

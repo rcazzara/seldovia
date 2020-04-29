@@ -13,7 +13,7 @@ title: William Richard Miller
 
 # James Naismith Cleghorn
 
-# 1852, Lewiston, NY -- 1928, Seldovia, Alaska
+## 1852, Lewiston, NY -- 1928, Seldovia, Alaska
 
 **James Naismith Cleghorn, was born on November 22, 1852
 in Lewiston, New York to Nasmith and Elizabeth Cleghorn. His father was

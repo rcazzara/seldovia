@@ -6,12 +6,12 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Anisem Alexandroff
 ---
 
 # Anisem Alexandroff
 
-# March 1872, Kodiak -- June 27, 1945, Seldovia
+## March 1872, Kodiak -- June 27, 1945, Seldovia
 
 **Anisem Alexandroff** was born in Kodiak on March 1872.
 He lived on Woody Island, Kodiak in 1900 and had Otto Anderson, from

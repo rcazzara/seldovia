@@ -32,7 +32,7 @@ California.
 "I had a timber falling contract for Lilburn Hue "Si" (pronounced as
 "Cy," not as "see") Brand in the Genesee Valley to the east of
 Taylorsville and Indian Valley," said Lloyd Wheeler. "I was paid by the
-thousand board feet for timber fallen, making \$120.00 per day and paid
+thousand board feet for timber fallen, making \20.00 per day and paid
 the buckers \$30.00 per day. I made lots of money, six times more than a
 person working for wages. "I convinced Jack and Evelyn to relocate to
 Greenville from Orick after Jack had made a fortunate escape from the

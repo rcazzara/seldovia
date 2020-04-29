@@ -85,4 +85,4 @@ great-grandchildren, and nieces and nephews.
 
 # Adrianna Rose Ardenia
 
-# October 8, 1996, Seldovia, Alaska -- 1996, Seldovia, Alaska
+## October 8, 1996, Seldovia, Alaska -- 1996, Seldovia, Alaska

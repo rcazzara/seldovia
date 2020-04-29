@@ -13,7 +13,7 @@ title: William Richard Miller
 
 # Tollak Bowitz Ollestad
 
-# 1881, Norway -- 1967 Seldovia, Alaska
+## 1881, Norway -- 1967 Seldovia, Alaska
 
 **Tollak Bowitz Ollestad** was born on 1881 in Norway. He died on 1967.
 He married **Lucille Cleghorn** (1896-1969). He is buried in the

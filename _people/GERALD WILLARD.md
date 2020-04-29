@@ -16,14 +16,14 @@ Alaska**
 
 # Lynette Willard White
 
-# February 3, 1963 - July 13, 2005
+## February 3, 1963 - July 13, 2005
 
 (Daughter of Gerald W. and Alberta G. Willard)
 
 **Gerald Winniston "Gerry" Willard** was born in Norfolk,
 Virginia,on September 8, 1938 to **[Winniston Robert and Ruth Marie HAWK
-Willard]{.smallcaps}**. He grew up in Tacoma, married **[Alberta Grace
-GEDLING]{.smallcaps}** on April 29, 1960 and they moved to Seldovia in
+Willard**. He grew up in Tacoma, married **[Alberta Grace
+GEDLING** on April 29, 1960 and they moved to Seldovia in
 1972 to work for the Homer Electric Company. His work was so appreciated
 that the electric generation plant in Seldovia is now named for him. He
 was mayor of Seldovia from 1989-91. He was Seldovia's first EMT and he

@@ -26,7 +26,7 @@ the age of 87. He is buried in Anchorage.\*\*
 
 # Emma EDELMAN Josefsen
 
-# June 23, 1902, Kenai, Alaska -- May 11, 1993, Seldovia, Alaska
+## June 23, 1902, Kenai, Alaska -- May 11, 1993, Seldovia, Alaska
 
 She is buried in the Seldovia City Cemetery Plot\#41
 

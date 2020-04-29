@@ -12,7 +12,7 @@ layout: default
 
 # Albert Filmore/Fillmore/Fulmor
 
-# November 1850, Maine -- February 13, 1919, Seldovia, Alaska
+## November 1850, Maine -- February 13, 1919, Seldovia, Alaska
 
 **Albert Filmore** was born in Maine in 1851. His father
 was born in Massachusetts and mother in Nova Scotia, but there were a

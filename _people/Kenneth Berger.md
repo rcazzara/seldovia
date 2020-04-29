@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Kenneth Berger
 
-# June 5, 1957, Anchorage, Alaska -- July 9, 1966, Seldovia, Alaska
+## June 5, 1957, Anchorage, Alaska -- July 9, 1966, Seldovia, Alaska
 
 **Kenneth "Kenny" Berger**, was born in Anchorage, Alaska
 on June 5, 1957 to Merle Berger and Lillian Hojnacke. Merle and Lillian

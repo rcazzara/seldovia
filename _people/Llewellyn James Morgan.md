@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Llewellyn James Morgan
 
-# February 1895, Michigan -- died March 21, 1940' Seldovia, AK
+## February 1895, Michigan -- died March 21, 1940' Seldovia, AK
 
 **Llewellyn "Lew" Morgan** was born in Michigan to
 Clarence and Jennie Morgan. He married Lucille Sisson in May 1926 and

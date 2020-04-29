@@ -6,7 +6,7 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Bowen Family
 ---
 
 # Bowen Family
@@ -19,7 +19,7 @@ probably visiting his son Captain Henry Richard Bowen when he died in
 
 # Captain Henry Richard Bowen
 
-# 1853, Gloucester, Massachusetts --(At Sea) Seldovia, Alaska
+## 1853, Gloucester, Massachusetts --(At Sea) Seldovia, Alaska
 
 **David Bowen's son, Henry Richard BOWEN was born in
 Massachusetts in 1853. In 1880 a salting station of the Western Fur and
@@ -33,7 +33,7 @@ capital can establish themselves most readily in a lucrative business on
 Kodiak Island...". Bowen returned to Gloucester several times after
 moving to Alaska, but no amount of persuasion on his part could induce
 any of the New England fishermen to move to Alaska. He married [Vavara
-(Barbara) Annie NAUMOFF]{.smallcaps} in Kodiak and had 9 children:
+(Barbara) Annie NAUMOFF in Kodiak and had 9 children:
 Rufus, Florence, Lydia, Elizabeth, Harriet, Fred, Barbara, Ollie and
 David. Mrs. Bowen was "the Russian woman who showed Mother how to make
 those wonderful fish pies the Russians called "perog", and the Bowens
@@ -60,7 +60,7 @@ family lived in Kodiak until Mt. Katmai erupted in 1912.**
 
 # Rufus Bowen, Jr.
 
-# October 22, 1879, Alaska -- September 1953, Alaska
+## October 22, 1879, Alaska -- September 1953, Alaska
 
 **Rufus Bowen** was born in Kodiak October 22, 1879 and
 came to Seldovia after the Novarupta eruption in 1912. He built a cabin
@@ -98,12 +98,12 @@ first craft to put into Anchorage harbor this year, having arrived March
 
 # Harriet BOWEN Johnson
 
-# December 13, 1888, Kodiak, Alaska-- March 3, 1931, Seldovia, Alaska
+## December 13, 1888, Kodiak, Alaska-- March 3, 1931, Seldovia, Alaska
 
 **Harriet Susanna Bowen, born December 13, 1888 in Kodiak,
 was the daughter of Captain Henry and Barbara Bowen. She married
-[[Andrew
-Johnson]{.smallcaps}](../Word_Documents/Andrew%20Johnson.docx).**
+[Andrew
+Johnson](../Word_Documents/Andrew%20Johnson.docx).**
 
 **Andrew Johnson was born in Finland on February 12, 1864,
 the son of John and Maggie Michelson. He immigrated to the US in 1888
@@ -122,7 +122,7 @@ the Seldovia Cemetery, Plots \#36 and \#37.**
 
 # Robert Bulla Bowen
 
-# 1924, Unalaska, Alaska -- August 29, 1964, Seldovia, Alaska
+## 1924, Unalaska, Alaska -- August 29, 1964, Seldovia, Alaska
 
 **Robert Bulla Bowen was the son of Fred and Annie Bowen.
 When Annie passed away, Bulla and his brother (also named Rufus) stayed

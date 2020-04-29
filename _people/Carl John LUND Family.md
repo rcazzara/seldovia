@@ -6,20 +6,20 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Carl John Lund Family
 ---
 
 # Carl John LUND
 
-# October 14, 1874, Norway -- November 11, 1939, Seldovia, Alaska
+## October 14, 1874, Norway -- November 11, 1939, Seldovia, Alaska
 
 # Nina EDELMAN Lund
 
-# March 10, 1896, Kenai, Alaska -- December 8, 1977, Seldovia, Alaska
+## March 10, 1896, Kenai, Alaska -- December 8, 1977, Seldovia, Alaska
 
 **Carl John Lund** was born October 14, 1874 in Bergen,
 Norway, and he immigrated to the US in 1893. He married **[Nina
-EDELMAN]{.smallcaps}**, born on March 10, 1896 to Domnina Oskolkoff
+EDELMAN**, born on March 10, 1896 to Domnina Oskolkoff
 Edelman, of Kenaitze (Athabaskan) Indian and Russian decent, and Edvin
 (Edwin) Edelman, a Finn explorer from Porvoo.
 

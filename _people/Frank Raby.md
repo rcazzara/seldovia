@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Francis John "Frank" Raby
 
-# July 27, 1894, Ontario Canada -- January 4, 1984, Seldovia, Alaska
+## July 27, 1894, Ontario Canada -- January 4, 1984, Seldovia, Alaska
 
 **Francis John "Frank" Raby,** the next youngest of nine
 children, was born in Arnprior, Ontario Canada on July 27, 1894 to Frank

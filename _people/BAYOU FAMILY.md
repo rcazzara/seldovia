@@ -6,7 +6,7 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Bayou Family
 ---
 
 # Bayou Family
@@ -45,5 +45,5 @@ on March 28, 1919 in Kenai, Alaska. Alfred may be a son of Wasillii. He
 was living in Seldovia in 1920. Alfred and Martha had three sons, Paul,
 William and Philip. She is buried in the Seldovia City Cemetery, Plot
 \#109. After her death, Alfred first married **[Katie
-Toko]{.smallcaps}** and then **Dora Malchoff Anahonak**.
+Toko** and then **Dora Malchoff Anahonak**.
 He is buried in Anchorage Memorial Cemetery.

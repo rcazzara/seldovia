@@ -13,11 +13,11 @@ title: William Richard Miller
 
 # Ulysses Grant Ritchie
 
-# October 1868, Pa -- May 1953, Seldovia, Alaska
+## October 1868, Pa -- May 1953, Seldovia, Alaska
 
 # George Ritchie
 
-# 1905, Seldovia, Alaska - December 1952, Seldovia, Alaska
+## 1905, Seldovia, Alaska - December 1952, Seldovia, Alaska
 
 **Ulysses Grant "U.S." Ritchie** is first listed in Alaska
 in 1910 census records where he is living on Yukon Island, with his wife

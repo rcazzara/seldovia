@@ -17,10 +17,10 @@ Alaska**
 **Martin Hogenson** was born **Martinus Haagensen** in
 Stavanger, Rogaland, Norway in 1885. His parents were Hartvig and Karen
 Haagensen. In 1910 he was living in Bristol Bay. Martin married [**[Emma
-Edlemann]{.smallcaps}**](../Word_Documents/Andrew%20Matson%20and%20Edelman.docx)
+Edlemann**](../Word_Documents/Andrew%20Matson%20and%20Edelman.docx)
 in Kenai, Alaska, on August 3, 1919, when he was 34 years old. By 1930
 he was widower, living alone in Seldovia. He then married **[Katie
-Toko]{.smallcaps}** who was from Port Graham. She had previously been
+Toko** who was from Port Graham. She had previously been
 married to Bayou. Their son **Nick** was born in 1934 and
 **Harry** followed in 1935. Martin Hogensen died in August
 1964 in Seldovia, Alaska, when he was 79 years old. He is buried in the
@@ -31,7 +31,7 @@ Nick Hogenson Park.
 
 # Nicholai "NICK" Hogenson
 
-# August 20, 1934, Seldovia, Alaska -- June 30, 1988, Seldovia, Alaska
+## August 20, 1934, Seldovia, Alaska -- June 30, 1988, Seldovia, Alaska
 
 When ***Nick Hogenson*** was born in 1934 in Alaska, his
 father, Martin, was 50 and his mother, Katie, was 36. He had one younger

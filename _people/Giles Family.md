@@ -13,18 +13,18 @@ title: William Richard Miller
 
 **The many GILES family members in Seldovia originate here from two
 brothers, Fleming James Giles and [Larry George
-Giles]{.smallcaps}, who were born to George M. Giles and Agnes Ramsey.
+Giles, who were born to George M. Giles and Agnes Ramsey.
 George and Agnes were both born in Washington, but married in British
 Columbia, Canada, and their children were born in Washington, Montana
 and Canada.**
 
 # Fleming James Giles
 
-# May 12, 1910, Washington -- February 8, 1971, Alaska
+## May 12, 1910, Washington -- February 8, 1971, Alaska
 
 # Helen Laisure Giles 
 
-# October 21, 1908, Washington-- January 10, 1994, Alaska
+## October 21, 1908, Washington-- January 10, 1994, Alaska
 
 **Fleming Giles married Helen Winnifred Laizure, born Ocober 21, 1908,
 died January 10, 1994. They had three children, Gordon, Peggy
@@ -164,15 +164,15 @@ Seldovia.
 
 # Larry George Giles
 
-# April 7, 1920, Canada -- December 23, 1975, Seldovia, Alaska
+## April 7, 1920, Canada -- December 23, 1975, Seldovia, Alaska
 ![](assets/images/Giles Family/media/image1.jpeg){width="1.1513888888888888in"
 height="1.4722222222222223in"}
 
 **[Elaine Merle STEURER
-Giles]{.smallcaps}**![](assets/images/Giles Family/media/image2.jpeg){width="1.0659722222222223in"
+Giles**![](assets/images/Giles Family/media/image2.jpeg){width="1.0659722222222223in"
 height="1.0715277777777779in"}
 
-# July 29, 1922, Wisconsin -- January 16, 2010, Washington
+## July 29, 1922, Wisconsin -- January 16, 2010, Washington
 
 Larry Giles and Elaine Steurer married in Washington in 1944, where they
 started their family. In 1954 they moved to Seldovia, where Larry's
@@ -187,7 +187,7 @@ other.
 
 # Marillyn Kaye Giles
 
-# April 14, 1947, Seldovia, Alaska -- October 24, 2006
+## April 14, 1947, Seldovia, Alaska -- October 24, 2006
 
 **Marillyn Kaye Giles, the youngest of Larry and Elaine Steurer Giles'
 children, was born in Seldovia April 14, 1947. She was married first to

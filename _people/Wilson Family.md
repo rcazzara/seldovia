@@ -28,7 +28,7 @@ Alaska**
 
 # Ann Marie WILSON Anderson
 
-# January 9, 1947, Seldovia, Alaska - , Seldovia, Alaska
+## January 9, 1947, Seldovia, Alaska - , Seldovia, Alaska
 
 **Ann Marie Wilson Anderson was born January 9, 1947 in Seldovia, where
 she was a lifelong resident except for a stint from 1974-1979 in
@@ -46,4 +46,4 @@ Section 4-199***
 
 # Kenneth Wilson
 
-# July 10, 1942,Seldovia, Alaska -- August 28, Seldovia, Alaska
+## July 10, 1942,Seldovia, Alaska -- August 28, Seldovia, Alaska

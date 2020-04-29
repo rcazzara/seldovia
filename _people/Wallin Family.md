@@ -12,7 +12,7 @@ title: William Richard Miller
 # Wallin Family
 
 The **Wallin** family in Alaska originates with **[Ivor
-August Wallin]{.smallcaps}** who was born in Stockholm Sweden, September
+August Wallin** who was born in Stockholm Sweden, September
 29, 1874 and died December 3, 1944 Kodiak, Alaska. He came to Alaska and
 married **Clara Belle Anderson**, the daughter of George
 Anderson and Akilina Vozbrukhof. She was born on in Chignik, October 28,
@@ -21,7 +21,7 @@ December 3, 1944 at the age of 70. Ivor and Clara had five sons and four
 daughters between 1914 and 1927, all born in Chignik.
 
 **Edward Albert WALLIN**, son of Ivor and **[Clara
-Anderson]{.smallcaps} WALLIN,** lived his entire life in Chignik,
+Anderson WALLIN,** lived his entire life in Chignik,
 Alaska. He and his wife had five children.
 
 > **Dwain Charles WALLIN** was born July 6, 1945 in

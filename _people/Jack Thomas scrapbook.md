@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # JACK THOMAS
 
-# February 2, 1931, California -- October 12, 2016, Seldovia, Alaska
+## February 2, 1931, California -- October 12, 2016, Seldovia, Alaska
 
 Jack Thomas came to Seldovia in 1968.
 

@@ -6,7 +6,7 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Brun Family
 ---
 
 # Brun Family
@@ -48,11 +48,11 @@ Seldovia and Seward.
 Alaska**
 
 **Stella Alexandria Brun** was the daughter of **[Carl and
-Martha Brun,]{.smallcaps}** born in Chignik April 30, 1923. She married
+Martha Brun,** born in Chignik April 30, 1923. She married
 first **Edward Wallin** and had daughters **[Carol Eve
-Wallin]{.smallcaps}** and **honeybee Wallin.** Then she
-married **[[Floyd Lowell
-Suydam](../Word_Documents/Suydam%20Family.docx)]{.smallcaps}**
+Wallin** and **honeybee Wallin.** Then she
+married **[Floyd Lowell
+Suydam](../Word_Documents/Suydam%20Family.docx)**
 (1928-2002).
 
 # Carol Eve WALLIN Kincaid

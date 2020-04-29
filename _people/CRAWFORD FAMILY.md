@@ -6,7 +6,7 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Crawford Family
 ---
 
 # CRAWFORD FAMILY
@@ -24,7 +24,7 @@ and is buried there near his parents.
 
 # Henrietta "Hettie" HULTBERG Crawford
 
-# 1908, Alaska -- June 16, 1981, Seldovia, Alaska
+## 1908, Alaska -- June 16, 1981, Seldovia, Alaska
 
 **Henrietta Maria "Hettie" HULTBERG Crawford** was one of
 four children born to John Oliver Hultberg and Helen Alarpakorak in the

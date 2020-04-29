@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Peder Pederson
 
-# February 5, 1876, Skudenes, Norway -- September 19, 1940, Seldovia
+## February 5, 1876, Skudenes, Norway -- September 19, 1940, Seldovia
 
 **Peder/Peter Emanual Pederson** was born February 5,
 1876, in Skudenes, Norway to Emmanuel and Bertha Pederson. He immigrated

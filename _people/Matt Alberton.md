@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Matthias "MATT" H. ALBERTSON
 
-# December 25, 1895, Michigan -- January 10, 1954, Seldovia, Alaska
+## December 25, 1895, Michigan -- January 10, 1954, Seldovia, Alaska
 
 **Matthias Herbert Albertson, "Matt"** was born in
 Manistee, Michigan to Norwegian emigrants Matthias and Hannah Olsen

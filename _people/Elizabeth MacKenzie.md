@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Elizabeth MacKenzie
 
-# July 7, 1911, Hong Kong, China -- November 9, 1954, Seldovia, Alaska
+## July 7, 1911, Hong Kong, China -- November 9, 1954, Seldovia, Alaska
 
 **Elizabeth May MACKENZIE MacKenzie** was born in Hong
 Kong, China on July 7, 1911. Her mother is listed as Eileen Law

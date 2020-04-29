@@ -6,12 +6,12 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Andrew Johnson
 ---
 
 # Andrew Johnson
 
-# December 13, 1888, Kodiak, Alaska-- March 3, 1931, Seldovia, Alaska
+## December 13, 1888, Kodiak, Alaska-- March 3, 1931, Seldovia, Alaska
 
 **Andrew Johnson was born in Finland on February 12, 1864,
 the son of John and Maggie Michelson. He immigrated to the US in 1888

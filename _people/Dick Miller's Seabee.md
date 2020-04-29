@@ -438,32 +438,32 @@ be named as the insured. Through oversight or inadvertence, however,
 only one of the partners was named as the insured, although the full
 premium of \$787.25 was paid by the partnership. A mistake of this kind,
 even though it may appear to be unilateral, is, nevertheless, held to be
-mutual. Great American Ins. Co. v. Johnson, 4 Cir., [[25 F.2d 847,
-848-849]{.underline}](https://casetext.com/case/great-american-ins-co-v-johnson#p848);
-Home Life Ins. Co. v. McCarns, [[25 Del. Ch.
-220]{.underline}](https://casetext.com/case/home-life-ins-co-of-america-v-mccarns),
-[[16 A.2d
-587]{.underline}](https://casetext.com/case/home-life-ins-co-of-america-v-mccarns);
-New York Life Ins. Co. v. Gilbert, [[215 Mo. App.
-201]{.underline}](https://casetext.com/case/new-york-life-ins-co-v-gilbert),
-[[256 S.W. 148,
-151]{.underline}](https://casetext.com/case/new-york-life-ins-co-v-gilbert#p151);
+mutual. Great American Ins. Co. v. Johnson, 4 Cir., [25 F.2d 847,
+848-849(https://casetext.com/case/great-american-ins-co-v-johnson#p848);
+Home Life Ins. Co. v. McCarns, [25 Del. Ch.
+220(https://casetext.com/case/home-life-ins-co-of-america-v-mccarns),
+[16 A.2d
+587(https://casetext.com/case/home-life-ins-co-of-america-v-mccarns);
+New York Life Ins. Co. v. Gilbert, [215 Mo. App.
+201(https://casetext.com/case/new-york-life-ins-co-v-gilbert),
+[256 S.W. 148,
+151(https://casetext.com/case/new-york-life-ins-co-v-gilbert#p151);
 Buck v. Equitable Life Assurance Society, 96 Wn. 683, 165 P. 878.
 Accordingly, I find that the omission of plaintiff\'s name from the
 policy was the result of a mutual mistake, which warrants a reformation
 of the policy to conform to the intention of the partners and treatment
-of it as so reformed. Great American Ins. Co. v. Johnson, supra, [[25
+of it as so reformed. Great American Ins. Co. v. Johnson, supra, [25
 F.2d at page
-850]{.underline}](https://casetext.com/case/great-american-ins-co-v-johnson#p850);
-Cf. Royal Ins. Co. v. Smith, [[158 Fla.
-472]{.underline}](https://casetext.com/case/royal-insurance-co-limited-v-smith),
-[[29 So.2d
-244]{.underline}](https://casetext.com/case/royal-insurance-co-limited-v-smith);
-Connecticut Fire Ins. Co. v. McNeil, 6 Cir., [[35 F.2d
-675]{.underline}](https://casetext.com/case/connecticut-fire-ins-co-v-mcneil)
+850(https://casetext.com/case/great-american-ins-co-v-johnson#p850);
+Cf. Royal Ins. Co. v. Smith, [158 Fla.
+472(https://casetext.com/case/royal-insurance-co-limited-v-smith),
+[29 So.2d
+244(https://casetext.com/case/royal-insurance-co-limited-v-smith);
+Connecticut Fire Ins. Co. v. McNeil, 6 Cir., [35 F.2d
+675(https://casetext.com/case/connecticut-fire-ins-co-v-mcneil)
 and cases cited at page 676, even though the action is tried as one at
-law. Great American Ins. Co. v. Johnson, supra, [[25 F.2d at pages
-849-850]{.underline}](https://casetext.com/case/great-american-ins-co-v-johnson#p849).
+law. Great American Ins. Co. v. Johnson, supra, [25 F.2d at pages
+849-850(https://casetext.com/case/great-american-ins-co-v-johnson#p849).
 
 The contention that the contract of sale of the interest of plaintiff in
 the plane to Henington voided the policy is based on paragraph (f) of
@@ -514,10 +514,10 @@ moored and lost in consequence thereof, and, therefore, I find that the
 loss is within the coverage of the policy.
 
 I am of the opinion that the plaintiff is entitled to recover the face
-value of the policy, Dubin Paper Co. v. Insurance Co., [[361 Pa.
-68]{.underline}](https://casetext.com/case/dubin-paper-co-v-ins-co-of-n-america-et-al),
-[[63 A.2d
-85]{.underline}](https://casetext.com/case/dubin-paper-co-v-ins-co-of-n-america-et-al),
+value of the policy, Dubin Paper Co. v. Insurance Co., [361 Pa.
+68(https://casetext.com/case/dubin-paper-co-v-ins-co-of-n-america-et-al),
+[63 A.2d
+85(https://casetext.com/case/dubin-paper-co-v-ins-co-of-n-america-et-al),
 Anno. 8 A.L.R.2d 1408, 1411, less \$983.88, accrued depreciation for 268
 days at the rate of 20% per annum, and \$50 which is deductible under
 specific provision of the policy, together with interest.

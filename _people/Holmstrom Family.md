@@ -13,7 +13,7 @@ title: William Richard Miller
 
 # Gustave Edvard Holmstrom
 
-# 1881, Finland -- November 1934, Seldovia, Alaska
+## 1881, Finland -- November 1934, Seldovia, Alaska
 
 **Gustave Edvard Holmstrom was born in Finland about 1881.
 Gus was known as "Contrary Gus". In 1930 he was married to a 2^nd^ wife

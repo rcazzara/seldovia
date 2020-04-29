@@ -17,7 +17,7 @@ Alaska**
 **Martin PETERSON** was born February 28, 1902 in
 Savannah, Georgia. It is not certain when he arrived in Alaska but he is
 listed in the 1930 US Census in Seldovia as single. He married **[Lottie
-HOWARD Rapin Nyman]{.smallcaps}** in 1935. **Lottie** was born in Alaska
+HOWARD Rapin Nyman** in 1935. **Lottie** was born in Alaska
 in 1892. Legend has it that she was kidnapped and brought to Kodiak as a
 child, where she married 1^st^ **Nicholai Rapin** and had a son
 Frederick Rapin. After Nicholai died Lottie married **Nicholas Nyman**
@@ -28,7 +28,7 @@ known as Fred Nyman.
 > 1907, died December 27, 1943 in Seldovia, as a result of drowning. He
 > is buried in Seldovia City Cemetery, Plot 48, next to his half-
 > brothers, **Martin** and [**Teddy**
-> **Peterson**]{.smallcaps}.
+> **Peterson**.
 >
 > Ellen, Ethel, Nick and Florence Nyman were all children living in the
 > Jessie Lee Home in Seward, Alaska in 1930.
@@ -50,7 +50,7 @@ Lottie moved back to Kodiak after the 1964 earthquake and died there in
 > **Albert Martin "Coogan" PETERSON (1933-1989)**
 >
 > **[Freda PETERSON Robinson (1934, Seldovia -- 2015,
-> Anchorage)]{.smallcaps}**
+> Anchorage)**
 >
 > **Teddy PETERSON** was born in 1938 in Seldovia and died
 > in Seldovia in 1941. He is buried in the Seldovia City Cemetery, Plot

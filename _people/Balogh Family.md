@@ -6,12 +6,12 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Balogh Family
 ---
 
 # FRANK BALOGH
 
-# April 25, 1913, Willoughby, Ohio -- July 22, 1994, Seldovia, Alaska
+## April 25, 1913, Willoughby, Ohio -- July 22, 1994, Seldovia, Alaska
 
 # Eileen Francis ERNST Balogh
 
@@ -30,6 +30,6 @@ was born August 10, 1936. Their son Peter died as an infant in Ohio in
 Frank and Eileen came to Alaska in 1944 and to Seldovia in 1954.
 
 **Michael Balogh** and his wife **[Phyllis TOBY
-Balogh]{.smallcaps}** died in 1999 near Seldovia. Michael and Phyllis
+Balogh** died in 1999 near Seldovia. Michael and Phyllis
 were married January 31, 1961 in Newport News, Virginia. They met at Ft.
 Eustis, Virginia where he was a soldier and she was a member of the WAC.

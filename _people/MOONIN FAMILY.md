@@ -32,7 +32,7 @@ Orthodox priest and the patriarch of Nanwalek until his death in 1972.
 Alaska**
 
 **Jessie Moonin** born married **[James
-Carlough]{.smallcaps}** September 26, 1921. The family was living in
+Carlough** September 26, 1921. The family was living in
 Seldovia in 1930. He died in Washington State in 1935 and Jessie
 subsequently married **Harry David Barnhardt**
 (1882-1953). She died in June of 1979 and is buried in the Seldovia City
@@ -44,4 +44,4 @@ Cemetery, Plot \#53.
 Alaska**
 
 **Marion Moonin** born 1932 in Seldovia married **[Keith
-Edward Seville]{.smallcaps}**.
+Edward Seville**.

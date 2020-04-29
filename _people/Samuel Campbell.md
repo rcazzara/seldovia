@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Samuel Campbell
 
-# March 12, 1878 -- Newfoundland, Canada -- 1946, Seldovia, Alaska
+## March 12, 1878 -- Newfoundland, Canada -- 1946, Seldovia, Alaska
 
 **Samuel Campbell** was born on March 12, 1878, on Little
 Bay Island in Newfoundland Canada, to Alban and Martha Campbell. He had

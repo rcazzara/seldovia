@@ -17,7 +17,7 @@ title: William Richard Miller
 height="4.927083333333333in"}
 
 **Reprinted with permission** from The Free Lance Star Fredericksburg,
-Virginia [[fredericksburg.com]{.underline}](http://fredericksburg.com/)\
+Virginia [fredericksburg.com(http://fredericksburg.com/)\
 \
 **Mad Trapper of Seldovia** By Eileen Mead - The Free-Lance Star -
 August 20, 1988\

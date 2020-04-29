@@ -11,7 +11,7 @@ title: William Richard Miller
 
 # Peter Pemberton
 
-# 1859 in Massachusetts -- Dec. 26, 1940, Seldovia, AK
+## 1859 in Massachusetts -- Dec. 26, 1940, Seldovia, AK
 
 **Peter "Pete" Pemberton** was born in Massachusetts
 sometime between 1859 and 1862. He first shows up in Alaska records in

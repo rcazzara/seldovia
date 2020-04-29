@@ -11,15 +11,15 @@ title: William Richard Miller
 
 **Emma Edelman** **Josefsen Haakonsen**
 
-# June 23, 1902, Kenai, Alaska -- May 11, 1993, Seldovia, Alaska
+## June 23, 1902, Kenai, Alaska -- May 11, 1993, Seldovia, Alaska
 
 # Pauline Juliussen Edelman
 
-# 1919, Kenai, Alaska -- August 27, 1951, Seldovia, Alaska
+## 1919, Kenai, Alaska -- August 27, 1951, Seldovia, Alaska
 
 # Jacqueline Edelman
 
-# 1940, Seldovia, Alaska -- August 27, 1951, Seldovia, Alaska
+## 1940, Seldovia, Alaska -- August 27, 1951, Seldovia, Alaska
 
 # Arthur Kvarness
 

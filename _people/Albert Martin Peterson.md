@@ -6,12 +6,12 @@ death_date: null
 death_place: null
 family_name: null
 given_names: null
-title: William Richard Miller
+title: Albert Martin Peterson
 ---
 
 # Albert Martin \"Nute\" Peterson
 
-# March 25, 1952 -- March 18, 2018
+## March 25, 1952 -- March 18, 2018
 
 **Albert Martin \"Nute\" Peterson** died on March 18,
 2018, in Soldotna, Alaska, and went home to be with the Lord. He was 65.

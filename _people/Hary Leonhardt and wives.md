@@ -20,7 +20,7 @@ AK**
 
 # Lillian "Lillie" Holm Leonhardt
 
-# 1891, California -- 1956, Diller, Nebraska
+## 1891, California -- 1956, Diller, Nebraska
 
 **Harry Alfred Leonhardt** was born in Leipzeig, Germany
 on November 2, 1881. He immigrated to the US in 1905 and became a
@@ -28,7 +28,7 @@ naturalized US citizen in Alaska in 1924. He appears in Seldovia Alaska
 census records for 1920, 1930 and On August 31, 1931 he received a
 patent for 71 acres of land on the east shore of Bear Cove in Kachemak
 Bay. He and two partners, Charles Patterson and **[Jenny
-Romanoff]{.smallcaps}**, started a fox farm there.
+Romanoff**, started a fox farm there.
 
 Elsa Pedersen wrote a book "*Kachemak Bay Years*" a memoir of her life
 with her husband Ted Pedersen on a homestead at Bear Cove where they

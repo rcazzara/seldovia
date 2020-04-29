@@ -11,12 +11,12 @@ title: William Richard Miller
 
 # Carl Harry Nordenson
 
-# October 30, 1905, Mustadfors, Sweden -- January 6, 1968 Seldovia
+## October 30, 1905, Mustadfors, Sweden -- January 6, 1968 Seldovia
 
 **Carl Harry Nordenson** was born October 30, 1905 in
 Mustadfors, Sweden. He was a fisherman living in Seldovia when he met
 [**[Grace LLOYD
-Duffy]{.smallcaps}**](file:///C:\Users\Ginny\Desktop\Seldovia%20Cemetery%20resources%20Oct%20update\Seldovia%20Cemetery%20Scrapbook\Lloyd%20FAMILY.doc),
+Duffy**](file:///C:\Users\Ginny\Desktop\Seldovia%20Cemetery%20resources%20Oct%20update\Seldovia%20Cemetery%20Scrapbook\Lloyd%20FAMILY.doc),
 who had recently lost her first husband. They were married April 16,
 1942 in Seldovia. Their children were **Eric Lloyd
 Nordenson**, born March 23, 1944, died March 30, 2009,
