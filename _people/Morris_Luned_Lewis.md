@@ -5,10 +5,11 @@ given_names: "Luned Lewis"
 source_file: "Richard Ceiriog MORRIS"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Luned LEWIS Morris
 
-**April 13, 1885, Dolgelly, Wales – February 23, 1969, Seldovia,
+**April 13, 1885, Dolgelly, Wales â€“ February 23, 1969, Seldovia,
 Alaska**
 
 **Richard C. Morris** was born in Lancashire, England and came to Alaska

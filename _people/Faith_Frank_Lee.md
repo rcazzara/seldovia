@@ -5,10 +5,11 @@ given_names: "Frank Lee"
 source_file: "Frank Faith"
 born: nil
 died: nil
+cemetry_plot: 163
 ---
 # Frank Lee Faith
 
-**December 3, 1894,Vincennes, Indiana – August 5, 1959, Seldovia,
+**December 3, 1894,Vincennes, Indiana â€“ August 5, 1959, Seldovia,
 Alaska**
 
 **Frank Lee Faith**, was born in Indiana on December 3, 1894 to Charles

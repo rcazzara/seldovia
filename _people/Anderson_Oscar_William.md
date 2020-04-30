@@ -5,10 +5,11 @@ given_names: "Oscar William"
 source_file: "Oscar and Alyce Erickson Anderson"
 born: "April 1866, Sweden "
 died: " 1940, Palmer, Alaska"
+cemetry_plot: 
 ---
 # Oscar William ANDERSON
 
-## April 1866, Sweden – 1940, Palmer, Alaska
+## April 1866, Sweden â€“ 1940, Palmer, Alaska
 
 **Alyce Laura ERICKSON**, the daughter of Lars and Elizabeth Erickson,
 was born August 1868 in Bishop Hill, Illinois. She married **Oscar
@@ -34,20 +35,20 @@ the Westward. She arrived in Seldovia only to learn that it was late in
 the season and there would be no boats going up the Inlet even as far as
 Ninilchik. Several days later the"Alaska" (gas-boat) captained by Bill
 Murphy came down the Inlet to Seldovia for supplies to be taken to
-Kenai, and he agreed to put mother off at Ninilchik.…After being on the
-gas boat almost 24 hours, she was landed at Ninilchik.…Most of the
+Kenai, and he agreed to put mother off at Ninilchik.â€¦After being on the
+gas boat almost 24 hours, she was landed at Ninilchik.â€¦Most of the
 population spoke only Russian...people barely left their own community
 and except for a few Russians from Russia and two or three others, no
 one had been farther away than Kenai, or maybe Seldovia or Port Graham.
 The Russian School was rented for the school, and a two room cabin was
-made available for the teacher to live in.…The only mail to arrive at
+made available for the teacher to live in.â€¦The only mail to arrive at
 Ninilchik during the winter was brought by Mr. Woodwind from Homer once
 a month. During the cold winter months he traveled along the beach most
 of the way with the dog team, later in the spring with a two wheel cart,
 traveling at low tide, and sometimes with a dory and Evinrude (outboard)
-engine.…The need for a school house and teacher was imperative, and.…the
+engine.â€¦The need for a school house and teacher was imperative, and.â€¦the
 windowless school house on the bluff above Ninilchik was built. It
-consisted of a wing for a teacher’s residence, a very small bed-room,
+consisted of a wing for a teacherâ€™s residence, a very small bed-room,
 and small kitchen but with a nice long living room (somewhat narrow)
 with a wonderful view out over the Inlet. The kitchen opened into the
 school room proper, and behind the class room was a long narrow room
@@ -59,10 +60,10 @@ Superintendent of what was then the Northwest Fisheries, and who was a
 brother of August and Eigel Buschmann, well-known in the salmon industry
 of Alaska and whose father, Peter Buschmann, for whom Petersburg is
 named, was approached about taking the entire supplies for the new
-school north. The sailing vessel "St. Paul" was used.…\[He\] agreed to
+school north. The sailing vessel "St.Â Paul" was used.â€¦\[He\] agreed to
 take the supplies north to Kenai free of charge, and ...discharged it to
-scows which were then towed to Ninilchik and unloaded on the beach.…The
-lumber was taken up the hill as was coal in later years by windlass.…The
+scows which were then towed to Ninilchik and unloaded on the beach.â€¦The
+lumber was taken up the hill as was coal in later years by windlass.â€¦The
 building was occupied...the Spring or Fall of 1913 or maybe the Spring
 of 1914. Mother taught at Ninilchik 8 years, I think. 1911-1919."
 

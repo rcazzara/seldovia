@@ -5,10 +5,11 @@ given_names: "Harriet J. Southerland"
 source_file: "William and Harriet Vinal"
 born: "October 20, 1867, Maine "
 died: " died October 10, 1937, Seldovia, AK"
+cemetry_plot: 
 ---
 # Harriet J. SOUTHERLAND Vinal
 
-## October 20, 1867, Maine – died October 10, 1937, Seldovia, AK
+## October 20, 1867, Maine â€“ died October 10, 1937, Seldovia, AK
 
 **Harriet J. SOUTHERLAND Vinal** was born October 20, 1867 in Portage,
 Maine to Charles and Caroline Sutherland.
@@ -21,8 +22,8 @@ business in his native state. He came to Nome in 1900 and engaged in
 mining on Hungry Creek. He was successful in this venture, and
 subsequently mined on Kasson Creek in the Solomon country. He has also
 operated on Anvil Creek. During the season of 1904 he co-operated with
-Mr. Olebaum in opening land developing No. 9 Solomon, which proved to be
-a very valuable property. Mr. Vinal has spent two winters in Nome and
+Mr.Â Olebaum in opening land developing No.Â 9 Solomon, which proved to be
+a very valuable property. Mr.Â Vinal has spent two winters in Nome and
 all the summers since 1900. He became the Nome representative of the
 Alaska-Boston Construction and Mining Company, a Massachusetts
 corporation operating in Seward Peninsula. In 1904, Mr. Vinal acquired
@@ -35,21 +36,21 @@ The property acquired for his company comprises thirty-four claims
 situated south of the mouth of Penny River and extending a distance up
 Shovel Creek. This property includes the Halla Bar.
 
-Mr. Vinal was a member of an old and prominent family of Massachusetts
+Mr.Â Vinal was a member of an old and prominent family of Massachusetts
 who trace their lineage back to English and Scotch ancestors. He is
-married. Mrs. Vinal was formerly Miss Hattie Sutherland, a relative of
+married. Mrs.Â Vinal was formerly Miss Hattie Sutherland, a relative of
 Miss Sutherland, one of the efficient teachers in the Nome public
-school. Mr. Vinal is an enterprising and industrious man. Without any
+school. Mr.Â Vinal is an enterprising and industrious man. Without any
 blare of trumpets he has made money out of the mines of the Nome country
 ever since his first season's operations and the property which he has
 recently acquired for his company is unquestionably valuable, and under
 hydraulic operation will undoubtedly yield a large quantity of gold.
- *Source: Nome and Seward Peninsula by R. S. Harrison. Seattle: The
+Â *Source: Nome and Seward Peninsula by R. S. Harrison. Seattle: The
 Metropolitan Press, 1905.*
 
 1929: William A. Vinal is a United States Commissioner at Seldovia,
-Alaska. Mr. Vinal writes—"Do not picture all of Alaska as a land of snow
-and ice— mighty glaciers and bitter cold. No— Think that here in an open
+Alaska. Mr.Â Vinal writesâ€”"Do not picture all of Alaska as a land of snow
+and iceâ€” mighty glaciers and bitter cold. Noâ€” Think that here in an open
 garden. I picked the most beautiful pansies on the 18th day of February
 last and that the grass on the lawn was green until the fifth of March."
 Source University of Maine Alumni Magazine 1929
@@ -63,7 +64,7 @@ graduated from the state university. He took pride in his adherence to
 New England traditions, was a staunch Republican in his politics and
 always said that his party would come back into power and be stronger
 than ever in the administration of national affairs. In his early life
-he was a school teacher, later he and Mrs. Vinal came west and finally
+he was a school teacher, later he and Mrs.Â Vinal came west and finally
 to Alaska. They lived at Nome and also on the Kuskokwim, where their
 mines, operated on royalty basis, are still profitably producing. He
 went to Seldovia as commissioner, later investing in the Alaska Year
@@ -71,4 +72,4 @@ Round cannery, an interest that he disposed of a year or two ago. The
 past few years Judge Vinal spent his winters at a home he purchased on
 the shores of Lake Washington. Perhaps it was a year ago that he was
 married the second time to a neighbor of the Lake Washington home-place.
-Mrs. Vinal was present at the last sad leave taking.
+Mrs.Â Vinal was present at the last sad leave taking.

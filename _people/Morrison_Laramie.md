@@ -5,10 +5,11 @@ given_names: "Laramie"
 source_file: "Deborah GRINDLE Morrison"
 born: "July 16, 1979 "
 died: " April 24, 2008"
+cemetry_plot: 
 ---
 # Laramie MORRISON
 
-## July 16, 1979 – April 24, 2008
+## July 16, 1979 â€“ April 24, 2008
 
 **Laramie Morrison** and Clara Seville, daughter of George Seville, had
 a daughter Nevaeh. In April 2008 Laramie was killed in Seldovia when his

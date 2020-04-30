@@ -5,5 +5,6 @@ given_names: "Terry"
 source_file: "Terrance Meehan"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Terry Meehan

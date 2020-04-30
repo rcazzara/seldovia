@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "Kanaback Family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # KANABACK Family
 
@@ -15,6 +16,6 @@ Russia and was part of the Russian fort established in Kodiak in the
 early 1800s, but no documentation has been found to support this. John
 was born in Kodiak, but Eugenia (who may have been his second wife) was
 born in Seldovia. John had at least three sons, Gabriel, John, and
-Walter. Gabriel’s family is in English Bay/Nanwalek but Walter and his
+Walter. Gabrielâ€™s family is in English Bay/Nanwalek but Walter and his
 family settled in Seldovia.
 

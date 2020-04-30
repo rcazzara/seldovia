@@ -5,15 +5,16 @@ given_names: "Roy Lewis"
 source_file: "Roy Hansen"
 born: "August 25, 1926, Katalla, AK "
 died: " June 6, 1989, Seldovia, AK"
+cemetry_plot: 
 ---
 # Roy Lewis Hansen
 
-## August 25, 1926, Katalla, AK – June 6, 1989, Seldovia, AK
+## August 25, 1926, Katalla, AK â€“ June 6, 1989, Seldovia, AK
 
 **Roy Lewis Hansen** was born August 25, 1926 to William C. and Grace
 Dahlgren Hansen. His father was from Denmark.
 
-At the time of Roy’s birth, the Hansen family lived in what is now the
+At the time of Royâ€™s birth, the Hansen family lived in what is now the
 ghost town of Katalla, Alaska, in the Valdez-Cordova area. Katalla was
 at the center of the now-abandoned Katalla oil field. This was the first
 discovery of commercial quantities of oil in Alaska (1902). The town

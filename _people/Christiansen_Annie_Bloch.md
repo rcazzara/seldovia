@@ -5,10 +5,11 @@ given_names: "Annie Bloch"
 source_file: "Adam Bloch and English"
 born: "October 11, 1871, California "
 died: " January 11, 1921, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Annie BLOCH Christiansen
 
-## October 11, 1871, California – January 11, 1921, Seldovia, Alaska
+## October 11, 1871, California â€“ January 11, 1921, Seldovia, Alaska
 
 Annie BLOCH was the daughter of Adam Bloch and his first wife, Anny-Anna
 (Malakoff) Bloch, and was born at the Presidio of San Francisco. She

@@ -5,10 +5,11 @@ given_names: "Marion Moonin"
 source_file: "MOONIN FAMILY"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Marion MOONIN Seville
 
-**October 29, 1932, Seldovia, Alaska – December 18, 1978, Seldovia,
+**October 29, 1932, Seldovia, Alaska â€“ December 18, 1978, Seldovia,
 Alaska**
 
 **Marion Moonin** born 1932 in Seldovia married **\[Keith Edward

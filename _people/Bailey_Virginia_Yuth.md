@@ -5,10 +5,11 @@ given_names: "Virginia Yuth"
 source_file: "Yuth Family"
 born: "August 16, 1924, Seldovia, Alaska "
 died: " April 4, 1973, Washington"
+cemetry_plot: 240
 ---
 # Virginia YUTH Bailey
 
-## August 16, 1924, Seldovia, Alaska – April 4, 1973, Washington
+## August 16, 1924, Seldovia, Alaska â€“ April 4, 1973, Washington
 
 When **Virginia YUTH (Cochrane) (Bailey)** was born on August 16, 1924,
 in Seldovia, Alaska, her father, Matt, was 54, and her mother, Eugenia,

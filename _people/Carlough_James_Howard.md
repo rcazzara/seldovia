@@ -5,10 +5,11 @@ given_names: "James Howard"
 source_file: "James Howard Carlough"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # James Howard Carlough
 
-**May 23, 1893, Patterson, New Jersey – February 11, 1935, Seldovia,
+**May 23, 1893, Patterson, New Jersey â€“ February 11, 1935, Seldovia,
 Alaska**
 
 **James Howard (Jose) Carlough** was born on May 23, 1893, in Paterson,

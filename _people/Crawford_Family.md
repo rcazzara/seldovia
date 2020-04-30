@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "CRAWFORD FAMILY"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # CRAWFORD FAMILY
 

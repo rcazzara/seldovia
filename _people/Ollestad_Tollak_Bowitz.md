@@ -5,10 +5,11 @@ given_names: "Tollak Bowitz"
 source_file: "OLLESTAD FAMILY"
 born: "1881, Norway "
 died: " 1967 Seldovia, Alaska"
+cemetry_plot: 195
 ---
 # Tollak Bowitz Ollestad
 
-## 1881, Norway – 1967 Seldovia, Alaska
+## 1881, Norway â€“ 1967 Seldovia, Alaska
 
 **Tollak Bowitz Ollestad** was born on 1881 in Norway. He died on 1967.
 He married **Lucille Cleghorn** (1896-1969). He is buried in the
@@ -20,7 +21,7 @@ Children of Tollak Bowitz Ollestad and Lucille Cleghorn are:
     Seldovia City Cemetery Plot \#195
 
 > Marie Harpham, 85, died July 14, 2002, at Porthaven Care Center in
-> Portland, Ore. Ms. Harpham was born April 1, 1917, in Seldovia,
+> Portland, Ore. Ms.Â Harpham was born April 1, 1917, in Seldovia,
 > Alaska. She is survived by her sisters, Alyce Carlough and Thelma
 > Patton; and brother, Gilbert Ollestad.
 
@@ -28,7 +29,7 @@ Children of Tollak Bowitz Ollestad and Lucille Cleghorn are:
     in Tumwater, WA.
 
 > Former Alaska resident, Alyce Carlough, died at home on October 21,
-> 2004 from complications related to Parkinson’s disease. She was well
+> 2004 from complications related to Parkinsonâ€™s disease. She was well
 > cared for during her illness by her devoted husband, Howard. Mrs.
 > Carlough was born on May 16, 1920, in Seldovia, Alaska to Tollak and
 > Lucille Ollestad. She graduated from Seldovia High School in 1938. She
@@ -68,7 +69,7 @@ Children of Tollak Bowitz Ollestad and Lucille Cleghorn are:
 > She loved and lived life to the fullest.
 
 3.  **Gilbert Ollestad**, b. December 27, 1923, Yukon Island, Alaska;
-    d. August 10, 2013, Seward, Alaska. He was born on Yukon Island
+    d.Â August 10, 2013, Seward, Alaska. He was born on Yukon Island
     outside of Seldovia, Alaska to Tollak and Lucille Ollestad where his
     family worked a fox farmHe grew up in Seldovia, one of ten children
     and in his youth he worked fish traps, hunted and gathered berries

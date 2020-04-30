@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "SOROKOVIKOV"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # SOROKOVIKOV/SOROKOVIKOFF FAMILY
 
@@ -12,13 +13,13 @@ The **Sorokovikov** family name came to Alaska from Irkutsk Russia. Ivan
 (John) Sorokovikov, born in Irkutsk about 1766 was sent to the mouth of
 the Nushagak River to establish and manage the Novo Aleksandrovski Post
 of the Russian American Company. Colonial Chief Manager Hagemeister
-mentioned Ivan’s many years of devoted service to the Company. After
+mentioned Ivanâ€™s many years of devoted service to the Company. After
 establishing the post he was ordered to leave for Kodiak and work there
 for the summer. He later returned to Sitka aboard the ship Autumn
 Vessel. By the summer of 1823 he was back in Kodiak. Ivan and his wife,
 Maria Antropovna, a Creole, had 8 children. In March 1828 he was the
 commander of the Karluk, which transported furs, goods and supplies
-between the Company’s Kodiak District posts. The Karluk was wrecked
+between the Companyâ€™s Kodiak District posts. The Karluk was wrecked
 during a storm late in 1829. In May 1830 Ivan was reassigned as a pilot
 aboard the boat Bobr. At the end of January 1831 he dispatched a baidara
 from Kodiak to the Alaska Peninsula with people bound for the
@@ -35,15 +36,15 @@ into the decline in Aleut population when he visits Kadiak this
 summer."* Russian American Company, 30 April 1831
 
 Relief measures to be taken for the families left by the company
-employees who perished in the \[lost\] baidarka:  (1) the debts of the
+employees who perished in the \[lost\] baidarka:Â  (1) the debts of the
 deceased are not to be charged to their relatives, but erased from their
 accounts; (2) their credit balances are to be used to benefit their
 wives; (3) bonuses are to be paid out according to the appended list,
 and Sorokovikov's wife, out of respect for her husband's useful service
 and large family, is to receive 1 pound of flour per month for free and
-is authorized to purchase 20 funts more. 
+is authorized to purchase 20 funts more.Â 
 
-Stepan Ivanov Sorokov, son of Ivan and Mariia, b. 1824, d. 1865, married
+Stepan Ivanov Sorokov, son of Ivan and Mariia, b. 1824, d.Â 1865, married
 Tatiana Kompkov. They lived on Kodiak Island and had at least 7 children
 including Nikolai 1847. Reader Nikolai Stefanov was the Kenai-born son
 of Deacon Stefan Ivanov Sorokovikov and Tatiana Ivanova Kompkova;
@@ -69,12 +70,12 @@ Anna Berestoff Sorokovikoff had 8 children:
 **Nick Sorokovikoff**: Aug.12,1905- Feb.1968, buried in Seldovia City
 Cemetery
 
-**Anna Sorokovikoff Waterberry**: Feb 24, 1910 in Ninilchik, d. Nov. 19,
+**Anna Sorokovikoff Waterberry**: Feb 24, 1910 in Ninilchik, d.Â Nov.Â 19,
 2004 in Seldovia, buried in Seldovia City Cemetery
 
-**Jim Sorokovikoff**: Aug. 14, 1913 in Kenai, 1966 in Seldovia
+**Jim Sorokovikoff**: Aug.Â 14, 1913 in Kenai, 1966 in Seldovia
 
-**Peter Sorokovikoff**: July 15, 1915 in Kenai, d. 1966 in Seldovia
+**Peter Sorokovikoff**: July 15, 1915 in Kenai, d.Â 1966 in Seldovia
 
 > Three die in Seldovia home fire SELDOVIA AP) - State Police said today
 > three men died in a fire which destroyed a twa-story house here Monday
@@ -87,15 +88,15 @@ Cemetery
 > which fell on a mattress. The flames apparently spread rapidly
 > throughout the frame building.
 
-**Steve K. Sorokovikoff**: b. Dec. 12, 1920, died June 30, 1995
+**Steve K. Sorokovikoff**: b. Dec.Â 12, 1920, died June 30, 1995
 
 **Tania Sorokovikoff Wilson**, married Abraham Wilson, d. September 24,
 1987, buried in Seldovia City Cemetery
 
 Children:
 
-> **Ann Marie Wilson Anderson**: b. Jan. 9, 1947 in Seldovia, married
-> Andy Anderson Feb. 11, 1967; d. Jan. 19, 2014 in Anchorage; buried in
+> **Ann Marie Wilson Anderson**: b. Jan.Â 9, 1947 in Seldovia, married
+> Andy Anderson Feb.Â 11, 1967; d.Â Jan.Â 19, 2014 in Anchorage; buried in
 > Seldovia City Cemetery
 > 
 > Gladys **Wilson** Yuth, married Harold Yuth

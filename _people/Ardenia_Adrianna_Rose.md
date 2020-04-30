@@ -5,7 +5,8 @@ given_names: "Adrianna Rose"
 source_file: "JOHN ABELARD ARDENIA"
 born: "October 8, 1996, Seldovia, Alaska "
 died: " 1996, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Adrianna Rose Ardenia
 
-## October 8, 1996, Seldovia, Alaska – 1996, Seldovia, Alaska
+## October 8, 1996, Seldovia, Alaska â€“ 1996, Seldovia, Alaska

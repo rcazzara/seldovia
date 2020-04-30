@@ -1,17 +1,18 @@
 ---
-full_name: "James Henry Francis "Frank" Burgin"
+full_name: "James Henry Francis \"Frank\" Burgin"
 family_name: "Burgin"
-given_names: "James Henry Francis "Frank""
+given_names: "James Henry Francis \"Frank\""
 source_file: "Frank Burgin"
 born: nil
 died: nil
+cemetry_plot: 97
 ---
 # James Henry Francis "Frank" Burgin
 
-**February 7, 1879, Harrison, Missouri – June 11, 1938, Seldovia,
+**February 7, 1879, Harrison, Missouri â€“ June 11, 1938, Seldovia,
 Alaska**
 
-**James Henry Francis "FRANK" Burgin** was the first of Seldovia’s many
+**James Henry Francis "FRANK" Burgin** was the first of Seldoviaâ€™s many
 celebrated dentists\! He was born in Harrison, Missouri on February 7,
 1879 to Fleming and Mary Burgin. His father was a physician and Frank as
 well as two of his brothers entered the field of medicine. Frank
@@ -28,15 +29,15 @@ that they moved to Grand Junction, Colorado and their second daughter
 Leona was born there in 1920. Sons Herschel (1922) and George (1925)
 were born in Seldovia.
 
-There was a burgeoning Burgin enclave in Delta. Frank’s brother, Charles
+There was a burgeoning Burgin enclave in Delta. Frankâ€™s brother, Charles
 H. Burgin was a physician practicing in Delta and both Frank and Isam
 often returned to Delta to spend time and practice their trades. Their
 mother Mary also lived there with her daughter Margaret Coutts (a
 nurse). She died there in 1925.
 
-Frank’s brother, **Isam Burgin**, was also a physician living in
+Frankâ€™s brother, **Isam Burgin**, was also a physician living in
 Seldovia, and in 1934 the Ninilchik schools raised enough money to hire
-"Seldovia Doctor Isam Burgin to provide dental checkups for the town’s
+"Seldovia Doctor Isam Burgin to provide dental checkups for the townâ€™s
 children. Doctor Burgin and his equipment came in by dogsled from Homer
 in late January."
 

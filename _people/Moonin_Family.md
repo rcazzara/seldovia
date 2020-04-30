@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "MOONIN FAMILY"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # MOONIN FAMILY
 

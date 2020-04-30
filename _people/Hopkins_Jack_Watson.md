@@ -5,9 +5,10 @@ given_names: "Jack Watson"
 source_file: "Jack Hopkins story by his son Bill"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Jack Watson HOPKINS
 
-**January 1, 1929, Sonoma, California – December 1977, Seldovia,
+**January 1, 1929, Sonoma, California â€“ December 1977, Seldovia,
 Alaska**
 

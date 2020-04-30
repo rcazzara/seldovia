@@ -5,6 +5,7 @@ given_names: "Crickett"
 source_file: "Remembering Our Children"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Crickett Forrest
 

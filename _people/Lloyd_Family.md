@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "Lloyd FAMILY"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # LLOYD Family
 

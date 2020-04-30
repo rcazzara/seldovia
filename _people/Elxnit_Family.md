@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "Elxnit Family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Elxnit Family
 

@@ -5,12 +5,13 @@ given_names: "Captain Henry Richard"
 source_file: "Bowen Family"
 born: "1853, Gloucester, Massachusetts "
 died: "(At Sea) Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Captain Henry Richard Bowen
 
-## 1853, Gloucester, Massachusetts –(At Sea) Seldovia, Alaska
+## 1853, Gloucester, Massachusetts â€“(At Sea) Seldovia, Alaska
 
-**David Bowen’s son, Henry Richard BOWEN was born in Massachusetts in
+**David Bowenâ€™s son, Henry Richard BOWEN was born in Massachusetts in
 1853. In 1880 a salting station of the Western Fur and Trading Company
 of San Francisco, operated at Karluk with Captain Bowen of Saint Paul
 (Kodiak) as the local superintendent. They also maintained a saltery at
@@ -19,14 +20,14 @@ Company stores from Yakatat to Dutch Harbor. **Bowen believed that the
 opportunities for fishing on Kodiak Island were exceptional. He told a
 government official that "fishermen with a limited amount of capital can
 establish themselves most readily in a lucrative business on Kodiak
-Island…". Bowen returned to Gloucester several times after moving to
+Islandâ€¦". Bowen returned to Gloucester several times after moving to
 Alaska, but no amount of persuasion on his part could induce any of the
 New England fishermen to move to Alaska. He married Vavara (Barbara)
 Annie NAUMOFF in Kodiak and had 9 children: Rufus, Florence, Lydia,
-Elizabeth, Harriet, Fred, Barbara, Ollie and David. Mrs. Bowen was "the
+Elizabeth, Harriet, Fred, Barbara, Ollie and David. Mrs.Â Bowen was "the
 Russian woman who showed Mother how to make those wonderful fish pies
 the Russians called"perog", and the Bowens were anxious for the
-schoolroom in St. Paul to be finished so they too could send their
+schoolroom in St.Â Paul to be finished so they too could send their
 children to school, Rufus, Ollie and David had gone to school in
 Kodiak." *From Humboldt to Kodiak* by Fred Roscoe, 1992**
 
@@ -41,7 +42,7 @@ gale soon after. Friends of the ***Seventy-Six*** crew reported their
 concern that the vessel had no extra sails and that those they were
 using were not in good condition and may not be able to withstand a
 storm. Lost with the ***Seventy-Six*** were Captain Henry R. Bowen (45)
-of Massachusetts and North American Commercial Company’s foreman who was
+of Massachusetts and North American Commercial Companyâ€™s foreman who was
 in charge of the expedition, and six others. Captain Bowen left behind a
 wife and 9 children. The steamer Dora reported that wreckage from the
 schooner drifted ashore near Kodiak Island. **The rest of the Bowen

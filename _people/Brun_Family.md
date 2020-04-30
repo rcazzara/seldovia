@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "BRUN FAMILY"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Brun Family
 

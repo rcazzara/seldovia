@@ -5,10 +5,11 @@ given_names: "Elizabeth"
 source_file: "Elizabeth MacKenzie"
 born: "July 7, 1911, Hong Kong, China "
 died: " November 9, 1954, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Elizabeth MacKenzie
 
-## July 7, 1911, Hong Kong, China – November 9, 1954, Seldovia, Alaska
+## July 7, 1911, Hong Kong, China â€“ November 9, 1954, Seldovia, Alaska
 
 **Elizabeth May MACKENZIE MacKenzie** was born in Hong Kong, China on
 July 7, 1911. Her mother is listed as Eileen Law Mackenzie and she was a
@@ -27,7 +28,7 @@ Army during WWII and fought in the Philippines Division. At some point
 he changed his name back to Edward Josiah He met Elizabeth at some time
 during his time in Asia and they were married. They lived in Seldovia
 after their son Brian was born and Brian believes that his father was
-working in the office of a local mine. After Elizabeth’s death, father
+working in the office of a local mine. After Elizabethâ€™s death, father
 and son moved to other locations around the world where Edward had
 contract work for the US Government. They lived in Nicaragua and
 Newfoundland and Edward also worked at Ascension Island. He eventually

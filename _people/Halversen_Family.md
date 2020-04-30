@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "Sigurd Halversen family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Halversen Family
 

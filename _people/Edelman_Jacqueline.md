@@ -5,8 +5,9 @@ given_names: "Jacqueline"
 source_file: "Edelman"
 born: "1940, Seldovia, Alaska "
 died: " August 27, 1951, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Jacqueline Edelman
 
-## 1940, Seldovia, Alaska – August 27, 1951, Seldovia, Alaska
+## 1940, Seldovia, Alaska â€“ August 27, 1951, Seldovia, Alaska
 

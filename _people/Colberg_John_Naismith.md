@@ -5,10 +5,11 @@ given_names: "John Naismith"
 source_file: "COLBERG Family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # John Naismith Colberg
 
-**April 30, 1931, Seldovia, Alaska – December 23, 2002, Anchorage,
+**April 30, 1931, Seldovia, Alaska â€“ December 23, 2002, Anchorage,
 Alaska**
 
 When John Naismith Colberg was born on April 30, 1931, in Seldovia,

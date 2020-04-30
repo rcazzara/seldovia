@@ -5,10 +5,11 @@ given_names: "Frederick Walter (Freddy)"
 source_file: "Frederick Walter Newmeyer not in cemetery"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Frederick Walter (Freddy) Newmeyer
 
-**February 29, 1928, San Francisco, California – September 18, 2012,
+**February 29, 1928, San Francisco, California â€“ September 18, 2012,
 Seldovia, Alaska**
 
 ![](../assets/images/Frederick%20Walter%20Newmeyer%20not%20in%20cemetery/media/image1.jpeg)
@@ -40,5 +41,5 @@ was always jolly and always happy\! His family wrote "Freddy's love of
 cooking and travel will be an inspiration to others to live life to the
 fullest wherever that will take you\! He leaves numerous family member
 and friends. Graveside services with military honors were held on Friday
-morning, Sept. 28, 2012, at Fort Richardson National Cemetery,
+morning, Sept.Â 28, 2012, at Fort Richardson National Cemetery,
 Anchorage.

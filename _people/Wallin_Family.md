@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "Wallin Family"
 born: nil
 died: nil
+cemetry_plot: 553
 ---
 # Wallin Family
 

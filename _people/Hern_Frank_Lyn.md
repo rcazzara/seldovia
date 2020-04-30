@@ -5,6 +5,7 @@ given_names: "Frank Lyn"
 source_file: "FRANK LYN HERN"
 born: "Alaskan Bush Pilot Plans Non"
 died: "stop Distance Record in a Cessna 150"
+cemetry_plot: 
 ---
 # FRANK LYN HERN
 
@@ -127,7 +128,7 @@ drink, water, and malted milk tablets.
 **\[Winnipeg Free Press Newspaper Archives, May 2, 1966, p.
 3\]**![](../assets/images/FRANK%20LYN%20HERN/media/image2.jpeg)
 
-**Fairbanks News Miner**: Sept. 26, 1966 - Wreckage believed to be that
+**Fairbanks News Miner**: Sept.Â 26, 1966 - Wreckage believed to be that
 of a plane piloted by long-distance flier Frank Hern, of Seldovia,
 missing since April 28 on a flight from Fairbanks, has been spotted near
 Aishihik, Y.T. Hawley W. Evans, owners of Fairbanks Air Service, and
@@ -137,7 +138,7 @@ Burwash and Aishihik, at about 10,000 feet, above the clouds. My
 co-pilot had a hole on his side, and looked down and saw the plane"
 Evans said. "It was in a blind canyon along one of the creeeks going
 into Talbot Creek, east of BUrwash Landing" he said. Evans said he and
-Jensen didn’t realize the wreckage might be the missiong Hern plane, but
+Jensen didnâ€™t realize the wreckage might be the missiong Hern plane, but
 when he radioed to Floyd Miller, Northway customs officer who has been
 independently searching for Hern all summer, Miller alerted the Royal
 Canadian Mounted Police. An RCMP spokesman haid a chartered helicopter
@@ -210,14 +211,14 @@ overconfidence.
 author was Bill Brant and the feature race noted was the Seafair Trophy
 at the inaugural Seafair Sports Car Races held on Saturday August 8,
 1953 at Paine Air Force Base in Everett, Washington. Not only was the
-assortment of cars "strange," this was a race weekend that almost didn’t
+assortment of cars "strange," this was a race weekend that almost didnâ€™t
 happen. Apparently the
 
 Seafair Committee did not initially understand the level of interest in
 sports car racing at this time. However, with considerable prodding from
 the Northwestern Region of the SCCA, the Puget Sound Sports Car Club,
 the Air Force and the Seafair Celebration, the race was not only
-approved, but was scheduled in conjunction with the following day’s
+approved, but was scheduled in conjunction with the following dayâ€™s
 unlimited hydroplane "Gold Cup" race on Lake Washington. It turned out
 that the sports car guys were right as spectators arrived in
 droves...25,000 of them\!

@@ -4,11 +4,12 @@ family_name: "Morgan"
 given_names: "Llewellyn James"
 source_file: "Llewellyn James Morgan"
 born: "February 1895, Michigan "
-died: " died March 21, 1940’ Seldovia, AK"
+died: " died March 21, 1940â€™ Seldovia, AK"
+cemetry_plot: 
 ---
 # Llewellyn James Morgan
 
-## February 1895, Michigan – died March 21, 1940’ Seldovia, AK
+## February 1895, Michigan â€“ died March 21, 1940â€™ Seldovia, AK
 
 **Llewellyn "Lew" Morgan** was born in Michigan to Clarence and Jennie
 Morgan. He married Lucille Sisson in May 1926 and had 3 children, Valdy

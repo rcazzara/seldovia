@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "Int Hout"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Int-Hout FAMILY
 

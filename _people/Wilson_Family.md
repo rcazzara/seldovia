@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "Wilson Family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Wilson Family
 

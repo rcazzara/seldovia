@@ -5,10 +5,11 @@ given_names: "Us"
 source_file: "US Osprey"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # US Osprey
 
-**AFSC Historical Corner:  *Osprey*,  BOF's first Alaska patrol boat**
+**AFSC Historical Corner:Â  *Osprey*,Â  BOF's first Alaska patrol boat**
 
 <table style="width:98%;">
 <colgroup>
@@ -17,7 +18,7 @@ died: nil
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><img src="../assets/images/US%20Osprey/media/image1.jpeg" /><br />
-<strong>The steamer <em>Osprey</em></strong>.  Bureau of Fisheries photo, 1914.</td>
+<strong>The steamer <em>Osprey</em></strong>.Â  Bureau of Fisheries photo, 1914.</td>
 </tr>
 </tbody>
 </table>
@@ -30,7 +31,7 @@ who had previously rebuilt the ship to top condition in compliance with
 the Steamboat-Inspection Service's recommendations. Prior to her BOF
 service, the "little old steamer" was "one of the first cannery tenders
 to operate in the Alaskan salmon packing business."  
-(Petersburg Weekly Report, Alaska, VII:17, 4-8-21, p. 1.).  
+(Petersburg Weekly Report, Alaska, VII:17, 4-8-21, p.Â 1.).  
   
 The vessel was renamed the *Osprey* by the Bureau and kept upon the ways
 at Semiahmoo, Washington, where it awaited Congressional appropriation
@@ -91,8 +92,8 @@ remained in Seattle for over a year until January of 1918 when she
 returned to Alaska.  
   
 In 1918 the *Osprey* participated in two notable rescues in Alaska. Late
-in the spring, she towed the boat *Good Tidings* – in danger after
-breaking down during a storm – 10 miles to Ketchikan. Then in late
+in the spring, she towed the boat *Good Tidings* â€“ in danger after
+breaking down during a storm â€“ 10 miles to Ketchikan. Then in late
 October and most of November, the *Osprey* joined the BOF vessels
 [*Auklet* and
 *Murre*](https://www.afsc.noaa.gov/history/vessels/boats/auklet-murre.htm)
@@ -122,15 +123,15 @@ for disposition.
   
 The newspapers in Seattle and throughout Southeast Alaska advertised the
 14 April 1921 public auctioning of the *Osprey*. Two credible sources
-give conflicting details of the sale: 
+give conflicting details of the sale:Â 
 
 1.  Poor attendance for the sale produced a high bid of only $515, which
     was rejected as being too low. On 29 June, the vessel was again
-    auctioned and sold for $700 – buyer unknown. (BOF Fisheries Service
+    auctioned and sold for $700 â€“ buyer unknown. (BOF Fisheries Service
     Bulletin, May 1921);  
-     
+    Â 
 
-2.  "Wrangell, April 14 – The United States Fisheries boat *Osprey* was
+2.  "Wrangell, April 14 â€“ The United States Fisheries boat *Osprey* was
     sold at public auction here today to Mayor J.G. Grant for $550."
     (The Alaska Daily Empire, Juneau, 4-14-21)
 
@@ -153,9 +154,9 @@ Foss tug to work in Alaska (Skalley).
 <img src="../assets/images/US%20Osprey/media/image3.jpeg" /></td>
 </tr>
 <tr class="even">
-<td style="text-align: left;"><strong>Two views of the diesel tug <em>Foss 19</em> before and after her 1940 deckhouse remodel – significantly changed since her <em>Osprey</em> days with the BOF.</strong><br />
-Top: Foss Maritime Co. photo.  Bottom: from Pacific Motor Boat, Dec. 1947.<br />
- </td>
+<td style="text-align: left;"><strong>Two views of the diesel tug <em>Foss 19</em> before and after her 1940 deckhouse remodel â€“ significantly changed since her <em>Osprey</em> days with the BOF.</strong><br />
+Top: Foss Maritime Co.Â photo.Â  Bottom: from Pacific Motor Boat, Dec.Â 1947.<br />
+Â </td>
 </tr>
 </tbody>
 </table>
@@ -178,12 +179,12 @@ floundered and sank after logs, which had broken loose from the load,
 tore open her stern in the rough sea. Fortunately, the crew was rescued
 by another Samson tug before the *Kiowa* was lost (Skalley).
 
-\-  Newell, G. 1957. Pacific Tugboats, p.140. (Photographs from the Joe
+\-Â  Newell, G. 1957. Pacific Tugboats, p.140. (Photographs from the Joe
 Williamson marine collection). Bonanza Books, New York, NY.  
-\-  M. R. Skalley, M. R., 1981. Foss 90 Years of Towboating. Superior
+\-Â  M. R. Skalley, M. R., 1981. Foss 90 Years of Towboating. Superior
 Publishing, Seattle.
 
- 
+Â 
 
 <table style="width:99%;">
 <colgroup>
@@ -192,7 +193,7 @@ Publishing, Seattle.
 <tbody>
 <tr class="odd">
 <td style="text-align: left;"><img src="../assets/images/US%20Osprey/media/image4.jpeg" /><br />
-<strong>The <em>Foss 19</em> seen listing ashore near logs.</strong>  Photo from the Captain Lloyd H. "Kinky" Bayers collection, 1898-1967: book 32, album 16, photo 2.  Alaska State Library Historical Collections.</td>
+<strong>The <em>Foss 19</em> seen listing ashore near logs.</strong>Â  Photo from the Captain Lloyd H. "Kinky" Bayers collection, 1898-1967: book 32, album 16, photo 2.Â  Alaska State Library Historical Collections.</td>
 </tr>
 </tbody>
 </table>
@@ -201,9 +202,9 @@ Publishing, Seattle.
 
 |                                                                                                                |                                                                                                                                                                                       |
 | -------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](../assets/images/US%20Osprey/media/image5.png) Evermann, B. W. 1914. "New Steamer for Patrol Work". Alas   | ka Fisheries and Fur Industries in 1913, p.8-9. U.S. Dep. Commer., Bur. Fish. Doc. 782.  ( [.pdf, 29.6 MB. - NOAA Central Library](http://docs.lib.noaa.gov/rescue/cof/COF_1913.PDF)) |
-| ![](../assets/images/US%20Osprey/media/image6.png) "Scuttle Butt Pete". 1947. Scutt Reviews the *Foss 19* –    | from Yacht to Modern Tugboat. Pacific Motor Boat, Dec. 1947. p.53 (photo on p.51)                                                                                                     |
-| ![](../assets/images/US%20Osprey/media/image7.png) Kiffer, D. 2005. The Grounding of the *Princess Sophia*. \[ | SitNews (Ketchikan) website\](http://www.sitnews.us/Kiffer/PrincessSophia/120505\_princess\_sophia.html)  (last accessed 4-10-13)                                                     |
+| ![](../assets/images/US%20Osprey/media/image5.png) Evermann, B. W. 1914. "New Steamer for Patrol Work". Alas   | ka Fisheries and Fur Industries in 1913, p.8-9. U.S. Dep. Commer., Bur. Fish. Doc. 782.Â  ( [.pdf, 29.6 MB. - NOAA Central Library](http://docs.lib.noaa.gov/rescue/cof/COF_1913.PDF)) |
+| ![](../assets/images/US%20Osprey/media/image6.png) "Scuttle Butt Pete". 1947. Scutt Reviews the *Foss 19* â€“    | from Yacht to Modern Tugboat. Pacific Motor Boat, Dec.Â 1947. p.53 (photo on p.51)                                                                                                     |
+| ![](../assets/images/US%20Osprey/media/image7.png) Kiffer, D. 2005. The Grounding of the *Princess Sophia*. \[ | SitNews (Ketchikan) website\](http://www.sitnews.us/Kiffer/PrincessSophia/120505\_princess\_sophia.html)Â  (last accessed 4-10-13)                                                     |
 
 <table style="width:100%;">
 <colgroup>
@@ -214,7 +215,7 @@ Publishing, Seattle.
 <td style="text-align: left;">A Poor Evaluation</td>
 </tr>
 <tr class="even">
-<td style="text-align: left;">The <em>Osprey</em> was considered to be well constructed, however, after the Bureau's Deputy Director, E. Lester Jones, lived aboard her for 60 days during his 1914 inspection of the Alaska fisheries, his opinion of the vessel was unfavorable. In his <em>Report of Alaska Investigations, 1914</em> ( <a href="https://www.afsc.noaa.gov/history/pubs/RAI-1914.pdf#osprey">.pdf, 17.4 MB)</a>  Jones expressed the following:<br />
+<td style="text-align: left;">The <em>Osprey</em> was considered to be well constructed, however, after the Bureau's Deputy Director, E. Lester Jones, lived aboard her for 60 days during his 1914 inspection of the Alaska fisheries, his opinion of the vessel was unfavorable. In his <em>Report of Alaska Investigations, 1914</em> ( <a href="https://www.afsc.noaa.gov/history/pubs/RAI-1914.pdf#osprey">.pdf, 17.4 MB)</a>Â  Jones expressed the following:<br />
 <br />
 "In reference to the unseaworthiness of the <em>Osprey</em>, I feel well qualified to pass judgment, for in my investigations and research this season I lived aboard her for 60 days and found conditions far from satisfactory. Her freeboard amidships is just 12 inches. From the deck to the top of the pilot house the distance is over 14 feet, and with the greater part of her machinery above the water line the vessel is so topheavy that a good breeze renders it dangerous to leave the dock. In an unusual blow last fall, the <em>Osprey</em> without warning turned completely on her side, lying flat on the water long enough for the engine room to be flooded. The officers and crew were penned up in this treacherous boat, and only by an act of Providence did a counter flurry right her in the next few seconds.<br />
 <br />
@@ -223,7 +224,7 @@ This is the vessel that is offered to our men to patrol 26,000 miles of coast li
 However, I talked with men of experience who are familiar with vessels and their construction, and all admit that her hull is strong and sound and agree that this boat if properly refitted and provided with more efficient machinery would prove suitable for certain requirements of the Alaska patrol service...<br />
 <br />
 The <em>Osprey</em> has been used only part of the time during the last two years in southeastern Alaska, due primarily to two reasons first, lack of appropriations; and second, because she is unseaworthy and many days unable to leave her dock."<br />
- </td>
+Â </td>
 </tr>
 </tbody>
 </table>

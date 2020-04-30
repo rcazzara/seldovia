@@ -5,10 +5,11 @@ given_names: "Martin"
 source_file: "Martin Peterson family"
 born: nil
 died: nil
+cemetry_plot: 29
 ---
 # Martin Peterson
 
-**February 28, 1902, Savannah, Georgia – September 21, 1950, Seldovia,
+**February 28, 1902, Savannah, Georgia â€“ September 21, 1950, Seldovia,
 Alaska**
 
 **Martin PETERSON** was born February 28, 1902 in Savannah, Georgia. It
@@ -18,7 +19,7 @@ Nyman\]** in 1935. **Lottie** was born in Alaska in 1892. Legend has it
 that she was kidnapped and brought to Kodiak as a child, where she
 married 1<sup>st</sup> **Nicholai Rapin** and had a son Frederick Rapin.
 After Nicholai died Lottie married **Nicholas Nyman** and they had
-several more children. Lottie’s son Frederick Rapin became known as Fred
+several more children. Lottieâ€™s son Frederick Rapin became known as Fred
 Nyman.
 
 > **Fred (Rapin) NYMAN,** born in Kodiak, December 11, 1907, died
@@ -45,12 +46,12 @@ Lottie moved back to Kodiak after the 1964 earthquake and died there in
 > 
 > **Albert Martin "Coogan" PETERSON (1933-1989)**
 > 
-> **\[Freda PETERSON Robinson (1934, Seldovia – 2015, Anchorage)\]**
+> **\[Freda PETERSON Robinson (1934, Seldovia â€“ 2015, Anchorage)\]**
 > 
 > **Teddy PETERSON** was born in 1938 in Seldovia and died in Seldovia
 > in 1941. He is buried in the Seldovia City Cemetery, Plot \#49, next
 > to his brother, Martin Peterson. Originally their plots were fenced
-> with thick wooden markers, the name as their father’s at Plot \#29,
+> with thick wooden markers, the name as their fatherâ€™s at Plot \#29,
 > but over time the fences and markers have disappeared.
 > 
 > **Henry D. "Harry" PETERSON,** born April 24, 1937, married Barbara

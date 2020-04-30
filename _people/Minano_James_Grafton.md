@@ -5,16 +5,17 @@ given_names: "James Grafton"
 source_file: "James Grafton Minano"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # James Grafton MINANO
 
-**September 23, 1909, Beaver, Alaska – April 7, 1961, Seldovia, Alaska**
+**September 23, 1909, Beaver, Alaska â€“ April 7, 1961, Seldovia, Alaska**
 
 **James Grafton MINANO**, "Jim", was born in Beaver, Alaska September
 23, 1909 to James **Minano** and Susie **SHUKSHALIK (**various
 spellings).
 
-James **Minano**, Sr. was a Japanese trader and whaler who spent 67 of
+James **Minano**, Sr.Â was a Japanese trader and whaler who spent 67 of
 his life in Alaska and the United States. He left Japan for the first
 and last time in 1864 at the age of 11 as a mess boy on a ship. When his
 boat was wrecked in Siberia in 1880 he managed to walk the coast to a
@@ -29,7 +30,7 @@ discovered on the Koyukuk River led the two families on a prospecting
 trip to Nolan Creek on the Koyukuk. After a brief stay in Wiseman they
 moved on In 1905, they and 3 other men staked Discovery Claim on Little
 Squaw Creek, Chandalar district, Alaska. They moved often during these
-years, to Carol, to St. Mary’s, to Beaver. The Minanos settled in
+years, to Carol, to St.Â Maryâ€™s, to Beaver. The Minanos settled in
 Coldfoot before 1916, eventually raising nine children there and
 cultivating an extensive gardening operation which sold vegetables to
 miners. James was not as interested in mining as in providing services
@@ -47,7 +48,7 @@ in Coldfoot. By 1984, the building was abandoned and in a state of
 disrepair. It was then one of only two surviving historic buildings in
 Coldfoot. The cabin has since collapsed.
 
-Jim Jr. grew up in Beaver, Coldfoot and Wiseman in a busy era when there
+Jim Jr.Â grew up in Beaver, Coldfoot and Wiseman in a busy era when there
 was a great deal of mining activity along the Koyukuk. At that time the
 Territorial Government was responsible for the education of white
 children: the U.S. Bureau of Education supported schools for Natives.
@@ -56,7 +57,7 @@ establishment of a school district. The proposed Wiseman district had
 only 8, but with the Minano offspring (Japanese/Native mix) there were
 12. When Ben Moses, the teacher at Koyukuk Station heard that Jim and
 Walter were not going to school, he arranged to have them sent from
-Coldfoot to Eklutna on the Teddy H. Soon after, James Sr. grew homesick
+Coldfoot to Eklutna on the Teddy H. Soon after, James Sr.Â grew homesick
 for his sons and, taking Buddy with him, left the rest of the family in
 Coldfoot and moved to Eklutna in 1927.
 ![](../assets/images/James%20Grafton%20Minano/media/image1.jpeg)
@@ -72,16 +73,16 @@ by the army from their homes in Washington, Oregon, California, Arizona
 and Alaska, and sent to nearby temporary assembly centers. From there
 they were sent by trains to American-style concentration camps at remote
 inland sites where many people spent the remainder of the war. On April
-28, 1942 James Sr. was evacuated from Alaska an interned in Camp Harmony
+28, 1942 James Sr.Â was evacuated from Alaska an interned in Camp Harmony
 near Puyallup, Washington. He died June 5, 1942 at the Camp Harmony
-hospital. James Minano, Sr. was survived by five sons, four of whom were
+hospital. James Minano, Sr.Â was survived by five sons, four of whom were
 serving in the United States Army. The fifth, Henry (Hope), was living
 with the Foode brothers in Area A. The body of the deceased, cremated at
 Tacoma, was shipped to friends in Anchorage, Alaska. (This is from the
 Camp Harmony newsletter.)
 
 At the same time that he was being interred, his sons were conscripted
-into the US Army. James, Jr. who had been an employee at Libby Cannery,
+into the US Army. James, Jr.Â who had been an employee at Libby Cannery,
 enlisted in the US Army in April 1942, listing his residence as Kenai,
 Alaska. He was listed as single, Japanese with US citizenship, and
 having a grammar school education. He was enlisted "for the duration of
@@ -141,7 +142,7 @@ friend Yasuda and when word of gold in the Koyukuk reached them, the two
 men and their families made their way to Nolan Creek. After a brief stay
 in Wiseman, the Minanos again moved with Yasuda to Chandalar Lake.
 During the next few years, the Minanos moved often; to Carol, to St.
-Mary’s Creek, to Beaver (1908). Minano never became a miner. Instead he
+Maryâ€™s Creek, to Beaver (1908). Minano never became a miner. Instead he
 cut wood for those too busy to do it themselves, ran a roadhouse and
 cooked \[Warbelow 1993\]. Sometime before 1916, Minano moved his family
 to Coldfoot where he planted a garden and raised vegetables to sell

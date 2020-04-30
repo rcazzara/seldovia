@@ -5,10 +5,11 @@ given_names: "Nina Edelman"
 source_file: "Carl John LUND Family"
 born: "March 10, 1896, Kenai, Alaska "
 died: " December 8, 1977, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Nina EDELMAN Lund
 
-## March 10, 1896, Kenai, Alaska – December 8, 1977, Seldovia, Alaska
+## March 10, 1896, Kenai, Alaska â€“ December 8, 1977, Seldovia, Alaska
 
 **Carl John Lund** was born October 14, 1874 in Bergen, Norway, and he
 immigrated to the US in 1893. He married **\[Nina EDELMAN\]**, born on
@@ -19,7 +20,7 @@ from Porvoo.
 Carl and Nina had three sons and five daughters. He died on November 11,
 1939, at the age of 65.
 
-John Lloyd Lund – 1914-1997
+John Lloyd Lund â€“ 1914-1997
 
 Agnes J Lund (1916-2005) married Arndt Olsen
 

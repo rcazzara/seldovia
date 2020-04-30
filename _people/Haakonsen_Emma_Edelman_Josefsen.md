@@ -5,8 +5,9 @@ given_names: "**Emma Edelman** **Josefsen"
 source_file: "Edelman"
 born: "June 23, 1902, Kenai, Alaska "
 died: " May 11, 1993, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # **Emma Edelman** **Josefsen Haakonsen**
 
-## June 23, 1902, Kenai, Alaska – May 11, 1993, Seldovia, Alaska
+## June 23, 1902, Kenai, Alaska â€“ May 11, 1993, Seldovia, Alaska
 

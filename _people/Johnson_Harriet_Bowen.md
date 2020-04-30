@@ -5,10 +5,11 @@ given_names: "Harriet Bowen"
 source_file: "Bowen Family"
 born: "December 13, 1888, Kodiak, Alaska"
 died: " March 3, 1931, Seldovia, Alaska"
+cemetry_plot: 70
 ---
 # Harriet BOWEN Johnson
 
-## December 13, 1888, Kodiak, Alaska– March 3, 1931, Seldovia, Alaska
+## December 13, 1888, Kodiak, Alaskaâ€“ March 3, 1931, Seldovia, Alaska
 
 **Harriet Susanna Bowen, born December 13, 1888 in Kodiak, was the
 daughter of Captain Henry and Barbara Bowen. She married [Andrew

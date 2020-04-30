@@ -5,10 +5,11 @@ given_names: "Elizabeth Balashoff Bloch"
 source_file: "Adam Bloch and English"
 born: "October 1885, Alaska "
 died: " May 1920, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Elizabeth Balashoff Bloch Markle
 
-## October 1885, Alaska – May 1920, Seldovia, Alaska
+## October 1885, Alaska â€“ May 1920, Seldovia, Alaska
 
 **Elisaveta Elizabeth Balashoff** was born about in 1984 or 1885 on the
 Kenai Peninsula. She married **Adam Bloch** in 1902 when she was about
@@ -37,7 +38,7 @@ and both of her husbands lived in Seldovia, her first husband is buried
 in the Seldovia Hillside Cemetery, and her own marker is in that
 Hillside Cemetery as well.
 
-After her death Harry moved back to California and Elizabeth’s children
-were taken in by their half-siblings from Adam Bloch’s first marriage,
+After her death Harry moved back to California and Elizabethâ€™s children
+were taken in by their half-siblings from Adam Blochâ€™s first marriage,
 the Johansen and Simmons families.
 

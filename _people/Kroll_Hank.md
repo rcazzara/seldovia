@@ -5,6 +5,7 @@ given_names: "Hank"
 source_file: "Hank Kroll"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Hank Kroll
 
@@ -50,7 +51,7 @@ and leave, so I sat cowering.
 Finally, the movie was over and the lights went on. I told Midge, in a
 whisper, what had happened. She laughed out loud and said, "Oh, that was
 only the Mad trapper." As we walked outside, thee bearded man, Kroll,
-came forward and introduced himself.             
+came forward and introduced himself.Â  Â  Â  Â  Â  Â  Â 
 
 ![http://1.bp.blogspot.com/-p6T0ReJl5C4/TwaSTOCCgqI/AAAAAAAAAyY/wym-B\_MR12o/s640/Seldovia.jpg](../assets/images/Hank%20Kroll/media/image2.jpeg)
 

@@ -5,6 +5,7 @@ given_names: "George"
 source_file: "Ritchie Family"
 born: "1905, Seldovia, Alaska "
 died: " December 1952, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # George Ritchie
 
@@ -20,10 +21,10 @@ failed to qualify. George married **Mary Simeneoff** in 1923 and U.S.
 married **Mary Toco** in 1925. In 1930 U.S. is listed in Seldovia as a
 widower living with son George, also a widower; he is a carpenter and
 George is a fisherman. In 1940 both U.S. and George are living together
-in Seldovia, and both are listed as widowers but I haven’t found a
+in Seldovia, and both are listed as widowers but I havenâ€™t found a
 record of a marriage for George.
 
 Near where the theater used to be, George built a two story house with
 lots of shingles and a round tower, where he could sun bathe on it. The
-next year the BIA school was built right across the street and he didn’t
+next year the BIA school was built right across the street and he didnâ€™t
 get to do much sun bathing (From Fred Elvsaas interview)

@@ -5,10 +5,11 @@ given_names: "Susan Loretta Lafferty"
 source_file: "Lloyd FAMILY"
 born: "May 10, 1883 South Dakota "
 died: " May 23, 1965 Alaska"
+cemetry_plot: 74
 ---
 # Susan Loretta LAFFERTY Lloyd
 
-## May 10, 1883 South Dakota – May 23, 1965 Alaska
+## May 10, 1883 South Dakota â€“ May 23, 1965 Alaska
 
 **Theophilus William "T.W."** **Lloyd** was born in Kansas City, Kansas
 April 30, 1873. By 1900 he was a farmer in Jackson Hole, Wyoming. There
@@ -36,7 +37,7 @@ CHILDREN:
 **Laura LLOYD** was born September 28, 1901 in Jackson, Wyoming. She
 married Job Wood in Idaho in 1922 and had a son Job. She was managing a
 rooming house in Seldovia in 1940, listed as Laura Curtis, with a son
-Job and her mother. When Job enlisted in 1942 he gave his mother’s name
+Job and her mother. When Job enlisted in 1942 he gave his motherâ€™s name
 as Laura Diehl of Seldovia. She died in Anchorage June 30, 1987 and is
 buried in Anchorage.
 

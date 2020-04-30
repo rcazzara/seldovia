@@ -5,10 +5,11 @@ given_names: "Simon Andreas"
 source_file: "Josefson Family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Simon Andreas Josefsen
 
-**October 19, 1880, Hammerfest, Norway – June 6, 1968, Anchorage,
+**October 19, 1880, Hammerfest, Norway â€“ June 6, 1968, Anchorage,
 Alaska**
 
 Simon Andreas Josefsen was born on October 19, 1880, in Hammerfest,

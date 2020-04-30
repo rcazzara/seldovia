@@ -5,10 +5,11 @@ given_names: "Sigurd"
 source_file: "Sigurd Halversen family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Sigurd Halvorsen
 
-**September 27, 1892, Haugesund, Norway – March 1, 1951, Seldovia,
+**September 27, 1892, Haugesund, Norway â€“ March 1, 1951, Seldovia,
 Alaska**
 
 **Sigurd HALVORSEN** was born on September 27, 1892, in Haugesund,
@@ -21,7 +22,7 @@ age of 58.
 **Marie Anderson** was born May 10, 1904 in Unalaska, Alaska. She
 married 1<sup>st</sup> Sigurd Halvorsen on December 27, 1920 in
 Unalaska, and 2<sup>nd</sup> **Ray Herbert Swaney** (1/6/1903-3/13/1957
-– Seldovia**)** in Seldovia, Alaska. Marie died in 1971 and is buried
+â€“ Seldovia**)** in Seldovia, Alaska. Marie died in 1971 and is buried
 in Palmer, Alaska.
 
 Children:
@@ -47,11 +48,11 @@ Children:
     
     1.  **Richard Halvorsen** ( -1965)\*
 
-8.  **Harry Halvorsen** (1932 – 1967)\*
+8.  **Harry Halvorsen** (1932 â€“ 1967)\*
 
-9.  **Helen Elaine Halvorsen Slater** (1935 – 1972, Palmer)
+9.  **Helen Elaine Halvorsen Slater** (1935 â€“ 1972, Palmer)
 
 10. **Charlotte Halvorsen** (1938- )
 
-11. **Harold Sigurd Halvorsen** (1941 – 1984, Kodiak)
+11. **Harold Sigurd Halvorsen** (1941 â€“ 1984, Kodiak)
 

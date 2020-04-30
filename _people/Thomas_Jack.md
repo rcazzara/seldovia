@@ -5,10 +5,11 @@ given_names: "Jack"
 source_file: "Jack Thomas scrapbook"
 born: "February 2, 1931, California "
 died: " October 12, 2016, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # JACK THOMAS
 
-## February 2, 1931, California – October 12, 2016, Seldovia, Alaska
+## February 2, 1931, California â€“ October 12, 2016, Seldovia, Alaska
 
 Jack Thomas came to Seldovia in 1968.
 
@@ -17,7 +18,7 @@ in California. In the mid-1960s logging operations in California got
 scarce, so Jack hoped on a plane to Anchorage without even telling his
 wife. He found a job putting in a water line in King Cove. Then he
 returned to California and he and Jack Hopkins flew to Alaska in
-Hopkins’ Luscombe, using the Alaska Highway as their road map. They
+Hopkinsâ€™ Luscombe, using the Alaska Highway as their road map. They
 got logging jobs working out at Jackolof Bay before the road was put in,
 so Bob Gruber flew them out from Seldovia every day. He and his wife
 Marge and children lived in a trailer park there, and his daughters rode
@@ -32,11 +33,11 @@ caught all the fish\!
 
 JACK THOMAS: One day we -- I think we went out a little earlier than we
 -- Jimmy did. And we just loaded that boat right down. Come in, unloaded
-at the cannery, and went back out and loaded it again…... It was real
+at the cannery, and went back out and loaded it againâ€¦... It was real
 good and then it -- it -- we just caught 'em all, that's all. Killed it
 right off. Oh, there was spurts later on that was pretty good.
 
-He bought the Hag’s Neck property from Josie’s sister in 1970. There was
+He bought the Hagâ€™s Neck property from Josieâ€™s sister in 1970. There was
 a little shack there but they decided to build something more prominent.
 He built the shop first. The timbers in the house used to be part of an
 old dock, near where the pavilion is now. Jack recognized the fine old
@@ -48,10 +49,10 @@ claim at Red Mountain and helped develop and maintain the road. He was
 given an old connex trailer that had been used at Kasitsna Bay lab
 before they built the buildings. He towed it up to the site and over the
 years there were some wild Fourth of July parties held out there, with
-fireworks and even the firing of Rick Harsness’ cannon.
+fireworks and even the firing of Rick Harsnessâ€™ cannon.
 
 Jack taught himself to weld and his welding and mechanical services were
 in high demand in the community. Unlike many Seldovians he never owned a
-boat – he preferred to live on the land. He also worked as a heavy
+boat â€“ he preferred to live on the land. He also worked as a heavy
 equipment operator around Alaska and for the oil industry. Jack owned a
-special piece of property on the Seldovia Slough, called Hag’s Nook.
+special piece of property on the Seldovia Slough, called Hagâ€™s Nook.

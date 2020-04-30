@@ -5,10 +5,11 @@ given_names: "Frances Lucille Jenkins"
 source_file: "Williamson Mike and Frances"
 born: "October 30, 1927, Yoakum, Texas "
 died: " August 7, 2001, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Frances Lucille JENKINS Williamson
 
-## October 30, 1927, Yoakum, Texas – August 7, 2001, Seldovia, Alaska
+## October 30, 1927, Yoakum, Texas â€“ August 7, 2001, Seldovia, Alaska
 
 **Marlin "Mike" Thomas Williamson** was born in Corvalis, Oregon on June
 17, 1926. He was the youngest of the 5 children of Emma and Charlie
@@ -22,7 +23,7 @@ ice".![](../assets/images/Williamson%20Mike%20and%20Frances/media/image1.png)
 In Oregon, Mike learned early to hunt, fish and trap. He told old
 stories of how he would go out spotlighting with his friends and then on
 the way home, they would distribute the bounty to families who needed
-the meat. Mike’s freezer was always full of something good to eat. As
+the meat. Mikeâ€™s freezer was always full of something good to eat. As
 much as he enjoyed the challenge of hunting, Mike was never needlessly
 cruel or wasteful, although he did hold a special distaste for Bears.
 "The only good bear is a dead bear.", he would say.
@@ -47,7 +48,7 @@ devastation only abated when their adopted son, Zonnie Lee, was born in
 1958.
 
 Perseverance, strength and improvisation were integral to Mike
-Williamson.  For example, he needed a barn on a 40 acre parcel near
+Williamson.Â  For example, he needed a barn on a 40 acre parcel near
 Eugene Oregon that he acquired from his father. So he built himself a
 barn; a big barn. As a truck driver in Oregon, Mike always worked on his
 truck himself. When Zonnie was old enough, Mike always took him to the
@@ -95,7 +96,7 @@ truck for Jim Hopkins in Seldovia and Dwight Glanville in Homer.
 Eventually, Mike settled down to fur trapping in the mountains above
 Jakolof and Seldovia.
 
-Mike’s formal education ended at eighth grade; however he never failed
+Mikeâ€™s formal education ended at eighth grade; however he never failed
 to learn what he needed to accomplish a task. He could figure the value
 of a load of logs or gravel, double-check his time book, build roof
 trusses and negotiate rental and sales agreements for real estate. He
@@ -105,12 +106,12 @@ from his studies at Stanford University.
 
 Zon, now known as "Tsuri", had settled in Pittsburgh Pennsylvania in
 1987 and once or twice a year he and his family would come back to
-Seldovia for extended visits. Mike’s beloved Frances had passed away in
+Seldovia for extended visits. Mikeâ€™s beloved Frances had passed away in
 2001 and he was not interested to travel outside Alaska. When his health
 failed in 2010, the decision was made to bring him to Pittsburgh for
 care. Living with his son, near five grandchildren and eight
 great-grandchildren in an Orthodox Jewish community in "civilization"
-was Mike’s final great
+was Mikeâ€™s final great
 adventure.![](../assets/images/Williamson%20Mike%20and%20Frances/media/image2.jpeg)
 
 Mike passed away peacefully on Monday morning, February 11, 2013. To the
@@ -123,6 +124,6 @@ accomplishments, his good name and the love and respect showered upon
 him by friends and family, Heaven surely has acquired a new resident
 Mountain Man.
 
-*To contact or send condolences to Mike’s family:  Tsuri and Batsheva
-Williamson at 5720 Munhall Rd, Pittsburgh, PA. 15217-2010   
+*To contact or send condolences to Mikeâ€™s family: Â Tsuri and Batsheva
+Williamson atÂ 5720 Munhall Rd, Pittsburgh, PA. 15217-2010 Â Â 
 [412-480-4913](tel:412-480-4913)*

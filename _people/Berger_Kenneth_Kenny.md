@@ -1,14 +1,15 @@
 ---
-full_name: "Kenneth "Kenny" Berger"
+full_name: "Kenneth \"Kenny\" Berger"
 family_name: "Berger"
-given_names: "Kenneth "Kenny""
+given_names: "Kenneth \"Kenny\""
 source_file: "Remembering Our Children"
 born: "July 5, 1957, Anchorage, Alaska "
 died: " July 9, 1966"
+cemetry_plot: 
 ---
 # Kenneth "Kenny" Berger
 
-## July 5, 1957, Anchorage, Alaska – July 9, 1966
+## July 5, 1957, Anchorage, Alaska â€“ July 9, 1966
 
 **Kenneth "Kenny" Berger** was born July 5, 1957 in Anchorage, Alaska to
 Merle and Lillian Hojnacke Berger. Merle had a welding shop in Seldovia

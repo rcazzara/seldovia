@@ -5,10 +5,11 @@ given_names: "Lloyd Collins"
 source_file: "Wheeler"
 born: nil
 died: nil
+cemetry_plot: 606
 ---
 # Lloyd Collins WHEELER
 
-**January 7, 1927, Sonoma California – June 26, 2009, Seldovia, Alaska**
+**January 7, 1927, Sonoma California â€“ June 26, 2009, Seldovia, Alaska**
 
 **Lloyd Collins Wheeler** was born on January 7, 1927, in Petaluma,
 California. He grew up on the family dairy farm and then served two
@@ -27,7 +28,7 @@ person working for wages."I convinced Jack and Evelyn to relocate to
 Greenville from Orick after Jack had made a fortunate escape from the
 ravages of polio," said Lloyd. The two men began a working partnership
 again falling timber with a heavy two-man Woodsman Gypo air-cooled drag
-saw. Lloyd and Jack eventually formed the Wheeler – Hopkins Logging
+saw. Lloyd and Jack eventually formed the Wheeler â€“ Hopkins Logging
 Company.
 
 "We fell Ponderosa and sugar pines in the Genesee Valley that were 8- to

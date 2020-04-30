@@ -3,12 +3,13 @@ full_name: "Samuel Campbell"
 family_name: "Campbell"
 given_names: "Samuel"
 source_file: "Samuel Campbell"
-born: "March 12, 1878 – Newfoundland, Canada "
+born: "March 12, 1878 â€“ Newfoundland, Canada "
 died: " 1946, Seldovia, Alaska"
+cemetry_plot: 35
 ---
 # Samuel Campbell
 
-## March 12, 1878 – Newfoundland, Canada – 1946, Seldovia, Alaska
+## March 12, 1878 â€“ Newfoundland, Canada â€“ 1946, Seldovia, Alaska
 
 **Samuel Campbell** was born on March 12, 1878, on Little Bay Island in
 Newfoundland Canada, to Alban and Martha Campbell. He had numerous

@@ -5,10 +5,11 @@ given_names: "Anisem"
 source_file: "ANISEM ALEXANDROFF"
 born: "March 1872, Kodiak "
 died: " June 27, 1945, Seldovia"
+cemetry_plot: 
 ---
 # Anisem Alexandroff
 
-## March 1872, Kodiak – June 27, 1945, Seldovia
+## March 1872, Kodiak â€“ June 27, 1945, Seldovia
 
 **Anisem Alexandroff** was born in Kodiak on March 1872. He lived on
 Woody Island, Kodiak in 1900 and had Otto Anderson, from Sweden as a

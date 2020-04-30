@@ -5,10 +5,11 @@ given_names: "Olympia Maguila"
 source_file: "Kanaback Family"
 born: "February 28, 1903, Alaska "
 died: " January 4, 1939, Seldovia, Alaska"
+cemetry_plot: 130
 ---
 # Olympia MAGUILA Kanaback
 
-## February 28, 1903, Alaska – January 4, 1939, Seldovia, Alaska
+## February 28, 1903, Alaska â€“ January 4, 1939, Seldovia, Alaska
 
 **Olympia MAGUILA Kanaback** was born in Seldovia to Samuel
 Maguilla/Micuyal February 28, 1903. She married Walter Kanaback. They

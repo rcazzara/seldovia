@@ -5,6 +5,7 @@ given_names: "Adam"
 source_file: "Adam Bloch and English"
 born: "1840- 1843, Bavaria "
 died: " March 9, 1915 Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Adam Bloch
 
@@ -64,7 +65,7 @@ Bloch; and 7) Emma A. (Bloch) White.
 By his own account he resided in San Francisco until 19 Apr 1880, when
 he was hired by the Alaska Commercial Company and served as their agent
 on Unga Island, Alaska, then in Sep 1881 in Unalaska, then in Attu
-Island where for nine years he was in charge of the company’s port.
+Island where for nine years he was in charge of the companyâ€™s port.
 There two more girls were born and his wife died. He returned to San
 Francisco 1890, where he was naturalized on 24 Jul and remained until 2
 Apr 1891. He returned to Alaska, this time Kodiak Island where he
@@ -114,6 +115,6 @@ Territorial teacher.*
 
 Adam Bloch died in Seldovia March 9, 1915. A wife, three girls, and a
 boy survived him at that place. The other six children, who are all
-married women, were also living. A surviving daughter, Mrs. A.K.
+married women, were also living. A surviving daughter, Mrs.Â A.K.
 Johanson reported the death of her father to the Cordova newspaper.
 

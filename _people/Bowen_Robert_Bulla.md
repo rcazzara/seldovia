@@ -5,10 +5,11 @@ given_names: "Robert Bulla"
 source_file: "Bowen Family"
 born: "1924, Unalaska, Alaska "
 died: " August 29, 1964, Seldovia, Alaska"
+cemetry_plot: 202
 ---
 # Robert Bulla Bowen
 
-## 1924, Unalaska, Alaska – August 29, 1964, Seldovia, Alaska
+## 1924, Unalaska, Alaska â€“ August 29, 1964, Seldovia, Alaska
 
 **Robert Bulla Bowen was the son of Fred and Annie Bowen. When Annie
 passed away, Bulla and his brother (also named Rufus) stayed in Seldovia

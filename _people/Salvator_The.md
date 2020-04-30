@@ -5,6 +5,7 @@ given_names: "The"
 source_file: "Salvator"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # THE SALVATOR
 
@@ -27,7 +28,7 @@ operated as a fishing and salmon packing vessel with 8 crewmen out of
 Seward and Seldovia.
 
 The 467 ton 160 foot four-masted schooner ***Salvator*** was stranded
-and was lost in Seldovia Bay in 1935.  The ***Salvator*** operated as a
+and was lost in Seldovia Bay in 1935.Â  The ***Salvator*** operated as a
 fishing and salmon packing vessel with 8 crewmen out of Seward and
 Seldovia.
 
@@ -41,7 +42,7 @@ Seldovia, Registered Seward, ON 116364
 
 ***2.*** Merchant Vessels of the U S *(1934) Pgs 656-7*
 
-*3. The Marine Digest. August 16, 1941, p. 2*
+*3. The Marine Digest. August 16, 1941, p.Â 2*
 
 *4. Fairbanks News Miner September 13, 1930*
 
@@ -53,9 +54,9 @@ Belmont of Seldovia have purchased the schooner Salvatore from Libby,
 McNeil and Libby and plan to convert it into a one-line floating
 cannery. It will be stripped of all unnecessary gear and masts and
 rearranged to accommodate canning machinery. They expect to have C.the
-boat in operation for next season’s operations.
+boat in operation for next seasonâ€™s operations.
 
-In 1905 the C.A. Hooper & Co. Pacific Shipping Company decided to
+In 1905 the C.A. Hooper & Co.Â Pacific Shipping Company decided to
 convert its fleet of 8 vessels to auxillary powered schooners with twin
 Screw gas engines.
 
@@ -74,7 +75,7 @@ Costa County. Here he established a lumberyard and other businesses,
 including a steel mill and rubber works. One of his ventures also
 included the Diamond brick manufacturing plant in Pittsburg.
 
-James Ben Ali Haggin, ca 1850-1920. Haggin (1822-1914) was once
+James Ben Ali Haggin, ca 1850-1920. HagginÂ (1822-1914) was once
 considered to be among the three wealthiest men in America who made his
 fortune in the mining industry (Comstock Lode, Homestake, Anaconda) with
 Hearst and Tevis based out of Sacramento and San Francisco. His
@@ -83,12 +84,12 @@ prominent and world champion racers, both in California and Kentucky. He
 had mansions in California, Kentucky, Rhode Island, and New York City.
 
 Haggin's world famous racing horse, Salvator, dated 1890, who set the
-world’s record at the time in his set distance; original printed poem by
+worldâ€™s record at the time in his set distance; original printed poem by
 Ella Wheeler Wilcox entitled, "How Salvator Won"; and a photograph of a
 cartoon image of W.C. Whitney and J.B. Haggin scheming about horse
 rearing in Kentucky.
 
-**Salvator** (1886–1909) was an
+**Salvator** (1886â€“1909) was an
 [American](https://en.wikipedia.org/wiki/United_States)
 [thoroughbred](https://en.wikipedia.org/wiki/Thoroughbred) [race
 horse](https://en.wikipedia.org/wiki/Race_horse) considered by many to
@@ -99,7 +100,7 @@ Salvator was a splendid animal and sold for $4,500 as a yearling to
 James Ben Ali Haggin, one of the wealthiest men in America. A big,
 handsome chestnut with a blaze and four white stockings, the colt was
 originally named "Effendi," but was later renamed Salvator, after
-Haggin’s valet.
+Hagginâ€™s valet.
 
 **Carl Gosta Lindstedt** came to Seldovia in the mid-1920's at the age
 of 19. He arrived from Seattle on the 4-masted schooner Alice Cook. He
@@ -108,7 +109,7 @@ thousand people flowing into town during summer herring run. The herring
 saltry was a floating processor in Seldovia Bay called the Salvator. It
 was actually an old 4-masted schooner owned by Libby, McNeil and Libby
 and had been retrofitted from a sailing ship to a herring saltry.
-Mr. Lindstedt earned $80/month with fifty cents an hour overtime and
+Mr.Â Lindstedt earned $80/month with fifty cents an hour overtime and
 room and board as well. These were considered big wages.
 
 ### Background
@@ -134,7 +135,7 @@ born in 1886 in [California](https://en.wikipedia.org/wiki/California).
 [\[James Ben Ali
 Haggin\]](https://en.wikipedia.org/wiki/James_Ben_Ali_Haggin) had
 purchased his dam, Salina, and shipped her to his 44,000-acre
-(180 km<sup>2</sup>) [\[Rancho Del
+(180Â km<sup>2</sup>) [\[Rancho Del
 Paso\]](https://en.wikipedia.org/wiki/Rancho_Del_Paso) with Salvator *in
 utero*. Haggin had made his money in the [\[California Gold
 Rush\]](https://en.wikipedia.org/wiki/California_Gold_Rush) of 1849, so
@@ -152,7 +153,7 @@ well as shipping them in from
 [Australia](https://en.wikipedia.org/wiki/Australia) and
 [England](https://en.wikipedia.org/wiki/England). Eventually he bought
 Swigert's Elmendorf Farm and moved his headquarters there. Haggin added
-to the property until he held 8,700 acres (35 km<sup>2</sup>) of prime
+to the property until he held 8,700 acres (35Â km<sup>2</sup>) of prime
 bluegrass. (Over time, and through several owners, this property was
 broken up into stud farms like [\[Spendthrift
 Farm\]](https://en.wikipedia.org/wiki/Spendthrift_Farm), [\[Greentree
@@ -176,5 +177,5 @@ in 1955, Salvator was one of the horses inducted.
 
 The race itself commemorates the great 19th century champion Salvator,
 who set a world record (1:35 1/2) for a mile in a time trial, on the
-straight mile course at old Monmouth Aug. 28, 1890. Hence the name of
+straight mile course at old Monmouth Aug.Â 28, 1890. Hence the name of
 the race, the "Salvator Mile."

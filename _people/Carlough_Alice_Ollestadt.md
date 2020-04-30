@@ -5,6 +5,7 @@ given_names: "Alice Ollestadt"
 source_file: "James Howard Carlough"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Alice OLLESTADT Carlough
 

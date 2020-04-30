@@ -1,25 +1,26 @@
 ---
-full_name: "John "Russian John" Keturakis"
+full_name: "John \"Russian John\" Keturakis"
 family_name: "Keturakis"
-given_names: "John "Russian John""
+given_names: "John \"Russian John\""
 source_file: "Russian John Ketourakis"
 born: nil
 died: nil
+cemetry_plot: 174
 ---
 # John "Russian John" Keturakis
 
-**November 30, 1874 – Kovna, Lithuania – February 19, 1944, Seldovia,
+**November 30, 1874 â€“ Kovna, Lithuania â€“ February 19, 1944, Seldovia,
 Alaska**
 
 **John Ketourakis,** was known as "Russian John" in Seldovia**. There
-were a number of "Russian John’s" in Alaska in its early days and
-there’s even a Russian John Creek. Our Russian John** was actually
+were a number of "Russian Johnâ€™s" in Alaska in its early days and
+thereâ€™s even a Russian John Creek. Our Russian John** was actually
 born in Lithuania in 1874, and depending on his ethnic background he may
 or may not have appreciated the name.
 
 The few records we have found for him indicate that he came to the US
-about 1896, when he was about 21 years old. We don’t know a great deal
-about his beginnings in Kovna, Lithuania, and we don’t know exactly why
+about 1896, when he was about 21 years old. We donâ€™t know a great deal
+about his beginnings in Kovna, Lithuania, and we donâ€™t know exactly why
 he chose to leave his home, but we do know something about that place
 during that time. And given that he chose to list his birth place as
 Lithuania it is likely that he was not Russian.
@@ -30,9 +31,9 @@ same place. It may be that Russian John came not from the actual city of
 Kovna, but from the district of the same name.  
   
 Lithuania is a small European nation that was ripped apart in the 17th -
-19th centuries by Russia’s invasions and, subsequently, by more than a
+19th centuries by Russiaâ€™s invasions and, subsequently, by more than a
 century of on and off wars on its soil between Germany and Russia. As a
-result, nearly a third of Lithuania’s population chose to escape to the
+result, nearly a third of Lithuaniaâ€™s population chose to escape to the
 west. A majority of them eventually immigrated to the United States.
 
 At the end of the 19th century Lithuanians differed from most immigrant
@@ -46,7 +47,7 @@ Lithuania.
 
 Official estimates were that 30% of the emigrants from the Russian
 provinces of Poland-Lithuania returned home. When adjusted to include
-only non-Jews the number is closer to 50-60%. There don’t seem to be a
+only non-Jews the number is closer to 50-60%. There donâ€™t seem to be a
 lot of people
 
 Prior to WWI, the vast majority of ethnic Lithuanians lived in small

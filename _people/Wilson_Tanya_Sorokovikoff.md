@@ -5,9 +5,10 @@ given_names: "Tanya Sorokovikoff"
 source_file: "Wilson Family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Tanya SOROKOVIKOFF Wilson
 
-**October 10, 1922, Kenai, Alaska – September 24, 1987, Seldovia,
+**October 10, 1922, Kenai, Alaska â€“ September 24, 1987, Seldovia,
 Alaska**
 

@@ -5,13 +5,14 @@ given_names: "Arthur"
 source_file: "Edelman"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Arthur Kvarness
 
-**October 15, 1892, Trondheim, Norway – March 16, 1953, Seldovia,
+**October 15, 1892, Trondheim, Norway â€“ March 16, 1953, Seldovia,
 Alaska**
 
-**Nina Edelman Lund’s** parents, Edwin Edelman and Demina Oskolkoff,
+**Nina Edelman Lundâ€™s** parents, Edwin Edelman and Demina Oskolkoff,
 were also the parents of Jacob (Jack) Edelman (married Pauline
 Juliussen) and **Emma EDELMAN Josefsen**, and Martha EDELMAN Kvarness
 (Arthur Kvarness).

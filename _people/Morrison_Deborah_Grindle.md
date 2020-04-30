@@ -5,6 +5,7 @@ given_names: "Deborah Grindle"
 source_file: "Deborah GRINDLE Morrison"
 born: "June 10, 1953, Hancock, Maine "
 died: " 2010, Seldovia, AK"
+cemetry_plot: 
 ---
 # Deborah GRINDLE Morrison
 

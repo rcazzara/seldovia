@@ -1,14 +1,15 @@
 ---
-full_name: "Francis John "Frank" Raby"
+full_name: "Francis John \"Frank\" Raby"
 family_name: "Raby"
-given_names: "Francis John "Frank""
+given_names: "Francis John \"Frank\""
 source_file: "Frank Raby"
 born: "July 27, 1894, Ontario Canada "
 died: " January 4, 1984, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Francis John "Frank" Raby
 
-## July 27, 1894, Ontario Canada – January 4, 1984, Seldovia, Alaska
+## July 27, 1894, Ontario Canada â€“ January 4, 1984, Seldovia, Alaska
 
 **Francis John "Frank" Raby,** the next youngest of nine children, was
 born in Arnprior, Ontario Canada on July 27, 1894 to Frank and Lavenia
@@ -23,20 +24,20 @@ Inlet. Seldovia resident John Gruber tells the story related by his
 grandfather, Jack English who also hired on at Tuxedni Bay that year:
 "My grandfather said,"I was watching this fella go out at low tide --
 And they had wooden boxes, I think, that they towed. And they might have
-had skegs on ‘em or something. And they would tow these wooden boxes
-down, fill ’em with clams, and then other people would tow the wooden
-boxes back up the beach, and then they would process ’em. But the fella
-that dug the clams, that’s all he dug -- did, was dig the clam." My
-grandfather said Frank would bend over and start diggin’, and he
-wouldn’t straighten back up until the tide came back in. In other
+had skegs on â€˜em or something. And they would tow these wooden boxes
+down, fill â€™em with clams, and then other people would tow the wooden
+boxes back up the beach, and then they would process â€™em. But the fella
+that dug the clams, thatâ€™s all he dug -- did, was dig the clam." My
+grandfather said Frank would bend over and start digginâ€™, and he
+wouldnâ€™t straighten back up until the tide came back in. In other
 words, he was a pretty good clam digger."
 
 That winter when the cannery closed, Frank moved into Seldovia. It
-didn’t take long before he was trying his hand at every money-making
+didnâ€™t take long before he was trying his hand at every money-making
 operation going on in the area. In 1925 ten companies were listed in the
-Pacific Fisherman’s Yearbook as packing herring in Seldovia, including
+Pacific Fishermanâ€™s Yearbook as packing herring in Seldovia, including
 Frank Raby, with 27 barrels. Susan Springer in her book "Seldovia,
-Alaska’ suggests that Frank Raby was probably the first person in
+Alaskaâ€™ suggests that Frank Raby was probably the first person in
 Seldovia to attempt the raising of mink, which he did from 1923-1926. He
 was also included in the long list of Kachemak Bay fox farmers. In the
 1930 US Census, Frank was listed as a Seldovian salmon fisherman.
@@ -47,7 +48,7 @@ Young Mercantile, operated by H. S. and Willie Young. The Youngs had
 come to Alaska in 1916 and he was also from Canada. They had operated
 similar mercantiles in Kenai, eventually ending up in Seldovia. H.S. was
 older than Winnie, and eventually took ill and died in February 1945.
-Exactly a year later, on February 23, 1946, Frank and Winnie O’Brien
+Exactly a year later, on February 23, 1946, Frank and Winnie Oâ€™Brien
 Young were married in Seldovia. His occupation as listed on the marriage
 application was "storekeeper". He opened a doorway between the two
 stores and
@@ -57,9 +58,9 @@ Busey. Apparently Father Sarikovicoff, a Russian priest "helped to
 support his large family by bootlegging. He was also in heavy debt to
 Frank Raby, who was having trouble collecting payment. One day, Frank
 spied the IRS boat steaming into Seldovia Bay. He ran and told the
-Father, and together they moved the still into a back room at Frank’s
-store. That’s where it stayed, the debt considered settled. Frank later
-moved this still, or one similar, to his property at Raby’s Spit on the
+Father, and together they moved the still into a back room at Frankâ€™s
+store. Thatâ€™s where it stayed, the debt considered settled. Frank later
+moved this still, or one similar, to his property at Rabyâ€™s Spit on the
 west side of Seldovia Bay" (p182)
 
 In 1948 Frank Raby sued Polar Bar owner Joe Hill to recover possession
@@ -70,7 +71,7 @@ incorporated Town of Seldovia, Alaska, and being part of the Fulmore
 Homestead, to which patent was issued November 21, 1930. Frank Raby
 acquired this property in 1945. The evidence showed that beginning with
 one Max Peyser who is said to have been on the land in question prior to
-1924 and through 1941 when the testimony shows Mrs. John J. Roe died,
+1924 and through 1941 when the testimony shows Mrs.Â John J. Roe died,
 each person who lived on the land attempted to transfer his rights
 thereto by bill of sale. Each bill of sale described personal property
 only and each purported to transfer personal property only and none of

@@ -5,9 +5,10 @@ given_names: "Alyce Laura Erickson"
 source_file: "Oscar and Alyce Erickson Anderson"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Alyce Laura ERICKSON Anderson
 
-**August 1868, Bishop Hill, Illinois – August 11, 1940, Seldovia,
+**August 1868, Bishop Hill, Illinois â€“ August 11, 1940, Seldovia,
 Alaska**
 

@@ -5,19 +5,20 @@ given_names: "Russian Creoles In"
 source_file: "RUSSIAN CREOLES in SELDOVIA"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # RUSSIAN CREOLES in SELDOVIA
 
 There are a lot of part-Russians in Alaska. The term for this mixed
 ancestry is "**Creole**".
 
-The term Creole comes from the Spanish word *criollo* — meaning native
+The term Creole comes from the Spanish word *criollo* â€” meaning native
 to the place. In nineteenth century Kodiak, Russian entrepreneurs used
 this term for individuals of both Russian and Native ancestry, an
-increasingly large and segregated part of Alaska’s population. Descent
+increasingly large and segregated part of Alaskaâ€™s population. Descent
 was not the only defining characteristic of the Creole class, however. A
 person might also be considered Creole based on their achievements. The
-Alutiiq word for Creole — *kasaakaruaq* — literally means a kind of
+Alutiiq word for Creole â€” *kasaakaruaq* â€” literally means a kind of
 Russian, or not a real Russian.
 
 Russian entrepreneurs, who needed a steady and reliable source of labor,
@@ -25,7 +26,7 @@ extended special privileges to people of mixed descent and those who
 pledged political alliance to Russia. In this way, they created a
 distinct class of tradesmen, managers, and leaders who were in turn
 guaranteed basic civil rights. In the mid nineteenth century, Creoles
-performed many of the essential administrative functions in Alaska’s
+performed many of the essential administrative functions in Alaskaâ€™s
 Russian American colonies. They ran schools and businesses including the
 flourmill, blacksmith shop, tannery, lumberyard, and metal works. They
 were also trained as priests, teachers, navigators, cartographers, and
@@ -55,24 +56,24 @@ spelling in various locations and timelines.
 
 The Kashevarov family has been used as an example of the possibility of
 Creoles to succeed on a large scale. The Kashevarovs, who were the
-descendants of former serf Filipp Kashevarov—a teacher at the
-Novo-Arkhangel'sk school and a creóle (by some sources, Aleut)
+descendants of former serf Filipp Kashevarovâ€”a teacher at the
+Novo-Arkhangel'sk school and a creÃ³le (by some sources, Aleut)
 woman-included a major-general who wrote extensively about Russian
 America, a skipper, priests, and many prominent people in the colonies.
 Although the Kashevarovs may have been exceptionally successful and
-prolific, they are part of a larger group of creóles from high-level RAC
+prolific, they are part of a larger group of creÃ³les from high-level RAC
 employees and so can-not be dismissed as an aberration. Probably the
 most famous of the Kashevarovs of the first generation is Aleksandr
 Fihppovich Kashevarov (1809-66). In the 1816 list, it notes that he and
 his brother, Gavriil Filippovich Kashevarov are studying Russian
 grammar, catechism, the foundations of mathematics, drawing, navigation
 and the English language. ^^ As Roxanne Easley has noted,
-Kashevarov enjoyed  a long and successful career as naval captain,
+KashevarovÂ enjoyed Â a long and successful career as naval captain,
 explorer, cartographer, port commander, and ultimately, head of the
 Hydrographie Department of the Naval Ministry. Interestingly, during the
 1830s, when he was the head of a scientific expedition to the northwest
 Alaskan coast, he identified wholly with Russian and European
-civilization, stating of the Inupiat, "The savage inhabitants of this
+civilization, stating of the Inupiat,Â "The savage inhabitants of this
 dead nature, of the dreadful kingdom of darkness and cold, have no need
 for assistance from us people who have moved forward with the ages. ''
 However, with the arrival of the Great Reforms, Kashevarov's writings

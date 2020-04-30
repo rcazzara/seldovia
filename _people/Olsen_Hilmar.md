@@ -5,10 +5,11 @@ given_names: "Hilmar"
 source_file: "HIlmar Olsen"
 born: "1879, Norway "
 died: " August 11, 1959, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Hilmar Olsen
 
-## 1879, Norway – August 11, 1959, Seldovia, Alaska
+## 1879, Norway â€“ August 11, 1959, Seldovia, Alaska
 
 **Hilmar Olsen** was born, Norway in 1879. In 1910 he was on a ship in
 Shelikof Strait. He was living on Kachemak Bay by 1920 and was a fox and

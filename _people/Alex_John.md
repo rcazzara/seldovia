@@ -5,10 +5,11 @@ given_names: "John"
 source_file: "John ALEX"
 born: nil
 died: nil
+cemetry_plot: 2
 ---
 # John ALEX
 
-**April 30, 1934, Seldovia, Alaska – August 27, 1951, Seldovia, Alaska**
+**April 30, 1934, Seldovia, Alaska â€“ August 27, 1951, Seldovia, Alaska**
 
 **John ALEX, Jr.** was born in Kenai, Alaska April 30, 1934 to John and
 Flora Alex. He died August 27, 1951 when the plane he was in crashed on

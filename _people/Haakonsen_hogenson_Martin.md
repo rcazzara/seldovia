@@ -5,10 +5,11 @@ given_names: "Martin"
 source_file: "Martin Hogenson"
 born: nil
 died: nil
+cemetry_plot: 191
 ---
 # Martin Haakonsen/Hogenson
 
-**October 16,1884, Stavanger, Norway –August 1, 1964, Seldovia, Alaska**
+**October 16,1884, Stavanger, Norway â€“August 1, 1964, Seldovia, Alaska**
 
 **Martin Hogenson** was born **Martinus Haagensen** in Stavanger,
 Rogaland, Norway in 1885. His parents were Hartvig and Karen Haagensen.

@@ -5,10 +5,11 @@ given_names: "Jack Hopkins, Plumas County"
 source_file: "Jack Hopkins story by his son Bill"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Jack Hopkins, Plumas County Logger
 
-by William M. Hopkins
+byÂ William M. Hopkins
 
 My father, Jack Hopkins sailed in the U.S. Merchant Marine in the final
 year of World War II and for a year and half following the conclusion of
@@ -21,7 +22,7 @@ brother-in-law, Lloyd Wheeler. During this time, Jack came down with
 polio, ending his redwood timber falling days. Luckily, he recovered
 from the debilitating disease. Lloyd convinced Jack and my mother,
 Evelyn (Wheeler) Hopkins, to relocate to Greenville in Plumas County,
-where Evelyn’s mother and father owned a dairy/ranch in Indian Valley.
+where Evelynâ€™s mother and father owned a dairy/ranch in Indian Valley.
 Jack and Evelyn brought their redwood-falling drag saw with them and
 began logging in the high Sierras.
 
@@ -29,21 +30,21 @@ Jack and Evelyn always had a way of living in very beautiful places.
 They were only three miles from the Wheeler Ranch, purchasing a place
 just west of Greenville along the right-of-way of the Western Pacific
 Railroad on Forest Lodge Road, adjacent to the Frontier Motel, and below
-Earl Pedersen’s beautiful Forest Lodge, in a part of town known as the
+Earl Pedersenâ€™s beautiful Forest Lodge, in a part of town known as the
 Landon Addition. The area was locally named "Okie Flats" for the
 Oklahomans who had fled the Dust Bowl during the Great Depression and
-settled here to work in Greenville’s flourishing sawmills, especially
+settled here to work in Greenvilleâ€™s flourishing sawmills, especially
 the Setzer Box mill. "These were good people and we were glad to have
 them," adds Nansi (Wattenburg) Bohne (KQNY).
 
 ![L-R: jack on far right sets up the drag saw for the back cut while
 Lloyd and another logger work on the undercut of a Genesee Valley
 Ponderosa pine.
-c. 1949.](../assets/images/Jack%20Hopkins%20story%20by%20his%20son%20Bill/media/image2.jpeg)
+c.Â 1949.](../assets/images/Jack%20Hopkins%20story%20by%20his%20son%20Bill/media/image2.jpeg)
 
 L-R: jack on far right sets up the drag saw for the back cut while Lloyd
 and another logger work on the undercut of a Genesee Valley Ponderosa
-pine. c. 1949.
+pine. c.Â 1949.
 
 "I had a timber falling contract for Lilburn Hue"Si" (pronounced as
 "Cy," not as "see") Brand in the Genesee Valley to the east of
@@ -57,7 +58,7 @@ Greenville, CA. c.
 1950.](../assets/images/Jack%20Hopkins%20story%20by%20his%20son%20Bill/media/image3.jpeg)
 
 Jack with the "Evey" with a three-log load of sugar pine at Greenville,
-CA. c. 1950.
+CA. c.Â 1950.
 
 "I convinced Jack and Evelyn to relocate to Greenville from Orick after
 Jack had made a fortunate escape from the ravages of polio," said Lloyd.
@@ -76,7 +77,7 @@ live in California. The demand for lumber was unlimited. I can remember
 seeing long train loads of lumber loading at the railroad yards in
 Greenville and trains were passing through Greenville on their way south
 from the Chester area. In the midst of all this, Lloyd and Jack were
-eventually to form the Wheeler – Hopkins Logging Company."
+eventually to form the Wheeler â€“ Hopkins Logging Company."
 
 "We fell Ponderosa and sugar pines in the Genesee Valley that were 8- to
 10-feet in diameter at the stump using the drag saw," explained Lloyd.
@@ -91,10 +92,10 @@ saw.](../assets/images/Jack%20Hopkins%20story%20by%20his%20son%20Bill/media/imag
 
 Lloyd shows off their handiwork as my dad adjusts the drag saw.
 
-A drag saw’s heavy weight had made them impractical. C. H. Wendel, in an
+A drag sawâ€™s heavy weight had made them impractical. C. H. Wendel, in an
 interview with Douglas Merrill, one of the original makers of the
 Woodsman Gypo drag saw, states, "Production finished in 1952. The chain
-saw made our machine obsolete (Wendel 1989)." Jack Hopkins’ Woodsman
+saw made our machine obsolete (Wendel 1989)." Jack Hopkinsâ€™ Woodsman
 Gypo drag saw was kept in the attic of his Greenville woodshed,
 undercover and out of the weather, from 1950 until 1969, when he donated
 it to the Indian Valley Museum at Taylorsville, California where it
@@ -102,24 +103,24 @@ remains on display today.
 
 On November 4, 1949 at the age of 20, while chopping a limb from a
 fallen tree, the ax blade hit the tip of another limb and glanced
-downward at a steep angle of deflection to slice directly into Jack’s
+downward at a steep angle of deflection to slice directly into Jackâ€™s
 left foot, severing his third, fourth, fifth toes at the proximal
 joints, and causing a fifty per cent loss of flexion of the middle joint
 of the second toe.
 
-"I was there," said Jack’s timber-falling partner, Lloyd Wheeler. "His
+"I was there," said Jackâ€™s timber-falling partner, Lloyd Wheeler. "His
 ax bumped a limb and deflected, hitting his left foot. Jack hollered
 loudly in pain and rolled off the log to the ground. Bleeding badly, I
 unlaced his cork boot. I had to cut some of the boot away, and was able
 to pull the boot off his foot. Jack was in a lot of pain; the ax had
 gone clear through his foot and the boot. I wrapped it up as best I
-could and then helped Jack to a truck and drove him to Greenville’s Dr.
+could and then helped Jack to a truck and drove him to Greenvilleâ€™s Dr.
 Wilbur Batson for emergency medical treatment."
 
 ![Greenville's Jake Jenner with the Plumas Queen. Swain Mountain c.
 1965.](../assets/images/Jack%20Hopkins%20story%20by%20his%20son%20Bill/media/image5.jpeg)
 
-Greenville’s Jake Jenner with the Plumas Queen. Swain Mountain c. 1965.
+Greenvilleâ€™s Jake Jenner with the Plumas Queen. Swain Mountain c.Â 1965.
 
 Jack was out of work while he healed, but received nineteen weeks of
 disability payments from the State of California in the amount of $30.00
@@ -144,7 +145,7 @@ have found that this matter of firm footing is much more difficult with
 the three toes off, and my sense of balance is not as good as before the
 accident. It takes me longer now to do the same job, and as a result, I
 do not turn out the same amount of logs. In comparing my work with that
-of others working with me, I can cut three trees to the other’s four
+of others working with me, I can cut three trees to the otherâ€™s four
 trees.
 
 "I notice that I tire more easily than before, which may also account
@@ -166,23 +167,23 @@ Sterling logging truck. Swain Mountain c.
 1965.](../assets/images/Jack%20Hopkins%20story%20by%20his%20son%20Bill/media/image6.jpeg)
 
 Gypo (independent) logging truck driver, Bob Stoy, with his classic
-Sterling logging truck. Swain Mountain c. 1965.
+Sterling logging truck. Swain Mountain c.Â 1965.
 
 Liking the change, Jack and Evelyn purchased two more logging trucks
 when they could afford the down payments, a Mack and another
 International Harvester. These seeds would develop over time into a
 modest logging company.
 
-"I didn’t usually drive a logging truck," emphasized Lloyd Wheeler. "But
+"I didnâ€™t usually drive a logging truck," emphasized Lloyd Wheeler. "But
 on some small job Jack had, I was roped into driving one of his trucks
 for a day. When I backed up to the landing and unloaded the trailer, the
-men at the landing said to me, ‘Just stay inside the cab, we’ll load her
-and bind the load.’ I never stepped out of the cab to inspect the load.
+men at the landing said to me, â€˜Just stay inside the cab, weâ€™ll load her
+and bind the load.â€™ I never stepped out of the cab to inspect the load.
 
 "The last log on at the very top of the load had a big limb sticking
 straight up that must have been at least six-feet high. It was like the
-dorsal fin on a male killer whale. Because I didn’t get out of the cab,
-I didn’t see it. To this day I don’t know why anyone never said anything
+dorsal fin on a male killer whale. Because I didnâ€™t get out of the cab,
+I didnâ€™t see it. To this day I donâ€™t know why anyone never said anything
 to warn me.
 
 "I left the landing with this load of logs thinking everything was fine
@@ -212,19 +213,19 @@ surprise and it turned out to be something of a local disaster."
 "The Hopkins family lived down the street and across the railroad tracks
 from where I grew up," said Nansi (Wattenburg) Bohne, daughter of gypo
 (independent) logger William "Pop" Wattenburg. "Jack spent a lot of time
-at my father’s shop working on equipment with my Dad, so I knew him as a
+at my fatherâ€™s shop working on equipment with my Dad, so I knew him as a
 friend. I remember Jack in his Navy stocking hat and work clothes, with
 his head under a truck hood and cussing up a storm over a missing spark
-plug or a cracked radiator. My Dad would say, ‘Now Jack, calm down.
-There’s nothing that can’t be fixed.’ Our shop was built about 1949 or
+plug or a cracked radiator. My Dad would say, â€˜Now Jack, calm down.
+Thereâ€™s nothing that canâ€™t be fixed.â€™ Our shop was built about 1949 or
 50. It had a deep concrete ditch so that anyone could stand up and work
 under their vehicle, which is why so many came there to work on engines
 and equipment. It was the first shop of its kind in Greenville."
 
-"Jack loved chili beans and cornbread. He’d always ask if the pot was
-on, meaning the old pressure cooker that I used to cook them in. I’d
+"Jack loved chili beans and cornbread. Heâ€™d always ask if the pot was
+on, meaning the old pressure cooker that I used to cook them in. Iâ€™d
 take the whole thing out to the shop with a ladle, and some bowls and
-they’d eat until they couldn’t eat any more. One time I released the
+theyâ€™d eat until they couldnâ€™t eat any more. One time I released the
 pressure cooker lid before it was empty of steam and it blew the lid
 off. The lid hit the ceiling and the chili beans went everywhere. They
 made jokes about those beans for months."
@@ -234,10 +235,10 @@ Spike, Tom, Jim, Evelyn and Jack. c.
 1959.](../assets/images/Jack%20Hopkins%20story%20by%20his%20son%20Bill/media/image8.jpeg)
 
 The Hopkins family pose with the Sierra Queen. L-R: Bill with our dog,
-Spike, Tom, Jim, Evelyn and Jack. c. 1959.
+Spike, Tom, Jim, Evelyn and Jack. c.Â 1959.
 
 "Jack and my husband, Kurt Bohne, used to hang out together sometimes.
-Loggers love their beer, and Indian Valley was a beer drinker’s
+Loggers love their beer, and Indian Valley was a beer drinkerâ€™s
 paradise. \[Jack\] was not a mellow person, nor was Kurt, so needless to
 say, they did make some local history at times. Jack and my Dad used to
 sit at the kitchen table and talk about logging sometimes half the
@@ -249,10 +250,10 @@ Nansi continued, "The pioneer spirit was very evident in Jack Hopkins
 during the years that he lived in Greenville. He was always forging new
 frontiers in logging, although the boundaries were tight even in those
 days. I remember Jack as having been about as tough as nails, but he
-could also be kind and considerate – a rare combination. What he
-couldn’t be is patient with anything that hindered his progress."
+could also be kind and considerate â€“ a rare combination. What he
+couldnâ€™t be is patient with anything that hindered his progress."
 
-Following maritime tradition, our father’s fleet of the logging trucks
+Following maritime tradition, our fatherâ€™s fleet of the logging trucks
 were christened with individual names professionally painted in script
 on the cab just above the windshields. Blood, Sweat and Tears, Sweatin
 Tears, and the prophetic Too Young To Die were Internationals, while the
@@ -292,12 +293,12 @@ Greenville had pulled off the highway to help Jess. Pirtle was on his
 horn blowing like mad and the last time he looked he was traveling over
 80-miles per hour. Jim hit the logging truck stuck under the overpass
 and knocked it on through before veering to the right and jack-knifing
-into the bank that held the railroad grade. Jim’s logs slid forward just
+into the bank that held the railroad grade. Jimâ€™s logs slid forward just
 missing the cab but saving his life. As he walked away from that no one
 could believe he got out of it alive.
 
 The Wolf Creek Underpass is a danger to any logging truck that is loaded
-too high with logs. A downhill-traveling logging truck’s highest log is
+too high with logs. A downhill-traveling logging truckâ€™s highest log is
 known as the "peakert." Striking the overpass, a peakert would jam
 underneath the structure, stopping the truck and blocking Highway 89. "I
 even hit it with a load of logs," laughs Jack Thomas. "There was a sign
@@ -307,8 +308,8 @@ raised the level of the highway."
 
 In a second Wolf Creek Underpass accident, another Hopkins logging truck
 was jammed under the overpass as a second fully loaded logging truck was
-coming down the Wolf Creek summit. "One of Indian Valley’s Defanti
-brothers was the driver and couldn’t stop in time. To avoid hitting the
+coming down the Wolf Creek summit. "One of Indian Valleyâ€™s Defanti
+brothers was the driver and couldnâ€™t stop in time. To avoid hitting the
 logging truck jammed under the overpass, the driver drove off the
 highway into the brush," remembers Jack Thomas. Fortunately, in all of
 this, there were no serious injuries to the truck drivers or to other
@@ -316,11 +317,11 @@ motorists, but there was substantial damage to the logging trucks. The
 Wolf Creek Underpass still stands today, stubborn and defiant, chips of
 concrete taken out of its structure where logs have collided.
 
-Jack’s favorite logging truck was a beautiful sky-blue Gobbler, so named
+Jackâ€™s favorite logging truck was a beautiful sky-blue Gobbler, so named
 for the sound of its purring engine when idling. As we live our lives we
 are remembered both for the smaller things and the larger things. When
 Jack had something firmly in mind he did it. Without consulting Evelyn,
-he withdrew the family’s savings of $5000.00 from the Indian Valley Bank
+he withdrew the familyâ€™s savings of $5000.00 from the Indian Valley Bank
 and took the money to Reno, Nevada to purchase the Gobbler. Evelyn saw
 the truck for the first time from the laundry room window of our home as
 Jack proudly drove his new logging truck into the Greenville truck yard.
@@ -332,11 +333,11 @@ Lake Timber Sale c.
 1967.](../assets/images/Jack%20Hopkins%20story%20by%20his%20son%20Bill/media/image9.jpeg)
 
 The wreck of the Gobbler on the road to the Greenville Saddle, Homer
-Lake Timber Sale c. 1967.
+Lake Timber Sale c.Â 1967.
 
 Gobbler went on to serve well, but had suffered three accidents in its
 logging career until it was finally destroyed when it met another
-logging truck on a narrow soft-shouldered dirt road forcing Gobbler’s
+logging truck on a narrow soft-shouldered dirt road forcing Gobblerâ€™s
 driver to the side and over the bank with a full load of logs.
 
 A most spectacular accident occurred when one of the Hopkins logging
@@ -344,7 +345,7 @@ trucks lost its drive-line shaft and braking power while returning empty
 from the saw mill in Greenville to Swain Mountain. "The driver was a
 young driver who was not a good driver," remembers Bob Stoy. "I told
 this fellow to hang his log wrappers up high on the rack behind the cab
-so they wouldn’t dangle down where they might catch on something." It
+so they wouldnâ€™t dangle down where they might catch on something." It
 was good advice not taken. "We later found the drive line sticking in a
 tree near the community of Canyon Dam. A wrapper was wrapped all around
 it and as it took the drive shaft out it also severed all air hoses to
@@ -359,12 +360,12 @@ the Lake Almanor Dam.
 
 Construction workers were working on the spillway that year and the old
 road went down lower than where it is today. With lost brakes and unable
-to shift down, the driver couldn’t slow down or stop for the
+to shift down, the driver couldnâ€™t slow down or stop for the
 construction. He turned down the old detour road but it was closed off
 at the bottom so he turned up an incline and rolled the truck over at
 the spillway.
 
-"The driver’s mother tried to sue the Hopkins Logging Company," recalled
+"The driverâ€™s mother tried to sue the Hopkins Logging Company," recalled
 Bob Stoy. "He had plenty of room and time to pull off the highway and
 come to a stop, but he kept going straight ahead and down the hill to
 the Almanor Dam, rolling the logging truck. They never did file the
@@ -374,16 +375,16 @@ logging suit, but the threat helped to create Timber Trucking, Inc., in
 In another instance, a Cat D-7 was left idling too close to an area of
 active timber cutting. A large Ponderosa pine fell backwards off the
 stump in an unintended direction, falling off a high bank and over the
-top of the Cat, crushing the Cat’s canopy into the driver’s seat and
+top of the Cat, crushing the Catâ€™s canopy into the driverâ€™s seat and
 controls.
 
 ![A three-log load of white fir. Homer Lake Timber Sale c.
 1967.](../assets/images/Jack%20Hopkins%20story%20by%20his%20son%20Bill/media/image10.jpeg)
 
-A three-log load of white fir. Homer Lake Timber Sale c. 1967.
+A three-log load of white fir. Homer Lake Timber Sale c.Â 1967.
 
 These accidents hurt both financially and personally. In order to
-protect the main body of the Hopkins Logging Company’s assets from
+protect the main body of the Hopkins Logging Companyâ€™s assets from
 liability, Jack and Evelyn created a new firm in August 1963, calling it
 Timber Trucking, Incorporated. Placing all their logging trucks within
 this business umbrella, gypo logging truck driver, Bob Stoy of
@@ -427,17 +428,17 @@ obtain lift that is more common on the coast in Oregon, Washington and
 Alaska.  
 Here, Cat skinner Maurice Olson of (Portola) Keddie poses with the Cat
 D-7 with a hydraulic dozer that my father named Tweety Bird. Swain
-Mountain c. 1965.
+Mountain c.Â 1965.
 
 Along with two logging arches hitched to the back of the D-7 Cats for
 lifting the ends of logs off the ground for ease in skidding, there was
 a new D-7 hydraulic bladed Caterpillar. This Cat was special and had a
 high tone to its engine when idling. Jack affectionately named it Tweety
-Bird. Tweety Bird became one of Jack’s favorite Caterpillars, and only
+Bird. Tweety Bird became one of Jackâ€™s favorite Caterpillars, and only
 one of his senior-most employees, Cat skinner Don Oberg was its
 operator.
 
-Jack’s Northwest Model 6 loader with a Young heel boom and log grapples
+Jackâ€™s Northwest Model 6 loader with a Young heel boom and log grapples
 for loading logs onto logging trucks was the centerpiece and became the
 apple of his eye. Not conforming to his tradition of naming each piece
 of equipment, Jack never gave this machine a name, instead referring to
@@ -446,7 +447,7 @@ it simply as "the Northwest."
 Possessing a natural ability and aptitude for operating heavy equipment,
 my brother Jim began to practice with the Northwest, tossing unwanted
 chunks, culled logs, and debris to the edge of the landing. Jack
-recognized Jim’s talent, and when Jim was fourteen years old, Jack had
+recognized Jimâ€™s talent, and when Jim was fourteen years old, Jack had
 him loading logging trucks. At the time, our youngest brother Tom was
 too young to work in the woods.
 
@@ -468,7 +469,7 @@ grapples. Swain Mountain c.
 1965](../assets/images/Jack%20Hopkins%20story%20by%20his%20son%20Bill/media/image12.jpeg)
 
 The Northwest Model 6 with a Young heel boom, out riggers and grapples.
-Swain Mountain c. 1965
+Swain Mountain c.Â 1965
 
 "It was not underpowered and had an old Cat engine. She could handle any
 log we gave it," describes Jim. "We had to hand-crank it to start it and
@@ -486,12 +487,12 @@ logging truck.
 
 "A truck belonging to a gypo logger backed into position for unloading
 his trailer riding piggyback on the truck. The driver jumped out of his
-truck and went up to Dad shouting, ‘Get that kid out of here; he’s not
-loading my truck\!’
+truck and went up to Dad shouting, â€˜Get that kid out of here; heâ€™s not
+loading my truck\!â€™
 
-"Dad told him while pointing down the road, ‘My son stays and loads your
-truck or else you can get out of here\!’ Jack and Evelyn had always
-supported their sons’ endeavors.
+"Dad told him while pointing down the road, â€˜My son stays and loads your
+truck or else you can get out of here\!â€™ Jack and Evelyn had always
+supported their sonsâ€™ endeavors.
 
 "Angry, the man jumped into the cab of his truck and drove away empty in
 a cloud of dust," Jim discloses. "The next driver was a truck driver
@@ -510,7 +511,7 @@ his field mechanics devised an ingenious method of loading logs. It was
 a homemade loader made from an old logging arch on tracks. A logging
 truck trailer reach was welded to the arch to make an extended boom.
 With arch and extended boom hooked up to the back of a Cat, the cable on
-the Cat’s Hyster winch drum was run up the arch and boom. On the end of
+the Catâ€™s Hyster winch drum was run up the arch and boom. On the end of
 the cable was a sling with a set of end hooks. It was similar to the
 older A-frame loading systems.
 
@@ -531,12 +532,12 @@ as "crummys" to haul crew to and from work in the woods.
 As their company grew so too did their large shop with its inventory of
 tools and spare parts in order to perform the increasing amount of
 maintenance. Operating three different logging sides placed an enormous
-amount of demand on Jack’s time. He dealt with crew problems, parts and
+amount of demand on Jackâ€™s time. He dealt with crew problems, parts and
 fuel supply logistics, dispatching field mechanics and numerous other
 issues. Forgoing a normal family life and hard work make a logging show
 succeed. With a spiral-bound notepad kept in his right-hand shirt
 pocket, Jack jotted down notes to himself, parts numbers, telephone
-numbers, names, dates, times and places – the markings of an active
+numbers, names, dates, times and places â€“ the markings of an active
 mind.
 
 ![My hard-working mother and father, Jack and Evelyn Hopkins,
@@ -544,7 +545,7 @@ Greenville, CA. c.
 1966.](../assets/images/Jack%20Hopkins%20story%20by%20his%20son%20Bill/media/image13.jpeg)
 
 My hard-working mother and father, Jack and Evelyn Hopkins, Greenville,
-CA. c. 1966.
+CA. c.Â 1966.
 
 Behind every successful man stands a great woman. Evelyn was the de
 facto bookkeeper and upheld the Hopkins Logging Company office. Hers was
@@ -566,7 +567,7 @@ Tavern was a gathering place for loggers where strength was foolishly
 measured by how much one drank. Filing into the small bar with their
 stagged pants, Hickory shirts, some with suspenders, hard hats, wearing
 slippers and leaving their cork boots behind in their trucks, loud
-laughter and outbursts from the loggers spilled out into Taylorsville’s
+laughter and outbursts from the loggers spilled out into Taylorsvilleâ€™s
 quiet main street.
 
 For my brothers and I, it was a smoke-filled cavern with a long bar
@@ -597,7 +598,7 @@ Getting up early, Jack came into our bedroom each morning, turning on
 the bright light, uttering good-naturedly, "Rise and shine with the
 Waterman Line. Hit the deck you mattress backs\!" With sleep in our
 eyes, we tumbled out of our beds to the smell of breakfast already
-cooking on our mother’s kitchen stove.
+cooking on our motherâ€™s kitchen stove.
 
 There is nothing like watching the teamwork of a well-executed logging
 show. We watched timber fallers at work cutting timber and heard the big
@@ -618,7 +619,7 @@ winched with powerful Hyster winches mounted on the back of each Cat.
 
 On flatter ground, a Cat was hooked up to a logging arch. More difficult
 to maneuver with an arch in tow, but as already mentioned, it allowed
-logs to be lifted off the ground on one end for easier skidding. Jack’s
+logs to be lifted off the ground on one end for easier skidding. Jackâ€™s
 two logging arches were each a little different. One, a wheeled arch
 with large aircraft tires, while the other had steel tracks.
 
@@ -650,13 +651,13 @@ leadership style for strengthening, helping and upholding his crew. When
 we as his sons or members of his crew did something well, he praised us.
 In the toughest situations, Jack could usually crack a confident smile
 and say, "The bigger they are, the harder they fall." When things were
-going well, Jack would say with pride, "Let’s get to getting while the
-getting is good," or "Now we’re logging," or "Slick as a whistle," or
-"Steady she goes\!" This last being a derivation of the Sailor’s Union
-of the Pacific motto "Steady as she goes," an indication of Jack’s
+going well, Jack would say with pride, "Letâ€™s get to getting while the
+getting is good," or "Now weâ€™re logging," or "Slick as a whistle," or
+"Steady she goes\!" This last being a derivation of the Sailorâ€™s Union
+of the Pacific motto "Steady as she goes," an indication of Jackâ€™s
 maritime background. Willing to try new things, Jack would say, "Give it
-a whirl." Signaling the end of a long day, he would say, "Let’s head for
-the barn and rustle up some grub," with a reminder, "Don’t tell your
+a whirl." Signaling the end of a long day, he would say, "Letâ€™s head for
+the barn and rustle up some grub," with a reminder, "Donâ€™t tell your
 mother what we did today."
 
 Standing 5-feet and 10-inches tall and weighing 175 lb, he was a man
@@ -680,14 +681,14 @@ better, you can return to work."
 Elmer, reluctant to move as ordered, said, "I can handle her, Jack. I
 want to go to work."
 
-When he barked an order, Jack’s expectation was that you jump to it.
+When he barked an order, Jackâ€™s expectation was that you jump to it.
 Before Elmer could say anymore, Jack reached across a crewman grabbing
 Elmer on the far side of the bench seat by the front of his shirt and
 dragging him bodily out of the crummy to the ground, like pulling a log
 through the brush with a Hyster winch mounted to the back of a Cat,
 suddenly and powerfully.
 
-"Come back when you’re sober," commanded Jack. Dusting himself off,
+"Come back when youâ€™re sober," commanded Jack. Dusting himself off,
 Elmer stumbled away. Regardless, Elmer stubbornly made his way to the
 logging site that morning and Jack had to fire him.
 
@@ -707,8 +708,8 @@ his shop buildings, cleaning up the truck yard, or washing the logging
 trucks.
 
 "I have heard said by those who would know," confirms Robert Cameron,
-"that Jack Hopkins could operate any equipment that ‘had a lever on
-it.’ He was Paul Bunyanesque to the kids around Greenville and to the
+"that Jack Hopkins could operate any equipment that â€˜had a lever on
+it.â€™ He was Paul Bunyanesque to the kids around Greenville and to the
 tough men who worked for him."
 
 With fondness and pride, Jack often said of his loggers, "They are the
@@ -725,14 +726,14 @@ into air breathers to get cold and stubborn diesel engines to start,
 when our Dad came over to stand between us, putting his powerful arms
 around our shoulders saying, "What do you boys see out there?" We
 replied, "Nothing, it is too dark to see anything." Expressing his work
-ethic our father said, "That’s right boys, and this is how it’s going to
-look when we stop working tonight. Let’s get this show rolling. We
-didn’t come up here to pick daisies."
+ethic our father said, "Thatâ€™s right boys, and this is how itâ€™s going to
+look when we stop working tonight. Letâ€™s get this show rolling. We
+didnâ€™t come up here to pick daisies."
 
 With the customary highball sign, cries of "Let her rip\!" and "Go ahead
 on her\!" were heard as loggers headed into the woods and Cat skinners
 revved up their engines. All of these phrases and hand gestures meaning,
-"Let’s get to work\!" Loggers scattered to their tasks amid the sounds
+"Letâ€™s get to work\!" Loggers scattered to their tasks amid the sounds
 of chainsaws, heavy machinery, the clatter of steel Cat tracks, stirred
 up dust, and in the distance the sound of big timber crashing to the
 earth.

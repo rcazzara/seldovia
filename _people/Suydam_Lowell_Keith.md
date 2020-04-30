@@ -5,10 +5,11 @@ given_names: "Lowell Keith"
 source_file: "Suydam Family"
 born: nil
 died: nil
+cemetry_plot: 554
 ---
 # Lowell Keith Suydam
 
-**January 27, 1953, Chignik Lagoon, Alaska – December 2, 1987, Seldovia,
+**January 27, 1953, Chignik Lagoon, Alaska â€“ December 2, 1987, Seldovia,
 Alaska**
 
 **Lowell Keith Suydam** was born to **\[Floyd Lowell Suydam\]** and
@@ -23,7 +24,7 @@ amiss, not working, new or broken.
 
 It was a whirlwind romance as Lowell and Marcella met in Seldovia in
 December 1983, became engaged on Valentine's Day 1984 and were married
-at the Seldovia Bible Chapel eight months later, on Oct. 13, 1984.
+at the Seldovia Bible Chapel eight months later, on Oct.Â 13, 1984.
 Lowell put his wife and children above all else in his life, doing
 whatever he could to ensure their thriving future through both financial
 support and his own wisdom and generous love. One of his greatest joys

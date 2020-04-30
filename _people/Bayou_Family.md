@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "BAYOU FAMILY"
 born: nil
 died: nil
+cemetry_plot: 90
 ---
 # Bayou Family
 
@@ -24,12 +25,12 @@ married 2<sup>nd</sup> Eva Odoyiah Hunter September 22, 1925. Wassilii
 was a trapper in Seldovia at the time of the 1930 census. He died May
 10, 1937 and is buried in Seldovia City Cemetery, Plot \# 91.
 
-**Eva ODOYIAH BACKOFF Hunter Bayou** b. 1882, d. 1937, married 1st
+**Eva ODOYIAH BACKOFF Hunter Bayou** b. 1882, d.Â 1937, married 1st
 [William Hunter](HUNTER%20FAMILY.md), and after his death she Wassilii
 Bayou and they were living in Seldovia with her children in 1930. She is
 buried in Seldovia City Cemetery, next to Wassilii in Plot \#90.
 
-**Martha Gussoff Bayou** b. 1902, d. June 10, 1938; buried in Seldovia
+**Martha Gussoff Bayou** b. 1902, d.Â June 10, 1938; buried in Seldovia
 City Cemetery. Martha was the daughter of Theodore "Fred" Gussoff who
 lived in Seldovia in 1930 as a widower with a son Mike Gussoff. She
 married **Alfred Wassilii Bayou** on March 28, 1919 in Kenai, Alaska.

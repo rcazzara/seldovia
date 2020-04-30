@@ -5,10 +5,11 @@ given_names: "Alice Larsen"
 source_file: "Ted and Alice Nutbeem"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Alice LARSEN Nutbeem
 
-**September 15, 1899, Unga, Alaska – July 13, 1990, Homer,
+**September 15, 1899, Unga, Alaska â€“ July 13, 1990, Homer,
 Alaska**![](../assets/images/Ted%20and%20Alice%20Nutbeem/media/image1.jpeg)
 
 **Theodore "Ted" NUTBEEM** was the son of Albert and Nadezda Nutbeem.
@@ -57,7 +58,7 @@ Kenai Peninsula where they homesteaded in Halibut Cove before moving to
 Seldovia to make it a permanent home. Ted and his wife Alice held the
 positions of cook and baker on ships that traveled the Alaska coast from
 southcentral Alaska to the Aleutian Islands. Later Ted worked as a baker
-in Seldovia. Ted and his wife Alice had no children. After Ted’s death
+in Seldovia. Ted and his wife Alice had no children. After Tedâ€™s death
 Alice continued to live in Seldovia the rest of her life, traveling only
 to visit her Alaska and Washington State family.
 
@@ -69,23 +70,23 @@ about her a little bit?
 LAUREL BAIRD: Oh, she was wonderful. She was this little lady that --
 she just adored her husband Ted, and they have a wonderful story, too.
 
-She’s from Unga. Ted was in the Jessie Lee home, and then they got
+Sheâ€™s from Unga. Ted was in the Jessie Lee home, and then they got
 married. And then he got very ill with cancer and passed away and is
 buried here in the Seldovia cemetery.
 
 And she was just loyal, keeping his grave always clean, and she just
-adored him. Before that they had a restaurant called Ted’s Café here?
+adored him. Before that they had a restaurant called Tedâ€™s CafÃ© here?
 And I guess he was a wonderful cook and so she learned all about that
 business.
 
 And so she was always in the food area. She worked in the cannery in the
-summertime. She worked at Libby -- Libby’s Cannery up in Kenai, and we
-always missed her when she’d leave in the spring to go up there, and she
+summertime. She worked at Libby -- Libbyâ€™s Cannery up in Kenai, and we
+always missed her when sheâ€™d leave in the spring to go up there, and she
 worked in the cookhouse.
 
-And then after Libby’s closed she came here and worked in the cookhouse
+And then after Libbyâ€™s closed she came here and worked in the cookhouse
 at the AYR cannery. But she would come to the house every morning and
-have coffee with my family, and then she’d come in the afternoon
+have coffee with my family, and then sheâ€™d come in the afternoon
 whenever Mom needed somebody to watch us kids, she watched us for long
 periods of time.
 
@@ -96,7 +97,7 @@ went off to school.
 She taught us how to stitch, and she was very particular about her
 stitching. So she made us do beautiful handwork.
 
-And then she’s our godmother, because she insisted that we be baptized
+And then sheâ€™s our godmother, because she insisted that we be baptized
 in the Methodist church, so we were baptized when we were older.
 
 And Alice was -- knew both my mom and dad from the Chignik area, from
@@ -105,23 +106,23 @@ the "Old Star," they all had gone the same pathways and -- with the
 fishing industry and the mining industry in -- out in Unga.
 
 So she had a lot of great stories to tell. And she was a wonderful,
-loving person and a very dear friend of my mom’s.
+loving person and a very dear friend of my momâ€™s.
 
 Alice lived up the slough, and she had -- her -- the original house that
 her and Ted built was a tent. So it was one of those white canvas tents.
 
-And then they just added wood around it, and so it really wasn’t
+And then they just added wood around it, and so it really wasnâ€™t
 insulated, because when the wind blows, it would -- inside, you could
 see the tent moving. But it was warm and cozy in there. There was a
 great little enamel stove.
 
-And it didn’t have a bathroom, and then it had one little area that was
+And it didnâ€™t have a bathroom, and then it had one little area that was
 like the bedroom. And we loved being able to stay over there because she
 had --
 
 When she was sixteen years old, she got this featherbed that was made
 out of feathers from Unga, and she would fluff that featherbed up and
-then she’d let us come and spend the night. And we got to sleep in the
+then sheâ€™d let us come and spend the night. And we got to sleep in the
 featherbed and always loved that.
 
 And then she had this little table by the one window in her house, and
@@ -130,13 +131,13 @@ and I talk about it. We liked just the little table with a window like
 that and a little old-fashioned radio with a dial on it. We both know
 exactly what that radio looked like and the alarm clock next to it.
 
-And we’d sit there and have coffee at her house with her and just loved
-bein’ up there. And to this day, Loretta and I always talk about goin’
-to Alice’s and being able to spend time there.
+And weâ€™d sit there and have coffee at her house with her and just loved
+beinâ€™ up there. And to this day, Loretta and I always talk about goinâ€™
+to Aliceâ€™s and being able to spend time there.
 
 Eventually, she got a bathroom in her home. That was nice -- nice for
-her. But she loved to garden, and she’d just bring in soil because she
-didn’t have the best soil up there. So she’d bring it in, and she’d work
+her. But she loved to garden, and sheâ€™d just bring in soil because she
+didnâ€™t have the best soil up there. So sheâ€™d bring it in, and sheâ€™d work
 it, and put fertilizer in it.
 
 There was a dairy farm up the slough, and so she would bring manure and
@@ -145,6 +146,6 @@ stuff and enrich the garden.
 And she grew wonderful things. She had big bunches of petrushkies in her
 garden -- we put on our fish. For seasoning it was wonderful.
 
-And she’d always bring us goosetongues in the spring, when the
+And sheâ€™d always bring us goosetongues in the spring, when the
 goosetongues first came out. And she -- we would go to the beach and get
 bidarkis, and we got goosetongues out by the beach, too.

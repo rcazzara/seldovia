@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "Waterbury Family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # WATERBURY FAMILY
 
@@ -12,7 +13,7 @@ died: nil
 
 The Waterbury family line in Seldovia begins with Russell Seville, Sr.
 
-**Russell Waterbury, Sr. was born October 6, 1885 in Minnesota. His
+**Russell Waterbury, Sr.Â was born October 6, 1885 in Minnesota. His
 father, Thomas, was from Canada and his mother, Zulina, from New York.
 He lived in Wrangell in 1917 when he registered for the US Military
 draft in WWI. He listed his occupation as Marine Fireman, and he worked
@@ -35,7 +36,7 @@ Seldovia May 21, 1996
 
 **Marion WATERBURY Collier** was born April 18, 1936, in Seldovia,
 Alaska. She married Louis Collier . They built, owned and operated "The
-Centurion", a restaurant on Seldovia’s Main Street.
+Centurion", a restaurant on Seldoviaâ€™s Main Street.
 
 **Axenia Lulu QUIJANCE Waterbury,** born 1953 in Seattle, Washington,
 was daughter of **Alfred** and **Margaret Shugak Quijance** and the wife

@@ -3,23 +3,24 @@ full_name: "Nick Grienoff ELXNIT"
 family_name: "Elxnit"
 given_names: "Nick Grienoff"
 source_file: "Nick Grienoff ELXNIT"
-born: "Nov. 3, 1903, Kodiak, Alaska "
+born: "Nov.Â 3, 1903, Kodiak, Alaska "
 died: " May 26, 2001, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Nick Grienoff ELXNIT
 
-## Nov. 3, 1903, Kodiak, Alaska – May 26, 2001, Seldovia, Alaska
+## Nov.Â 3, 1903, Kodiak, Alaska â€“ May 26, 2001, Seldovia, Alaska
 
-**Nick Grienoff Elxnit** was born in Kodiak on Nov. 3, 1903, to
+**Nick Grienoff Elxnit** was born in Kodiak on Nov.Â 3, 1903, to
 Alexandra Fomin, of Aleut and Russian descent, and Harry Grienoff of
 Finland.
 
-Mr. Elxnit was born in Kodiak His stepfather was Alex Elxnit of
+Mr.Â Elxnit was born in Kodiak His stepfather was Alex Elxnit of
 Seldovia.
 
 Following the Mount Katmai eruption in 1913, the family left Kodiak on
 the steamer Manning for Seldovia, where his maternal grandfather,
-Nicholas Fomin, was a schoolteacher and lay reader at St. Nicholas
+Nicholas Fomin, was a schoolteacher and lay reader at St.Â Nicholas
 Orthodox Church. The family lived in Ninilchik for several years before
 the herring boom brought them back to Seldovia in 1919.
 
@@ -34,7 +35,7 @@ he helped build Seldovia's famous boardwalk. He danced during Russian
 Christmas and was known for his fish head soup.
 
 "Nick loved life and the outdoors, with never an unkind word or
-complaint. This and his lively opinions about modern life vs. the 'old
+complaint. This and his lively opinions about modern life vs.Â the 'old
 ways,' earned him many dear friends and admirers. Nick's unfailing
 memory and his willingness to share his experiences ensured that the
 tales of old Seldovia will live on," his family said. "As a respected
@@ -43,8 +44,8 @@ grieves the passing of its oldest and most beloved member."
 
 Nick. Elxnit was one of 23 Alaska Native elders featured in the book
 "Our Stories, Our Lives," published in 1986 by The CIRI Foundation.
-Following are excerpts of Mr. Elxnit's comments in the book. The full
-text of Mr. Elxnit's interview is available on the CIRI website. ...  
+Following are excerpts of Mr.Â Elxnit's comments in the book. The full
+text of Mr.Â Elxnit's interview is available on the CIRI website. ...  
   
 *"... My father was Harry Grienoff. He was a Finlander. My mother's dad
 was Russian. She was Alaskan. Her mother was Native-born, Native
@@ -60,7 +61,7 @@ after the boat. She goes by that name yet.
 My mother used to speak Russian. Course we did. Pretty much at home used
 to speak Russian all the time.  
   
-(Mr. Elxnit recalls the eruption of Mt. Katmai in 1912.) I remember it
+(Mr.Â Elxnit recalls the eruption of Mt. Katmai in 1912.) I remember it
 was month of June (in Kodiak). It was nice sunny morning like today. But
 towards noon hour, clouded up. It got darkness. And by two or three
 o'clock it got dark. Of course, those days there was no such a thing as
@@ -126,4 +127,4 @@ He remained a Seldovia resident until January when complications from a
 fall compelled him to move to the Anchorage Pioneers Home. He died at
 the Alaska Native Medical Center in Anchorage on Saturday, May 26, 2001.
 He was 97. Orthodox services and burial were held in Seldovia Saturday,
-June 2. Mr. Elxnit was preceded in death by his sister, Dora Ursin.
+June 2. Mr.Â Elxnit was preceded in death by his sister, Dora Ursin.

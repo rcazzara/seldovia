@@ -5,10 +5,11 @@ given_names: "Velma Evelyn Shafford"
 source_file: "John Roe and Wives"
 born: nil
 died: nil
+cemetry_plot: 81
 ---
 # Velma Evelyn Shafford Roe
 
-**Decemer 6, 1913, Rocky Ford, Colorado – May 29, 1945, Seldovia,
+**Decemer 6, 1913, Rocky Ford, Colorado â€“ May 29, 1945, Seldovia,
 Alaska**
 
 **John Gustav Johnsen Roe** was born July 11, 1893 in Trondheim, Norway

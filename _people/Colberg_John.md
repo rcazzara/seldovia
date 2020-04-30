@@ -5,10 +5,11 @@ given_names: "John"
 source_file: "COLBERG Family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # John Colberg
 
-**March 28, 1887, Mo i Rana, Norway – November 15, 1969, Seldovia,
+**March 28, 1887, Mo i Rana, Norway â€“ November 15, 1969, Seldovia,
 Alaska**
 
 **JOHN COLBERG** was born on March 28, 1887, in Mo i Rana, Helgeland,

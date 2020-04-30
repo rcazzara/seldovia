@@ -5,9 +5,10 @@ given_names: "Anna J. Dartgige"
 source_file: "John Roe and Wives"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Anna J. Dartgige Roe
 
-**April 18, 1877, Sur Meymont**, **France – September 30, 1941,
+**April 18, 1877, Sur Meymont**, **France â€“ September 30, 1941,
 Seldovia, Alaska**
 

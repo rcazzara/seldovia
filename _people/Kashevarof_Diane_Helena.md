@@ -5,10 +5,11 @@ given_names: "Diane Helena"
 source_file: "Katherine Fox Kashevarof"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Diane Helena KASHEVAROF
 
-**September 30, 1943, Juneau, Alaska – October 20, 1949, Anchorage,
+**September 30, 1943, Juneau, Alaska â€“ October 20, 1949, Anchorage,
 Alaska**
 
 **Katherine FOX Kashevarof**, was born May 6, 1906, in Unga. Her father,
@@ -31,7 +32,7 @@ She and her family lived in Unalaska during World War II. On June 3,
 1942, the Japanese bombed their home in Unalaska. The family, along with
 the other villagers, was evacuated to White Salmon, Wash., until 1944.
 When they returned to Unalaska, they found their home in a shambles. Her
-husband died in 1945. From 1948-50, Mrs. Kashevarof owned and operated
+husband died in 1945. From 1948-50, Mrs.Â Kashevarof owned and operated
 Kate's Kozy Kitchen, a restaurant and bakery in Unalaska. The family
 moved to Seldovia in 1951, and Katherine clerked in Morris's General
 Store, and worked in Wakefield Seafoods crab plant. In 1975, a new

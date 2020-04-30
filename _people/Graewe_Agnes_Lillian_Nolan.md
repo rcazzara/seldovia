@@ -5,10 +5,11 @@ given_names: "Agnes Lillian Nolan"
 source_file: "Agnes Lillian Nolan Graewe"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Agnes Lillian Nolan Graewe
 
-**November 13, 1882, Chicago, Illinois – September 20, 1947, Seldovia,
+**November 13, 1882, Chicago, Illinois â€“ September 20, 1947, Seldovia,
 Alaska**
 
 **Agnes Lillian** **Nolan** was born in Chicago, Illinois November 13,

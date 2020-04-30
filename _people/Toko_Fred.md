@@ -5,10 +5,11 @@ given_names: "Fred"
 source_file: "Toko FAMILY"
 born: "1882, Alaska "
 died: " 1945, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Fred Toko
 
-## 1882, Alaska – 1945, Seldovia, Alaska
+## 1882, Alaska â€“ 1945, Seldovia, Alaska
 
 When
 

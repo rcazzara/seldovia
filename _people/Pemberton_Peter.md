@@ -4,11 +4,12 @@ family_name: "Pemberton"
 given_names: "Peter"
 source_file: "Peter Pemberton"
 born: "1859 in Massachusetts "
-died: " Dec. 26, 1940, Seldovia, AK"
+died: " Dec.Â 26, 1940, Seldovia, AK"
+cemetry_plot: 
 ---
 # Peter Pemberton
 
-## 1859 in Massachusetts – Dec. 26, 1940, Seldovia, AK
+## 1859 in Massachusetts â€“ Dec.Â 26, 1940, Seldovia, AK
 
 **Peter "Pete" Pemberton** was born in Massachusetts sometime between
 1859 and 1862. He first shows up in Alaska records in 1910 when he was

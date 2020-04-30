@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "Yuth Family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # YUTH Family
 

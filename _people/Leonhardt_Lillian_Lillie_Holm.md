@@ -1,14 +1,15 @@
 ---
-full_name: "Lillian "Lillie" Holm Leonhardt"
+full_name: "Lillian \"Lillie\" Holm Leonhardt"
 family_name: "Leonhardt"
-given_names: "Lillian "Lillie" Holm"
+given_names: "Lillian \"Lillie\" Holm"
 source_file: "Hary Leonhardt and wives"
 born: "1891, California "
 died: " 1956, Diller, Nebraska"
+cemetry_plot: 114
 ---
 # Lillian "Lillie" Holm Leonhardt
 
-## 1891, California – 1956, Diller, Nebraska
+## 1891, California â€“ 1956, Diller, Nebraska
 
 **Harry Alfred Leonhardt** was born in Leipzeig, Germany on November 2,
 1881. He immigrated to the US in 1905 and became a naturalized US
@@ -20,11 +21,11 @@ farm there.
 
 Elsa Pedersen wrote a book "*Kachemak Bay Years*" a memoir of her life
 with her husband Ted Pedersen on a homestead at Bear Cove where they
-were Harry’s neighbors. She said " When we arrived (in 1944) Harry
+were Harryâ€™s neighbors. She said " When we arrived (in 1944) Harry
 Leonhardt was in his mid-60s with luxuriant white hair, craggy, ruddy,
 weather-seamed features and an enormous bulbous nose that dominated his
 face. He was always neat and fastidious. He spoke with a heavy German
-accent although he had left his homeland nearly 50 years earlier… He
+accent although he had left his homeland nearly 50 years earlierâ€¦ He
 walked with a rolling gait that at first I thought was a leftover of his
 years at sea. Later I learned he suffered from extremely painful
 frostbitten feet.
@@ -37,21 +38,21 @@ from the bluffs of the Homer side of the bay and catch and salt salmon
 and herring and capitalize on the discovery of oil on the west side of
 Cook Inlet. The company sent a work party of three Finn men who spent
 two years at the Cove and built several log houses. They also cut a wide
-right-of way for a road or a tramway that was still visible in 1944…
+right-of way for a road or a tramway that was still visible in 1944â€¦
 After the senior promotor died in 1905, the Port Axel project gradually
 failed. Harry, Jenny and their fox farmer partner"Paddy" Patterson, took
 over the place.
 
-Harry’s frostbite story was also recounted by Elsa Pedersen: "Years
+Harryâ€™s frostbite story was also recounted by Elsa Pedersen: "Years
 earlier, before they owned the Nell, Harry had set out for Seldovia at
 the end of autumn in the large packing skiff powered with an outboard
-motor, to pick up the winter’s supply of groceries. He arrived in town
+motor, to pick up the winterâ€™s supply of groceries. He arrived in town
 without incident, loaded the next morning and was bound for home by
 noon. A light southwest breeze helped him on his way. For the first hour
 all went well. He was approaching McDonald Spit and Yukon Spit and Yukon
 Island when the engine sputtered. He made adjustments and it ran a few
 more minutes, then quit altogether. He could see the breeze was pushing
-him across the mouth of Kachemak Bay and up Cook Inlet. He couldn’t row;
+him across the mouth of Kachemak Bay and up Cook Inlet. He couldnâ€™t row;
 the skiff was too heavily laden and the oars were buried under the load.
 Drifting past Homer Spit he yelled and waived, but no one saw him. He
 knew that if he drifted to the middle of the Inlet he was doomed. The
@@ -61,11 +62,11 @@ the beach. At dusk he saw an obstruction ahead. He recognized the Bluff
 Point fish trap, now only a row of bare poles stuck in the water, the
 wire fencing and connecting planks removed for the winter. He managed to
 maneuver himself to the outermost pole and tied the skiff fast with the
-painter. He didn’t trust the skiff. It might break loose or swamp at any
+painter. He didnâ€™t trust the skiff. It might break loose or swamp at any
 time. He crawled up the fish trap pole as high as he could and lashed
 himself as firmly as possible. At the fox farm, Jenny and Paddy worried
-when Harry didn’t return on schedule. They had no way of communicating
-with town. When he didn’t show up by nightfall of the day he was
+when Harry didnâ€™t return on schedule. They had no way of communicating
+with town. When he didnâ€™t show up by nightfall of the day he was
 expected. Paddy prepared to go to town with their second skiff and
 outboard motor. He traveled near the beaches, hoping Harry had been
 forced ashore and was waiting to be rescued. When he reached town and
@@ -76,10 +77,10 @@ failed and set out again the following daylight. Harry hung on the trap
 pole two nights and two days. The skiff had drifted away the first
 night. Although his body remained dry, at every high tide his feet hung
 in the water. When the water ebbed, his wet feet frosted until he could
-no longer feel them. The boat that found him didn’t see him at first,
+no longer feel them. The boat that found him didnâ€™t see him at first,
 tied as he was like a bundle of rags to the trap pole. The fishermen
 made fast to an inside pole and Harry heard them talking on deck. His
-tongue was so swollen with thirst he couldn’t cry out. Finally he made
+tongue was so swollen with thirst he couldnâ€™t cry out. Finally he made
 some weak sounds that attracted their attention. He was tough and
 survived the ordeal, but his frosted, brine-soaked feet never healed.
 Every winter they swelled and the toes split open, and he was lame for
@@ -116,20 +117,20 @@ divorced her husband, he left the area, and she married Harry
 Leonhardt." They lived at his home in Bear Cove for a year or so, but
 they were also remodeling a home in Seldovia. She and Jennie were very
 different personalities and the locals were more comfortable with
-Jenny’s gusto and her occasional profanity, her hearty hospitality and
+Jennyâ€™s gusto and her occasional profanity, her hearty hospitality and
 the way she ordered Harry and Paddy around. They found Lillian more cool
 and distant.
 
 Harry and Lillian lived in Seldovia where he died on December 16, 1949.
 Again quoting Elsa Pedersen: "Harry Leonhardt had continued to insist
-that cigarettes wouldn’t hurt him as long as he rolled his own. He died
+that cigarettes wouldnâ€™t hurt him as long as he rolled his own. He died
 in Seldovia one morning in a coughing fit, over his first cup of coffee
 and a cigarette."
 
-Records for Lillie’s life other than with Harry are sketchy, but she was
+Records for Lillieâ€™s life other than with Harry are sketchy, but she was
 probably Lillian E. Holm, daughter of Gustav and Margaret Holm, born in
 San Francisco, California, who in 1920 married Arthur Chesney in
 Oakland, California, and they divorced and she remarried the person Elsa
-describes as Lillian’s husband before Harry. After Harry’s death,
+describes as Lillianâ€™s husband before Harry. After Harryâ€™s death,
 Lillian married Quinter Fry on October 15, 1952 in Diller, Nebraska. She
 died in Diller on March 20, 1956 and is buried there.

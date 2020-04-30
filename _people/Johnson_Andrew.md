@@ -5,10 +5,11 @@ given_names: "Andrew"
 source_file: "Andrew Johnson"
 born: "December 13, 1888, Kodiak, Alaska"
 died: " March 3, 1931, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Andrew Johnson
 
-## December 13, 1888, Kodiak, Alaska– March 3, 1931, Seldovia, Alaska
+## December 13, 1888, Kodiak, Alaskaâ€“ March 3, 1931, Seldovia, Alaska
 
 **Andrew Johnson was born in Finland on February 12, 1864, the son of
 John and Maggie Michelson. He immigrated to the US in 1888 and married

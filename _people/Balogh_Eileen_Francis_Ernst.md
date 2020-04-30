@@ -5,10 +5,11 @@ given_names: "Eileen Francis Ernst"
 source_file: "Balogh Family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Eileen Francis ERNST Balogh
 
-**February 7, 1914, Willoughby, Ohio – April 27, 1993, Seldovia,
+**February 7, 1914, Willoughby, Ohio â€“ April 27, 1993, Seldovia,
 Alaska**
 
 **Eileen Francis Ernst** was born February 7, 1914 in Ohio to Edward

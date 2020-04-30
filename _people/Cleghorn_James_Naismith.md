@@ -5,10 +5,11 @@ given_names: "James Naismith"
 source_file: "James Naismith Cleghorn family"
 born: "1852, Lewiston, NY "
 died: " 1928, Seldovia, Alaska"
+cemetry_plot: 195
 ---
 # James Naismith Cleghorn
 
-## 1852, Lewiston, NY – 1928, Seldovia, Alaska
+## 1852, Lewiston, NY â€“ 1928, Seldovia, Alaska
 
 **James Naismith Cleghorn, was born on November 22, 1852 in Lewiston,
 New York to Nasmith and Elizabeth Cleghorn. His father was born in
@@ -40,8 +41,8 @@ Wayne McVeagh was so concerned that he offered the Cleghorns free
 passage out of the area on a U.S. Revenue Cutter.**
 
 **By 1920, the family was operating a fox farm on Yukon Island. James
-Cleghorn and his wife are both buried in Seldovia’s Hillside Cemetery
-below the Russian Orthodox Church.  (James 1852-1928) (Mary
+Cleghorn and his wife are both buried in Seldoviaâ€™s Hillside Cemetery
+below the Russian Orthodox Church. Â (James 1852-1928) (Mary
 1866-1932).**
 
 ### James and Mary had 12 children:
@@ -49,31 +50,31 @@ below the Russian Orthodox Church.  (James 1852-1928) (Mary
 1.  **Kate Ballou, born 1892, was actually a step-daughter of James,
     so**
 
-2.  **Jennie  1894-1959**
+2.  **Jennie Â 1894-1959**
 
-3.  **Lucille Cleghorn Ollestad b. 1895, d. 1985; buried in Seldovia
-    City Cemetery – see Ollestad Family page. Memorial in Seldovia City
+3.  **Lucille Cleghorn Ollestad b. 1895, d.Â 1985; buried in Seldovia
+    City Cemetery â€“ see Ollestad Family page. Memorial in Seldovia City
     Cemetery , plot \#195. See OLLESTAD FAMILY.**
 
-4.  **James Cleghorn b. December 2, 1898 - d. July, 1971 Seldovia,
+4.  **James Cleghorn b. December 2, 1898 - d.Â July, 1971 Seldovia,
     Alaska, Seldovia City Cemetery , plot \#195.**
 
-5.  **Marie Xenia Cleghorn Fondahn,** Born in Old Tyonek on Jan. 14,
+5.  **Marie Xenia Cleghorn Fondahn,** Born in Old Tyonek on Jan.Â 14,
     1900, she married Edmund A. Fondahn, Sr. an early Alaska Pioneer.
     She had served as a volunteer at the Alaska Medical Center. During
     WWII she served as a translator for the Soviet vessels that docked
     in Seward.
 
-She and Edmund had 3 children, a son, Edmund A. Fondahn, Jr. and two
+She and Edmund had 3 children, a son, Edmund A. Fondahn, Jr.Â and two
 daughters, Karen Fondahn Swartz and Margaret Fondahn Ollestad. **Marie
-Xenia Cleghorn Fondahn listed her mother’s maiden name as Panfiloff in
+Xenia Cleghorn Fondahn listed her motherâ€™s maiden name as Panfiloff in
 her Social Security papers.**
 
 6.  **William Paul Cleghorn b. February 16, 1902-d. February 8, 1943,
     Seldovia, Alaska. His death certificate says his father's name was
     James Cleghorn and his mother's was Mary Paul (not Shitachka).**
 
-7.  **Eliza Cleghorn Colberg b. February 24, 1904-d. 1980; married John
+7.  **Eliza Cleghorn Colberg b. February 24, 1904-d.Â 1980; married John
     Colberg, b. March 28, 1887, died November 15, 1969, Seldovia,
     Alaska. See COLBERG FAMILY**
 

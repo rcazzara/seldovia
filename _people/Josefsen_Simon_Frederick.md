@@ -5,10 +5,11 @@ given_names: "Simon Frederick"
 source_file: "Josefson Family"
 born: nil
 died: nil
+cemetry_plot: 251
 ---
 # Simon Frederick Josefsen
 
-**October 23, 1930, Anchorage, Alaska – August 9, 1986, Seldovia,
+**October 23, 1930, Anchorage, Alaska â€“ August 9, 1986, Seldovia,
 Alaska**
 
 When **Simon Frederick Josefsen** was born on October 23, 1930, in

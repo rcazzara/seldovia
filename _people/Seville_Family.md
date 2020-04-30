@@ -5,21 +5,22 @@ given_names: "Family"
 source_file: "Seville Family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # SEVILLE FAMILY
 
 The **Seville** family line in Seldovia begins with Keith Edward
 Seville.
 
-**Keith Edward Seville, Sr. was born in Kalispell, Montana March 27,
+**Keith Edward Seville, Sr.Â was born in Kalispell, Montana March 27,
 1924. He and his wife Eva Reed had broughtfamily to Homer in 1968. When
-they lived in the Seldovia area, Keith was a logger. He** died Nov. 18,
+they lived in the Seldovia area, Keith was a logger. He** died Nov.Â 18,
 2010, at the Mira Vista Care Center in Mount Vernon, Wash. He is
 survived by children and grandchildren who still live in the Seldovia
 area.
 
 **Marion MOONIN Seville** was the second wife of Keith Edward Seville,
-Sr. (1924-2010). She was born Oct 29, 1932 in Seldovia and died Dec 18,
+Sr.Â (1924-2010). She was born Oct 29, 1932 in Seldovia and died Dec 18,
 1978 in Seldovia.
 
 **George Leslie Seville** was the son of Keith Seville and his first
@@ -27,17 +28,17 @@ wife, Eva Reed. He was born in Whitefish Montana, December 15, 1956. He
 came to Alaska and lived in Seldovia with his dad. He married Susan
 Moonin. He died in Seldovia August 10, 2009.
 
-**Keith Edward Seville, Jr. (April 14, 1951 -November 5, 2009)**
+**Keith Edward Seville, Jr.Â (April 14, 1951 -November 5, 2009)**
 
-Longtime Seldovia resident, **Mr. Keith Edward Seville Jr.**, 58, died
-Thursday, Nov. 5, 2009, at his home in Seldovia. Funeral services were
-held Wednesday, Nov. 11, 2009, in Nanwalek. Keith was interred at the
+Longtime Seldovia resident, **Mr.Â Keith Edward Seville Jr.**, 58, died
+Thursday, Nov.Â 5, 2009, at his home in Seldovia. Funeral services were
+held Wednesday, Nov.Â 11, 2009, in Nanwalek. Keith was interred at the
 Orthodox Cemetery in Nanwalek. Father Sergie Active officiated.
 Pallbearers included Kevin Seville, Keith Seville III, John Seville,
 Toby Seville, Johnny Moonin, Sarjus Moonin, Seraphim Ukatish Jr., and
 Nick Tanape Jr.  
   
-Mr. Seville was born April 14, 1951, to Keith Sr. and Eva (Middlerider)
+Mr.Â Seville was born April 14, 1951, to Keith Sr.Â and Eva (Middlerider)
 Seville in Whitefish, Mont. He became a resident of Homer in 1968. He
 attended and graduated from Homer High School. He lived in Nanwalek from
 1973 to 1982. In 1997, he moved to Oregon, living there until 2000.

@@ -5,10 +5,11 @@ given_names: "Albert Linus"
 source_file: "COLBERG Family"
 born: "April 24, 1896, Moe, Norway "
 died: " January 3, 1942, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Albert Linus Colberg
 
-## April 24, 1896, Moe, Norway – January 3, 1942, Seldovia, Alaska
+## April 24, 1896, Moe, Norway â€“ January 3, 1942, Seldovia, Alaska
 
 **Albert was naturalized in Seward in 1929. He was living on his own in
 Seldovia in 1930, working as a fisherman. He was a First Mate on the oil

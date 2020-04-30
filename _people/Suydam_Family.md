@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "Suydam Family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Suydam Family
 

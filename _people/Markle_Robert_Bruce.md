@@ -3,12 +3,13 @@ full_name: "Robert Bruce Markle"
 family_name: "Markle"
 given_names: "Robert Bruce"
 source_file: "Adam Bloch and English"
-born: "1842 – Monticello, Indiana "
+born: "1842 â€“ Monticello, Indiana "
 died: " May 28, 1920, Alaska"
+cemetry_plot: 
 ---
 # Robert Bruce Markle
 
-## 1842 – Monticello, Indiana – May 28, 1920, Alaska
+## 1842 â€“ Monticello, Indiana â€“ May 28, 1920, Alaska
 
 He was born in about 1842 in Monticello, White County, Indiana. He had
 nine known full siblings and two half-brothers (from his father's second

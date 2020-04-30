@@ -5,6 +5,7 @@ given_names: "Jenny (Moonin?) Romanoff"
 source_file: "Hary Leonhardt and wives"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Jenny (MOONIN?) Romanoff Leonhardt
 

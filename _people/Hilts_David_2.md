@@ -5,6 +5,7 @@ given_names: "David"
 source_file: "Romanoff FAMILY"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # David Hilts
 
@@ -19,7 +20,7 @@ it down and washed another deckhand off his feet, pushing him under the
 launch rack. The first sighting of David was when he was seen
 approximately 100 yards off the starboard stern of the vessel. All
 attempts to rescue him were unsuccessful. He disappeared beneath the
-vessel’s bow and was then seen sinking beneath the water. The Alliance
+vesselâ€™s bow and was then seen sinking beneath the water. The Alliance
 crew searched for many hours, returned to Seldovia and notified the
 Coast Guard, which conducted a thorough search for several days.
 

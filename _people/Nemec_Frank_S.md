@@ -5,10 +5,11 @@ given_names: "Frank S."
 source_file: "Frank Nemec"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Frank S. Nemec
 
-**October 31, 1883, Czech Republic – December 24, 1940, Seldovia,
+**October 31, 1883, Czech Republic â€“ December 24, 1940, Seldovia,
 Alaska**
 
 **Frank S. Nemec** was a barber working in the settlement of Homer at

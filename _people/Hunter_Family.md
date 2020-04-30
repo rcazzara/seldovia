@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "HUNTER FAMILY"
 born: nil
 died: nil
+cemetry_plot: 552
 ---
 # HUNTER Family
 
@@ -16,7 +17,7 @@ William, Mary, Theodore, Alice, and Lizzie. He died in 1917 in Kenai,
 leaving his wife with seven young children. She married Wassilie Bayou
 in 1925.
 
-**Eva ODOYIAH BACKOFF Hunter Bayou** b. 1882, d. 1937, married 1st
+**Eva ODOYIAH BACKOFF Hunter Bayou** b. 1882, d.Â 1937, married 1st
 William Hunter, 2<sup>nd</sup> Wassilie Bayou. Eva and Wassilie are
 buried beside each other in Seldovia City Cemetery, Plots \#90 and \#91.
 
@@ -31,9 +32,9 @@ buried beside each other in Seldovia City Cemetery, Plots \#90 and \#91.
 > Mary and Michael McDonough are buried in Seldovia City Cemetery, Plots
 > \#85 and \#156.
 > 
-> **William Hunter** b. 1920, d. 1966, William and two Seldovia friends
+> **William Hunter** b. 1920, d.Â 1966, William and two Seldovia friends
 > were killed in a house fire in Seldovia in 1966. He is buried in
 > Seldovia City Cemetery, Plot \#552.
 > 
-> **Sam Hunter**, b. Aug. 20, 1916, d. May 1951; buried in Seldovia City
+> **Sam Hunter**, b. Aug.Â 20, 1916, d.Â May 1951; buried in Seldovia City
 > Cemetery, Plot \#106.

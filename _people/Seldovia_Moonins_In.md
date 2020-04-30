@@ -5,6 +5,7 @@ given_names: "Moonins In"
 source_file: "MOONIN FAMILY"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Moonins in Seldovia
 

@@ -5,10 +5,11 @@ given_names: "Carl Harry"
 source_file: "Nordenson"
 born: "October 30, 1905, Mustadfors, Sweden "
 died: " January 6, 1968 Seldovia"
+cemetry_plot: 
 ---
 # Carl Harry Nordenson
 
-## October 30, 1905, Mustadfors, Sweden – January 6, 1968 Seldovia
+## October 30, 1905, Mustadfors, Sweden â€“ January 6, 1968 Seldovia
 
 **Carl Harry Nordenson** was born October 30, 1905 in Mustadfors,
 Sweden. He was a fisherman living in Seldovia when he met [Grace LLOYD

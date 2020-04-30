@@ -5,6 +5,7 @@ given_names: "Babies In The"
 source_file: "Cemetery Babies"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Babies in the Cemetery
 
@@ -12,7 +13,7 @@ died: nil
 | :------------------------------ | --- | ---------- | ------------- | --------------------- | ---- | --------- | ---------------- | --------- | ---------------- | ---- | --------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------- |
 | **BABIES in Seldovia Cemetery** |     |            |               |                       |      |           |                  |           |                  |      |                                                                 |                                                                                                                                   |
 | 1                               | 112 | Balashoff  | Baby          | Mike/Virginia's child | 1937 |           |                  | 30-Jan-37 | Seldovia, AK     | 1937 | Unmarked grave.                                                 | City Records. There are two Balashoff babies in one grave. Steve and this baby. Both are children of Mike and Virginia.           |
-| 1                               | 107 | Balashoff  | Ralph William | Mike/Virginia’s child | 1942 | 25-Apr-42 | Seldovia, AK     | 28-Jun-42 | Seldovia, AK     | 1942 | Unmarked grave. Identified by City records.                     | City Records "Child of Mike and Virginia"                                                                                         |
+| 1                               | 107 | Balashoff  | Ralph William | Mike/Virginiaâ€™s child | 1942 | 25-Apr-42 | Seldovia, AK     | 28-Jun-42 | Seldovia, AK     | 1942 | Unmarked grave. Identified by City records.                     | City Records "Child of Mike and Virginia"                                                                                         |
 | 1                               | 112 | Balashoff  | Steve         | Steve and Baby        | 1941 | 9-Feb-41  | Seldovia, Alaska | 9-Feb-41  | Seldovia, Alaska | 1941 | (Unmarked grave.                                                | City Records with notation "Baby"                                                                                                 |
 | 100                             |     | Baltazor   | Girl Child    | Baby                  |      |           | Alaska           |           |                  |      |                                                                 |                                                                                                                                   |
 | 2                               | 134 | Beach      | Eva           | Eva                   | 1935 |           | Seldovia, AK     |           | Seldovia, AK     | 1936 | Unmarked grave.                                                 | City Records                                                                                                                      |

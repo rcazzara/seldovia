@@ -5,6 +5,7 @@ given_names: "Sergei"
 source_file: "Holmstrom Family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Sergei Holmstrom
 
@@ -18,9 +19,9 @@ there were two houses built identical, they were two alike and they had
 a boardwalk between them, they were basic, two of them houses, and
 Sergay was blind, but he could build little boats with clock engines in
 them, and he had bird nests he had cut through the wall, because his
-mother cut these little holes and built these little bird nests in ’em,
-had swallows and he had ’em in cages and all kinds of this stuff. He was
+mother cut these little holes and built these little bird nests in â€™em,
+had swallows and he had â€™em in cages and all kinds of this stuff. He was
 really a neat guy when I was a kid, he was probably about, you know,
-thirty or forty years old-what’s it say here, he was twenty-nine in
-’34"*
+thirty or forty years old-whatâ€™s it say here, he was twenty-nine in
+â€™34"*
 

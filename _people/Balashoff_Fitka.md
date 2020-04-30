@@ -5,12 +5,13 @@ given_names: "Fitka"
 source_file: "Balashov Family 2"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Fitka Balashoff
 
 **Fitka Balashoff** was born about 1866. Some genealogists have listed
-him as the grandson of Vasilii Ksenofontov Bal’shev, born in Russia
-about 1778. Vasilii’s son Vasilli (1831-1887) was in Kodiak in the late
+him as the grandson of Vasilii Ksenofontov Balâ€™shev, born in Russia
+about 1778. Vasiliiâ€™s son Vasilli (1831-1887) was in Kodiak in the late
 1800s. Much of the information we have about Fitka comes from Yale
 anthropologist Cornelius Osgood who spent many months in Seldovia in
 1930-1931**.** Fitka was the primary source for the Seldovia dialect of

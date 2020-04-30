@@ -5,19 +5,20 @@ given_names: "Rufus Bowen,"
 source_file: "Bowen Family"
 born: "October 22, 1879, Alaska "
 died: " September 1953, Alaska"
+cemetry_plot: 
 ---
 # Rufus Bowen, Jr.
 
-## October 22, 1879, Alaska – September 1953, Alaska
+## October 22, 1879, Alaska â€“ September 1953, Alaska
 
 **Rufus Bowen** was born in Kodiak October 22, 1879 and came to Seldovia
 after the Novarupta eruption in 1912. He built a cabin where the
-Harbor’s Edge is located and grazed horses in a pasture located where
+Harborâ€™s Edge is located and grazed horses in a pasture located where
 the current SVT building stands. Later he lived in a cabin on the edge
 of the Russian Orthodox Church Cemetery.
 
 March 1919 - ARRIVAL OF PILGRIM MARKS FIRST MOVEMENT IN ANCHORAGE HARBOR
-THIS YEAR. With the arrival here at 12.40 o'clock p. m., March 9 from
+THIS YEAR. With the arrival here at 12.40 o'clock p.Â m., March 9 from
 Seldovia of the gasoline power boat Pilgrim, the first movement of craft
 in Anchorage harbor was recorded for the 1919 season. The movement this
 year was almost a month earlier than in 1918 when the sailing April 11

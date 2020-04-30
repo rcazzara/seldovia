@@ -1,18 +1,19 @@
 ---
-full_name: "James Jethro "Jim" Stonehocker"
+full_name: "James Jethro \"Jim\" Stonehocker"
 family_name: "Stonehocker"
-given_names: "James Jethro "Jim""
+given_names: "James Jethro \"Jim\""
 source_file: "Stonehocker"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # James Jethro "Jim" Stonehocker
 
-January 18, 1864, Montezuma, Iowa – May 10, 1939, Seldovia, Alaska
+January 18, 1864, Montezuma, Iowa â€“ May 10, 1939, Seldovia, Alaska
 
 ![](../assets/images/Stonehocker/media/image1.jpeg)
 
-James Jethro "Jim" Stonehocker was born Jan. 18, 1864 in Montezuma, Iowa
+James Jethro "Jim" Stonehocker was born Jan.Â 18, 1864 in Montezuma, Iowa
 to Perry and Sarah Sargood Stonehocker. By 1900 the family had moved to
 Fulton, Missouri.
 

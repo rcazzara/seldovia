@@ -5,10 +5,11 @@ given_names: "Elsie Catherine Carlough"
 source_file: "James Howard Carlough"
 born: "October 19, 1923, Port Graham, Alaska "
 died: " 1956, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Elsie Catherine CARLOUGH Maars
 
-## October 19, 1923, Port Graham, Alaska – 1956, Seldovia, Alaska
+## October 19, 1923, Port Graham, Alaska â€“ 1956, Seldovia, Alaska
 
 When **Elsie Katherine Carlough** was born on October 19, 1924, in Port
 Graham, Alaska, her father, James, was 31, and her mother, Aphanasia

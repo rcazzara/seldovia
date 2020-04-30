@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "Beach Family"
 born: nil
 died: nil
+cemetry_plot: 135
 ---
 # Beach Family
 
@@ -21,9 +22,9 @@ In 1940 the children listed are William, Robert, Alice, Helen, Zenas,
 Wade, David and Markel.
 
 In 1942, on his WWII registration form, Zenas, living in Seldovia,
-listed his employer as Washington Fish and Oyster Co. in Port Williams.
+listed his employer as Washington Fish and Oyster Co.Â in Port Williams.
 
-Both Zenas Sr. and Barbara Beach are buried at Washington Memorial Park,
+Both Zenas Sr.Â and Barbara Beach are buried at Washington Memorial Park,
 SeaTac, WA. His military headstone states: Alaska - PVT US Army WWI born
 1890 and died 1967.
 

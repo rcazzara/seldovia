@@ -1,14 +1,15 @@
 ---
-full_name: "Henrietta "Hettie" HULTBERG Crawford"
+full_name: "Henrietta \"Hettie\" HULTBERG Crawford"
 family_name: "Crawford"
-given_names: "Henrietta "Hettie" Hultberg"
+given_names: "Henrietta \"Hettie\" Hultberg"
 source_file: "CRAWFORD FAMILY"
 born: "1908, Alaska "
 died: " June 16, 1981, Seldovia, Alaska"
+cemetry_plot: 531
 ---
 # Henrietta "Hettie" HULTBERG Crawford
 
-## 1908, Alaska – June 16, 1981, Seldovia, Alaska
+## 1908, Alaska â€“ June 16, 1981, Seldovia, Alaska
 
 **Henrietta Maria "Hettie" HULTBERG Crawford** was one of four children
 born to John Oliver Hultberg and Helen Alarpakorak in the Bethel
@@ -16,7 +17,7 @@ district of Alaska, about 1908. Her mother was the daughter of Herman
 Bever and was born in Quinahok. Her father was a miner from Illinois and
 he left Alaska and lived the rest of his life in California. Helen later
 married Karl Konig and in 1920 Hettie and her sister Freida were living
-with their stepfather and Helen’s Konig children in McGrath. Since
+with their stepfather and Helenâ€™s Konig children in McGrath. Since
 Hettie and Freida are listed with the last name Conrad, their mother may
 have been married to a Conrad before Carl Konig. In McGrath Hettie met
 **Leroy Crawford** and they married and had three children: John, Helen

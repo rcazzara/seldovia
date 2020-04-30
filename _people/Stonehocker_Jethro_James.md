@@ -3,12 +3,13 @@ full_name: "Jethro James Stonehocker"
 family_name: "Stonehocker"
 given_names: "Jethro James"
 source_file: "Jethro James Stonehocker"
-born: "Jan. 18, 1864, Montezuma, Iowa "
+born: "Jan.Â 18, 1864, Montezuma, Iowa "
 died: " May 10, 1939, Seldovia, Alaska"
+cemetry_plot: 
 ---
 # Jethro James Stonehocker
 
-## Jan. 18, 1864, Montezuma, Iowa – May 10, 1939, Seldovia, Alaska
+## Jan.Â 18, 1864, Montezuma, Iowa â€“ May 10, 1939, Seldovia, Alaska
 
 **Jethro James "Jim" Stonehocker** was born January 18, 1874 in
 Montezuma, Iowa to Perry Stonehocker and Sarah Ann Sargood Stonehocker.

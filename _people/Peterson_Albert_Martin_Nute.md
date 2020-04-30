@@ -1,14 +1,15 @@
 ---
-full_name: "Albert Martin "Nute" Peterson"
+full_name: "Albert Martin \"Nute\" Peterson"
 family_name: "Peterson"
-given_names: "Albert Martin "Nute""
+given_names: "Albert Martin \"Nute\""
 source_file: "Albert Martin Peterson"
 born: "March 25, 1952 "
 died: " March 18, 2018"
+cemetry_plot: 
 ---
 # Albert Martin "Nute" Peterson
 
-## March 25, 1952 – March 18, 2018
+## March 25, 1952 â€“ March 18, 2018
 
 **Albert Martin "Nute" Peterson** died on March 18, 2018, in Soldotna,
 Alaska, and went home to be with the Lord. He was 65. A celebration of

@@ -5,6 +5,7 @@ given_names: "Paul"
 source_file: "Holmstrom Family"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Paul Holmstrom
 

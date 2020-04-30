@@ -5,6 +5,7 @@ given_names: "Family"
 source_file: "James Howard Carlough"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Carlough Family
 

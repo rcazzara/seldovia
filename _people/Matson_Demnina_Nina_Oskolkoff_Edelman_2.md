@@ -1,14 +1,15 @@
 ---
-full_name: "Demnina "NINA" OSKOLKOFF Edelman Matson"
+full_name: "Demnina \"NINA\" OSKOLKOFF Edelman Matson"
 family_name: "Matson"
-given_names: "Demnina "Nina" Oskolkoff Edelman"
+given_names: "Demnina \"Nina\" Oskolkoff Edelman"
 source_file: "Edvin and Demnina Oskolkoff Edelman"
 born: nil
 died: nil
+cemetry_plot: 51
 ---
 # Demnina "NINA" OSKOLKOFF Edelman Matson
 
-**March 27, 1880, Ninilchik, Alaska – September 25, 1945, Seldovia,
+**March 27, 1880, Ninilchik, Alaska â€“ September 25, 1945, Seldovia,
 Alaska**
 
 **Nina** was the daughter of **Zakharii Oskolkoff** and **Elizaveta
@@ -20,11 +21,11 @@ buried in Ninilchik, there are quite a few here in Seldovia.
 
 The Edelman family lived in Kenai and had 8 children including:
 
-  - **Nina Edelman** (March 10, 1896- Dec. 8, 1977 -1951: Plot \# 51)
+  - **Nina Edelman** (March 10, 1896- Dec.Â 8, 1977 -1951: Plot \# 51)
     married [Carl Lund](Carl%20John%20LUND%20and%20Edelman%20Family.md)
-    (Oct. 14, 1874 – Nov. 11, 1939: Plot \#51)
+    (Oct.Â 14, 1874 â€“ Nov.Â 11, 1939: Plot \#51)
 
-  - **Zacharias "Carl" Edelman** (1898 – 1972) married **Emma Larsen**
+  - **Zacharias "Carl" Edelman** (1898 â€“ 1972) married **Emma Larsen**
     and lived in Washington**.**
 
   - **Jacob "Jack" Edelman** married [Pauline Juliussen](Edelman.md);

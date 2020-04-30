@@ -5,10 +5,11 @@ given_names: "Jessie Moonin Carlough"
 source_file: "James Howard Carlough"
 born: nil
 died: nil
+cemetry_plot: 
 ---
 # Jessie MOONIN Carlough Barnhardt
 
-**November 22, 1898, Port Graham, Alaska – June 1979, Seldovia, Alaska**
+**November 22, 1898, Port Graham, Alaska â€“ June 1979, Seldovia, Alaska**
 
 When **Aphanasia "Jessie" Moonin** was born on November 22, 1898, in
 Kenai Peninsula, Alaska, her father, Demetrie, was 30, and her mother,

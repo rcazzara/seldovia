@@ -1,14 +1,15 @@
 ---
-full_name: "Dick Miller’s Seabee"
+full_name: "Dick Miller's Seabee"
 family_name: nil
 given_names: nil
 source_file: "Dick Miller's Seabee"
 born: nil
 died: nil
+cemetry_plot: nil
 ---
-# Dick Miller’s Seabee
+# Owned By Dick Miller Seabee
 
-## REPUBLIC RC-3 SEABEE \# 206
+### REPUBLIC RC-3 SEABEE \# 206
 
 ![N6031K](../assets/images/Dick%20Miller's%20Seabee/media/image1.gif)
 
@@ -62,7 +63,7 @@ died: nil
 <td></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>Â </td>
 <td></td>
 <td></td>
 </tr>
@@ -101,7 +102,7 @@ Arnold Air Service Inc.; 415 5th Avenue, Anchorage, AK 99501.</td>
 <tr class="odd">
 <td></td>
 <td>1948-01-31</td>
-<td>The plane disappeared from the ramp during the night of January 30, 1948. Some time later a wing float, identified as from that type of plane, was brought to Seldovia and it was reported that it had washed ashore about 10 miles from Seldovia. </td>
+<td>The plane disappeared from the ramp during the night of January 30, 1948. Some time later a wing float, identified as from that type of plane, was brought to Seldovia and it was reported that it had washed ashore about 10 miles from Seldovia.Â </td>
 </tr>
 <tr class="even">
 <td></td>
@@ -120,7 +121,7 @@ Arnold Air Service Inc.; 415 5th Avenue, Anchorage, AK 99501.</td>
 <p>From the fact that the plane was insured for its full value it may be inferred that it was the intention of the parties that not only the entire ownership interest in the plane be covered, but that the owners be named as the insured. Through oversight or inadvertence, however, only one of the partners was named as the insured, although the full premium of $787.25 was paid by the partnership.</p></td>
 </tr>
 <tr class="even">
-<td> </td>
+<td>Â </td>
 <td>Sources:</td>
 <td><em>RAC Seabee Delivery List.<br />
 FAA Aircraft Registry.<br />
@@ -132,7 +133,7 @@ Matt Miller.</em></td>
 
 **Herr*v.*Underwriters at Lloyds of London**
 
-No. Sel. 5023.
+No.Â Sel. 5023.
 
 May 8, 1951.
 
@@ -210,13 +211,13 @@ be named as the insured. Through oversight or inadvertence, however,
 only one of the partners was named as the insured, although the full
 premium of $787.25 was paid by the partnership. A mistake of this kind,
 even though it may appear to be unilateral, is, nevertheless, held to be
-mutual. Great American Ins. Co. v. Johnson, 4 Cir., [\[25 F.2d 847,
+mutual. Great American Ins. Co.Â v. Johnson, 4 Cir., [\[25 F.2d 847,
 848-849\]](https://casetext.com/case/great-american-ins-co-v-johnson#p848);
-Home Life Ins. Co. v. McCarns, [\[25 Del. Ch.
+Home Life Ins. Co.Â v. McCarns, [\[25 Del. Ch.
 220\]](https://casetext.com/case/home-life-ins-co-of-america-v-mccarns),
 [\[16 A.2d
 587\]](https://casetext.com/case/home-life-ins-co-of-america-v-mccarns);
-New York Life Ins. Co. v. Gilbert, [\[215 Mo. App.
+New York Life Ins. Co.Â v. Gilbert, [\[215 Mo. App.
 201\]](https://casetext.com/case/new-york-life-ins-co-v-gilbert), [\[256
 S.W. 148,
 151\]](https://casetext.com/case/new-york-life-ins-co-v-gilbert#p151);
@@ -224,17 +225,17 @@ Buck v. Equitable Life Assurance Society, 96 Wn. 683, 165 P. 878.
 Accordingly, I find that the omission of plaintiff's name from the
 policy was the result of a mutual mistake, which warrants a reformation
 of the policy to conform to the intention of the partners and treatment
-of it as so reformed. Great American Ins. Co. v. Johnson, supra, [\[25
+of it as so reformed. Great American Ins. Co.Â v. Johnson, supra, [\[25
 F.2d at page
 850\]](https://casetext.com/case/great-american-ins-co-v-johnson#p850);
-Cf. Royal Ins. Co. v. Smith, [\[158 Fla.
+Cf. Royal Ins. Co.Â v. Smith, [\[158 Fla.
 472\]](https://casetext.com/case/royal-insurance-co-limited-v-smith),
 [\[29 So.2d
 244\]](https://casetext.com/case/royal-insurance-co-limited-v-smith);
-Connecticut Fire Ins. Co. v. McNeil, 6 Cir., [\[35 F.2d
+Connecticut Fire Ins. Co.Â v. McNeil, 6 Cir., [\[35 F.2d
 675\]](https://casetext.com/case/connecticut-fire-ins-co-v-mcneil) and
 cases cited at page 676, even though the action is tried as one at law.
-Great American Ins. Co. v. Johnson, supra, [\[25 F.2d at pages
+Great American Ins. Co.Â v. Johnson, supra, [\[25 F.2d at pages
 849-850\]](https://casetext.com/case/great-american-ins-co-v-johnson#p849).
 
 The contention that the contract of sale of the interest of plaintiff in
@@ -285,7 +286,7 @@ moored and lost in consequence thereof, and, therefore, I find that the
 loss is within the coverage of the policy.
 
 I am of the opinion that the plaintiff is entitled to recover the face
-value of the policy, Dubin Paper Co. v. Insurance Co., [\[361 Pa.
+value of the policy, Dubin Paper Co.Â v. Insurance Co., [\[361 Pa.
 68\]](https://casetext.com/case/dubin-paper-co-v-ins-co-of-n-america-et-al),
 [\[63 A.2d
 85\]](https://casetext.com/case/dubin-paper-co-v-ins-co-of-n-america-et-al),
