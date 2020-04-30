@@ -1,8 +1,8 @@
 ---
-full_name: HUNTER Family
-family_name: Hunter
-given_names: Family
-source_file: HUNTER FAMILY
+full_name: "HUNTER Family"
+family_name: "Hunter"
+given_names: "Family"
+source_file: "HUNTER FAMILY"
 born: nil
 died: nil
 ---

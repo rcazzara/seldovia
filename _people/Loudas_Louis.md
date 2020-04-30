@@ -1,10 +1,10 @@
 ---
-full_name: Louis Loudas
-family_name: Loudas
-given_names: Louis
-source_file: Louis Loudas
-born: February 14, 1894, Greece 
-died:  November 1978, Seldovia, Alaska
+full_name: "Louis Loudas"
+family_name: "Loudas"
+given_names: "Louis"
+source_file: "Louis Loudas"
+born: "February 14, 1894, Greece "
+died: " November 1978, Seldovia, Alaska"
 ---
 # Louis Loudas
 

@@ -1,8 +1,8 @@
 ---
-full_name: KANABACK Family
-family_name: Kanaback
-given_names: Family
-source_file: Kanaback Family
+full_name: "KANABACK Family"
+family_name: "Kanaback"
+given_names: "Family"
+source_file: "Kanaback Family"
 born: nil
 died: nil
 ---

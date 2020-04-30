@@ -1,8 +1,8 @@
 ---
-full_name: Martin Haakonsen/Hogenson
-family_name: Haakonsen/hogenson
-given_names: Martin
-source_file: Martin Hogenson
+full_name: "Martin Haakonsen/Hogenson"
+family_name: "Haakonsen/hogenson"
+given_names: "Martin"
+source_file: "Martin Hogenson"
 born: nil
 died: nil
 ---

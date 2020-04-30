@@ -1,8 +1,8 @@
 ---
-full_name: Frank Lee Faith
-family_name: Faith
-given_names: Frank Lee
-source_file: Frank Faith
+full_name: "Frank Lee Faith"
+family_name: "Faith"
+given_names: "Frank Lee"
+source_file: "Frank Faith"
 born: nil
 died: nil
 ---

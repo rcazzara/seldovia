@@ -1,8 +1,8 @@
 ---
-full_name: **\[Remembering Our
-family_name: Our
-given_names: **\[Remembering
-source_file: Remembering Our Children
+full_name: "**\[Remembering Our"
+family_name: "Our"
+given_names: "**\[Remembering"
+source_file: "Remembering Our Children"
 born: nil
 died: nil
 ---

@@ -1,8 +1,8 @@
 ---
-full_name: Mervin Howard Brun
-family_name: Brun
-given_names: Mervin Howard
-source_file: BRUN FAMILY
+full_name: "Mervin Howard Brun"
+family_name: "Brun"
+given_names: "Mervin Howard"
+source_file: "BRUN FAMILY"
 born: nil
 died: nil
 ---

@@ -1,10 +1,10 @@
 ---
-full_name: Joseph Arthur "Joe" Kurtz
-family_name: Kurtz
-given_names: Joseph Arthur "Joe"
-source_file: Joseph Arthur Kurtz
-born: October 31, 1909, Wisconsin 
-died:  August 29, 2003, Anchorage
+full_name: "Joseph Arthur "Joe" Kurtz"
+family_name: "Kurtz"
+given_names: "Joseph Arthur "Joe""
+source_file: "Joseph Arthur Kurtz"
+born: "October 31, 1909, Wisconsin "
+died: " August 29, 2003, Anchorage"
 ---
 # Joseph Arthur "Joe" Kurtz
 

@@ -1,10 +1,10 @@
 ---
-full_name: Oscar William ANDERSON
-family_name: Anderson
-given_names: Oscar William
-source_file: Oscar and Alyce Erickson Anderson
-born: April 1866, Sweden 
-died:  1940, Palmer, Alaska
+full_name: "Oscar William ANDERSON"
+family_name: "Anderson"
+given_names: "Oscar William"
+source_file: "Oscar and Alyce Erickson Anderson"
+born: "April 1866, Sweden "
+died: " 1940, Palmer, Alaska"
 ---
 # Oscar William ANDERSON
 

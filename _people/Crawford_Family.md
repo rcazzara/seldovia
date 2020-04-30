@@ -1,8 +1,8 @@
 ---
-full_name: CRAWFORD FAMILY
-family_name: Crawford
-given_names: Family
-source_file: CRAWFORD FAMILY
+full_name: "CRAWFORD FAMILY"
+family_name: "Crawford"
+given_names: "Family"
+source_file: "CRAWFORD FAMILY"
 born: nil
 died: nil
 ---

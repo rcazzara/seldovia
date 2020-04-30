@@ -1,10 +1,10 @@
 ---
-full_name: Leroy "Cricket" FORREST
-family_name: Forrest
-given_names: Leroy "Cricket"
-source_file: Crickett Forrest
-born: 1936, Alaska 
-died:  July 3, 1948, Seldovia, Alaska
+full_name: "Leroy "Cricket" FORREST"
+family_name: "Forrest"
+given_names: "Leroy "Cricket""
+source_file: "Crickett Forrest"
+born: "1936, Alaska "
+died: " July 3, 1948, Seldovia, Alaska"
 ---
 # Leroy "Cricket" FORREST
 

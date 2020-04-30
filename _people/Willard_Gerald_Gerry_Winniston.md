@@ -1,8 +1,8 @@
 ---
-full_name: Gerald (Gerry) Winniston Willard
-family_name: Willard
-given_names: Gerald (Gerry) Winniston
-source_file: GERALD WILLARD
+full_name: "Gerald (Gerry) Winniston Willard"
+family_name: "Willard"
+given_names: "Gerald (Gerry) Winniston"
+source_file: "GERALD WILLARD"
 born: nil
 died: nil
 ---

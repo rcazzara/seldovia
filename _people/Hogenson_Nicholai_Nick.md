@@ -1,10 +1,10 @@
 ---
-full_name: Nicholai "NICK" Hogenson
-family_name: Hogenson
-given_names: Nicholai "Nick"
-source_file: Martin Hogenson
-born: August 20, 1934, Seldovia, Alaska 
-died:  June 30, 1988, Seldovia, Alaska
+full_name: "Nicholai "NICK" Hogenson"
+family_name: "Hogenson"
+given_names: "Nicholai "Nick""
+source_file: "Martin Hogenson"
+born: "August 20, 1934, Seldovia, Alaska "
+died: " June 30, 1988, Seldovia, Alaska"
 ---
 # Nicholai "NICK" Hogenson
 

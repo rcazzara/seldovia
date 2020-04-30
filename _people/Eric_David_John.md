@@ -1,8 +1,8 @@
 ---
-full_name: [**David John "Eric"
-family_name: "Eric"
-given_names: [**David John
-source_file: David John Ericson
+full_name: "[**David John "Eric""
+family_name: ""Eric""
+given_names: "[**David John"
+source_file: "David John Ericson"
 born: nil
 died: nil
 ---

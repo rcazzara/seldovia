@@ -1,8 +1,8 @@
 ---
-full_name: Luned LEWIS Morris
-family_name: Morris
-given_names: Luned Lewis
-source_file: Richard Ceiriog MORRIS
+full_name: "Luned LEWIS Morris"
+family_name: "Morris"
+given_names: "Luned Lewis"
+source_file: "Richard Ceiriog MORRIS"
 born: nil
 died: nil
 ---

@@ -1,8 +1,8 @@
 ---
-full_name: Jordan Geagel
-family_name: Geagel
-given_names: Jordan
-source_file: Jordan Gaegel
+full_name: "Jordan Geagel"
+family_name: "Geagel"
+given_names: "Jordan"
+source_file: "Jordan Gaegel"
 born: nil
 died: nil
 ---

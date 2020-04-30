@@ -1,8 +1,8 @@
 ---
-full_name: Jack Watson HOPKINS
-family_name: Hopkins
-given_names: Jack Watson
-source_file: Jack Hopkins story by his son Bill
+full_name: "Jack Watson HOPKINS"
+family_name: "Hopkins"
+given_names: "Jack Watson"
+source_file: "Jack Hopkins story by his son Bill"
 born: nil
 died: nil
 ---

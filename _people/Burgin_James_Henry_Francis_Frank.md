@@ -1,8 +1,8 @@
 ---
-full_name: James Henry Francis "Frank" Burgin
-family_name: Burgin
-given_names: James Henry Francis "Frank"
-source_file: Frank Burgin
+full_name: "James Henry Francis "Frank" Burgin"
+family_name: "Burgin"
+given_names: "James Henry Francis "Frank""
+source_file: "Frank Burgin"
 born: nil
 died: nil
 ---

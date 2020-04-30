@@ -1,8 +1,8 @@
 ---
-full_name: Wilson Family
-family_name: Wilson
-given_names: Family
-source_file: Wilson Family
+full_name: "Wilson Family"
+family_name: "Wilson"
+given_names: "Family"
+source_file: "Wilson Family"
 born: nil
 died: nil
 ---

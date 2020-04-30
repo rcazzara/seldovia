@@ -1,8 +1,8 @@
 ---
-full_name: SEVILLE FAMILY
-family_name: Seville
-given_names: Family
-source_file: Seville Family
+full_name: "SEVILLE FAMILY"
+family_name: "Seville"
+given_names: "Family"
+source_file: "Seville Family"
 born: nil
 died: nil
 ---

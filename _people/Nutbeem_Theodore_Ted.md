@@ -1,8 +1,8 @@
 ---
-full_name: Theodore "Ted" Nutbeem
-family_name: Nutbeem
-given_names: Theodore "Ted"
-source_file: Ted and Alice Nutbeem
+full_name: "Theodore "Ted" Nutbeem"
+family_name: "Nutbeem"
+given_names: "Theodore "Ted""
+source_file: "Ted and Alice Nutbeem"
 born: nil
 died: nil
 ---

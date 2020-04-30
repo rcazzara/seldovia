@@ -1,10 +1,10 @@
 ---
-full_name: Paul Elias Myklebust
-family_name: Myklebust
-given_names: Paul Elias
-source_file: Paul Mykelburst
-born: January 15, 1894, Sovde, Norway 
-died:  October 3, 1944, Seldovia, Alaska
+full_name: "Paul Elias Myklebust"
+family_name: "Myklebust"
+given_names: "Paul Elias"
+source_file: "Paul Mykelburst"
+born: "January 15, 1894, Sovde, Norway "
+died: " October 3, 1944, Seldovia, Alaska"
 ---
 # Paul Elias Myklebust
 

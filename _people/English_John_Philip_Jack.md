@@ -1,10 +1,10 @@
 ---
-full_name: John Philip (Jack) English
-family_name: English
-given_names: John Philip (Jack)
-source_file: Adam Bloch and English
-born: Aug. 14, 1905 in Strathroy, Canada 
-died: Aug. 15, 1989
+full_name: "John Philip (Jack) English"
+family_name: "English"
+given_names: "John Philip (Jack)"
+source_file: "Adam Bloch and English"
+born: "Aug. 14, 1905 in Strathroy, Canada "
+died: "Aug. 15, 1989"
 ---
 # John Philip (Jack) English
 

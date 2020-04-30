@@ -1,8 +1,8 @@
 ---
-full_name: Velma Evelyn Shafford Roe
-family_name: Roe
-given_names: Velma Evelyn Shafford
-source_file: John Roe and Wives
+full_name: "Velma Evelyn Shafford Roe"
+family_name: "Roe"
+given_names: "Velma Evelyn Shafford"
+source_file: "John Roe and Wives"
 born: nil
 died: nil
 ---

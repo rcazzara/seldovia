@@ -1,8 +1,8 @@
 ---
-full_name: Diane Helena KASHEVAROF
-family_name: Kashevarof
-given_names: Diane Helena
-source_file: Katherine Fox Kashevarof
+full_name: "Diane Helena KASHEVAROF"
+family_name: "Kashevarof"
+given_names: "Diane Helena"
+source_file: "Katherine Fox Kashevarof"
 born: nil
 died: nil
 ---

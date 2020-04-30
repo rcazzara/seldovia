@@ -1,8 +1,8 @@
 ---
-full_name: Bayou Family
-family_name: Bayou
-given_names: Family
-source_file: BAYOU FAMILY
+full_name: "Bayou Family"
+family_name: "Bayou"
+given_names: "Family"
+source_file: "BAYOU FAMILY"
 born: nil
 died: nil
 ---

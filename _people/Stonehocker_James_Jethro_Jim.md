@@ -1,8 +1,8 @@
 ---
-full_name: James Jethro "Jim" Stonehocker
-family_name: Stonehocker
-given_names: James Jethro "Jim"
-source_file: Stonehocker
+full_name: "James Jethro "Jim" Stonehocker"
+family_name: "Stonehocker"
+given_names: "James Jethro "Jim""
+source_file: "Stonehocker"
 born: nil
 died: nil
 ---

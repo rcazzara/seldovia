@@ -1,8 +1,8 @@
 ---
-full_name: Suydam Family
-family_name: Suydam
-given_names: Family
-source_file: Suydam Family
+full_name: "Suydam Family"
+family_name: "Suydam"
+given_names: "Family"
+source_file: "Suydam Family"
 born: nil
 died: nil
 ---

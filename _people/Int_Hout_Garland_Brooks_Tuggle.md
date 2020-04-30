@@ -1,8 +1,8 @@
 ---
-full_name: Garland Brooks "Tuggle" Int-hout
-family_name: Int-Hout
-given_names: Garland Brooks "Tuggle"
-source_file: Int Hout
+full_name: "Garland Brooks "Tuggle" Int-hout"
+family_name: "Int-Hout"
+given_names: "Garland Brooks "Tuggle""
+source_file: "Int Hout"
 born: nil
 died: nil
 ---

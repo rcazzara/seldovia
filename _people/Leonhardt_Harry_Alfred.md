@@ -1,8 +1,8 @@
 ---
-full_name: Harry Alfred LEONHARDT
-family_name: Leonhardt
-given_names: Harry Alfred
-source_file: Hary Leonhardt and wives
+full_name: "Harry Alfred LEONHARDT"
+family_name: "Leonhardt"
+given_names: "Harry Alfred"
+source_file: "Hary Leonhardt and wives"
 born: nil
 died: nil
 ---

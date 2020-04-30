@@ -1,8 +1,8 @@
 ---
-full_name: John ALEX
-family_name: Alex
-given_names: John
-source_file: John ALEX
+full_name: "John ALEX"
+family_name: "Alex"
+given_names: "John"
+source_file: "John ALEX"
 born: nil
 died: nil
 ---

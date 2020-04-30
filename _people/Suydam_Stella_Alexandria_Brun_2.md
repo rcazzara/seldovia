@@ -1,8 +1,8 @@
 ---
-full_name: Stella Alexandria BRUN Suydam
-family_name: Suydam
-given_names: Stella Alexandria Brun
-source_file: Suydam Family
+full_name: "Stella Alexandria BRUN Suydam"
+family_name: "Suydam"
+given_names: "Stella Alexandria Brun"
+source_file: "Suydam Family"
 born: nil
 died: nil
 ---

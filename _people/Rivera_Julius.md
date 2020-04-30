@@ -1,10 +1,10 @@
 ---
-full_name: Julius Rivera
-family_name: Rivera
-given_names: Julius
-source_file: Julius Rivera
-born: April 12, 1905, Philippine Islands 
-died:  June 28, 1942 Snug Harbor, Alaska
+full_name: "Julius Rivera"
+family_name: "Rivera"
+given_names: "Julius"
+source_file: "Julius Rivera"
+born: "April 12, 1905, Philippine Islands "
+died: " June 28, 1942 Snug Harbor, Alaska"
 ---
 # Julius Rivera
 

@@ -1,10 +1,10 @@
 ---
-full_name: FRANK LYN HERN
-family_name: Hern
-given_names: Frank Lyn
-source_file: FRANK LYN HERN
-born: Alaskan Bush Pilot Plans Non
-died: stop Distance Record in a Cessna 150
+full_name: "FRANK LYN HERN"
+family_name: "Hern"
+given_names: "Frank Lyn"
+source_file: "FRANK LYN HERN"
+born: "Alaskan Bush Pilot Plans Non"
+died: "stop Distance Record in a Cessna 150"
 ---
 # FRANK LYN HERN
 

@@ -1,10 +1,10 @@
 ---
-full_name: Peter Jackson
-family_name: Jackson
-given_names: Peter
-source_file: Peter Jackson
-born: August 13, 1898, Alaska 
-died:  1962, Seldovia, Alaska
+full_name: "Peter Jackson"
+family_name: "Jackson"
+given_names: "Peter"
+source_file: "Peter Jackson"
+born: "August 13, 1898, Alaska "
+died: " 1962, Seldovia, Alaska"
 ---
 # Peter Jackson
 

@@ -1,8 +1,8 @@
 ---
-full_name: Sigurd Halvorsen
-family_name: Halvorsen
-given_names: Sigurd
-source_file: Sigurd Halversen family
+full_name: "Sigurd Halvorsen"
+family_name: "Halvorsen"
+given_names: "Sigurd"
+source_file: "Sigurd Halversen family"
 born: nil
 died: nil
 ---

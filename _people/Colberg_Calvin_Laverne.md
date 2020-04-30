@@ -1,10 +1,10 @@
 ---
-full_name: Calvin LaVerne Colberg
-family_name: Colberg
-given_names: Calvin Laverne
-source_file: COLBERG Family
-born: May 9, 1933, Seward, Alaska 
-died:  2004, Seward, Alaska
+full_name: "Calvin LaVerne Colberg"
+family_name: "Colberg"
+given_names: "Calvin Laverne"
+source_file: "COLBERG Family"
+born: "May 9, 1933, Seward, Alaska "
+died: " 2004, Seward, Alaska"
 ---
 # Calvin LaVerne Colberg
 

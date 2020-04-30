@@ -1,8 +1,8 @@
 ---
-full_name: Anna WALNUSSON Holmstrom
-family_name: Holmstrom
-given_names: Anna Walnusson
-source_file: Holmstrom Family
+full_name: "Anna WALNUSSON Holmstrom"
+family_name: "Holmstrom"
+given_names: "Anna Walnusson"
+source_file: "Holmstrom Family"
 born: nil
 died: nil
 ---

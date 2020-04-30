@@ -1,8 +1,8 @@
 ---
-full_name: Tanya SOROKOVIKOFF Wilson
-family_name: Wilson
-given_names: Tanya Sorokovikoff
-source_file: Wilson Family
+full_name: "Tanya SOROKOVIKOFF Wilson"
+family_name: "Wilson"
+given_names: "Tanya Sorokovikoff"
+source_file: "Wilson Family"
 born: nil
 died: nil
 ---

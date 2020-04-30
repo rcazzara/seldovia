@@ -1,8 +1,8 @@
 ---
-full_name: Lloyd Collins WHEELER
-family_name: Wheeler
-given_names: Lloyd Collins
-source_file: Wheeler
+full_name: "Lloyd Collins WHEELER"
+family_name: "Wheeler"
+given_names: "Lloyd Collins"
+source_file: "Wheeler"
 born: nil
 died: nil
 ---

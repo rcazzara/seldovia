@@ -1,8 +1,8 @@
 ---
-full_name: "CHUCK"
-family_name: "Chuck"
-given_names: Family
-source_file: Crede Anthony Foster
+full_name: ""CHUCK""
+family_name: ""Chuck""
+given_names: "Family"
+source_file: "Crede Anthony Foster"
 born: nil
 died: nil
 ---

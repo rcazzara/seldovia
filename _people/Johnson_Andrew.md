@@ -1,10 +1,10 @@
 ---
-full_name: Andrew Johnson
-family_name: Johnson
-given_names: Andrew
-source_file: Andrew Johnson
-born: December 13, 1888, Kodiak, Alaska
-died:  March 3, 1931, Seldovia, Alaska
+full_name: "Andrew Johnson"
+family_name: "Johnson"
+given_names: "Andrew"
+source_file: "Andrew Johnson"
+born: "December 13, 1888, Kodiak, Alaska"
+died: " March 3, 1931, Seldovia, Alaska"
 ---
 # Andrew Johnson
 

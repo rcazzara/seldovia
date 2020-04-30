@@ -1,10 +1,10 @@
 ---
-full_name: Kenneth "Kenny" Berger
-family_name: Berger
-given_names: Kenneth "Kenny"
-source_file: Remembering Our Children
-born: July 5, 1957, Anchorage, Alaska 
-died:  July 9, 1966
+full_name: "Kenneth "Kenny" Berger"
+family_name: "Berger"
+given_names: "Kenneth "Kenny""
+source_file: "Remembering Our Children"
+born: "July 5, 1957, Anchorage, Alaska "
+died: " July 9, 1966"
 ---
 # Kenneth "Kenny" Berger
 

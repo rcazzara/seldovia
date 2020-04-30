@@ -1,10 +1,10 @@
 ---
-full_name: Olympia MAGUILA Kanaback
-family_name: Kanaback
-given_names: Olympia Maguila
-source_file: Kanaback Family
-born: February 28, 1903, Alaska 
-died:  January 4, 1939, Seldovia, Alaska
+full_name: "Olympia MAGUILA Kanaback"
+family_name: "Kanaback"
+given_names: "Olympia Maguila"
+source_file: "Kanaback Family"
+born: "February 28, 1903, Alaska "
+died: " January 4, 1939, Seldovia, Alaska"
 ---
 # Olympia MAGUILA Kanaback
 

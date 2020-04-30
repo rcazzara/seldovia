@@ -1,8 +1,8 @@
 ---
-full_name: Eileen Francis ERNST Balogh
-family_name: Balogh
-given_names: Eileen Francis Ernst
-source_file: Balogh Family
+full_name: "Eileen Francis ERNST Balogh"
+family_name: "Balogh"
+given_names: "Eileen Francis Ernst"
+source_file: "Balogh Family"
 born: nil
 died: nil
 ---

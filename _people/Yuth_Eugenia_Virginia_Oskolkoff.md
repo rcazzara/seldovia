@@ -1,8 +1,8 @@
 ---
-full_name: Eugenia Virginia OSKOLKOFF YUTH
-family_name: Yuth
-given_names: Eugenia Virginia Oskolkoff
-source_file: Yuth Family
+full_name: "Eugenia Virginia OSKOLKOFF YUTH"
+family_name: "Yuth"
+given_names: "Eugenia Virginia Oskolkoff"
+source_file: "Yuth Family"
 born: nil
 died: nil
 ---

@@ -1,8 +1,8 @@
 ---
-full_name: John Naismith Colberg
-family_name: Colberg
-given_names: John Naismith
-source_file: COLBERG Family
+full_name: "John Naismith Colberg"
+family_name: "Colberg"
+given_names: "John Naismith"
+source_file: "COLBERG Family"
 born: nil
 died: nil
 ---

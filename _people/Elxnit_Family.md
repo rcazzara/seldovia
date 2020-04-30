@@ -1,8 +1,8 @@
 ---
-full_name: Elxnit Family
-family_name: Elxnit
-given_names: Family
-source_file: Elxnit Family
+full_name: "Elxnit Family"
+family_name: "Elxnit"
+given_names: "Family"
+source_file: "Elxnit Family"
 born: nil
 died: nil
 ---

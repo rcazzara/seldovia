@@ -1,8 +1,8 @@
 ---
-full_name: Frank S. Nemec
-family_name: Nemec
-given_names: Frank S.
-source_file: Frank Nemec
+full_name: "Frank S. Nemec"
+family_name: "Nemec"
+given_names: "Frank S."
+source_file: "Frank Nemec"
 born: nil
 died: nil
 ---

@@ -1,8 +1,8 @@
 ---
-full_name: MOONIN FAMILY
-family_name: Moonin
-given_names: Family
-source_file: MOONIN FAMILY
+full_name: "MOONIN FAMILY"
+family_name: "Moonin"
+given_names: "Family"
+source_file: "MOONIN FAMILY"
 born: nil
 died: nil
 ---

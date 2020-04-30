@@ -1,8 +1,8 @@
 ---
-full_name: Frederick Walter (Freddy) Newmeyer
-family_name: Newmeyer
-given_names: Frederick Walter (Freddy)
-source_file: Frederick Walter Newmeyer not in cemetery
+full_name: "Frederick Walter (Freddy) Newmeyer"
+family_name: "Newmeyer"
+given_names: "Frederick Walter (Freddy)"
+source_file: "Frederick Walter Newmeyer not in cemetery"
 born: nil
 died: nil
 ---

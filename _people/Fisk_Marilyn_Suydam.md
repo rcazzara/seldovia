@@ -1,10 +1,10 @@
 ---
-full_name: Marilyn SUYDAM Fisk
-family_name: Fisk
-given_names: Marilyn Suydam
-source_file: Suydam Family
-born: October 21, 1956, Seldovia, Alaska 
-died:  June 2, 1998, Seldovia, Alaska
+full_name: "Marilyn SUYDAM Fisk"
+family_name: "Fisk"
+given_names: "Marilyn Suydam"
+source_file: "Suydam Family"
+born: "October 21, 1956, Seldovia, Alaska "
+died: " June 2, 1998, Seldovia, Alaska"
 ---
 # Marilyn SUYDAM Fisk
 

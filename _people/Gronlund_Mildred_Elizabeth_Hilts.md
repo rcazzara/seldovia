@@ -1,8 +1,8 @@
 ---
-full_name: Mildred Elizabeth HILTS Gronlund
-family_name: Gronlund
-given_names: Mildred Elizabeth Hilts
-source_file: Hilts FAMILY
+full_name: "Mildred Elizabeth HILTS Gronlund"
+family_name: "Gronlund"
+given_names: "Mildred Elizabeth Hilts"
+source_file: "Hilts FAMILY"
 born: nil
 died: nil
 ---

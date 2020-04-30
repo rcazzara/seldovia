@@ -1,10 +1,10 @@
 ---
-full_name: Marillyn Kaye Giles
-family_name: Giles
-given_names: Marillyn Kaye
-source_file: Giles Family
-born: April 14, 1947, Seldovia, Alaska 
-died:  October 24, 2006
+full_name: "Marillyn Kaye Giles"
+family_name: "Giles"
+given_names: "Marillyn Kaye"
+source_file: "Giles Family"
+born: "April 14, 1947, Seldovia, Alaska "
+died: " October 24, 2006"
 ---
 # Marillyn Kaye Giles
 

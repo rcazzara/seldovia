@@ -1,10 +1,10 @@
 ---
-full_name: Captain Henry Richard Bowen
-family_name: Bowen
-given_names: Captain Henry Richard
-source_file: Bowen Family
-born: 1853, Gloucester, Massachusetts 
-died: (At Sea) Seldovia, Alaska
+full_name: "Captain Henry Richard Bowen"
+family_name: "Bowen"
+given_names: "Captain Henry Richard"
+source_file: "Bowen Family"
+born: "1853, Gloucester, Massachusetts "
+died: "(At Sea) Seldovia, Alaska"
 ---
 # Captain Henry Richard Bowen
 

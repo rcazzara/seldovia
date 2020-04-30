@@ -1,10 +1,10 @@
 ---
-full_name: Laramie MORRISON
-family_name: Morrison
-given_names: Laramie
-source_file: Deborah GRINDLE Morrison
-born: July 16, 1979 
-died:  April 24, 2008
+full_name: "Laramie MORRISON"
+family_name: "Morrison"
+given_names: "Laramie"
+source_file: "Deborah GRINDLE Morrison"
+born: "July 16, 1979 "
+died: " April 24, 2008"
 ---
 # Laramie MORRISON
 

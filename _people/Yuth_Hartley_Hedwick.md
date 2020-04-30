@@ -1,8 +1,8 @@
 ---
-full_name: Hartley Hedwick YUTH
-family_name: Yuth
-given_names: Hartley Hedwick
-source_file: Yuth Family
+full_name: "Hartley Hedwick YUTH"
+family_name: "Yuth"
+given_names: "Hartley Hedwick"
+source_file: "Yuth Family"
 born: nil
 died: nil
 ---

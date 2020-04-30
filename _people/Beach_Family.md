@@ -1,8 +1,8 @@
 ---
-full_name: Beach Family
-family_name: Beach
-given_names: Family
-source_file: Beach Family
+full_name: "Beach Family"
+family_name: "Beach"
+given_names: "Family"
+source_file: "Beach Family"
 born: nil
 died: nil
 ---

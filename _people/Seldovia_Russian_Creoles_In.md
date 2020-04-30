@@ -1,8 +1,8 @@
 ---
-full_name: RUSSIAN CREOLES in SELDOVIA
-family_name: Seldovia
-given_names: Russian Creoles In
-source_file: RUSSIAN CREOLES in SELDOVIA
+full_name: "RUSSIAN CREOLES in SELDOVIA"
+family_name: "Seldovia"
+given_names: "Russian Creoles In"
+source_file: "RUSSIAN CREOLES in SELDOVIA"
 born: nil
 died: nil
 ---

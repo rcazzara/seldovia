@@ -1,8 +1,8 @@
 ---
-full_name: Evelyn Mae SUYDAM
-family_name: Suydam
-given_names: Evelyn Mae
-source_file: Suydam Family
+full_name: "Evelyn Mae SUYDAM"
+family_name: "Suydam"
+given_names: "Evelyn Mae"
+source_file: "Suydam Family"
 born: nil
 died: nil
 ---

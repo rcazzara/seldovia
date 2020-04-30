@@ -1,10 +1,10 @@
 ---
-full_name: Tony Martin
-family_name: Martin
-given_names: Tony
-source_file: Tony Martin
-born: September 15, 1886, Bulgaria 
-died:  April 1977, Seldovia Alaska
+full_name: "Tony Martin"
+family_name: "Martin"
+given_names: "Tony"
+source_file: "Tony Martin"
+born: "September 15, 1886, Bulgaria "
+died: " April 1977, Seldovia Alaska"
 ---
 # Tony Martin
 

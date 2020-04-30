@@ -1,8 +1,8 @@
 ---
-full_name: David Hilts
-family_name: Hilts
-given_names: David
-source_file: Hilts FAMILY
+full_name: "David Hilts"
+family_name: "Hilts"
+given_names: "David"
+source_file: "Hilts FAMILY"
 born: nil
 died: nil
 ---

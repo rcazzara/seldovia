@@ -1,10 +1,10 @@
 ---
-full_name: Albert Linus Colberg
-family_name: Colberg
-given_names: Albert Linus
-source_file: COLBERG Family
-born: April 24, 1896, Moe, Norway 
-died:  January 3, 1942, Seldovia, Alaska
+full_name: "Albert Linus Colberg"
+family_name: "Colberg"
+given_names: "Albert Linus"
+source_file: "COLBERG Family"
+born: "April 24, 1896, Moe, Norway "
+died: " January 3, 1942, Seldovia, Alaska"
 ---
 # Albert Linus Colberg
 

@@ -1,8 +1,8 @@
 ---
-full_name: John Colberg
-family_name: Colberg
-given_names: John
-source_file: COLBERG Family
+full_name: "John Colberg"
+family_name: "Colberg"
+given_names: "John"
+source_file: "COLBERG Family"
 born: nil
 died: nil
 ---

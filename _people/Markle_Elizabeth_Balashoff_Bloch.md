@@ -1,10 +1,10 @@
 ---
-full_name: Elizabeth Balashoff Bloch Markle
-family_name: Markle
-given_names: Elizabeth Balashoff Bloch
-source_file: Adam Bloch and English
-born: October 1885, Alaska 
-died:  May 1920, Seldovia, Alaska
+full_name: "Elizabeth Balashoff Bloch Markle"
+family_name: "Markle"
+given_names: "Elizabeth Balashoff Bloch"
+source_file: "Adam Bloch and English"
+born: "October 1885, Alaska "
+died: " May 1920, Seldovia, Alaska"
 ---
 # Elizabeth Balashoff Bloch Markle
 

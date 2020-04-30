@@ -1,10 +1,10 @@
 ---
-full_name: Justina Kuzakin Dushkin
-family_name: Dushkin
-given_names: Justina Kuzakin
-source_file: JOHN ABELARD ARDENIA
-born: Oct 15, 1912 in Belkofski, Alaska 
-died:  March 18, 2003 Seldovia, Alaska
+full_name: "Justina Kuzakin Dushkin"
+family_name: "Dushkin"
+given_names: "Justina Kuzakin"
+source_file: "JOHN ABELARD ARDENIA"
+born: "Oct 15, 1912 in Belkofski, Alaska "
+died: " March 18, 2003 Seldovia, Alaska"
 ---
 # Justina Kuzakin Dushkin
 

@@ -1,8 +1,8 @@
 ---
-full_name: Dick Miller’s Seabee
+full_name: "Dick Miller’s Seabee"
 family_name: nil
 given_names: nil
-source_file: Dick Miller's Seabee
+source_file: "Dick Miller's Seabee"
 born: nil
 died: nil
 ---

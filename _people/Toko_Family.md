@@ -1,8 +1,8 @@
 ---
-full_name: Toko Family
-family_name: Toko
-given_names: Family
-source_file: Toko FAMILY
+full_name: "Toko Family"
+family_name: "Toko"
+given_names: "Family"
+source_file: "Toko FAMILY"
 born: nil
 died: nil
 ---

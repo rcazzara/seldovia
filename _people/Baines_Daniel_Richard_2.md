@@ -1,8 +1,8 @@
 ---
-full_name: Daniel Richard Baines
-family_name: Baines
-given_names: Daniel Richard
-source_file: Romanoff FAMILY
+full_name: "Daniel Richard Baines"
+family_name: "Baines"
+given_names: "Daniel Richard"
+source_file: "Romanoff FAMILY"
 born: nil
 died: nil
 ---

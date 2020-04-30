@@ -1,10 +1,10 @@
 ---
-full_name: Olga Kanaback
-family_name: Kanaback
-given_names: Olga
-source_file: Kanaback Family
-born: 1937, Seldovia 
-died:  1938, Seldovia, Alaska
+full_name: "Olga Kanaback"
+family_name: "Kanaback"
+given_names: "Olga"
+source_file: "Kanaback Family"
+born: "1937, Seldovia "
+died: " 1938, Seldovia, Alaska"
 ---
 # Olga Kanaback
 

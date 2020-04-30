@@ -1,8 +1,8 @@
 ---
-full_name: Evelyn Ruth WHEELER Hopkins
-family_name: Hopkins
-given_names: Evelyn Ruth Wheeler
-source_file: Wheeler
+full_name: "Evelyn Ruth WHEELER Hopkins"
+family_name: "Hopkins"
+given_names: "Evelyn Ruth Wheeler"
+source_file: "Wheeler"
 born: nil
 died: nil
 ---

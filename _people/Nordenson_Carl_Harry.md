@@ -1,10 +1,10 @@
 ---
-full_name: Carl Harry Nordenson
-family_name: Nordenson
-given_names: Carl Harry
-source_file: Nordenson
-born: October 30, 1905, Mustadfors, Sweden 
-died:  January 6, 1968 Seldovia
+full_name: "Carl Harry Nordenson"
+family_name: "Nordenson"
+given_names: "Carl Harry"
+source_file: "Nordenson"
+born: "October 30, 1905, Mustadfors, Sweden "
+died: " January 6, 1968 Seldovia"
 ---
 # Carl Harry Nordenson
 

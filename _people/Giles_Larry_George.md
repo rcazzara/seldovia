@@ -1,10 +1,10 @@
 ---
-full_name: Larry George Giles
-family_name: Giles
-given_names: Larry George
-source_file: Giles Family
-born: April 7, 1920, Canada 
-died:  December 23, 1975, Seldovia, Alaska
+full_name: "Larry George Giles"
+family_name: "Giles"
+given_names: "Larry George"
+source_file: "Giles Family"
+born: "April 7, 1920, Canada "
+died: " December 23, 1975, Seldovia, Alaska"
 ---
 # Larry George Giles
 

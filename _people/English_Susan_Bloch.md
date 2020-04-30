@@ -1,10 +1,10 @@
 ---
-full_name: Susan BLOCH English
-family_name: English
-given_names: Susan Bloch
-source_file: Adam Bloch and English
-born: Feb. 26, 1904, Seldovia 
-died: Oct. 10, 1989, Seldovia
+full_name: "Susan BLOCH English"
+family_name: "English"
+given_names: "Susan Bloch"
+source_file: "Adam Bloch and English"
+born: "Feb. 26, 1904, Seldovia "
+died: "Oct. 10, 1989, Seldovia"
 ---
 # Susan BLOCH English
 

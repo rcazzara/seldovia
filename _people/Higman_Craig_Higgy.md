@@ -1,10 +1,10 @@
 ---
-full_name: Craig "Higgy" Higman
-family_name: Higman
-given_names: Craig "Higgy"
-source_file: Craig Higman
-born: 1945
-died:  June 19, 2016 Seldovia, Alaska
+full_name: "Craig "Higgy" Higman"
+family_name: "Higman"
+given_names: "Craig "Higgy""
+source_file: "Craig Higman"
+born: "1945"
+died: " June 19, 2016 Seldovia, Alaska"
 ---
 # Craig "Higgy" Higman
 

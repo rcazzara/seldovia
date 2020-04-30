@@ -1,10 +1,10 @@
 ---
-full_name: Nicholas "Nicky" Kanaback
-family_name: Kanaback
-given_names: Nicholas "Nicky"
-source_file: Kanaback Family
-born: December 11, 1934, Seldovia 
-died:  1938, Seldovia
+full_name: "Nicholas "Nicky" Kanaback"
+family_name: "Kanaback"
+given_names: "Nicholas "Nicky""
+source_file: "Kanaback Family"
+born: "December 11, 1934, Seldovia "
+died: " 1938, Seldovia"
 ---
 # Nicholas "Nicky" Kanaback
 

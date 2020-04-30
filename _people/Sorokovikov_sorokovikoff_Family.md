@@ -1,8 +1,8 @@
 ---
-full_name: SOROKOVIKOV/SOROKOVIKOFF FAMILY
-family_name: Sorokovikov/sorokovikoff
-given_names: Family
-source_file: SOROKOVIKOV
+full_name: "SOROKOVIKOV/SOROKOVIKOFF FAMILY"
+family_name: "Sorokovikov/sorokovikoff"
+given_names: "Family"
+source_file: "SOROKOVIKOV"
 born: nil
 died: nil
 ---

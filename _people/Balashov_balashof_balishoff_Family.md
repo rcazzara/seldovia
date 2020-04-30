@@ -1,8 +1,8 @@
 ---
-full_name: Balashov/Balashof/Balishoff
-family_name: Balashov/balashof/balishoff
-given_names: Family
-source_file: Balashov Family 2
+full_name: "Balashov/Balashof/Balishoff"
+family_name: "Balashov/balashof/balishoff"
+given_names: "Family"
+source_file: "Balashov Family 2"
 born: nil
 died: nil
 ---

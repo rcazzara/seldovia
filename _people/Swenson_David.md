@@ -1,8 +1,8 @@
 ---
-full_name: David Swenson
-family_name: Swenson
-given_names: David
-source_file: Swenson Family
+full_name: "David Swenson"
+family_name: "Swenson"
+given_names: "David"
+source_file: "Swenson Family"
 born: nil
 died: nil
 ---

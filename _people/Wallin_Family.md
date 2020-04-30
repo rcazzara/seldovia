@@ -1,8 +1,8 @@
 ---
-full_name: Wallin Family
-family_name: Wallin
-given_names: Family
-source_file: Wallin Family
+full_name: "Wallin Family"
+family_name: "Wallin"
+given_names: "Family"
+source_file: "Wallin Family"
 born: nil
 died: nil
 ---

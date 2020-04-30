@@ -1,10 +1,10 @@
 ---
-full_name: Samuel Campbell
-family_name: Campbell
-given_names: Samuel
-source_file: Samuel Campbell
-born: March 12, 1878 – Newfoundland, Canada 
-died:  1946, Seldovia, Alaska
+full_name: "Samuel Campbell"
+family_name: "Campbell"
+given_names: "Samuel"
+source_file: "Samuel Campbell"
+born: "March 12, 1878 – Newfoundland, Canada "
+died: " 1946, Seldovia, Alaska"
 ---
 # Samuel Campbell
 

@@ -1,8 +1,8 @@
 ---
-full_name: Simon Andreas Josefsen
-family_name: Josefsen
-given_names: Simon Andreas
-source_file: Josefson Family
+full_name: "Simon Andreas Josefsen"
+family_name: "Josefsen"
+given_names: "Simon Andreas"
+source_file: "Josefson Family"
 born: nil
 died: nil
 ---

@@ -1,10 +1,10 @@
 ---
-full_name: Elizabeth MacKenzie
-family_name: Mackenzie
-given_names: Elizabeth
-source_file: Elizabeth MacKenzie
-born: July 7, 1911, Hong Kong, China 
-died:  November 9, 1954, Seldovia, Alaska
+full_name: "Elizabeth MacKenzie"
+family_name: "Mackenzie"
+given_names: "Elizabeth"
+source_file: "Elizabeth MacKenzie"
+born: "July 7, 1911, Hong Kong, China "
+died: " November 9, 1954, Seldovia, Alaska"
 ---
 # Elizabeth MacKenzie
 

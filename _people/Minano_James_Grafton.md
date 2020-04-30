@@ -1,8 +1,8 @@
 ---
-full_name: James Grafton MINANO
-family_name: Minano
-given_names: James Grafton
-source_file: James Grafton Minano
+full_name: "James Grafton MINANO"
+family_name: "Minano"
+given_names: "James Grafton"
+source_file: "James Grafton Minano"
 born: nil
 died: nil
 ---

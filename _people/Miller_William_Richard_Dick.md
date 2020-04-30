@@ -1,8 +1,8 @@
 ---
-full_name: William Richard "Dick" Miller
-family_name: Miller
-given_names: William Richard "Dick"
-source_file: William Richard Miller
+full_name: "William Richard "Dick" Miller"
+family_name: "Miller"
+given_names: "William Richard "Dick""
+source_file: "William Richard Miller"
 born: nil
 died: nil
 ---

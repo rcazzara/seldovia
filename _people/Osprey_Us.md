@@ -1,8 +1,8 @@
 ---
-full_name: US Osprey
-family_name: Osprey
-given_names: Us
-source_file: US Osprey
+full_name: "US Osprey"
+family_name: "Osprey"
+given_names: "Us"
+source_file: "US Osprey"
 born: nil
 died: nil
 ---

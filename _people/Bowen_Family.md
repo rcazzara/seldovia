@@ -1,8 +1,8 @@
 ---
-full_name: Bowen Family
-family_name: Bowen
-given_names: Family
-source_file: Bowen Family
+full_name: "Bowen Family"
+family_name: "Bowen"
+given_names: "Family"
+source_file: "Bowen Family"
 born: nil
 died: nil
 ---

@@ -1,8 +1,8 @@
 ---
-full_name: Babies in the Cemetery
-family_name: Cemetery
-given_names: Babies In The
-source_file: Cemetery Babies
+full_name: "Babies in the Cemetery"
+family_name: "Cemetery"
+given_names: "Babies In The"
+source_file: "Cemetery Babies"
 born: nil
 died: nil
 ---

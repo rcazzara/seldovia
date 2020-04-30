@@ -1,10 +1,10 @@
 ---
-full_name: Lawrence Albert Dunning
-family_name: Dunning
-given_names: Lawrence Albert
-source_file: Dunning
-born: September 18, 1868, Fremont, Ohio 
-died:  March 25, 1940, Seldovia,Alaska
+full_name: "Lawrence Albert Dunning"
+family_name: "Dunning"
+given_names: "Lawrence Albert"
+source_file: "Dunning"
+born: "September 18, 1868, Fremont, Ohio "
+died: " March 25, 1940, Seldovia,Alaska"
 ---
 # Lawrence Albert Dunning
 

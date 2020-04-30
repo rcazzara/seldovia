@@ -1,8 +1,8 @@
 ---
-full_name: WATERBURY FAMILY
-family_name: Waterbury
-given_names: Family
-source_file: Waterbury Family
+full_name: "WATERBURY FAMILY"
+family_name: "Waterbury"
+given_names: "Family"
+source_file: "Waterbury Family"
 born: nil
 died: nil
 ---

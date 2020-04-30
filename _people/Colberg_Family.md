@@ -1,8 +1,8 @@
 ---
-full_name: COLBERG Family
-family_name: Colberg
-given_names: Family
-source_file: COLBERG Family
+full_name: "COLBERG Family"
+family_name: "Colberg"
+given_names: "Family"
+source_file: "COLBERG Family"
 born: nil
 died: nil
 ---

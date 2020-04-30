@@ -1,10 +1,10 @@
 ---
-full_name: Helen Laisure Giles
-family_name: Giles
-given_names: Helen Laisure
-source_file: Giles Family
-born: October 21, 1908, Washington
-died:  January 10, 1994, Alaska
+full_name: "Helen Laisure Giles"
+family_name: "Giles"
+given_names: "Helen Laisure"
+source_file: "Giles Family"
+born: "October 21, 1908, Washington"
+died: " January 10, 1994, Alaska"
 ---
 # Helen Laisure Giles
 

@@ -1,8 +1,8 @@
 ---
-full_name: James Howard Carlough
-family_name: Carlough
-given_names: James Howard
-source_file: James Howard Carlough
+full_name: "James Howard Carlough"
+family_name: "Carlough"
+given_names: "James Howard"
+source_file: "James Howard Carlough"
 born: nil
 died: nil
 ---

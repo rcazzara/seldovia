@@ -1,8 +1,8 @@
 ---
-full_name: Paul Holmstrom
-family_name: Holmstrom
-given_names: Paul
-source_file: Holmstrom Family
+full_name: "Paul Holmstrom"
+family_name: "Holmstrom"
+given_names: "Paul"
+source_file: "Holmstrom Family"
 born: nil
 died: nil
 ---

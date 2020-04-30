@@ -1,8 +1,8 @@
 ---
-full_name: Sergei Holmstrom
-family_name: Holmstrom
-given_names: Sergei
-source_file: Holmstrom Family
+full_name: "Sergei Holmstrom"
+family_name: "Holmstrom"
+given_names: "Sergei"
+source_file: "Holmstrom Family"
 born: nil
 died: nil
 ---

@@ -1,10 +1,10 @@
 ---
-full_name: Peter Pemberton
-family_name: Pemberton
-given_names: Peter
-source_file: Peter Pemberton
-born: 1859 in Massachusetts 
-died:  Dec. 26, 1940, Seldovia, AK
+full_name: "Peter Pemberton"
+family_name: "Pemberton"
+given_names: "Peter"
+source_file: "Peter Pemberton"
+born: "1859 in Massachusetts "
+died: " Dec. 26, 1940, Seldovia, AK"
 ---
 # Peter Pemberton
 

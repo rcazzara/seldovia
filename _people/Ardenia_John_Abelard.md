@@ -1,10 +1,10 @@
 ---
-full_name: John Abelard Ardenia
-family_name: Ardenia
-given_names: John Abelard
-source_file: JOHN ABELARD ARDENIA
-born: Feb. 2, 1938 in Angoon, Alaska 
-died:  Nov. 12, 2008 in Seldovia, Alaska
+full_name: "John Abelard Ardenia"
+family_name: "Ardenia"
+given_names: "John Abelard"
+source_file: "JOHN ABELARD ARDENIA"
+born: "Feb. 2, 1938 in Angoon, Alaska "
+died: " Nov. 12, 2008 in Seldovia, Alaska"
 ---
 # John Abelard Ardenia
 

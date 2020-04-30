@@ -1,8 +1,8 @@
 ---
-full_name: YUTH Family
-family_name: Yuth
-given_names: Family
-source_file: Yuth Family
+full_name: "YUTH Family"
+family_name: "Yuth"
+given_names: "Family"
+source_file: "Yuth Family"
 born: nil
 died: nil
 ---

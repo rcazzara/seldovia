@@ -1,8 +1,8 @@
 ---
-full_name: Terry Meehan
-family_name: Meehan
-given_names: Terry
-source_file: Remembering Our Children
+full_name: "Terry Meehan"
+family_name: "Meehan"
+given_names: "Terry"
+source_file: "Remembering Our Children"
 born: nil
 died: nil
 ---

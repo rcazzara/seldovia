@@ -1,8 +1,8 @@
 ---
-full_name: Marion MOONIN Seville
-family_name: Seville
-given_names: Marion Moonin
-source_file: MOONIN FAMILY
+full_name: "Marion MOONIN Seville"
+family_name: "Seville"
+given_names: "Marion Moonin"
+source_file: "MOONIN FAMILY"
 born: nil
 died: nil
 ---

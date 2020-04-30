@@ -1,8 +1,8 @@
 ---
-full_name: Alice LARSEN Nutbeem
-family_name: Nutbeem
-given_names: Alice Larsen
-source_file: Ted and Alice Nutbeem
+full_name: "Alice LARSEN Nutbeem"
+family_name: "Nutbeem"
+given_names: "Alice Larsen"
+source_file: "Ted and Alice Nutbeem"
 born: nil
 died: nil
 ---

@@ -1,10 +1,10 @@
 ---
-full_name: Hartley Scott Young
-family_name: Young
-given_names: Hartley Scott
-source_file: H. S. Young
-born: July 19, 1879, Ontario Canada 
-died:  February 10, 1945, Seldovia, Alaska
+full_name: "Hartley Scott Young"
+family_name: "Young"
+given_names: "Hartley Scott"
+source_file: "H. S. Young"
+born: "July 19, 1879, Ontario Canada "
+died: " February 10, 1945, Seldovia, Alaska"
 ---
 # Hartley Scott Young
 

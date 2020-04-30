@@ -1,8 +1,8 @@
 ---
-full_name: Arthur Kvarness
-family_name: Kvarness
-given_names: Arthur
-source_file: Edelman
+full_name: "Arthur Kvarness"
+family_name: "Kvarness"
+given_names: "Arthur"
+source_file: "Edelman"
 born: nil
 died: nil
 ---

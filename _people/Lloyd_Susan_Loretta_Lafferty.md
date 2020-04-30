@@ -1,10 +1,10 @@
 ---
-full_name: Susan Loretta LAFFERTY Lloyd
-family_name: Lloyd
-given_names: Susan Loretta Lafferty
-source_file: Lloyd FAMILY
-born: May 10, 1883 South Dakota 
-died:  May 23, 1965 Alaska
+full_name: "Susan Loretta LAFFERTY Lloyd"
+family_name: "Lloyd"
+given_names: "Susan Loretta Lafferty"
+source_file: "Lloyd FAMILY"
+born: "May 10, 1883 South Dakota "
+died: " May 23, 1965 Alaska"
 ---
 # Susan Loretta LAFFERTY Lloyd
 

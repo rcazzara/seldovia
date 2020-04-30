@@ -1,10 +1,10 @@
 ---
-full_name: Francis John "Frank" Raby
-family_name: Raby
-given_names: Francis John "Frank"
-source_file: Frank Raby
-born: July 27, 1894, Ontario Canada 
-died:  January 4, 1984, Seldovia, Alaska
+full_name: "Francis John "Frank" Raby"
+family_name: "Raby"
+given_names: "Francis John "Frank""
+source_file: "Frank Raby"
+born: "July 27, 1894, Ontario Canada "
+died: " January 4, 1984, Seldovia, Alaska"
 ---
 # Francis John "Frank" Raby
 

@@ -1,10 +1,10 @@
 ---
-full_name: Nicholai "Nick" Grenieff Elxnit
-family_name: Elxnit
-given_names: Nicholai "Nick" Grenieff
-source_file: Elxnit Family
-born: November 3, 1903, Seldovia, Alaska
-died:  May 26, 2001, SeldoviaAlaska
+full_name: "Nicholai "Nick" Grenieff Elxnit"
+family_name: "Elxnit"
+given_names: "Nicholai "Nick" Grenieff"
+source_file: "Elxnit Family"
+born: "November 3, 1903, Seldovia, Alaska"
+died: " May 26, 2001, SeldoviaAlaska"
 ---
 # Nicholai "Nick" Grenieff Elxnit
 

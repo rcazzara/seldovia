@@ -1,10 +1,10 @@
 ---
-full_name: Tollak Bowitz Ollestad
-family_name: Ollestad
-given_names: Tollak Bowitz
-source_file: OLLESTAD FAMILY
-born: 1881, Norway 
-died:  1967 Seldovia, Alaska
+full_name: "Tollak Bowitz Ollestad"
+family_name: "Ollestad"
+given_names: "Tollak Bowitz"
+source_file: "OLLESTAD FAMILY"
+born: "1881, Norway "
+died: " 1967 Seldovia, Alaska"
 ---
 # Tollak Bowitz Ollestad
 

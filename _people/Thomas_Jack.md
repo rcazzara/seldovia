@@ -1,10 +1,10 @@
 ---
-full_name: JACK THOMAS
-family_name: Thomas
-given_names: Jack
-source_file: Jack Thomas scrapbook
-born: February 2, 1931, California 
-died:  October 12, 2016, Seldovia, Alaska
+full_name: "JACK THOMAS"
+family_name: "Thomas"
+given_names: "Jack"
+source_file: "Jack Thomas scrapbook"
+born: "February 2, 1931, California "
+died: " October 12, 2016, Seldovia, Alaska"
 ---
 # JACK THOMAS
 

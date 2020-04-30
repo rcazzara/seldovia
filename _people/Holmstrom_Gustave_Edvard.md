@@ -1,10 +1,10 @@
 ---
-full_name: Gustave Edvard Holmstrom
-family_name: Holmstrom
-given_names: Gustave Edvard
-source_file: Holmstrom Family
-born: 1881, Finland 
-died:  November 1934, Seldovia, Alaska
+full_name: "Gustave Edvard Holmstrom"
+family_name: "Holmstrom"
+given_names: "Gustave Edvard"
+source_file: "Holmstrom Family"
+born: "1881, Finland "
+died: " November 1934, Seldovia, Alaska"
 ---
 # Gustave Edvard Holmstrom
 

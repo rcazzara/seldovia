@@ -1,8 +1,8 @@
 ---
-full_name: THE SCANDINAVIANS
-family_name: Scandinavians
-given_names: The
-source_file: THE SCANDANAVIANS
+full_name: "THE SCANDINAVIANS"
+family_name: "Scandinavians"
+given_names: "The"
+source_file: "THE SCANDANAVIANS"
 born: nil
 died: nil
 ---

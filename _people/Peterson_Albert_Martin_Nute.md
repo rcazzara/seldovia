@@ -1,10 +1,10 @@
 ---
-full_name: Albert Martin "Nute" Peterson
-family_name: Peterson
-given_names: Albert Martin "Nute"
-source_file: Albert Martin Peterson
-born: March 25, 1952 
-died:  March 18, 2018
+full_name: "Albert Martin "Nute" Peterson"
+family_name: "Peterson"
+given_names: "Albert Martin "Nute""
+source_file: "Albert Martin Peterson"
+born: "March 25, 1952 "
+died: " March 18, 2018"
 ---
 # Albert Martin "Nute" Peterson
 

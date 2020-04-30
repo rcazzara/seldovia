@@ -1,8 +1,8 @@
 ---
-full_name: WHEELER FAMILY
-family_name: Wheeler
-given_names: Family
-source_file: Wheeler
+full_name: "WHEELER FAMILY"
+family_name: "Wheeler"
+given_names: "Family"
+source_file: "Wheeler"
 born: nil
 died: nil
 ---

@@ -1,10 +1,10 @@
 ---
-full_name: Peder Pederson
-family_name: Pederson
-given_names: Peder
-source_file: Peder Pederson
-born: February 5, 1876, Skudenes, Norway 
-died:  September 19, 1940, Seldovia
+full_name: "Peder Pederson"
+family_name: "Pederson"
+given_names: "Peder"
+source_file: "Peder Pederson"
+born: "February 5, 1876, Skudenes, Norway "
+died: " September 19, 1940, Seldovia"
 ---
 # Peder Pederson
 

@@ -1,8 +1,8 @@
 ---
-full_name: John "Russian John" Keturakis
-family_name: Keturakis
-given_names: John "Russian John"
-source_file: Russian John Ketourakis
+full_name: "John "Russian John" Keturakis"
+family_name: "Keturakis"
+given_names: "John "Russian John""
+source_file: "Russian John Ketourakis"
 born: nil
 died: nil
 ---

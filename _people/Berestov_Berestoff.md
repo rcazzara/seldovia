@@ -1,8 +1,8 @@
 ---
-full_name: Berestoff (Berestov) Family
-family_name: (Berestov)
-given_names: Berestoff
-source_file: BERESTOFF FAMILY
+full_name: "Berestoff (Berestov) Family"
+family_name: "(Berestov)"
+given_names: "Berestoff"
+source_file: "BERESTOFF FAMILY"
 born: nil
 died: nil
 ---

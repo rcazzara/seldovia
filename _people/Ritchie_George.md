@@ -1,10 +1,10 @@
 ---
-full_name: George Ritchie
-family_name: Ritchie
-given_names: George
-source_file: Ritchie Family
-born: 1905, Seldovia, Alaska 
-died:  December 1952, Seldovia, Alaska
+full_name: "George Ritchie"
+family_name: "Ritchie"
+given_names: "George"
+source_file: "Ritchie Family"
+born: "1905, Seldovia, Alaska "
+died: " December 1952, Seldovia, Alaska"
 ---
 # George Ritchie
 

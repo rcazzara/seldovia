@@ -1,8 +1,8 @@
 ---
-full_name: Carol Eve WALLIN Kincaid
-family_name: Kincaid
-given_names: Carol Eve Wallin
-source_file: BRUN FAMILY
+full_name: "Carol Eve WALLIN Kincaid"
+family_name: "Kincaid"
+given_names: "Carol Eve Wallin"
+source_file: "BRUN FAMILY"
 born: nil
 died: nil
 ---

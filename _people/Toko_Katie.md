@@ -1,10 +1,10 @@
 ---
-full_name: Katie Toko
-family_name: Toko
-given_names: Katie
-source_file: Toko FAMILY
-born: 1902, Seldovia, Alaska 
-died:  1946, Seldovia, Alaska
+full_name: "Katie Toko"
+family_name: "Toko"
+given_names: "Katie"
+source_file: "Toko FAMILY"
+born: "1902, Seldovia, Alaska "
+died: " 1946, Seldovia, Alaska"
 ---
 # Katie Toko
 

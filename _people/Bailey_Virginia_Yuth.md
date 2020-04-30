@@ -1,10 +1,10 @@
 ---
-full_name: Virginia YUTH Bailey
-family_name: Bailey
-given_names: Virginia Yuth
-source_file: Yuth Family
-born: August 16, 1924, Seldovia, Alaska 
-died:  April 4, 1973, Washington
+full_name: "Virginia YUTH Bailey"
+family_name: "Bailey"
+given_names: "Virginia Yuth"
+source_file: "Yuth Family"
+born: "August 16, 1924, Seldovia, Alaska "
+died: " April 4, 1973, Washington"
 ---
 # Virginia YUTH Bailey
 

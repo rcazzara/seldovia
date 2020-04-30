@@ -1,8 +1,8 @@
 ---
-full_name: Crickett Forrest
-family_name: Forrest
-given_names: Crickett
-source_file: Remembering Our Children
+full_name: "Crickett Forrest"
+family_name: "Forrest"
+given_names: "Crickett"
+source_file: "Remembering Our Children"
 born: nil
 died: nil
 ---

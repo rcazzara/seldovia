@@ -1,8 +1,8 @@
 ---
-full_name: Jessie MOONIN Carlough Barnhardt
-family_name: Barnhardt
-given_names: Jessie Moonin Carlough
-source_file: James Howard Carlough
+full_name: "Jessie MOONIN Carlough Barnhardt"
+family_name: "Barnhardt"
+given_names: "Jessie Moonin Carlough"
+source_file: "James Howard Carlough"
 born: nil
 died: nil
 ---

@@ -1,8 +1,8 @@
 ---
-full_name: Alexsandra Potorochin Elxnit
-family_name: Elxnit
-given_names: Alexsandra Potorochin
-source_file: Elxnit Family
+full_name: "Alexsandra Potorochin Elxnit"
+family_name: "Elxnit"
+given_names: "Alexsandra Potorochin"
+source_file: "Elxnit Family"
 born: nil
 died: nil
 ---

@@ -1,10 +1,10 @@
 ---
-full_name: Matthias "MATT" H. ALBERTSON
-family_name: Albertson
-given_names: Matthias "Matt" H.
-source_file: Matt Alberton
-born: December 25, 1895, Michigan 
-died:  January 10, 1954, Seldovia, Alaska
+full_name: "Matthias "MATT" H. ALBERTSON"
+family_name: "Albertson"
+given_names: "Matthias "Matt" H."
+source_file: "Matt Alberton"
+born: "December 25, 1895, Michigan "
+died: " January 10, 1954, Seldovia, Alaska"
 ---
 # Matthias "MATT" H. ALBERTSON
 

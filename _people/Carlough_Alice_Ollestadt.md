@@ -1,8 +1,8 @@
 ---
-full_name: Alice OLLESTADT Carlough
-family_name: Carlough
-given_names: Alice Ollestadt
-source_file: James Howard Carlough
+full_name: "Alice OLLESTADT Carlough"
+family_name: "Carlough"
+given_names: "Alice Ollestadt"
+source_file: "James Howard Carlough"
 born: nil
 died: nil
 ---

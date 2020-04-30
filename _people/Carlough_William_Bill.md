@@ -1,10 +1,10 @@
 ---
-full_name: William "BILL" Carlough
-family_name: Carlough
-given_names: William "Bill"
-source_file: James Howard Carlough
-born: November 22, 1918, Port Graham, Alaska 
-died:  1956, Seldovia, Alaska
+full_name: "William "BILL" Carlough"
+family_name: "Carlough"
+given_names: "William "Bill""
+source_file: "James Howard Carlough"
+born: "November 22, 1918, Port Graham, Alaska "
+died: " 1956, Seldovia, Alaska"
 ---
 # William "BILL" Carlough
 

@@ -1,8 +1,8 @@
 ---
-full_name: Agnes Lillian Nolan Graewe
-family_name: Graewe
-given_names: Agnes Lillian Nolan
-source_file: Agnes Lillian Nolan Graewe
+full_name: "Agnes Lillian Nolan Graewe"
+family_name: "Graewe"
+given_names: "Agnes Lillian Nolan"
+source_file: "Agnes Lillian Nolan Graewe"
 born: nil
 died: nil
 ---

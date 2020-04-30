@@ -1,8 +1,8 @@
 ---
-full_name: Hilts Family
-family_name: Hilts
-given_names: Family
-source_file: Hilts FAMILY
+full_name: "Hilts Family"
+family_name: "Hilts"
+given_names: "Family"
+source_file: "Hilts FAMILY"
 born: nil
 died: nil
 ---

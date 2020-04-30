@@ -1,8 +1,8 @@
 ---
-full_name: Grace Gleason Miller
-family_name: Miller
-given_names: Grace Gleason
-source_file: Richard Miller
+full_name: "Grace Gleason Miller"
+family_name: "Miller"
+given_names: "Grace Gleason"
+source_file: "Richard Miller"
 born: nil
 died: nil
 ---

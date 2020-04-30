@@ -1,8 +1,8 @@
 ---
-full_name: Lowell Keith Suydam
-family_name: Suydam
-given_names: Lowell Keith
-source_file: Suydam Family
+full_name: "Lowell Keith Suydam"
+family_name: "Suydam"
+given_names: "Lowell Keith"
+source_file: "Suydam Family"
 born: nil
 died: nil
 ---

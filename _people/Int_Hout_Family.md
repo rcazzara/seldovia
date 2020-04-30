@@ -1,8 +1,8 @@
 ---
-full_name: Int-Hout FAMILY
-family_name: Int-Hout
-given_names: Family
-source_file: Int Hout
+full_name: "Int-Hout FAMILY"
+family_name: "Int-Hout"
+given_names: "Family"
+source_file: "Int Hout"
 born: nil
 died: nil
 ---

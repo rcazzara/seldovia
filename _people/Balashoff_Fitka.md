@@ -1,8 +1,8 @@
 ---
-full_name: Fitka Balashoff
-family_name: Balashoff
-given_names: Fitka
-source_file: Balashov Family 2
+full_name: "Fitka Balashoff"
+family_name: "Balashoff"
+given_names: "Fitka"
+source_file: "Balashov Family 2"
 born: nil
 died: nil
 ---

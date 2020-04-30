@@ -1,8 +1,8 @@
 ---
-full_name: Demnina "NINA" OSKOLKOFF Edelman Matson
-family_name: Matson
-given_names: Demnina "Nina" Oskolkoff Edelman
-source_file: Nina Edelman Matson
+full_name: "Demnina "NINA" OSKOLKOFF Edelman Matson"
+family_name: "Matson"
+given_names: "Demnina "Nina" Oskolkoff Edelman"
+source_file: "Nina Edelman Matson"
 born: nil
 died: nil
 ---

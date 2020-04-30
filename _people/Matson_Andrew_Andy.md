@@ -1,10 +1,10 @@
 ---
-full_name: Andrew "ANDY" MATSON
-family_name: Matson
-given_names: Andrew "Andy"
-source_file: Andrew Matson
-born: July 10, 1882, Kotka, Finland 
-died:  February 26, 1949, Seldovia, Alaska
+full_name: "Andrew "ANDY" MATSON"
+family_name: "Matson"
+given_names: "Andrew "Andy""
+source_file: "Andrew Matson"
+born: "July 10, 1882, Kotka, Finland "
+died: " February 26, 1949, Seldovia, Alaska"
 ---
 # Andrew "ANDY" MATSON
 

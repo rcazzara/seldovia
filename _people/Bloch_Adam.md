@@ -1,10 +1,10 @@
 ---
-full_name: Adam Bloch
-family_name: Bloch
-given_names: Adam
-source_file: Adam Bloch and English
-born: 1840- 1843, Bavaria 
-died:  March 9, 1915 Seldovia, Alaska
+full_name: "Adam Bloch"
+family_name: "Bloch"
+given_names: "Adam"
+source_file: "Adam Bloch and English"
+born: "1840- 1843, Bavaria "
+died: " March 9, 1915 Seldovia, Alaska"
 ---
 # Adam Bloch
 

@@ -1,8 +1,8 @@
 ---
-full_name: Martin Peterson
-family_name: Peterson
-given_names: Martin
-source_file: Martin Peterson family
+full_name: "Martin Peterson"
+family_name: "Peterson"
+given_names: "Martin"
+source_file: "Martin Peterson family"
 born: nil
 died: nil
 ---

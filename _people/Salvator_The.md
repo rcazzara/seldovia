@@ -1,8 +1,8 @@
 ---
-full_name: THE SALVATOR
-family_name: Salvator
-given_names: The
-source_file: Salvator
+full_name: "THE SALVATOR"
+family_name: "Salvator"
+given_names: "The"
+source_file: "Salvator"
 born: nil
 died: nil
 ---

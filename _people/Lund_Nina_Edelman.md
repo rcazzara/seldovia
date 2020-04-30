@@ -1,10 +1,10 @@
 ---
-full_name: Nina EDELMAN Lund
-family_name: Lund
-given_names: Nina Edelman
-source_file: Carl John LUND Family
-born: March 10, 1896, Kenai, Alaska 
-died:  December 8, 1977, Seldovia, Alaska
+full_name: "Nina EDELMAN Lund"
+family_name: "Lund"
+given_names: "Nina Edelman"
+source_file: "Carl John LUND Family"
+born: "March 10, 1896, Kenai, Alaska "
+died: " December 8, 1977, Seldovia, Alaska"
 ---
 # Nina EDELMAN Lund
 

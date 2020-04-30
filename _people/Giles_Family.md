@@ -1,8 +1,8 @@
 ---
-full_name: Giles Family
-family_name: Giles
-given_names: Family
-source_file: Giles Family
+full_name: "Giles Family"
+family_name: "Giles"
+given_names: "Family"
+source_file: "Giles Family"
 born: nil
 died: nil
 ---

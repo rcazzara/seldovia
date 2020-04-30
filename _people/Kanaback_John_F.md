@@ -1,10 +1,10 @@
 ---
-full_name: John F. Kanaback
-family_name: Kanaback
-given_names: John F.
-source_file: Kanaback Family
-born: September 29, 1923, Seldovia, Alaska 
-died:  1999, Palmer, Alaska
+full_name: "John F. Kanaback"
+family_name: "Kanaback"
+given_names: "John F."
+source_file: "Kanaback Family"
+born: "September 29, 1923, Seldovia, Alaska "
+died: " 1999, Palmer, Alaska"
 ---
 # John F. Kanaback
 

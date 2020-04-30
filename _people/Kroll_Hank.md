@@ -1,8 +1,8 @@
 ---
-full_name: Hank Kroll
-family_name: Kroll
-given_names: Hank
-source_file: Hank Kroll
+full_name: "Hank Kroll"
+family_name: "Kroll"
+given_names: "Hank"
+source_file: "Hank Kroll"
 born: nil
 died: nil
 ---

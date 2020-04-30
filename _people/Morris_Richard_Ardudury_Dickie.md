@@ -1,8 +1,8 @@
 ---
-full_name: Richard Ardudury "Dickie" Morris
-family_name: Morris
-given_names: Richard Ardudury "Dickie"
-source_file: Richard Ceiriog MORRIS
+full_name: "Richard Ardudury "Dickie" Morris"
+family_name: "Morris"
+given_names: "Richard Ardudury "Dickie""
+source_file: "Richard Ceiriog MORRIS"
 born: nil
 died: nil
 ---

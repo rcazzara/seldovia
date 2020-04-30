@@ -1,10 +1,10 @@
 ---
-full_name: Anisem Alexandroff
-family_name: Alexandroff
-given_names: Anisem
-source_file: ANISEM ALEXANDROFF
-born: March 1872, Kodiak 
-died:  June 27, 1945, Seldovia
+full_name: "Anisem Alexandroff"
+family_name: "Alexandroff"
+given_names: "Anisem"
+source_file: "ANISEM ALEXANDROFF"
+born: "March 1872, Kodiak "
+died: " June 27, 1945, Seldovia"
 ---
 # Anisem Alexandroff
 

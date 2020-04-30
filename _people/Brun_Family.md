@@ -1,8 +1,8 @@
 ---
-full_name: Brun Family
-family_name: Brun
-given_names: Family
-source_file: BRUN FAMILY
+full_name: "Brun Family"
+family_name: "Brun"
+given_names: "Family"
+source_file: "BRUN FAMILY"
 born: nil
 died: nil
 ---

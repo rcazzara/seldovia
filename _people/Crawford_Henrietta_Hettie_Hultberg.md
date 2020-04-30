@@ -1,10 +1,10 @@
 ---
-full_name: Henrietta "Hettie" HULTBERG Crawford
-family_name: Crawford
-given_names: Henrietta "Hettie" Hultberg
-source_file: CRAWFORD FAMILY
-born: 1908, Alaska 
-died:  June 16, 1981, Seldovia, Alaska
+full_name: "Henrietta "Hettie" HULTBERG Crawford"
+family_name: "Crawford"
+given_names: "Henrietta "Hettie" Hultberg"
+source_file: "CRAWFORD FAMILY"
+born: "1908, Alaska "
+died: " June 16, 1981, Seldovia, Alaska"
 ---
 # Henrietta "Hettie" HULTBERG Crawford
 
