@@ -6,7 +6,7 @@ title: Seldovia People
 <ul>
     {% for people in site.people %}
     <li>
-        <a href="{{ people.url | prepend: site.baseurl }}">{{ people.full_name | default: people.source_file }}</a>
+        <a href="{{ people.url | prepend: site.baseurl }}">{{ people.source_file }}</a>
     </li>
     {% endfor %}
 </ul>
