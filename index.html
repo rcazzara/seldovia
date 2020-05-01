@@ -3,10 +3,17 @@ layout: default
 title: Seldovia People
 ---
 
-<ul>
+<table>
+    <tr>
+        <th>Name</th>
+        <th>Source</th>
+        <th>Plot</th>
+    </tr>
     {% for people in site.people %}
-    <li>
-        <a href="{{ people.url | prepend: site.baseurl }}">{{ people.source_file }}</a>
-    </li>
+    <tr>
+        <td><a href="{{ people.url | prepend: site.baseurl }}">{{ people.full_name }}</a></td>
+        <td>{{ people.source_file }}</td>
+        <td>{{ people.cemetry_plot }}</td>
+    </tr>
     {% endfor %}
-</ul>
+</table>
