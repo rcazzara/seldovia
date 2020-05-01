@@ -3,17 +3,35 @@ layout: default
 title: Seldovia People
 ---
 
-<table>
-    <tr>
-        <th>Name</th>
-        <th>Source</th>
-        <th>Plot</th>
-    </tr>
-    {% for people in site.people %}
-    <tr>
-        <td><a href="{{ people.url | prepend: site.baseurl }}">{{ people.full_name }}</a></td>
-        <td>{{ people.source_file }}</td>
-        <td>{{ people.cemetry_plot }}</td>
-    </tr>
-    {% endfor %}
+<link rel="stylesheet" type="text/css"
+    href="https://cdn.datatables.net/v/dt/dt-1.10.20/r-2.2.3/rg-1.1.1/datatables.min.css" />
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.20/r-2.2.3/rg-1.1.1/datatables.min.js">
+</script>
+<script>
+    $(document).ready(function () {
+        $('#People').DataTable({
+            "paging": false
+        });
+    });
+</script>
+
+<table id="People" class="display">
+    <thead>
+        <tr>
+            <th>Family Name</th>
+            <th>Given Names</th>
+            <th>Source</th>
+            <th>Plot</th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for people in site.people %}
+        <tr>
+            <td><a href="{{ people.url | prepend: site.baseurl }}">{{ people.family_name }}</a></td>
+            <td><a href="{{ people.url | prepend: site.baseurl }}">{{ people.given_names }}</a></td>
+            <td>{{ people.source_file }}</td>
+            <td>{{ people.cemetry_plot }}</td>
+        </tr>
+        {% endfor %}
+    </tbody>
 </table>
