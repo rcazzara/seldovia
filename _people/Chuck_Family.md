@@ -1,13 +1,13 @@
 ---
-full_name: "\"CHUCK\""
-family_name: "\"Chuck\""
-given_names: "Family"
+full_name: "Crede Anthony \"CHUCK\" Foster"
+family_name: "Foster"
+given_names: "Crede Anthony \"CHUCK\""
 source_file: "Crede Anthony Foster"
 born: nil
 died: nil
 cemetry_plot: 159
 ---
-# "CHUCK"
+# Crede Anthony "CHUCK" Foster
 
 **July 4, 1891 in Eureka, California – September 24, 1948, Seldovia,
 AK**
