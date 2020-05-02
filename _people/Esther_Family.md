@@ -1,7 +1,7 @@
 ---
-full_name: "Esther"
-family_name: "Esther"
-given_names: "Family"
+full_name: "Esther Int Hout"
+family_name: "Int Hout"
+given_names: "Esther"
 source_file: "Int Hout"
 born: nil
 died: nil
