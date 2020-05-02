@@ -1,7 +1,7 @@
 ---
 full_name: "US Osprey"
-family_name: "Osprey"
-given_names: "Us"
+family_name: "US Osprey"
+given_names: "Patrol Boat"
 source_file: "US Osprey"
 born: nil
 died: nil
