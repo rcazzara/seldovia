@@ -1,7 +1,7 @@
 ---
 full_name: "Walter Kanaback, Jr."
-family_name: "Jr."
-given_names: "Walter Kanaback,"
+family_name: "Kanaback"
+given_names: "Walter, Jr."
 source_file: "Kanaback Family"
 born: "November 26, 1925, Seldovia, Alaska "
 died: " 1951, Seldovia"
