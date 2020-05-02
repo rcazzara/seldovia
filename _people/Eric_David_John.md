@@ -1,22 +1,21 @@
 ---
-full_name: "[**David John \"Eric\""
-family_name: "\"Eric\""
-given_names: "[**David John"
+full_name: "David John \"Eric\" Erickson"
+family_name: "Erickson"
+given_names: "David John \"Eric\""
 source_file: "David John Ericson"
 born: nil
 died: nil
 cemetry_plot: 
 ---
-# [**David John "Eric"
-Erickson**](http://www.seldovia.com/david-john-eric-erickson/)
+# [David John "Eric" Erickson](http://www.seldovia.com/david-john-eric-erickson/)
 
 Posted: 13 Oct 2015 04:01 PM PDT
 
 *Submitted by Frieda Erickson*
 
-![Eric
-Erickson](../assets/images/David%20John%20Ericson/media/image1.jpeg) Oro
-Valley, AZ – David John "Eric" Erickson died on Tuesday, October 6,
+![Eric Erickson](../assets/images/David%20John%20Ericson/media/image1.jpeg)
+
+Oro Valley, AZ – David John "Eric" Erickson died on Tuesday, October 6,
 2015, in Oro Valley. Eric was born August 14, 1943, in Cheyenne, Wyoming
 to parents Harold Erickson and Martha Leefers Erickson. He grew up in
 Cheyenne and graduated from the University of Wyoming in 1966 with a
