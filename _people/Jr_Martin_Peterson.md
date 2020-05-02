@@ -1,7 +1,7 @@
 ---
 full_name: "Martin Peterson, Jr."
-family_name: "Jr."
-given_names: "Martin Peterson,"
+family_name: "Peterson"
+given_names: "Martin, Jr."
 source_file: "Remembering Our Children"
 born: nil
 died: nil
