@@ -1,7 +1,7 @@
 ---
 full_name: "Walter Kanaback, Sr"
-family_name: "Sr"
-given_names: "Walter Kanaback,"
+family_name: "Kanaback"
+given_names: "Walter, Sr."
 source_file: "Kanaback Family"
 born: "July 28, 1892, Seldovia "
 died: " 1951, Seldovia"
