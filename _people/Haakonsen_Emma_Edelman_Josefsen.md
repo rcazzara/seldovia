@@ -1,10 +1,10 @@
 ---
-full_name: "**Emma Edelman** **Josefsen Haakonsen**"
-family_name: "Haakonsen**"
-given_names: "**Emma Edelman** **Josefsen"
+full_name: "Emma Edelman and Josefsen Haakonsen"
+family_name: "Edelman"
+given_names: "Emma, Josefsen"
 source_file: "Edelman"
 born: "June 23, 1902, Kenai, Alaska "
-died: " May 11, 1993, Seldovia, Alaska"
+died: "May 11, 1993, Seldovia, Alaska"
 cemetry_plot: 
 ---
 # **Emma Edelman** **Josefsen Haakonsen**
