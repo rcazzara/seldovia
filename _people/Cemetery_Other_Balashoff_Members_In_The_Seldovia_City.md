@@ -1,7 +1,7 @@
 ---
-full_name: "Other Balashoff Family Members in the Seldovia City Cemetery:"
-family_name: "Cemetery:"
-given_names: "Other Balashoff Members In The Seldovia City"
+full_name: "Other Balashoff Family Members in the Seldovia City Cemetery"
+family_name: "Balashoff"
+given_names: "Other"
 source_file: "Balashov Family 2"
 born: nil
 died: nil
