@@ -3,13 +3,13 @@ full_name: "Fitka Balashoff"
 family_name: "Balashoff"
 given_names: "Fitka"
 source_file: "Balashov Family 2"
-born: nil
-died: nil
+born: 1866
+died: 
 cemetry_plot: 
 ---
 # Fitka Balashoff
 
-**Fitka Balashoff** was born about 1866. Some genealogists have listed
+**Fitka** [**Balashoff**](Balashov_balashof_balishoff_Family.md)** was born about 1866. Some genealogists have listed
 him as the grandson of Vasilii Ksenofontov Bal’shev, born in Russia
 about 1778. Vasilii’s son Vasilli (1831-1887) was in Kodiak in the late
 1800s. Much of the information we have about Fitka comes from Yale
