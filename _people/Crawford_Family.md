@@ -1,10 +1,10 @@
 ---
-full_name: "CRAWFORD FAMILY"
+full_name: "Reynard Leroy Crawford"
 family_name: "Crawford"
-given_names: "Family"
+given_names: "Reynard Leroy"
 source_file: "CRAWFORD FAMILY"
-born: nil
-died: nil
+born: 
+died: 
 cemetry_plot: 
 ---
 # CRAWFORD FAMILY
@@ -14,7 +14,7 @@ Anchorage in 1919 with his parents on the S.S. Northwestern, which
 anchored in the Inlet near Anchorage. Because there were no docking
 facilities, the passengers were ferried to shore aboard smaller boats.
 He grew up in Anchorage and attended local schools. Later he became a
-fur trapper near McGrath. He married Hettie Hultberg Conrad and they had
+fur trapper near McGrath. He married **Hettie Hultberg Conrad** and they had
 three children. The family moved from McGrath to Anchorage, Fairbanks,
 and eventually Seldovia in about 1948. Leroy worked on fishing tenders
 boats and later had his own mechanical shop. He died in Seward in 1973
