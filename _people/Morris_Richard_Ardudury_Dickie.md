@@ -5,7 +5,7 @@ first_name: "Richard Ardudury \"Dickie\""
 source_file: "Richard Ceiriog MORRIS"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Richard Ardudury "Dickie" Morris
 

@@ -5,7 +5,7 @@ first_name: "Evelyn Ruth Wheeler"
 source_file: "Wheeler"
 birth_location:
 death_location:
-cemetry_plot: 172
+cemetery_plot: 172
 ---
 # Evelyn Ruth WHEELER Hopkins
 

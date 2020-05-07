@@ -5,7 +5,7 @@ first_name: "Mildred Elizabeth Hilts"
 source_file: "Hilts FAMILY"
 birth_location:
 death_location:
-cemetry_plot: 312
+cemetery_plot: 312
 ---
 # Mildred Elizabeth HILTS Gronlund
 

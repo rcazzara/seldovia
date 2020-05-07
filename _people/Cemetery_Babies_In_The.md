@@ -5,7 +5,7 @@ first_name: "Babies In The"
 source_file: "Cemetery Babies"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Babies in the Cemetery
 

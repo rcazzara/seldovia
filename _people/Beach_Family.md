@@ -5,7 +5,7 @@ first_name: "Family"
 source_file: "Beach Family"
 birth_location:
 death_location:
-cemetry_plot: 135
+cemetery_plot: 135
 ---
 # Beach Family
 

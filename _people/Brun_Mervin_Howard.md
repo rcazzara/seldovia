@@ -5,7 +5,7 @@ first_name: "Mervin Howard"
 source_file: "BRUN FAMILY"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Mervin Howard Brun
 

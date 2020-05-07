@@ -5,7 +5,7 @@ first_name: "Russian Creoles In"
 source_file: "RUSSIAN CREOLES in SELDOVIA"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # RUSSIAN CREOLES in SELDOVIA
 

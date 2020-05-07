@@ -5,7 +5,7 @@ first_name: "Family"
 source_file: "Balashov Family 2"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # BALASHOFF FAMILY
 

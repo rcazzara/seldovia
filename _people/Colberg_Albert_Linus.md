@@ -5,7 +5,7 @@ first_name: "Albert Linus"
 source_file: "COLBERG Family"
 birth_location: "April 24, 1896, Moe, Norway "
 death_location: " January 3, 1942, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Albert Linus Colberg
 

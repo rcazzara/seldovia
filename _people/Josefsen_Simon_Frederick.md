@@ -5,7 +5,7 @@ first_name: "Simon Frederick"
 source_file: "Josefson Family"
 birth_location:
 death_location:
-cemetry_plot: 251
+cemetery_plot: 251
 ---
 # Simon Frederick Josefsen
 

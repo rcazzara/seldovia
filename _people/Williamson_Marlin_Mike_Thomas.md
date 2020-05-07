@@ -5,7 +5,7 @@ first_name: "Marlin \"Mike\" Thomas"
 source_file: "Williamson Mike and Frances"
 birth_location: "June 17, 1926, Oregon "
 death_location: " February 11, 2013, Pennsylvania"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Marlin "Mike" Thomas Williamson
 

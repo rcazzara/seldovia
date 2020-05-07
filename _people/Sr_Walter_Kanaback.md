@@ -5,7 +5,7 @@ first_name: "Walter, Sr."
 source_file: "Kanaback Family"
 birth_location: "July 28, 1892, Seldovia "
 death_location: " 1951, Seldovia"
-cemetry_plot: 129
+cemetery_plot: 129
 ---
 # Walter Kanaback, Sr
 

@@ -5,7 +5,7 @@ first_name: "Peder"
 source_file: "Peder Pederson"
 birth_location: "February 5, 1876, Skudenes, Norway "
 death_location: " September 19, 1940, Seldovia"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Peder Pederson
 

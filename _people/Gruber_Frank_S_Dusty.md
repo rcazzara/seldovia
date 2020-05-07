@@ -5,7 +5,7 @@ first_name: "Frank S. \"Dusty\""
 source_file: "Frank Gruber"
 birth_location: "August 1870 in Marion, Ohio "
 death_location: "August 2, 1939, Seldovia, AK"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Frank S. "Dusty" Gruber
 

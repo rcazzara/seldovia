@@ -5,7 +5,7 @@ first_name: "David John \"Eric\""
 source_file: "David John Ericson"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # [David John "Eric" Erickson](http://www.seldovia.com/david-john-eric-erickson/)
 

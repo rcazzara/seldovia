@@ -5,7 +5,7 @@ first_name: "Gustave Edvard"
 source_file: "Holmstrom Family"
 birth_location: "1881, Finland "
 death_location: " November 1934, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Gustave Edvard Holmstrom
 

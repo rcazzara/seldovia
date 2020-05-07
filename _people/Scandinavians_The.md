@@ -5,7 +5,7 @@ first_name: "The"
 source_file: "THE SCANDANAVIANS"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # THE SCANDINAVIANS
 

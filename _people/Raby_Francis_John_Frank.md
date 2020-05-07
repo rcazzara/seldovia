@@ -5,7 +5,7 @@ first_name: "Francis John \"Frank\""
 source_file: "Frank Raby"
 birth_location: "July 27, 1894, Ontario Canada "
 death_location: " January 4, 1984, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Francis John "Frank" Raby
 

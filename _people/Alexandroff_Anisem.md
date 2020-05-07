@@ -5,7 +5,7 @@ first_name: "Anisem"
 source_file: "ANISEM ALEXANDROFF"
 birth_location: "March 1872, Kodiak "
 death_location: " June 27, 1945, Seldovia"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Anisem Alexandroff
 

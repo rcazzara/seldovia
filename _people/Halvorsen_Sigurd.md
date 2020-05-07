@@ -5,7 +5,7 @@ first_name: "Sigurd"
 source_file: "Sigurd Halversen family"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Sigurd Halvorsen
 

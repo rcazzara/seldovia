@@ -5,7 +5,7 @@ first_name: "William \"Bill\""
 source_file: "James Howard Carlough"
 birth_location: "November 22, 1918, Port Graham, Alaska "
 death_location: " 1956, Seldovia, Alaska"
-cemetry_plot: 187
+cemetery_plot: 187
 ---
 # William "BILL" Carlough
 

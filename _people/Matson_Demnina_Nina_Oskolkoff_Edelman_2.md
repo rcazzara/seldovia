@@ -5,7 +5,7 @@ first_name: "Demnina \"Nina\" Oskolkoff Edelman"
 source_file: "Edvin and Demnina Oskolkoff Edelman"
 birth_location:
 death_location:
-cemetry_plot: 51
+cemetery_plot: 51
 ---
 # Demnina "NINA" OSKOLKOFF Edelman Matson
 

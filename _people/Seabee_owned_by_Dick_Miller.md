@@ -5,7 +5,7 @@ first_name: "Dick Miller"
 source_file: "Dick Miller's Seabee"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Owned By Dick Miller Seabee
 

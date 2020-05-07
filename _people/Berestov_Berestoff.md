@@ -5,7 +5,7 @@ first_name: "Family"
 source_file: "BERESTOFF FAMILY"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Berestoff (Berestov) Family
 

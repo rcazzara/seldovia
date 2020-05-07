@@ -5,7 +5,7 @@ first_name: "James Jethro \"Jim\""
 source_file: "Stonehocker"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # James Jethro "Jim" Stonehocker
 

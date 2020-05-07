@@ -5,7 +5,7 @@ first_name: "Richard Ceiriog"
 source_file: "Richard Ceiriog MORRIS"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Richard Ceiriog MORRIS
 

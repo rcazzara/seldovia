@@ -5,7 +5,7 @@ first_name: "Anna Walnusson"
 source_file: "Holmstrom Family"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Anna WALNUSSON Holmstrom
 

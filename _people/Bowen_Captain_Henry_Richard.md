@@ -5,7 +5,7 @@ first_name: "Captain Henry Richard"
 source_file: "Bowen Family"
 birth_location: "1853, Gloucester, Massachusetts "
 death_location: "(At Sea) Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Captain Henry Richard Bowen
 

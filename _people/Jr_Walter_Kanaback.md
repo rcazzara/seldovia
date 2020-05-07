@@ -5,7 +5,7 @@ first_name: "Walter, Jr."
 source_file: "Kanaback Family"
 birth_location: "November 26, 1925, Seldovia, Alaska "
 death_location: " 1951, Seldovia"
-cemetry_plot: 128
+cemetery_plot: 128
 ---
 # Walter Kanaback, Jr.
 

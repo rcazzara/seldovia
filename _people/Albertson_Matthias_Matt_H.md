@@ -5,7 +5,7 @@ first_name: "Matthias \"Matt\" H."
 source_file: "Matt Alberton"
 birth_location: "December 25, 1895, Michigan "
 death_location: " January 10, 1954, Seldovia, Alaska"
-cemetry_plot: 1
+cemetery_plot: 1
 ---
 # Matthias "MATT" H. ALBERTSON
 

@@ -5,7 +5,7 @@ first_name: "Family"
 source_file: "MOONIN FAMILY"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # MOONIN FAMILY
 

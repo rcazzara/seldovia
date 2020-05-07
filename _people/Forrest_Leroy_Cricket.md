@@ -5,7 +5,7 @@ first_name: "Leroy \"Cricket\""
 source_file: "Crickett Forrest"
 birth_location: "1936, Alaska "
 death_location: " July 3, 1948, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Leroy "Cricket" FORREST
 

@@ -5,7 +5,7 @@ first_name: "Jordan"
 source_file: "Jordan Gaegel"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Jordan Geagel
 

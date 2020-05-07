@@ -5,7 +5,7 @@ first_name: "Frederick Walter (Freddy)"
 source_file: "Frederick Walter Newmeyer not in cemetery"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Frederick Walter (Freddy) Newmeyer
 

@@ -5,7 +5,7 @@ first_name: "Reynard Leroy"
 source_file: "CRAWFORD FAMILY"
 birth_location: 
 death_location: 
-cemetry_plot: 
+cemetery_plot: 
 ---
 # CRAWFORD FAMILY
 

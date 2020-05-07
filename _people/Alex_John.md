@@ -5,7 +5,7 @@ first_name: "John"
 source_file: "John ALEX"
 birth_location:
 death_location:
-cemetry_plot: 2
+cemetery_plot: 2
 ---
 # John ALEX
 

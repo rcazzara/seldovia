@@ -5,7 +5,7 @@ first_name: "Jessie Moonin Carlough"
 source_file: "MOONIN FAMILY"
 birth_location:
 death_location:
-cemetry_plot: 53
+cemetery_plot: 53
 ---
 # Jessie MOONIN Carlough Barnhardt
 

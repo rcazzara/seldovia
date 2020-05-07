@@ -5,7 +5,7 @@ first_name: "John \"Pierre\""
 source_file: "Int Hout"
 birth_location: "June 30, 1924, Maurice, Iowa "
 death_location: " January 16, 2015, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # John "Pierre" Int-hout
 

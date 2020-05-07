@@ -5,7 +5,7 @@ first_name: "Martin"
 source_file: "Martin Hogenson"
 birth_location:
 death_location:
-cemetry_plot: 191
+cemetery_plot: 191
 ---
 # Martin Haakonsen/Hogenson
 

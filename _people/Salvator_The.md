@@ -5,7 +5,7 @@ first_name: "The"
 source_file: "Salvator"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # THE SALVATOR
 

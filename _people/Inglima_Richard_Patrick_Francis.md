@@ -5,6 +5,6 @@ first_name: "Richard Patrick Francis"
 source_file: "Richard Ceiriog MORRIS"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Richard Patrick Francis INGLIMA

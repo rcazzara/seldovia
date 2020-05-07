@@ -5,7 +5,7 @@ first_name: "Helen Laisure"
 source_file: "Giles Family"
 birth_location: "October 21, 1908, Washington"
 death_location: " January 10, 1994, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Helen Laisure Giles
 

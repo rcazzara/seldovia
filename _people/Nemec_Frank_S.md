@@ -5,7 +5,7 @@ first_name: "Frank S."
 source_file: "Frank Nemec"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Frank S. Nemec
 

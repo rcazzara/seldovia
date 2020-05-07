@@ -5,7 +5,7 @@ first_name: "Jenny (Moonin?) Romanoff"
 source_file: "Hary Leonhardt and wives"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Jenny (MOONIN?) Romanoff Leonhardt
 

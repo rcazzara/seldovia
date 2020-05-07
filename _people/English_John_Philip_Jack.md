@@ -5,7 +5,7 @@ first_name: "John Philip (Jack)"
 source_file: "Adam Bloch and English"
 birth_location: "Aug. 14, 1905 in Strathroy, Canada "
 death_location: "Aug. 15, 1989"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # John Philip (Jack) English
 

@@ -5,7 +5,7 @@ first_name: "Albert Martin \"Nute\""
 source_file: "Albert Martin Peterson"
 birth_location: "March 25, 1952 "
 death_location: " March 18, 2018"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Albert Martin "Nute" Peterson
 

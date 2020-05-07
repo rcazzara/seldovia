@@ -5,7 +5,7 @@ first_name: "John Naismith"
 source_file: "COLBERG Family"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # John Naismith Colberg
 

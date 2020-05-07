@@ -5,7 +5,7 @@ first_name: "Nicholai \"Nick\""
 source_file: "Martin Hogenson"
 birth_location: "August 20, 1934, Seldovia, Alaska "
 death_location: " June 30, 1988, Seldovia, Alaska"
-cemetry_plot: 190
+cemetery_plot: 190
 ---
 # Nicholai "NICK" Hogenson
 

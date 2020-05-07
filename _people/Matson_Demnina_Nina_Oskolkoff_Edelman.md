@@ -5,7 +5,7 @@ first_name: "Demnina \"Nina\" Oskolkoff Edelman"
 source_file: "Andrew Matson"
 birth_location: "March 27, 1880, Ninilchik, Alaska "
 death_location: " September 25, 1945, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Demnina "NINA" OSKOLKOFF Edelman Matson
 

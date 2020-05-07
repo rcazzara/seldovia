@@ -5,7 +5,7 @@ first_name: "Crede Anthony \"CHUCK\""
 source_file: "Crede Anthony Foster"
 birth_location:
 death_location:
-cemetry_plot: 159
+cemetery_plot: 159
 ---
 # Crede Anthony "CHUCK" Foster
 

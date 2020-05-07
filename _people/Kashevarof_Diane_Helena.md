@@ -5,7 +5,7 @@ first_name: "Diane Helena"
 source_file: "Katherine Fox Kashevarof"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Diane Helena KASHEVAROF
 

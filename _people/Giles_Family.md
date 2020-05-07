@@ -5,7 +5,7 @@ first_name: "Family"
 source_file: "Giles Family"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Giles Family
 

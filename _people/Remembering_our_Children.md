@@ -5,7 +5,7 @@ first_name: "Remembering"
 source_file: "Remembering Our Children"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Remembering Our Children
 

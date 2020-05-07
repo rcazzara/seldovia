@@ -5,7 +5,7 @@ first_name: "Family"
 source_file: "Wallin Family"
 birth_location:
 death_location:
-cemetry_plot: 553
+cemetery_plot: 553
 ---
 # Wallin Family
 

@@ -5,7 +5,7 @@ first_name: "Family"
 source_file: "Int Hout"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Int-Hout FAMILY
 

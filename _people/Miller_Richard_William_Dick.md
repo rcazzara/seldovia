@@ -5,7 +5,7 @@ first_name: "Richard William \"Dick\""
 source_file: "Richard Miller"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Richard William "Dick" Miller
 

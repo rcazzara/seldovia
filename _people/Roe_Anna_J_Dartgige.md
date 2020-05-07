@@ -5,7 +5,7 @@ first_name: "Anna J. Dartgige"
 source_file: "John Roe and Wives"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Anna J. Dartgige Roe
 

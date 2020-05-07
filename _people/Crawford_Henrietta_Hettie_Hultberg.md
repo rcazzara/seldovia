@@ -5,7 +5,7 @@ first_name: "Henrietta \"Hettie\" Hultberg"
 source_file: "CRAWFORD FAMILY"
 birth_location: "1908, Alaska "
 death_location: " June 16, 1981, Seldovia, Alaska"
-cemetry_plot: 531
+cemetery_plot: 531
 ---
 # Henrietta "Hettie" HULTBERG Crawford
 

@@ -5,7 +5,7 @@ first_name: "Jack"
 source_file: "Jack Thomas scrapbook"
 birth_location: "February 2, 1931, California "
 death_location: " October 12, 2016, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # JACK THOMAS
 

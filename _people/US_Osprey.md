@@ -5,7 +5,7 @@ first_name: "Patrol Boat"
 source_file: "US Osprey"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # US Osprey
 

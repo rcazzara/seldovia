@@ -5,7 +5,7 @@ first_name: "Frank Lyn"
 source_file: "FRANK LYN HERN"
 birth_location: "Alaskan Bush Pilot Plans Non"
 death_location: "stop Distance Record in a Cessna 150"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # FRANK LYN HERN
 

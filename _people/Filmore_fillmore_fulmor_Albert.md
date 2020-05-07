@@ -5,7 +5,7 @@ first_name: "Albert"
 source_file: "Albert Filmore"
 birth_location: "November 1850, Maine "
 death_location: " February 13, 1919, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Albert Filmore/Fillmore/Fulmor
 

@@ -5,7 +5,7 @@ first_name: "Stella Alexandria Brun"
 source_file: "Suydam Family"
 birth_location:
 death_location:
-cemetry_plot: 565
+cemetery_plot: 565
 ---
 # Stella Alexandria BRUN Suydam
 

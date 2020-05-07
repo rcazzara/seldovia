@@ -5,7 +5,7 @@ first_name: "Orient Nathan"
 source_file: "Orient Nathan Pond"
 birth_location: "October 10, 1862 in Minnesota "
 death_location: " January 4, 1941, Seldovia, AK"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Orient Nathan Pond
 

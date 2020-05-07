@@ -5,7 +5,7 @@ first_name: "Frances Lucille Jenkins"
 source_file: "Williamson Mike and Frances"
 birth_location: "October 30, 1927, Yoakum, Texas "
 death_location: " August 7, 2001, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Frances Lucille JENKINS Williamson
 

@@ -5,7 +5,7 @@ first_name: "Carol Eve Wallin"
 source_file: "BRUN FAMILY"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Carol Eve WALLIN Kincaid
 

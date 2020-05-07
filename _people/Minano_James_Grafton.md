@@ -5,7 +5,7 @@ first_name: "James Grafton"
 source_file: "James Grafton Minano"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # James Grafton MINANO
 

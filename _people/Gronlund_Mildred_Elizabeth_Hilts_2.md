@@ -5,7 +5,7 @@ first_name: "Mildred Elizabeth Hilts"
 source_file: "Romanoff FAMILY"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Mildred Elizabeth HILTS Gronlund
 

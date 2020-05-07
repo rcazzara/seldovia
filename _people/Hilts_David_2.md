@@ -5,7 +5,7 @@ first_name: "David"
 source_file: "Romanoff FAMILY"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # David Hilts
 

@@ -5,6 +5,6 @@ first_name: "Terry"
 source_file: "Terrance Meehan"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Terry Meehan

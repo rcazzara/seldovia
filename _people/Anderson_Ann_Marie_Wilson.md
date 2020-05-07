@@ -5,7 +5,7 @@ first_name: "Ann Marie Wilson"
 source_file: "Wilson Family"
 birth_location: "January 9, 1947, Seldovia, Alaska "
 death_location: " , Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Ann Marie WILSON Anderson
 

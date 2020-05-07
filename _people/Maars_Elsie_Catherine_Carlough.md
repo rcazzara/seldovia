@@ -5,7 +5,7 @@ first_name: "Elsie Catherine Carlough"
 source_file: "James Howard Carlough"
 birth_location: "October 19, 1923, Port Graham, Alaska "
 death_location: " 1956, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Elsie Catherine CARLOUGH Maars
 

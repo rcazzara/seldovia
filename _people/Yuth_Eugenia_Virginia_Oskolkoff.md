@@ -5,7 +5,7 @@ first_name: "Eugenia Virginia Oskolkoff"
 source_file: "Yuth Family"
 birth_location:
 death_location:
-cemetry_plot: 241
+cemetery_plot: 241
 ---
 # Eugenia Virginia OSKOLKOFF YUTH
 

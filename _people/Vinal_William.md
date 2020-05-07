@@ -5,7 +5,7 @@ first_name: "William"
 source_file: "William and Harriet Vinal"
 birth_location: "March 14, 1860, Maine "
 death_location: " died July 3, 1940, Seldovia, AK"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # William Vinal
 

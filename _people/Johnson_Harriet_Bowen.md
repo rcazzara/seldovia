@@ -5,7 +5,7 @@ first_name: "Harriet Bowen"
 source_file: "Bowen Family"
 birth_location: "December 13, 1888, Kodiak, Alaska"
 death_location: " March 3, 1931, Seldovia, Alaska"
-cemetry_plot: 70
+cemetery_plot: 70
 ---
 # Harriet BOWEN Johnson
 

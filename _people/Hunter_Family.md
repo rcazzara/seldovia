@@ -5,7 +5,7 @@ first_name: "Family"
 source_file: "HUNTER FAMILY"
 birth_location:
 death_location:
-cemetry_plot: 552
+cemetery_plot: 552
 ---
 # HUNTER Family
 

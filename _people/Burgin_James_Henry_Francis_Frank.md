@@ -5,7 +5,7 @@ first_name: "James Henry Francis \"Frank\""
 source_file: "Frank Burgin"
 birth_location: "February 7, 1879, Harrison, Missouri"
 death_location: "June 11, 1938, Seldovia, Alaska"
-cemetry_plot: 97
+cemetery_plot: 97
 ---
 # James Henry Francis "Frank" Burgin
 

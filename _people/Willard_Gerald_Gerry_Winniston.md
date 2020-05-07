@@ -5,7 +5,7 @@ first_name: "Gerald (Gerry) Winniston"
 source_file: "GERALD WILLARD"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Gerald (Gerry) Winniston Willard
 

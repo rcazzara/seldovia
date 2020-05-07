@@ -5,7 +5,7 @@ first_name: "Allen Hans"
 source_file: "Remembering Our Children"
 birth_location: "1953, Alaska "
 death_location: " July 1970, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Allen Hans Elvsaas
 

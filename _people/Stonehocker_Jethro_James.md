@@ -5,7 +5,7 @@ first_name: "Jethro James"
 source_file: "Jethro James Stonehocker"
 birth_location: "Jan. 18, 1864, Montezuma, Iowa "
 death_location: " May 10, 1939, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Jethro James Stonehocker
 

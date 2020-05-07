@@ -5,7 +5,7 @@ first_name: "Adrianna Rose"
 source_file: "JOHN ABELARD ARDENIA"
 birth_location: "October 8, 1996, Seldovia, Alaska "
 death_location: " 1996, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Adrianna Rose Ardenia
 

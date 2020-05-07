@@ -5,7 +5,7 @@ first_name: "Cecilia Majorie English"
 source_file: "Adam Bloch and English"
 birth_location: "April 29, 1929, Seldovia, AK "
 death_location: " April 1983, Seldovia, AK"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Cecilia Majorie ENGLISH Gruber
 

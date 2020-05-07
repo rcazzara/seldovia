@@ -5,7 +5,7 @@ first_name: "Roy Lewis"
 source_file: "Roy Hansen"
 birth_location: "August 25, 1926, Katalla, AK "
 death_location: " June 6, 1989, Seldovia, AK"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Roy Lewis Hansen
 

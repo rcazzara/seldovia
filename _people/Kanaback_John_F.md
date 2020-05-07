@@ -9,7 +9,7 @@ birth_date: "September 29, 1923"
 death_location: " 1999, Palmer, Alaska"
 death_location: "Palmer, AK"
 death_date: "1999"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # John F. Kanaback
 

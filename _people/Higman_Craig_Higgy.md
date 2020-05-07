@@ -5,7 +5,7 @@ first_name: "Craig \"Higgy\""
 source_file: "Craig Higman"
 birth_location: "1945"
 death_location: " June 19, 2016 Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Craig "Higgy" Higman
 

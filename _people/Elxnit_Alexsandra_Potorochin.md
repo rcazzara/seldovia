@@ -5,7 +5,7 @@ first_name: "Alexsandra Potorochin"
 source_file: "Elxnit Family"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Alexsandra Potorochin Elxnit
 

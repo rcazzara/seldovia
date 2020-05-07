@@ -5,7 +5,7 @@ first_name: "Llewellyn James"
 source_file: "Llewellyn James Morgan"
 birth_location: "February 1895, Michigan "
 death_location: " died March 21, 1940’ Seldovia, AK"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Llewellyn James Morgan
 

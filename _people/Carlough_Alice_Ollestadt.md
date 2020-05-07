@@ -5,7 +5,7 @@ first_name: "Alice Ollestadt"
 source_file: "James Howard Carlough"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Alice OLLESTADT Carlough
 

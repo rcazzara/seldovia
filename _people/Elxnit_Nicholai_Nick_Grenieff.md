@@ -5,7 +5,7 @@ first_name: "Nicholai \"Nick\" Grenieff"
 source_file: "Elxnit Family"
 birth_location: "November 3, 1903, Seldovia, Alaska"
 death_location: " May 26, 2001, SeldoviaAlaska"
-cemetry_plot: 227
+cemetery_plot: 227
 ---
 # Nicholai "Nick" Grenieff Elxnit
 

@@ -5,7 +5,7 @@ first_name: "Garland Brooks \"Tuggle\""
 source_file: "Int Hout"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Garland Brooks "Tuggle" Int-hout
 

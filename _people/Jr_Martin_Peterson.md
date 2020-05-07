@@ -5,7 +5,7 @@ first_name: "Martin, Jr."
 source_file: "Remembering Our Children"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Martin Peterson, Jr.
 

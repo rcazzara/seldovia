@@ -5,7 +5,7 @@ first_name: "Joseph Arthur \"Joe\""
 source_file: "Joseph Arthur Kurtz"
 birth_location: "October 31, 1909, Wisconsin "
 death_location: " August 29, 2003, Anchorage"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Joseph Arthur "Joe" Kurtz
 

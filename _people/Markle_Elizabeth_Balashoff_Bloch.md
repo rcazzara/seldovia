@@ -5,7 +5,7 @@ first_name: "Elizabeth Balashoff Bloch"
 source_file: "Adam Bloch and English"
 birth_location: "October 1885, Alaska "
 death_location: " May 1920, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Elizabeth Balashoff Bloch Markle
 

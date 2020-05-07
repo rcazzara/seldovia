@@ -5,7 +5,7 @@ first_name: "Alta Rosenbush"
 source_file: "COLBERG Family"
 birth_location: "February 24, 1934 "
 death_location: " January 20, 2020, Anchorage, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Alta ROSENBUSH Colberg
 

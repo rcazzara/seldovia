@@ -5,7 +5,7 @@ first_name: "Paul Elias"
 source_file: "Paul Mykelburst"
 birth_location: "January 15, 1894, Sovde, Norway "
 death_location: " October 3, 1944, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Paul Elias Myklebust
 

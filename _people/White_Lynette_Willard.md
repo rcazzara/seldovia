@@ -5,7 +5,7 @@ first_name: "Lynette Willard"
 source_file: "GERALD WILLARD"
 birth_location: "February 3, 1963 "
 death_location: " July 13, 2005"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Lynette Willard White
 

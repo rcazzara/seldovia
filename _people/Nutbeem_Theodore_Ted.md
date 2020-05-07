@@ -5,7 +5,7 @@ first_name: "Theodore \"Ted\""
 source_file: "Ted and Alice Nutbeem"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Theodore "Ted" Nutbeem
 

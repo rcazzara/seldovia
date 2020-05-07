@@ -5,7 +5,7 @@ first_name: "John \"Russian John\""
 source_file: "Russian John Ketourakis"
 birth_location:
 death_location:
-cemetry_plot: 174
+cemetery_plot: 174
 ---
 # John "Russian John" Keturakis
 

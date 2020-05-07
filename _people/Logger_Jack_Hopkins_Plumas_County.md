@@ -5,7 +5,7 @@ first_name: "Jack"
 source_file: "Jack Hopkins story by his son Bill"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Jack Hopkins, Plumas County Logger
 

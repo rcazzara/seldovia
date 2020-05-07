@@ -5,7 +5,7 @@ first_name: "Peter"
 source_file: "Peter Jackson"
 birth_location: "August 13, 1898, Alaska "
 death_location: " 1962, Seldovia, Alaska"
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Peter Jackson
 

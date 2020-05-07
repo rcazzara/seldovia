@@ -5,7 +5,7 @@ first_name: "Family"
 source_file: "James Naismith Cleghorn family"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # CLEGHORN FAMILY
 

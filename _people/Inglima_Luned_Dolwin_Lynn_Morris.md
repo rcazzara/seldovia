@@ -5,7 +5,7 @@ first_name: "Luned Dolwin \"Lynn\" Morris"
 source_file: "Richard Ceiriog MORRIS"
 birth_location:
 death_location:
-cemetry_plot: 
+cemetery_plot: 
 ---
 # Luned Dolwin "Lynn" MORRIS Inglima
 
