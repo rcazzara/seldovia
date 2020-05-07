@@ -1,10 +1,10 @@
 ---
 full_name: "Marillyn Kaye Giles"
-family_name: "Giles"
-given_names: "Marillyn Kaye"
+last_name: "Giles"
+first_name: "Marillyn Kaye"
 source_file: "Giles Family"
-born: "April 14, 1947, Seldovia, Alaska "
-died: " October 24, 2006"
+birth_location: "April 14, 1947, Seldovia, Alaska "
+death_location: " October 24, 2006"
 cemetry_plot: 
 ---
 # Marillyn Kaye Giles

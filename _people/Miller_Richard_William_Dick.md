@@ -1,10 +1,10 @@
 ---
 full_name: "Richard William \"Dick\" Miller"
-family_name: "Miller"
-given_names: "Richard William \"Dick\""
+last_name: "Miller"
+first_name: "Richard William \"Dick\""
 source_file: "Richard Miller"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Richard William "Dick" Miller

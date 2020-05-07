@@ -1,10 +1,10 @@
 ---
 full_name: "Lillian \"Lillie\" Holm Leonhardt"
-family_name: "Leonhardt"
-given_names: "Lillian \"Lillie\" Holm"
+last_name: "Leonhardt"
+first_name: "Lillian \"Lillie\" Holm"
 source_file: "Hary Leonhardt and wives"
-born: "1891, California "
-died: " 1956, Diller, Nebraska"
+birth_location: "1891, California "
+death_location: " 1956, Diller, Nebraska"
 cemetry_plot: 114
 ---
 # Lillian "Lillie" Holm Leonhardt

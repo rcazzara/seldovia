@@ -1,10 +1,10 @@
 ---
 full_name: "COLBERG Family"
-family_name: "Colberg"
-given_names: "Family"
+last_name: "Colberg"
+first_name: "Family"
 source_file: "COLBERG Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # COLBERG Family

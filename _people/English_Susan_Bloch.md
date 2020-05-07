@@ -1,11 +1,12 @@
 ---
-full_name: "Susan BLOCH English"
-family_name: "English"
-given_names: "Susan Bloch"
-source_file: "Adam Bloch and English"
-born: "Feb. 26, 1904, Seldovia "
-died: "Oct. 10, 1989, Seldovia"
-cemetry_plot: 
+last_name: English
+maiden_name: Bloch
+first_name: Susan
+birth_date: 1904-02-26
+birth_location: Seldovia, AK
+death_date: 1986-10-10
+cemetery_plot: 594
+source_file: Cemetery Directory
 ---
 # Susan BLOCH English
 

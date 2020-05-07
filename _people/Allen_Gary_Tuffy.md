@@ -1,10 +1,10 @@
 ---
 full_name: "Gary \"Tuffy\" Allen"
-family_name: "Allen"
-given_names: "Gary \"Tuffy\""
+last_name: "Allen"
+first_name: "Gary \"Tuffy\""
 source_file: "Remembering Our Children"
-born: "1955, Alaska "
-died: " July 1975, Seldovia, Alaska"
+birth_location: "1955, Alaska "
+death_location: " July 1975, Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Gary "Tuffy" Allen

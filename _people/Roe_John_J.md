@@ -1,10 +1,10 @@
 ---
 full_name: "John J. Roe"
-family_name: "Roe"
-given_names: "John J."
+last_name: "Roe"
+first_name: "John J."
 source_file: "John Roe and Wives"
-born: "July 11, 1893, Norway "
-died: " December 1, 1972"
+birth_location: "July 11, 1893, Norway "
+death_location: " December 1, 1972"
 cemetry_plot: 
 ---
 # John J. Roe

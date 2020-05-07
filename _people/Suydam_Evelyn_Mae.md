@@ -1,11 +1,12 @@
 ---
-full_name: "Evelyn Mae SUYDAM"
-family_name: "Suydam"
-given_names: "Evelyn Mae"
-source_file: "Suydam Family"
-born: nil
-died: nil
-cemetry_plot: 188
+last_name: Suydam
+first_name: Evelyn Mae
+birth_date: 1956-10-21
+birth_location: Seldovia, AK
+death_date: 1957-02-01
+death_location: Seldovia, AK
+cemetery_plot: 188
+source_file: Cemetery Directory
 ---
 # Evelyn Mae SUYDAM
 

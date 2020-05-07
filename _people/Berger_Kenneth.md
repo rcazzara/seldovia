@@ -1,11 +1,12 @@
 ---
-full_name: "Kenneth Berger"
-family_name: "Berger"
-given_names: "Kenneth"
-source_file: "Kenneth Berger"
-born: "June 5, 1957, Anchorage, Alaska "
-died: " July 9, 1966, Seldovia, Alaska"
-cemetry_plot: 206
+last_name: Berger
+first_name: Kenneth
+birth_date: 1957-06-01
+birth_location: Anchorage, AK
+death_date: 1966-07-07
+death_location: Seldovia, AK
+cemetery_plot: 206
+source_file: Cemetery Directory
 ---
 # Kenneth Berger
 

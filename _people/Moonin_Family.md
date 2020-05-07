@@ -1,10 +1,10 @@
 ---
 full_name: "MOONIN FAMILY"
-family_name: "Moonin"
-given_names: "Family"
+last_name: "Moonin"
+first_name: "Family"
 source_file: "MOONIN FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # MOONIN FAMILY

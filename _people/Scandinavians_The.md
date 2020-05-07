@@ -1,10 +1,10 @@
 ---
 full_name: "THE SCANDINAVIANS"
-family_name: "Scandinavians"
-given_names: "The"
+last_name: "Scandinavians"
+first_name: "The"
 source_file: "THE SCANDANAVIANS"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # THE SCANDINAVIANS

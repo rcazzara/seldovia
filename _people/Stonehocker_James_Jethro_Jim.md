@@ -1,10 +1,10 @@
 ---
 full_name: "James Jethro \"Jim\" Stonehocker"
-family_name: "Stonehocker"
-given_names: "James Jethro \"Jim\""
+last_name: "Stonehocker"
+first_name: "James Jethro \"Jim\""
 source_file: "Stonehocker"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # James Jethro "Jim" Stonehocker

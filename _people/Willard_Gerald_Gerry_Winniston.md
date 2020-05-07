@@ -1,10 +1,10 @@
 ---
 full_name: "Gerald (Gerry) Winniston Willard"
-family_name: "Willard"
-given_names: "Gerald (Gerry) Winniston"
+last_name: "Willard"
+first_name: "Gerald (Gerry) Winniston"
 source_file: "GERALD WILLARD"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Gerald (Gerry) Winniston Willard

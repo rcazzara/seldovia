@@ -1,10 +1,10 @@
 ---
 full_name: "Allen Hans Elvsaas"
-family_name: "Elvsaas"
-given_names: "Allen Hans"
+last_name: "Elvsaas"
+first_name: "Allen Hans"
 source_file: "Remembering Our Children"
-born: "1953, Alaska "
-died: " July 1970, Seldovia, Alaska"
+birth_location: "1953, Alaska "
+death_location: " July 1970, Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Allen Hans Elvsaas

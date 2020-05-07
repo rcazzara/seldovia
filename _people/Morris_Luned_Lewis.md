@@ -1,11 +1,12 @@
 ---
-full_name: "Luned LEWIS Morris"
-family_name: "Morris"
-given_names: "Luned Lewis"
-source_file: "Richard Ceiriog MORRIS"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Morris
+maiden_name: Lewis
+first_name: Luned
+birth_location: Wales
+death_date: 1969-02-23
+death_location: Seldovia, AK
+cemetery_plot: 83
+source_file: Cemetery Directory
 ---
 # Luned LEWIS Morris
 

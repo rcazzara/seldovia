@@ -1,10 +1,10 @@
 ---
 full_name: "James Howard Carlough"
-family_name: "Carlough"
-given_names: "James Howard"
+last_name: "Carlough"
+first_name: "James Howard"
 source_file: "James Howard Carlough"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # James Howard Carlough

@@ -1,11 +1,9 @@
 ---
-full_name: "Jerry Kanaback"
-family_name: "Kanaback"
-given_names: "Jerry"
-source_file: "Kanaback Family"
-born: "May 1932 "
-died: " 1936"
-cemetry_plot: 
+last_name: Kanaback
+first_name: Jerry
+birth_location: Seldovia, AK
+cemetery_plot: 133
+source_file: Cemetery Directory
 ---
 # Jerry Kanaback
 

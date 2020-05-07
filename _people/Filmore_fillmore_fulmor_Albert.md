@@ -1,10 +1,10 @@
 ---
 full_name: "Albert Filmore/Fillmore/Fulmor"
-family_name: "Filmore/fillmore/fulmor"
-given_names: "Albert"
+last_name: "Filmore/fillmore/fulmor"
+first_name: "Albert"
 source_file: "Albert Filmore"
-born: "November 1850, Maine "
-died: " February 13, 1919, Seldovia, Alaska"
+birth_location: "November 1850, Maine "
+death_location: " February 13, 1919, Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Albert Filmore/Fillmore/Fulmor

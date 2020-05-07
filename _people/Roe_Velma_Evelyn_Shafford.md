@@ -1,11 +1,13 @@
 ---
-full_name: "Velma Evelyn Shafford Roe"
-family_name: "Roe"
-given_names: "Velma Evelyn Shafford"
-source_file: "John Roe and Wives"
-born: nil
-died: nil
-cemetry_plot: 81
+last_name: Roe
+maiden_name: Shafford
+first_name: Velma Evelyn
+birth_date: 1913-12-06
+birth_location: Rocky Ford, CO
+death_date: 1945-05-27
+death_location: Seldovia, AK
+cemetery_plot: 81
+source_file: Cemetery Directory
 ---
 # Velma Evelyn Shafford Roe
 

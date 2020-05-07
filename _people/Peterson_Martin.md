@@ -1,11 +1,12 @@
 ---
-full_name: "Martin Peterson"
-family_name: "Peterson"
-given_names: "Martin"
-source_file: "Martin Peterson family"
-born: nil
-died: nil
-cemetry_plot: 29
+last_name: Peterson
+first_name: Martin
+birth_date: 1902-02-28
+birth_location: Savannah, Georgia
+death_date: 1950-09-21
+death_location: Seldovia, AK
+cemetery_plot: 29
+source_file: Cemetery Directory
 ---
 # Martin Peterson
 

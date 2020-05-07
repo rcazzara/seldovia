@@ -1,10 +1,10 @@
 ---
 full_name: "Sigurd Halvorsen"
-family_name: "Halvorsen"
-given_names: "Sigurd"
+last_name: "Halvorsen"
+first_name: "Sigurd"
 source_file: "Sigurd Halversen family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Sigurd Halvorsen

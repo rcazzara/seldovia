@@ -1,10 +1,10 @@
 ---
 full_name: "Wallin Family"
-family_name: "Wallin"
-given_names: "Family"
+last_name: "Wallin"
+first_name: "Family"
 source_file: "Wallin Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 553
 ---
 # Wallin Family

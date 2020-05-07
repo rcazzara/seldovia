@@ -1,11 +1,11 @@
 ---
-full_name: "Laramie MORRISON"
-family_name: "Morrison"
-given_names: "Laramie"
-source_file: "Deborah GRINDLE Morrison"
-born: "July 16, 1979 "
-died: " April 24, 2008"
-cemetry_plot: 
+last_name: Morrison
+first_name: Laramie
+birth_date: 1979-07-16
+death_date: 2008-04-24
+death_location: Anchorage, AK
+cemetery_plot: 275
+source_file: Cemetery Directory
 ---
 # Laramie MORRISON
 

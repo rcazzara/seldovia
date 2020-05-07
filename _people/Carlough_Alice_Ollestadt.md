@@ -1,10 +1,10 @@
 ---
 full_name: "Alice OLLESTADT Carlough"
-family_name: "Carlough"
-given_names: "Alice Ollestadt"
+last_name: "Carlough"
+first_name: "Alice Ollestadt"
 source_file: "James Howard Carlough"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Alice OLLESTADT Carlough

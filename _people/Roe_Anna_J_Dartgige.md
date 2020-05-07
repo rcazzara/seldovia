@@ -1,10 +1,10 @@
 ---
 full_name: "Anna J. Dartgige Roe"
-family_name: "Roe"
-given_names: "Anna J. Dartgige"
+last_name: "Roe"
+first_name: "Anna J. Dartgige"
 source_file: "John Roe and Wives"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Anna J. Dartgige Roe

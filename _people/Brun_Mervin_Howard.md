@@ -1,10 +1,10 @@
 ---
 full_name: "Mervin Howard Brun"
-family_name: "Brun"
-given_names: "Mervin Howard"
+last_name: "Brun"
+first_name: "Mervin Howard"
 source_file: "BRUN FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Mervin Howard Brun

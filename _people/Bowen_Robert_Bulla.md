@@ -1,11 +1,10 @@
 ---
-full_name: "Robert Bulla Bowen"
-family_name: "Bowen"
-given_names: "Robert Bulla"
-source_file: "Bowen Family"
-born: "1924, Unalaska, Alaska "
-died: " August 29, 1964, Seldovia, Alaska"
-cemetry_plot: 202
+last_name: Bowen
+first_name: Robert "Bulla"
+aka: Bulla
+death_date: 1964-08-29
+cemetery_plot: 202
+source_file: Cemetery Directory
 ---
 # Robert Bulla Bowen
 

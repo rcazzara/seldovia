@@ -1,11 +1,11 @@
 ---
-full_name: "Ray Herbert Swaney"
-family_name: "Swaney"
-given_names: "Ray Herbert"
-source_file: "Sigurd Halversen family"
-born: "January 6, 1903, Washington "
-died: " March 13, 1957 Seldovia, Alaska"
-cemetry_plot: 
+last_name: Swaney
+first_name: Ray Herbert
+birth_date: 1903-01-06
+birth_location: Washington
+death_date: 1957-03-13
+cemetery_plot: 11
+source_file: Cemetery Directory
 ---
 # Ray Herbert Swaney
 

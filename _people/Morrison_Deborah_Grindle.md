@@ -1,10 +1,10 @@
 ---
 full_name: "Deborah GRINDLE Morrison"
-family_name: "Morrison"
-given_names: "Deborah Grindle"
+last_name: "Morrison"
+first_name: "Deborah Grindle"
 source_file: "Deborah GRINDLE Morrison"
-born: "June 10, 1953, Hancock, Maine "
-died: " 2010, Seldovia, AK"
+birth_location: "June 10, 1953, Hancock, Maine "
+death_location: " 2010, Seldovia, AK"
 cemetry_plot: 
 ---
 # Deborah GRINDLE Morrison

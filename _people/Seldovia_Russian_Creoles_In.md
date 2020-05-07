@@ -1,10 +1,10 @@
 ---
 full_name: "RUSSIAN CREOLES in SELDOVIA"
-family_name: "Seldovia"
-given_names: "Russian Creoles In"
+last_name: "Seldovia"
+first_name: "Russian Creoles In"
 source_file: "RUSSIAN CREOLES in SELDOVIA"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # RUSSIAN CREOLES in SELDOVIA

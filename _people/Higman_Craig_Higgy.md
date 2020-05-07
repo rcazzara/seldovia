@@ -1,10 +1,10 @@
 ---
 full_name: "Craig \"Higgy\" Higman"
-family_name: "Higman"
-given_names: "Craig \"Higgy\""
+last_name: "Higman"
+first_name: "Craig \"Higgy\""
 source_file: "Craig Higman"
-born: "1945"
-died: " June 19, 2016 Seldovia, Alaska"
+birth_location: "1945"
+death_location: " June 19, 2016 Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Craig "Higgy" Higman

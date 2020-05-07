@@ -1,11 +1,12 @@
 ---
-full_name: "Lowell Keith Suydam"
-family_name: "Suydam"
-given_names: "Lowell Keith"
-source_file: "Suydam Family"
-born: nil
-died: nil
-cemetry_plot: 554
+last_name: Suydam
+first_name: Lowell Keith
+birth_date: 1953-01-27
+birth_location: Chignik, AK
+death_date: 2011-01-14
+death_location: Seldovia, AK
+cemetery_plot: 554
+source_file: Cemetery Directory
 ---
 # Lowell Keith Suydam
 

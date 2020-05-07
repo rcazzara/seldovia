@@ -1,10 +1,10 @@
 ---
 full_name: "Reynard Leroy Crawford"
-family_name: "Crawford"
-given_names: "Reynard Leroy"
+last_name: "Crawford"
+first_name: "Reynard Leroy"
 source_file: "CRAWFORD FAMILY"
-born: 
-died: 
+birth_location: 
+death_location: 
 cemetry_plot: 
 ---
 # CRAWFORD FAMILY

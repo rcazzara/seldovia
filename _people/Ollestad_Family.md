@@ -1,10 +1,10 @@
 ---
 full_name: "OLLESTAD FAMILY"
-family_name: "Ollestad"
-given_names: "Family"
+last_name: "Ollestad"
+first_name: "Family"
 source_file: "OLLESTAD FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # OLLESTAD FAMILY

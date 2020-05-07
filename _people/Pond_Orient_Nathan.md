@@ -1,10 +1,10 @@
 ---
 full_name: "Orient Nathan Pond"
-family_name: "Pond"
-given_names: "Orient Nathan"
+last_name: "Pond"
+first_name: "Orient Nathan"
 source_file: "Orient Nathan Pond"
-born: "October 10, 1862 in Minnesota "
-died: " January 4, 1941, Seldovia, AK"
+birth_location: "October 10, 1862 in Minnesota "
+death_location: " January 4, 1941, Seldovia, AK"
 cemetry_plot: 
 ---
 # Orient Nathan Pond

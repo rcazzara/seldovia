@@ -1,10 +1,10 @@
 ---
 full_name: "Albert Martin \"Nute\" Peterson"
-family_name: "Peterson"
-given_names: "Albert Martin \"Nute\""
+last_name: "Peterson"
+first_name: "Albert Martin \"Nute\""
 source_file: "Albert Martin Peterson"
-born: "March 25, 1952 "
-died: " March 18, 2018"
+birth_location: "March 25, 1952 "
+death_location: " March 18, 2018"
 cemetry_plot: 
 ---
 # Albert Martin "Nute" Peterson

@@ -1,10 +1,10 @@
 ---
 full_name: "Bowen Family"
-family_name: "Bowen"
-given_names: "Family"
+last_name: "Bowen"
+first_name: "Family"
 source_file: "Bowen Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Bowen Family

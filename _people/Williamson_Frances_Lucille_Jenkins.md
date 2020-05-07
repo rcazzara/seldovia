@@ -1,10 +1,10 @@
 ---
 full_name: "Frances Lucille JENKINS Williamson"
-family_name: "Williamson"
-given_names: "Frances Lucille Jenkins"
+last_name: "Williamson"
+first_name: "Frances Lucille Jenkins"
 source_file: "Williamson Mike and Frances"
-born: "October 30, 1927, Yoakum, Texas "
-died: " August 7, 2001, Seldovia, Alaska"
+birth_location: "October 30, 1927, Yoakum, Texas "
+death_location: " August 7, 2001, Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Frances Lucille JENKINS Williamson

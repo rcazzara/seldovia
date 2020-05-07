@@ -1,10 +1,10 @@
 ---
 full_name: "Theodore \"Ted\" Nutbeem"
-family_name: "Nutbeem"
-given_names: "Theodore \"Ted\""
+last_name: "Nutbeem"
+first_name: "Theodore \"Ted\""
 source_file: "Ted and Alice Nutbeem"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Theodore "Ted" Nutbeem

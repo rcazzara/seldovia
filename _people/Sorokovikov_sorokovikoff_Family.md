@@ -1,10 +1,10 @@
 ---
 full_name: "SOROKOVIKOV/SOROKOVIKOFF FAMILY"
-family_name: "Sorokovikov/sorokovikoff"
-given_names: "Family"
+last_name: "Sorokovikov/sorokovikoff"
+first_name: "Family"
 source_file: "SOROKOVIKOV"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # SOROKOVIKOV/SOROKOVIKOFF FAMILY

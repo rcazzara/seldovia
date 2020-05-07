@@ -1,11 +1,10 @@
 ---
-full_name: "Hilmar Olsen"
-family_name: "Olsen"
-given_names: "Hilmar"
-source_file: "HIlmar Olsen"
-born: "1879, Norway "
-died: " August 11, 1959, Seldovia, Alaska"
-cemetry_plot: 
+last_name: Olsen
+first_name: Hilmar
+birth_location: Norway
+death_date: 1959-08-11
+cemetery_plot: 164
+source_file: Cemetery Directory
 ---
 # Hilmar Olsen
 

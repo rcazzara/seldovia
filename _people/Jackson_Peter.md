@@ -1,10 +1,10 @@
 ---
 full_name: "Peter Jackson"
-family_name: "Jackson"
-given_names: "Peter"
+last_name: "Jackson"
+first_name: "Peter"
 source_file: "Peter Jackson"
-born: "August 13, 1898, Alaska "
-died: " 1962, Seldovia, Alaska"
+birth_location: "August 13, 1898, Alaska "
+death_location: " 1962, Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Peter Jackson

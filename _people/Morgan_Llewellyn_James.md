@@ -1,10 +1,10 @@
 ---
 full_name: "Llewellyn James Morgan"
-family_name: "Morgan"
-given_names: "Llewellyn James"
+last_name: "Morgan"
+first_name: "Llewellyn James"
 source_file: "Llewellyn James Morgan"
-born: "February 1895, Michigan "
-died: " died March 21, 1940’ Seldovia, AK"
+birth_location: "February 1895, Michigan "
+death_location: " died March 21, 1940’ Seldovia, AK"
 cemetry_plot: 
 ---
 # Llewellyn James Morgan

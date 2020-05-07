@@ -1,10 +1,10 @@
 ---
 full_name: "KANABACK Family"
-family_name: "Kanaback"
-given_names: "Family"
+last_name: "Kanaback"
+first_name: "Family"
 source_file: "Kanaback Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # KANABACK Family

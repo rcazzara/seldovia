@@ -1,10 +1,10 @@
 ---
 full_name: "SEVILLE FAMILY"
-family_name: "Seville"
-given_names: "Family"
+last_name: "Seville"
+first_name: "Family"
 source_file: "Seville Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # SEVILLE FAMILY

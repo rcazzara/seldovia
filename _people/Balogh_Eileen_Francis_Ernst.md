@@ -1,11 +1,13 @@
 ---
-full_name: "Eileen Francis ERNST Balogh"
-family_name: "Balogh"
-given_names: "Eileen Francis Ernst"
-source_file: "Balogh Family"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Balogh
+maiden_name: Ernst
+first_name: Eileen Francis
+birth_date: 1914-02-07
+birth_location: Ohio
+death_date: 1993-04-27
+death_location: Seldovia, AK
+cemetery_plot: 538
+source_file: Cemetery Directory
 ---
 # Eileen Francis ERNST Balogh
 

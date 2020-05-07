@@ -1,11 +1,11 @@
 ---
-full_name: "Harry Alfred LEONHARDT"
-family_name: "Leonhardt"
-given_names: "Harry Alfred"
-source_file: "Hary Leonhardt and wives"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Leonhardt
+first_name: Harry Alfred
+birth_location: Leipzig, Germany
+death_date: 1949-12-16
+death_location: Seldovia, AK
+cemetery_plot: 100
+source_file: Cemetery Directory
 ---
 # Harry Alfred LEONHARDT
 

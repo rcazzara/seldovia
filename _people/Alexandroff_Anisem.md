@@ -1,10 +1,10 @@
 ---
 full_name: "Anisem Alexandroff"
-family_name: "Alexandroff"
-given_names: "Anisem"
+last_name: "Alexandroff"
+first_name: "Anisem"
 source_file: "ANISEM ALEXANDROFF"
-born: "March 1872, Kodiak "
-died: " June 27, 1945, Seldovia"
+birth_location: "March 1872, Kodiak "
+death_location: " June 27, 1945, Seldovia"
 cemetry_plot: 
 ---
 # Anisem Alexandroff

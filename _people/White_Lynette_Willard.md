@@ -1,10 +1,10 @@
 ---
 full_name: "Lynette Willard White"
-family_name: "White"
-given_names: "Lynette Willard"
+last_name: "White"
+first_name: "Lynette Willard"
 source_file: "GERALD WILLARD"
-born: "February 3, 1963 "
-died: " July 13, 2005"
+birth_location: "February 3, 1963 "
+death_location: " July 13, 2005"
 cemetry_plot: 
 ---
 # Lynette Willard White

@@ -1,10 +1,10 @@
 ---
 full_name: "Int-Hout FAMILY"
-family_name: "Int-Hout"
-given_names: "Family"
+last_name: "Int-Hout"
+first_name: "Family"
 source_file: "Int Hout"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Int-Hout FAMILY

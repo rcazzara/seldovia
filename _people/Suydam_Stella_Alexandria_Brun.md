@@ -1,10 +1,10 @@
 ---
 full_name: "Stella Alexandria BRUN Suydam"
-family_name: "Suydam"
-given_names: "Stella Alexandria Brun"
+last_name: "Suydam"
+first_name: "Stella Alexandria Brun"
 source_file: "BRUN FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Stella Alexandria BRUN Suydam

@@ -1,11 +1,12 @@
 ---
-full_name: "Sergei Holmstrom"
-family_name: "Holmstrom"
-given_names: "Sergei"
-source_file: "Holmstrom Family"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Holmstrom
+first_name: Sergei
+birth_date: 1902-11-29
+birth_location: Finland
+death_date: 1941-08-18
+death_location: Seldovia, AK
+cemetery_plot: 87
+source_file: Cemetery Directory
 ---
 # Sergei Holmstrom
 

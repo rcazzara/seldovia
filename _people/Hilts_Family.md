@@ -1,10 +1,10 @@
 ---
 full_name: "Hilts Family"
-family_name: "Hilts"
-given_names: "Family"
+last_name: "Hilts"
+first_name: "Family"
 source_file: "Hilts FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Hilts Family

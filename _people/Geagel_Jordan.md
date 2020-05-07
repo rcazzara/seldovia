@@ -1,10 +1,10 @@
 ---
 full_name: "Jordan Geagel"
-family_name: "Geagel"
-given_names: "Jordan"
+last_name: "Geagel"
+first_name: "Jordan"
 source_file: "Jordan Gaegel"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Jordan Geagel

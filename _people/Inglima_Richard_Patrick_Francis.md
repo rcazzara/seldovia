@@ -1,10 +1,10 @@
 ---
 full_name: "Richard Patrick Francis INGLIMA"
-family_name: "Inglima"
-given_names: "Richard Patrick Francis"
+last_name: "Inglima"
+first_name: "Richard Patrick Francis"
 source_file: "Richard Ceiriog MORRIS"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Richard Patrick Francis INGLIMA

@@ -1,10 +1,10 @@
 ---
 full_name: "Toko Family"
-family_name: "Toko"
-given_names: "Family"
+last_name: "Toko"
+first_name: "Family"
 source_file: "Toko FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Toko Family

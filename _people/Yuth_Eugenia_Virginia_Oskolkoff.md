@@ -1,10 +1,10 @@
 ---
 full_name: "Eugenia Virginia OSKOLKOFF YUTH"
-family_name: "Yuth"
-given_names: "Eugenia Virginia Oskolkoff"
+last_name: "Yuth"
+first_name: "Eugenia Virginia Oskolkoff"
 source_file: "Yuth Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 241
 ---
 # Eugenia Virginia OSKOLKOFF YUTH

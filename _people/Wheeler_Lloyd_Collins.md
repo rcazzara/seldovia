@@ -1,11 +1,12 @@
 ---
-full_name: "Lloyd Collins WHEELER"
-family_name: "Wheeler"
-given_names: "Lloyd Collins"
-source_file: "Wheeler"
-born: nil
-died: nil
-cemetry_plot: 606
+last_name: Wheeler
+first_name: Lloyd Collins
+birth_date: 1927-01-07
+birth_location: CA
+death_date: 2009-06-26
+death_location: Anchor Point, AK
+cemetery_plot: 606
+source_file: Cemetery Directory
 ---
 # Lloyd Collins WHEELER
 

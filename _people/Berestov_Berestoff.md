@@ -1,10 +1,10 @@
 ---
 full_name: "Berestoff (Berestov) Family"
-family_name: "Berestoff (Berestov)"
-given_names: "Family"
+last_name: "Berestoff (Berestov)"
+first_name: "Family"
 source_file: "BERESTOFF FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Berestoff (Berestov) Family

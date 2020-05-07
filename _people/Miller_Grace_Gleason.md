@@ -1,10 +1,10 @@
 ---
 full_name: "Grace Gleason Miller"
-family_name: "Miller"
-given_names: "Grace Gleason"
+last_name: "Miller"
+first_name: "Grace Gleason"
 source_file: "Richard Miller"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Grace Gleason Miller

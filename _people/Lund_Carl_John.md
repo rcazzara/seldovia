@@ -1,11 +1,12 @@
 ---
-full_name: "Carl John LUND"
-family_name: "Lund"
-given_names: "Carl John"
-source_file: "Carl John LUND Family"
-born: "October 14, 1874, Norway "
-died: " November 11, 1939, Seldovia, Alaska"
-cemetry_plot: 
+last_name: Lund
+first_name: Carl John
+aka: Chas
+birth_location: Bergen, Norway
+death_date: 1939-11-11
+death_location: Seldovia, AK
+cemetery_plot: 50
+source_file: Cemetery Directory
 ---
 # Carl John LUND
 

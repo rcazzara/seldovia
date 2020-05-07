@@ -1,11 +1,13 @@
 ---
-full_name: "Della HILTS Baines"
-family_name: "Baines"
-given_names: "Della Hilts"
-source_file: "Hilts FAMILY"
-born: "May 19, 1958, Noatak, Alaska "
-died: " April 13, 2000 Seldovia, Alaska"
-cemetry_plot: 
+last_name: Baines
+maiden_name: Hilts
+first_name: Della
+birth_date: 1958-05-19
+birth_location: Noatak, AK
+death_date: 2000-05-30
+death_location: Seldovia, AK
+cemetery_plot: 313
+source_file: Cemetery Directory
 ---
 # Della HILTS Baines
 

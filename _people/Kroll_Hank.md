@@ -1,10 +1,10 @@
 ---
 full_name: "Hank Kroll"
-family_name: "Kroll"
-given_names: "Hank"
+last_name: "Kroll"
+first_name: "Hank"
 source_file: "Hank Kroll"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Hank Kroll

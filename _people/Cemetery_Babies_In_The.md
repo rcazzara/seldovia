@@ -1,10 +1,10 @@
 ---
 full_name: "Babies in the Cemetery"
-family_name: "Cemetery"
-given_names: "Babies In The"
+last_name: "Cemetery"
+first_name: "Babies In The"
 source_file: "Cemetery Babies"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Babies in the Cemetery

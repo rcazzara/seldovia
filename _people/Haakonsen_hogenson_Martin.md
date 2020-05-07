@@ -1,10 +1,10 @@
 ---
 full_name: "Martin Haakonsen/Hogenson"
-family_name: "Haakonsen/hogenson"
-given_names: "Martin"
+last_name: "Haakonsen/hogenson"
+first_name: "Martin"
 source_file: "Martin Hogenson"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 191
 ---
 # Martin Haakonsen/Hogenson

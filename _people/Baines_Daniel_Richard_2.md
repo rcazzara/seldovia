@@ -1,10 +1,10 @@
 ---
 full_name: "Daniel Richard Baines"
-family_name: "Baines"
-given_names: "Daniel Richard"
+last_name: "Baines"
+first_name: "Daniel Richard"
 source_file: "Romanoff FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Daniel Richard Baines

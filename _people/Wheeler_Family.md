@@ -1,10 +1,10 @@
 ---
 full_name: "WHEELER FAMILY"
-family_name: "Wheeler"
-given_names: "Family"
+last_name: "Wheeler"
+first_name: "Family"
 source_file: "Wheeler"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # WHEELER FAMILY

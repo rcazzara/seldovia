@@ -1,11 +1,12 @@
 ---
-full_name: "Hartley Hedwick YUTH"
-family_name: "Yuth"
-given_names: "Hartley Hedwick"
-source_file: "Yuth Family"
-born: nil
-died: nil
-cemetry_plot: 268
+last_name: Yuth
+first_name: Hartley Hedwick
+birth_date: 1927-01-06
+birth_location: Seldovia, AK
+death_date: 1992-11-11
+death_location: Seldovia, AK
+cemetery_plot: 268
+source_file: Cemetery Directory
 ---
 # Hartley Hedwick YUTH
 

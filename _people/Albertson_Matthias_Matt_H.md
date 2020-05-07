@@ -1,10 +1,10 @@
 ---
 full_name: "Matthias \"MATT\" H. ALBERTSON"
-family_name: "Albertson"
-given_names: "Matthias \"Matt\" H."
+last_name: "Albertson"
+first_name: "Matthias \"Matt\" H."
 source_file: "Matt Alberton"
-born: "December 25, 1895, Michigan "
-died: " January 10, 1954, Seldovia, Alaska"
+birth_location: "December 25, 1895, Michigan "
+death_location: " January 10, 1954, Seldovia, Alaska"
 cemetry_plot: 1
 ---
 # Matthias "MATT" H. ALBERTSON

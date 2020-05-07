@@ -1,11 +1,13 @@
 ---
-full_name: "Daniel Richard Baines"
-family_name: "Baines"
-given_names: "Daniel Richard"
-source_file: "Hilts FAMILY"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Baines
+first_name: Daniel Richard
+aka: Dan
+birth_date: 1954-12-29
+birth_location: Ketchikan, AK
+death_date: 2002-04-06
+death_location: Red Dog Mine, AK
+cemetery_plot: 314
+source_file: Cemetery Directory
 ---
 # Daniel Richard Baines
 

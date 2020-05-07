@@ -1,11 +1,12 @@
 ---
-full_name: "Alice LARSEN Nutbeem"
-family_name: "Nutbeem"
-given_names: "Alice Larsen"
-source_file: "Ted and Alice Nutbeem"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Nutbeem
+maiden_name: Larsen
+first_name: Alice
+birth_location: Unga Island, Alaska
+death_date: 1990-07-13
+death_location: Homer, AK
+cemetery_plot: 116
+source_file: Cemetery Directory
 ---
 # Alice LARSEN Nutbeem
 

@@ -1,10 +1,10 @@
 ---
 full_name: "Balashov/Balashof/Balishoff"
-family_name: "Balashov/balashof/balishoff"
-given_names: "Family"
+last_name: "Balashov/balashof/balishoff"
+first_name: "Family"
 source_file: "Balashov Family 2"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Balashov/Balashof/Balishoff

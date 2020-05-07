@@ -1,11 +1,10 @@
 ---
-full_name: "Robert Bruce Markle"
-family_name: "Markle"
-given_names: "Robert Bruce"
-source_file: "Adam Bloch and English"
-born: "1842 – Monticello, Indiana "
-died: " May 28, 1920, Alaska"
-cemetry_plot: 
+last_name: Markle
+first_name: Robert Bruce
+birth_location: Indiana
+death_date: 1920-05-28
+death_location: Seldovia, AK
+source_file: Cemetery Directory
 ---
 # Robert Bruce Markle
 

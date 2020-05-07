@@ -1,10 +1,10 @@
 ---
 full_name: "David John \"Eric\" Erickson"
-family_name: "Erickson"
-given_names: "David John \"Eric\""
+last_name: "Erickson"
+first_name: "David John \"Eric\""
 source_file: "David John Ericson"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # [David John "Eric" Erickson](http://www.seldovia.com/david-john-eric-erickson/)

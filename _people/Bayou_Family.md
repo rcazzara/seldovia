@@ -1,10 +1,10 @@
 ---
 full_name: "Bayou Family"
-family_name: "Bayou"
-given_names: "Family"
+last_name: "Bayou"
+first_name: "Family"
 source_file: "BAYOU FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 90
 ---
 # Bayou Family

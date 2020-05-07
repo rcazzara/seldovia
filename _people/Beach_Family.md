@@ -1,10 +1,10 @@
 ---
 full_name: "Beach Family"
-family_name: "Beach"
-given_names: "Family"
+last_name: "Beach"
+first_name: "Family"
 source_file: "Beach Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 135
 ---
 # Beach Family

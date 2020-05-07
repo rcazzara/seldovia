@@ -1,10 +1,10 @@
 ---
 full_name: "Paul Holmstrom"
-family_name: "Holmstrom"
-given_names: "Paul"
+last_name: "Holmstrom"
+first_name: "Paul"
 source_file: "Holmstrom Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Paul Holmstrom

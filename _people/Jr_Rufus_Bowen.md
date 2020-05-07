@@ -1,10 +1,10 @@
 ---
 full_name: "Rufus Bowen, Jr."
-family_name: "Bowen"
-given_names: "Rufus, Jr."
+last_name: "Bowen"
+first_name: "Rufus, Jr."
 source_file: "Bowen Family"
-born: "October 22, 1879, Alaska "
-died: " September 1953, Alaska"
+birth_location: "October 22, 1879, Alaska "
+death_location: " September 1953, Alaska"
 cemetry_plot: 
 ---
 # Rufus Bowen, Jr.

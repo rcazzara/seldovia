@@ -1,10 +1,10 @@
 ---
 full_name: "Anna WALNUSSON Holmstrom"
-family_name: "Holmstrom"
-given_names: "Anna Walnusson"
+last_name: "Holmstrom"
+first_name: "Anna Walnusson"
 source_file: "Holmstrom Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Anna WALNUSSON Holmstrom

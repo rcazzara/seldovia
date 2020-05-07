@@ -1,11 +1,12 @@
 ---
-full_name: "Justina Kuzakin Dushkin"
-family_name: "Dushkin"
-given_names: "Justina Kuzakin"
-source_file: "JOHN ABELARD ARDENIA"
-born: "Oct 15, 1912 in Belkofski, Alaska "
-died: " March 18, 2003 Seldovia, Alaska"
-cemetry_plot: 
+last_name: Dushkin
+maiden_name: Kuzakin
+first_name: Justina
+birth_date: 1912-10-12
+birth_location: Long John, Alaska
+death_date: 2003-03-18
+cemetery_plot: 569
+source_file: Cemetery Directory
 ---
 # Justina Kuzakin Dushkin
 

@@ -1,11 +1,12 @@
 ---
-full_name: "Marion MOONIN Seville"
-family_name: "Seville"
-given_names: "Marion Moonin"
-source_file: "MOONIN FAMILY"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Seville
+maiden_name: Moonin
+first_name: Marion
+birth_date: 1932-10-29
+birth_location: Alaska
+death_date: 1978-12-18
+cemetery_plot: 591
+source_file: Cemetery Directory
 ---
 # Marion MOONIN Seville
 

@@ -1,11 +1,10 @@
 ---
-full_name: "Oscar William ANDERSON"
-family_name: "Anderson"
-given_names: "Oscar William"
-source_file: "Oscar and Alyce Erickson Anderson"
-born: "April 1866, Sweden "
-died: " 1940, Palmer, Alaska"
-cemetry_plot: 
+last_name: Anderson
+first_name: Oscar William
+birth_location: Sweden
+death_location: Seldovia, AK
+cemetery_plot: 53
+source_file: Cemetery Directory
 ---
 # Oscar William ANDERSON
 

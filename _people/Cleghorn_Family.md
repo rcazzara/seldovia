@@ -1,10 +1,10 @@
 ---
 full_name: "CLEGHORN FAMILY"
-family_name: "Cleghorn"
-given_names: "Family"
+last_name: "Cleghorn"
+first_name: "Family"
 source_file: "James Naismith Cleghorn family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # CLEGHORN FAMILY

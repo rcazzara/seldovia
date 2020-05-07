@@ -1,10 +1,10 @@
 ---
 full_name: "Roy Lewis Hansen"
-family_name: "Hansen"
-given_names: "Roy Lewis"
+last_name: "Hansen"
+first_name: "Roy Lewis"
 source_file: "Roy Hansen"
-born: "August 25, 1926, Katalla, AK "
-died: " June 6, 1989, Seldovia, AK"
+birth_location: "August 25, 1926, Katalla, AK "
+death_location: " June 6, 1989, Seldovia, AK"
 cemetry_plot: 
 ---
 # Roy Lewis Hansen

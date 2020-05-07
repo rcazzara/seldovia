@@ -1,11 +1,11 @@
 ---
-full_name: "Annie BLOCH Christiansen"
-family_name: "Christiansen"
-given_names: "Annie Bloch"
-source_file: "Adam Bloch and English"
-born: "October 11, 1871, California "
-died: " January 11, 1921, Seldovia, Alaska"
-cemetry_plot: 
+last_name: Christiansen
+maiden_name: Bloch
+first_name: Annie
+birth_location: California
+death_date: 1921-01-11
+death_location: Seldovia, AK
+source_file: Cemetery Directory
 ---
 # Annie BLOCH Christiansen
 

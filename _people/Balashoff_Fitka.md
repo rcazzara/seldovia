@@ -1,11 +1,11 @@
 ---
-full_name: "Fitka Balashoff"
-family_name: "Balashoff"
-given_names: "Fitka"
-source_file: "Balashov Family 2"
-born: 1866
-died: 
-cemetry_plot: 
+last_name: Balashoff
+first_name: Fitka
+aka: Fred Fitka
+birth_location: Alaska
+death_location: Seldovia, AK
+cemetery_plot: 111
+source_file: Cemetery Directory
 ---
 # Fitka Balashoff
 

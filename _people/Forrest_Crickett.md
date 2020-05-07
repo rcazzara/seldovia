@@ -1,11 +1,12 @@
 ---
-full_name: "Crickett Forrest"
-family_name: "Forrest"
-given_names: "Crickett"
-source_file: "Remembering Our Children"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Forrest
+first_name: Crickett
+birth_date: 1936-03-12
+birth_location: Sand Point, AK
+death_date: 1948-07-03
+death_location: Seldovia
+cemetery_plot: 119
+source_file: Cemetery Directory
 ---
 # Crickett Forrest
 

@@ -1,10 +1,10 @@
 ---
 full_name: "WATERBURY FAMILY"
-family_name: "Waterbury"
-given_names: "Family"
+last_name: "Waterbury"
+first_name: "Family"
 source_file: "Waterbury Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # WATERBURY FAMILY

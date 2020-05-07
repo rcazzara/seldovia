@@ -1,11 +1,12 @@
 ---
-full_name: "Louis Loudas"
-family_name: "Loudas"
-given_names: "Louis"
-source_file: "Louis Loudas"
-born: "February 14, 1894, Greece "
-died: " November 1978, Seldovia, Alaska"
-cemetry_plot: 
+last_name: Loudas
+first_name: Louis
+aka: Louie
+birth_location: Greece
+death_date: 1978-11-01
+death_location: Seldovia, AK
+cemetery_plot: 551
+source_file: Cemetery Directory
 ---
 # Louis Loudas
 

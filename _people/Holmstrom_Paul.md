@@ -1,11 +1,11 @@
 ---
-full_name: "Paul Holmstrom"
-family_name: "Holmstrom"
-given_names: "Paul"
-source_file: "Holmstrom Family"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Holmstrom
+first_name: Paul
+birth_location: Alaska
+death_date: 1954-04-04
+death_location: Alaska
+cemetery_plot: 127
+source_file: Cemetery Directory
 ---
 # Paul Holmstrom
 

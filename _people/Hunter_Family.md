@@ -1,10 +1,10 @@
 ---
 full_name: "HUNTER Family"
-family_name: "Hunter"
-given_names: "Family"
+last_name: "Hunter"
+first_name: "Family"
 source_file: "HUNTER FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 552
 ---
 # HUNTER Family

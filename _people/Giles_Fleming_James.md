@@ -1,10 +1,10 @@
 ---
 full_name: "Fleming James Giles"
-family_name: "Giles"
-given_names: "Fleming James"
+last_name: "Giles"
+first_name: "Fleming James"
 source_file: "Giles Family"
-born: "May 12, 1910, Washington "
-died: " February 8, 1971, Alaska"
+birth_location: "May 12, 1910, Washington "
+death_location: " February 8, 1971, Alaska"
 cemetry_plot: 
 ---
 # Fleming James Giles

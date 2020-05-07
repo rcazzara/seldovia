@@ -1,10 +1,10 @@
 ---
 full_name: "Moonins in Seldovia"
-family_name: "Seldovia"
-given_names: "Moonins In"
+last_name: "Seldovia"
+first_name: "Moonins In"
 source_file: "MOONIN FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Moonins in Seldovia

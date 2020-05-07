@@ -1,10 +1,10 @@
 ---
 full_name: "Crede Anthony \"CHUCK\" Foster"
-family_name: "Foster"
-given_names: "Crede Anthony \"CHUCK\""
+last_name: "Foster"
+first_name: "Crede Anthony \"CHUCK\""
 source_file: "Crede Anthony Foster"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 159
 ---
 # Crede Anthony "CHUCK" Foster

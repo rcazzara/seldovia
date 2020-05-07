@@ -1,11 +1,12 @@
 ---
-full_name: "Samuel Campbell"
-family_name: "Campbell"
-given_names: "Samuel"
-source_file: "Samuel Campbell"
-born: "March 12, 1878 – Newfoundland, Canada "
-died: " 1946, Seldovia, Alaska"
-cemetry_plot: 35
+last_name: Campbell
+first_name: Samuel
+aka: Sam
+birth_location: Newfoundland, Canada
+death_date: 1946-10-22
+death_location: Seldovia, AK
+cemetery_plot: 35
+source_file: Cemetery Directory
 ---
 # Samuel Campbell
 

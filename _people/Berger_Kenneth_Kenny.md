@@ -1,10 +1,10 @@
 ---
 full_name: "Kenneth \"Kenny\" Berger"
-family_name: "Berger"
-given_names: "Kenneth \"Kenny\""
+last_name: "Berger"
+first_name: "Kenneth \"Kenny\""
 source_file: "Remembering Our Children"
-born: "July 5, 1957, Anchorage, Alaska "
-died: " July 9, 1966"
+birth_location: "July 5, 1957, Anchorage, Alaska "
+death_location: " July 9, 1966"
 cemetry_plot: 
 ---
 # Kenneth "Kenny" Berger

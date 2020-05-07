@@ -1,10 +1,10 @@
 ---
 full_name: "Della HILTS Baines"
-family_name: "Baines"
-given_names: "Della Hilts"
+last_name: "Baines"
+first_name: "Della Hilts"
 source_file: "Romanoff FAMILY"
-born: "May 19, 1958, Noatak, Alaska "
-died: " April 13, 2000 Seldovia, Alaska"
+birth_location: "May 19, 1958, Noatak, Alaska "
+death_location: " April 13, 2000 Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Della HILTS Baines

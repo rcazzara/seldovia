@@ -1,11 +1,10 @@
 ---
-full_name: "John Colberg"
-family_name: "Colberg"
-given_names: "John"
-source_file: "COLBERG Family"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Colberg
+first_name: John
+birth_location: Norway
+death_date: 1969-11-01
+cemetery_plot: 230
+source_file: Cemetery Directory
 ---
 # John Colberg
 

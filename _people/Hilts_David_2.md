@@ -1,10 +1,10 @@
 ---
 full_name: "David Hilts"
-family_name: "Hilts"
-given_names: "David"
+last_name: "Hilts"
+first_name: "David"
 source_file: "Romanoff FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # David Hilts

@@ -1,10 +1,10 @@
 ---
 full_name: "Harriet BOWEN Johnson"
-family_name: "Johnson"
-given_names: "Harriet Bowen"
+last_name: "Johnson"
+first_name: "Harriet Bowen"
 source_file: "Bowen Family"
-born: "December 13, 1888, Kodiak, Alaska"
-died: " March 3, 1931, Seldovia, Alaska"
+birth_location: "December 13, 1888, Kodiak, Alaska"
+death_location: " March 3, 1931, Seldovia, Alaska"
 cemetry_plot: 70
 ---
 # Harriet BOWEN Johnson

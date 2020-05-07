@@ -1,10 +1,10 @@
 ---
 full_name: "Harriet J. SOUTHERLAND Vinal"
-family_name: "Vinal"
-given_names: "Harriet J. Southerland"
+last_name: "Vinal"
+first_name: "Harriet J. Southerland"
 source_file: "William and Harriet Vinal"
-born: "October 20, 1867, Maine "
-died: " died October 10, 1937, Seldovia, AK"
+birth_location: "October 20, 1867, Maine "
+death_location: " died October 10, 1937, Seldovia, AK"
 cemetry_plot: 
 ---
 # Harriet J. SOUTHERLAND Vinal

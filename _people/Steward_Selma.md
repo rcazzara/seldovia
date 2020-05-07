@@ -1,11 +1,9 @@
 ---
-full_name: "Selma Steward"
-family_name: "Steward"
-given_names: "Selma"
-source_file:
-born: 1938
-died: November 19, 1938
-cemetry_plot: 161
+last_name: Steward
+first_name: Selma
+death_date: 1938-11-19
+cemetery_plot: 161
+source_file: Cemetery Directory
 ---
 # Selma Steward
 

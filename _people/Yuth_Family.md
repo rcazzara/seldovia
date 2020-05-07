@@ -1,10 +1,10 @@
 ---
 full_name: "YUTH Family"
-family_name: "Yuth"
-given_names: "Family"
+last_name: "Yuth"
+first_name: "Family"
 source_file: "Yuth Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # YUTH Family

@@ -1,10 +1,10 @@
 ---
 full_name: "John \"Russian John\" Keturakis"
-family_name: "Keturakis"
-given_names: "John \"Russian John\""
+last_name: "Keturakis"
+first_name: "John \"Russian John\""
 source_file: "Russian John Ketourakis"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 174
 ---
 # John "Russian John" Keturakis

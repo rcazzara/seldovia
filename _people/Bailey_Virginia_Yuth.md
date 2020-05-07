@@ -1,11 +1,13 @@
 ---
-full_name: "Virginia YUTH Bailey"
-family_name: "Bailey"
-given_names: "Virginia Yuth"
-source_file: "Yuth Family"
-born: "August 16, 1924, Seldovia, Alaska "
-died: " April 4, 1973, Washington"
-cemetry_plot: 240
+last_name: Bailey
+maiden_name: Yuth
+first_name: Virginia
+birth_date: 1924-08-16
+birth_location: Seldovia, AK
+death_date: 1973-04-04
+death_location: Afognak, Alaska
+cemetery_plot: 240
+source_file: Cemetery Directory
 ---
 # Virginia YUTH Bailey
 

@@ -1,11 +1,11 @@
 ---
-full_name: "Jenny MOONIN Swenson"
-family_name: "Swenson"
-given_names: "Jenny Moonin"
-source_file: "Swenson Family"
-born: "January 16, 1916, Port Graham "
-died: " 1983, Seldovia, Alaska"
-cemetry_plot: 211
+last_name: Swenson
+maiden_name: Moonin
+first_name: Jenny
+birth_date: 1916-01-16
+death_date: 1983-05-02
+cemetery_plot: 211
+source_file: Cemetery Directory
 ---
 # Jenny MOONIN Swenson
 

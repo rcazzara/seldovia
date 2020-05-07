@@ -1,10 +1,10 @@
 ---
 full_name: "Jenny (MOONIN?) Romanoff Leonhardt"
-family_name: "Leonhardt"
-given_names: "Jenny (Moonin?) Romanoff"
+last_name: "Leonhardt"
+first_name: "Jenny (Moonin?) Romanoff"
 source_file: "Hary Leonhardt and wives"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Jenny (MOONIN?) Romanoff Leonhardt

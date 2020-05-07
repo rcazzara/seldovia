@@ -1,10 +1,10 @@
 ---
 full_name: "Frederick Walter (Freddy) Newmeyer"
-family_name: "Newmeyer"
-given_names: "Frederick Walter (Freddy)"
+last_name: "Newmeyer"
+first_name: "Frederick Walter (Freddy)"
 source_file: "Frederick Walter Newmeyer not in cemetery"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Frederick Walter (Freddy) Newmeyer

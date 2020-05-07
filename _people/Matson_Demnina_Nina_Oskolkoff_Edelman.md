@@ -1,10 +1,10 @@
 ---
 full_name: "Demnina \"NINA\" OSKOLKOFF Edelman Matson"
-family_name: "Matson"
-given_names: "Demnina \"Nina\" Oskolkoff Edelman"
+last_name: "Matson"
+first_name: "Demnina \"Nina\" Oskolkoff Edelman"
 source_file: "Andrew Matson"
-born: "March 27, 1880, Ninilchik, Alaska "
-died: " September 25, 1945, Seldovia, Alaska"
+birth_location: "March 27, 1880, Ninilchik, Alaska "
+death_location: " September 25, 1945, Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Demnina "NINA" OSKOLKOFF Edelman Matson

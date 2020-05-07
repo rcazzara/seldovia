@@ -1,11 +1,12 @@
 ---
-full_name: "David Swenson"
-family_name: "Swenson"
-given_names: "David"
-source_file: "Swenson Family"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Swenson
+first_name: David
+aka: David Johnson
+birth_date: 1937-05-06
+birth_location: Port Graham, AK
+death_date: 1970-01-01
+cemetery_plot: 235
+source_file: Cemetery Directory
 ---
 # David Swenson
 

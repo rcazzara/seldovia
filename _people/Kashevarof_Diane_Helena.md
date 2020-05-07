@@ -1,10 +1,10 @@
 ---
 full_name: "Diane Helena KASHEVAROF"
-family_name: "Kashevarof"
-given_names: "Diane Helena"
+last_name: "Kashevarof"
+first_name: "Diane Helena"
 source_file: "Katherine Fox Kashevarof"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Diane Helena KASHEVAROF

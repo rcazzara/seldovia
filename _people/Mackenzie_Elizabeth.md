@@ -1,10 +1,10 @@
 ---
 full_name: "Elizabeth MacKenzie"
-family_name: "Mackenzie"
-given_names: "Elizabeth"
+last_name: "Mackenzie"
+first_name: "Elizabeth"
 source_file: "Elizabeth MacKenzie"
-born: "July 7, 1911, Hong Kong, China "
-died: " November 9, 1954, Seldovia, Alaska"
+birth_location: "July 7, 1911, Hong Kong, China "
+death_location: " November 9, 1954, Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Elizabeth MacKenzie

@@ -1,10 +1,10 @@
 ---
 full_name: "JACK THOMAS"
-family_name: "Thomas"
-given_names: "Jack"
+last_name: "Thomas"
+first_name: "Jack"
 source_file: "Jack Thomas scrapbook"
-born: "February 2, 1931, California "
-died: " October 12, 2016, Seldovia, Alaska"
+birth_location: "February 2, 1931, California "
+death_location: " October 12, 2016, Seldovia, Alaska"
 cemetry_plot: 
 ---
 # JACK THOMAS

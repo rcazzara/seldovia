@@ -1,11 +1,13 @@
 ---
-full_name: "Nicholas \"Nicky\" Kanaback"
-family_name: "Kanaback"
-given_names: "Nicholas \"Nicky\""
-source_file: "Kanaback Family"
-born: "December 11, 1934, Seldovia "
-died: " 1938, Seldovia"
-cemetry_plot: 
+last_name: Kanaback
+maiden_name: Nicky
+first_name: Nicholas
+birth_date: 1934-12-11
+birth_location: Seldovia, AK
+death_date: 1938-04-07
+death_location: Seldovia, AK
+cemetery_plot: 131
+source_file: Cemetery Directory
 ---
 # Nicholas "Nicky" Kanaback
 

@@ -1,10 +1,10 @@
 ---
 full_name: "Dick Miller's Seabee"
-family_name: "Seabee"
-given_names: "Dick Miller"
+last_name: "Seabee"
+first_name: "Dick Miller"
 source_file: "Dick Miller's Seabee"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Owned By Dick Miller Seabee

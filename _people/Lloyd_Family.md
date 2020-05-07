@@ -1,10 +1,10 @@
 ---
 full_name: "LLOYD Family"
-family_name: "Lloyd"
-given_names: "Family"
+last_name: "Lloyd"
+first_name: "Family"
 source_file: "Lloyd FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # LLOYD Family

@@ -1,10 +1,10 @@
 ---
 full_name: "Wilson Family"
-family_name: "Wilson"
-given_names: "Family"
+last_name: "Wilson"
+first_name: "Family"
 source_file: "Wilson Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Wilson Family

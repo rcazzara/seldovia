@@ -1,10 +1,10 @@
 ---
 full_name: "Adrianna Rose Ardenia"
-family_name: "Ardenia"
-given_names: "Adrianna Rose"
+last_name: "Ardenia"
+first_name: "Adrianna Rose"
 source_file: "JOHN ABELARD ARDENIA"
-born: "October 8, 1996, Seldovia, Alaska "
-died: " 1996, Seldovia, Alaska"
+birth_location: "October 8, 1996, Seldovia, Alaska "
+death_location: " 1996, Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Adrianna Rose Ardenia

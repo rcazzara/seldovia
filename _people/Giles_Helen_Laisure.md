@@ -1,10 +1,10 @@
 ---
 full_name: "Helen Laisure Giles"
-family_name: "Giles"
-given_names: "Helen Laisure"
+last_name: "Giles"
+first_name: "Helen Laisure"
 source_file: "Giles Family"
-born: "October 21, 1908, Washington"
-died: " January 10, 1994, Alaska"
+birth_location: "October 21, 1908, Washington"
+death_location: " January 10, 1994, Alaska"
 cemetry_plot: 
 ---
 # Helen Laisure Giles

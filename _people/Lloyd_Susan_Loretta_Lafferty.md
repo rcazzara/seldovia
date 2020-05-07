@@ -1,11 +1,11 @@
 ---
-full_name: "Susan Loretta LAFFERTY Lloyd"
-family_name: "Lloyd"
-given_names: "Susan Loretta Lafferty"
-source_file: "Lloyd FAMILY"
-born: "May 10, 1883 South Dakota "
-died: " May 23, 1965 Alaska"
-cemetry_plot: 74
+last_name: Lloyd
+maiden_name: Lafferty
+first_name: Susan Loretta
+birth_location: South Dakota
+death_date: 1965-05-23
+cemetery_plot: 76
+source_file: Cemetery Directory
 ---
 # Susan Loretta LAFFERTY Lloyd
 

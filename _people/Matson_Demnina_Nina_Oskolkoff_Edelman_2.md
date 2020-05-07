@@ -1,10 +1,10 @@
 ---
 full_name: "Demnina \"NINA\" OSKOLKOFF Edelman Matson"
-family_name: "Matson"
-given_names: "Demnina \"Nina\" Oskolkoff Edelman"
+last_name: "Matson"
+first_name: "Demnina \"Nina\" Oskolkoff Edelman"
 source_file: "Edvin and Demnina Oskolkoff Edelman"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 51
 ---
 # Demnina "NINA" OSKOLKOFF Edelman Matson

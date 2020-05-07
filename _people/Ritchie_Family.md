@@ -1,10 +1,10 @@
 ---
 full_name: "RITCHIE FAMILY"
-family_name: "Ritchie"
-given_names: "Family"
+last_name: "Ritchie"
+first_name: "Family"
 source_file: "Ritchie Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # RITCHIE FAMILY

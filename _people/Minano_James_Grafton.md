@@ -1,10 +1,10 @@
 ---
 full_name: "James Grafton MINANO"
-family_name: "Minano"
-given_names: "James Grafton"
+last_name: "Minano"
+first_name: "James Grafton"
 source_file: "James Grafton Minano"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # James Grafton MINANO

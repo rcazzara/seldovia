@@ -1,10 +1,10 @@
 ---
 full_name: "Jack Hopkins, Plumas County Logger"
-family_name: "Hopkins"
-given_names: "Jack"
+last_name: "Hopkins"
+first_name: "Jack"
 source_file: "Jack Hopkins story by his son Bill"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Jack Hopkins, Plumas County Logger

@@ -1,11 +1,9 @@
 ---
-full_name: "Terry Meehan"
-family_name: "Meehan"
-given_names: "Terry"
-source_file: "Remembering Our Children"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Meehan
+first_name: Terry
+birth_location: Seldovia, AK
+cemetery_plot: 118
+source_file: Cemetery Directory
 ---
 # Terry Meehan
 

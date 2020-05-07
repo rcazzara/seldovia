@@ -1,10 +1,10 @@
 ---
 full_name: "Tanya SOROKOVIKOFF Wilson"
-family_name: "Wilson"
-given_names: "Tanya Sorokovikoff"
+last_name: "Wilson"
+first_name: "Tanya Sorokovikoff"
 source_file: "Wilson Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Tanya SOROKOVIKOFF Wilson

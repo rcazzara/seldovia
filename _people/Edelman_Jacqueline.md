@@ -1,11 +1,11 @@
 ---
-full_name: "Jacqueline Edelman"
-family_name: "Edelman"
-given_names: "Jacqueline"
-source_file: "Edelman"
-born: "1940, Seldovia, Alaska "
-died: " August 27, 1951, Seldovia, Alaska"
-cemetry_plot: 
+last_name: Edelman
+first_name: Jacqueline
+aka: Jackie
+death_date: 1951-10-27
+death_location: Seldovia, AK
+cemetery_plot: 21
+source_file: Cemetery Directory
 ---
 # Jacqueline Edelman
 

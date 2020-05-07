@@ -1,10 +1,10 @@
 ---
 full_name: "John ALEX"
-family_name: "Alex"
-given_names: "John"
+last_name: "Alex"
+first_name: "John"
 source_file: "John ALEX"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 2
 ---
 # John ALEX

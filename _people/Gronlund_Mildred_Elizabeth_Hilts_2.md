@@ -1,10 +1,10 @@
 ---
 full_name: "Mildred Elizabeth HILTS Gronlund"
-family_name: "Gronlund"
-given_names: "Mildred Elizabeth Hilts"
+last_name: "Gronlund"
+first_name: "Mildred Elizabeth Hilts"
 source_file: "Romanoff FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Mildred Elizabeth HILTS Gronlund

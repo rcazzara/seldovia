@@ -1,10 +1,10 @@
 ---
 full_name: "JOSEFSEN FAMILY"
-family_name: "Josefsen"
-given_names: "Family"
+last_name: "Josefsen"
+first_name: "Family"
 source_file: "Josefson Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # JOSEFSEN FAMILY

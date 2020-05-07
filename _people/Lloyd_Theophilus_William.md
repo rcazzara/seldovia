@@ -1,10 +1,10 @@
 ---
 full_name: "Theophilus William Lloyd"
-family_name: "Lloyd"
-given_names: "Theophilus William"
+last_name: "Lloyd"
+first_name: "Theophilus William"
 source_file: "Lloyd FAMILY"
-born: "April 30, 1873, Kansas "
-died: " July 3, 1937 Seldovia, Alaska"
+birth_location: "April 30, 1873, Kansas "
+death_location: " July 3, 1937 Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Theophilus William Lloyd

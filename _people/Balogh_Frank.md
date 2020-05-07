@@ -1,10 +1,10 @@
 ---
 full_name: "FRANK BALOGH"
-family_name: "Balogh"
-given_names: "Frank"
+last_name: "Balogh"
+first_name: "Frank"
 source_file: "Balogh Family"
-born: "April 25, 1913, Willoughby, Ohio "
-died: " July 22, 1994, Seldovia, Alaska"
+birth_location: "April 25, 1913, Willoughby, Ohio "
+death_location: " July 22, 1994, Seldovia, Alaska"
 cemetry_plot: 
 ---
 # FRANK BALOGH

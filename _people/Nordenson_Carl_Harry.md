@@ -1,10 +1,10 @@
 ---
 full_name: "Carl Harry Nordenson"
-family_name: "Nordenson"
-given_names: "Carl Harry"
+last_name: "Nordenson"
+first_name: "Carl Harry"
 source_file: "Nordenson"
-born: "October 30, 1905, Mustadfors, Sweden "
-died: " January 6, 1968 Seldovia"
+birth_location: "October 30, 1905, Mustadfors, Sweden "
+death_location: " January 6, 1968 Seldovia"
 cemetry_plot: 
 ---
 # Carl Harry Nordenson

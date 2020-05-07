@@ -1,10 +1,10 @@
 ---
 full_name: "Remembering Our Children"
-family_name: "Children"
-given_names: "Remembering"
+last_name: "Children"
+first_name: "Remembering"
 source_file: "Remembering Our Children"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Remembering Our Children

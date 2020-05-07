@@ -1,10 +1,10 @@
 ---
 full_name: "Elxnit Family"
-family_name: "Elxnit"
-given_names: "Family"
+last_name: "Elxnit"
+first_name: "Family"
 source_file: "Elxnit Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Elxnit Family

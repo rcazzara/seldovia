@@ -1,11 +1,12 @@
 ---
-full_name: "Andrew Johnson"
-family_name: "Johnson"
-given_names: "Andrew"
-source_file: "Andrew Johnson"
-born: "December 13, 1888, Kodiak, Alaska"
-died: " March 3, 1931, Seldovia, Alaska"
-cemetry_plot: 
+last_name: Johnson
+first_name: Andrew
+aka: Andy
+birth_location: Finland
+death_date: 1940-07-13
+death_location: Seldovia, AK
+cemetery_plot: 36
+source_file: Cemetery Directory
 ---
 # Andrew Johnson
 

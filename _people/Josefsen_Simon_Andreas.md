@@ -1,10 +1,10 @@
 ---
 full_name: "Simon Andreas Josefsen"
-family_name: "Josefsen"
-given_names: "Simon Andreas"
+last_name: "Josefsen"
+first_name: "Simon Andreas"
 source_file: "Josefson Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Simon Andreas Josefsen

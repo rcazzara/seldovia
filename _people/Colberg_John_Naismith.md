@@ -1,10 +1,10 @@
 ---
 full_name: "John Naismith Colberg"
-family_name: "Colberg"
-given_names: "John Naismith"
+last_name: "Colberg"
+first_name: "John Naismith"
 source_file: "COLBERG Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # John Naismith Colberg

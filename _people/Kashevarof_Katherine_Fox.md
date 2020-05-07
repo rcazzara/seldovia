@@ -1,10 +1,10 @@
 ---
 full_name: "Katherine FOX Kashevarof"
-family_name: "Kashevarof"
-given_names: "Katherine Fox"
+last_name: "Kashevarof"
+first_name: "Katherine Fox"
 source_file: "Katherine Fox Kashevarof"
-born: "May 6, 1906, Unga, Alaska "
-died: " March 2, 1998, Anchorage, Alaska"
+birth_location: "May 6, 1906, Unga, Alaska "
+death_location: " March 2, 1998, Anchorage, Alaska"
 cemetry_plot: 
 ---
 # Katherine FOX Kashevarof

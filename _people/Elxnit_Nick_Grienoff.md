@@ -1,10 +1,10 @@
 ---
 full_name: "Nick Grienoff ELXNIT"
-family_name: "Elxnit"
-given_names: "Nick Grienoff"
+last_name: "Elxnit"
+first_name: "Nick Grienoff"
 source_file: "Nick Grienoff ELXNIT"
-born: "Nov. 3, 1903, Kodiak, Alaska "
-died: " May 26, 2001, Seldovia, Alaska"
+birth_location: "Nov. 3, 1903, Kodiak, Alaska "
+death_location: " May 26, 2001, Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Nick Grienoff ELXNIT

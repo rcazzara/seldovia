@@ -1,10 +1,10 @@
 ---
 full_name: "THE SALVATOR"
-family_name: "Salvator"
-given_names: "The"
+last_name: "Salvator"
+first_name: "The"
 source_file: "Salvator"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # THE SALVATOR

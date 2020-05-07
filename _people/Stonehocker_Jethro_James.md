@@ -1,10 +1,10 @@
 ---
 full_name: "Jethro James Stonehocker"
-family_name: "Stonehocker"
-given_names: "Jethro James"
+last_name: "Stonehocker"
+first_name: "Jethro James"
 source_file: "Jethro James Stonehocker"
-born: "Jan. 18, 1864, Montezuma, Iowa "
-died: " May 10, 1939, Seldovia, Alaska"
+birth_location: "Jan. 18, 1864, Montezuma, Iowa "
+death_location: " May 10, 1939, Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Jethro James Stonehocker

@@ -1,12 +1,12 @@
 ---
 full_name: "John F. Kanaback"
-family_name: "Kanaback"
-given_names: "John F."
+last_name: "Kanaback"
+first_name: "John F."
 source_file: "Kanaback Family"
-born: "September 29, 1923, Seldovia, Alaska "
+birth_location: "September 29, 1923, Seldovia, Alaska "
 birth_location: "Seldovia, AK"
 birth_date: "September 29, 1923"
-died: " 1999, Palmer, Alaska"
+death_location: " 1999, Palmer, Alaska"
 death_location: "Palmer, AK"
 death_date: "1999"
 cemetry_plot: 

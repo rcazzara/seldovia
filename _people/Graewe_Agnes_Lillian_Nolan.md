@@ -1,11 +1,12 @@
 ---
-full_name: "Agnes Lillian Nolan Graewe"
-family_name: "Graewe"
-given_names: "Agnes Lillian Nolan"
-source_file: "Agnes Lillian Nolan Graewe"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Graewe
+maiden_name: Nolan
+first_name: Agnes Lillian
+birth_location: Chicago, Illinois
+death_date: 1947-09-20
+death_location: Seldovia, AK
+cemetery_plot: 58
+source_file: Cemetery Directory
 ---
 # Agnes Lillian Nolan Graewe
 

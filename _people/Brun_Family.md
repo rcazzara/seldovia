@@ -1,10 +1,10 @@
 ---
 full_name: "Brun Family"
-family_name: "Brun"
-given_names: "Family"
+last_name: "Brun"
+first_name: "Family"
 source_file: "BRUN FAMILY"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Brun Family

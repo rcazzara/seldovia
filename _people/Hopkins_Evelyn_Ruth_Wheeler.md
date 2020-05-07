@@ -1,10 +1,10 @@
 ---
 full_name: "Evelyn Ruth WHEELER Hopkins"
-family_name: "Hopkins"
-given_names: "Evelyn Ruth Wheeler"
+last_name: "Hopkins"
+first_name: "Evelyn Ruth Wheeler"
 source_file: "Wheeler"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 172
 ---
 # Evelyn Ruth WHEELER Hopkins

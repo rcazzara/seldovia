@@ -1,11 +1,9 @@
 ---
-full_name: "Olga Kanaback"
-family_name: "Kanaback"
-given_names: "Olga"
-source_file: "Kanaback Family"
-born: "1937, Seldovia "
-died: " 1938, Seldovia, Alaska"
-cemetry_plot: 
+last_name: Kanaback
+first_name: Olga
+birth_location: Seldovia, AK
+cemetery_plot: 132
+source_file: Cemetery Directory
 ---
 # Olga Kanaback
 

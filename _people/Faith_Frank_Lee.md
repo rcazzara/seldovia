@@ -1,11 +1,11 @@
 ---
-full_name: "Frank Lee Faith"
-family_name: "Faith"
-given_names: "Frank Lee"
-source_file: "Frank Faith"
-born: nil
-died: nil
-cemetry_plot: 163
+last_name: Faith
+first_name: Frank Lee
+aka: Frank
+birth_location: Indiana
+death_date: 1959-08-05
+cemetery_plot: 163
+source_file: Cemetery Directory
 ---
 # Frank Lee Faith
 

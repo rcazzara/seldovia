@@ -1,10 +1,10 @@
 ---
 full_name: "Ulysses Grant Ritchie"
-family_name: "Ritchie"
-given_names: "Ulysses Grant"
+last_name: "Ritchie"
+first_name: "Ulysses Grant"
 source_file: "Ritchie Family"
-born: "October 1868, Pa "
-died: " May 1953, Seldovia, Alaska"
+birth_location: "October 1868, Pa "
+death_location: " May 1953, Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Ulysses Grant Ritchie

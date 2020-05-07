@@ -1,10 +1,10 @@
 ---
 full_name: "Ann Marie WILSON Anderson"
-family_name: "Anderson"
-given_names: "Ann Marie Wilson"
+last_name: "Anderson"
+first_name: "Ann Marie Wilson"
 source_file: "Wilson Family"
-born: "January 9, 1947, Seldovia, Alaska "
-died: " , Seldovia, Alaska"
+birth_location: "January 9, 1947, Seldovia, Alaska "
+death_location: " , Seldovia, Alaska"
 cemetry_plot: 
 ---
 # Ann Marie WILSON Anderson

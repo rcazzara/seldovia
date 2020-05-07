@@ -1,10 +1,10 @@
 ---
 full_name: "Simon Frederick Josefsen"
-family_name: "Josefsen"
-given_names: "Simon Frederick"
+last_name: "Josefsen"
+first_name: "Simon Frederick"
 source_file: "Josefson Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 251
 ---
 # Simon Frederick Josefsen

@@ -1,10 +1,10 @@
 ---
 full_name: "James Naismith Cleghorn"
-family_name: "Cleghorn"
-given_names: "James Naismith"
+last_name: "Cleghorn"
+first_name: "James Naismith"
 source_file: "James Naismith Cleghorn family"
-born: "1852, Lewiston, NY "
-died: " 1928, Seldovia, Alaska"
+birth_location: "1852, Lewiston, NY "
+death_location: " 1928, Seldovia, Alaska"
 cemetry_plot: 195
 ---
 # James Naismith Cleghorn

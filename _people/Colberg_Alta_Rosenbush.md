@@ -1,10 +1,10 @@
 ---
 full_name: "Alta ROSENBUSH Colberg"
-family_name: "Colberg"
-given_names: "Alta Rosenbush"
+last_name: "Colberg"
+first_name: "Alta Rosenbush"
 source_file: "COLBERG Family"
-born: "February 24, 1934 "
-died: " January 20, 2020, Anchorage, Alaska"
+birth_location: "February 24, 1934 "
+death_location: " January 20, 2020, Anchorage, Alaska"
 cemetry_plot: 
 ---
 # Alta ROSENBUSH Colberg

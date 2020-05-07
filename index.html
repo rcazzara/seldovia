@@ -21,19 +21,15 @@ title: Seldovia People
             <th>Family Name</th>
             <th>Given Names</th>
             <th>Source</th>
-            <th>Born</th>
-            <th>Died</th>
             <th>Plot</th>
         </tr>
     </thead>
     <tbody>
         {% for people in site.people %}
         <tr>
-            <td><a href="{{ people.url | prepend: site.baseurl }}">{{ people.family_name }}</a></td>
-            <td><a href="{{ people.url | prepend: site.baseurl }}">{{ people.given_names }}</a></td>
+            <td><a href="{{ people.url | prepend: site.baseurl }}">{{ people.last_name }}</a></td>
+            <td><a href="{{ people.url | prepend: site.baseurl }}">{{ people.first_name }}</a></td>
             <td>{{ people.source_file }}</td>
-            <td>{{ people.born }}</td>
-            <td>{{ people.died }}</td>
             <td>{{ people.cemetry_plot }}</td>
         </tr>
         {% endfor %}

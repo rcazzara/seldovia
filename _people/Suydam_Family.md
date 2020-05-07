@@ -1,10 +1,10 @@
 ---
 full_name: "Suydam Family"
-family_name: "Suydam"
-given_names: "Family"
+last_name: "Suydam"
+first_name: "Family"
 source_file: "Suydam Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Suydam Family

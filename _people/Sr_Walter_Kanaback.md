@@ -1,10 +1,10 @@
 ---
 full_name: "Walter Kanaback, Sr"
-family_name: "Kanaback"
-given_names: "Walter, Sr."
+last_name: "Kanaback"
+first_name: "Walter, Sr."
 source_file: "Kanaback Family"
-born: "July 28, 1892, Seldovia "
-died: " 1951, Seldovia"
+birth_location: "July 28, 1892, Seldovia "
+death_location: " 1951, Seldovia"
 cemetry_plot: 129
 ---
 # Walter Kanaback, Sr

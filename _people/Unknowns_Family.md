@@ -1,10 +1,10 @@
 ---
 full_name: "Unknowns"
-family_name: "Unknowns"
-given_names: "Family"
+last_name: "Unknowns"
+first_name: "Family"
 source_file: "Unknowns"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Unknowns

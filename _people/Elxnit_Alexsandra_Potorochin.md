@@ -1,10 +1,10 @@
 ---
 full_name: "Alexsandra Potorochin Elxnit"
-family_name: "Elxnit"
-given_names: "Alexsandra Potorochin"
+last_name: "Elxnit"
+first_name: "Alexsandra Potorochin"
 source_file: "Elxnit Family"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Alexsandra Potorochin Elxnit

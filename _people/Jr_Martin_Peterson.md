@@ -1,10 +1,10 @@
 ---
 full_name: "Martin Peterson, Jr."
-family_name: "Peterson"
-given_names: "Martin, Jr."
+last_name: "Peterson"
+first_name: "Martin, Jr."
 source_file: "Remembering Our Children"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Martin Peterson, Jr.

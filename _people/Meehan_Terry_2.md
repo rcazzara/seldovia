@@ -1,10 +1,10 @@
 ---
 full_name: "Terry Meehan"
-family_name: "Meehan"
-given_names: "Terry"
+last_name: "Meehan"
+first_name: "Terry"
 source_file: "Terrance Meehan"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Terry Meehan

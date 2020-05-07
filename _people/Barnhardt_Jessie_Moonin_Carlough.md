@@ -1,10 +1,10 @@
 ---
 full_name: "Jessie MOONIN Carlough Barnhardt"
-family_name: "Barnhardt"
-given_names: "Jessie Moonin Carlough"
+last_name: "Barnhardt"
+first_name: "Jessie Moonin Carlough"
 source_file: "James Howard Carlough"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Jessie MOONIN Carlough Barnhardt

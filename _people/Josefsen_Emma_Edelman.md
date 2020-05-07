@@ -1,11 +1,11 @@
 ---
-full_name: "Emma EDELMAN Josefsen"
-family_name: "Josefsen"
-given_names: "Emma Edelman"
-source_file: "Josefson Family"
-born: "June 23, 1902, Kenai, Alaska "
-died: " May 11, 1993, Seldovia, Alaska"
-cemetry_plot: 41
+last_name: Josefsen
+maiden_name: Edelman
+first_name: Emma
+birth_date: 1902-06-23
+death_date: 1993-05-11
+cemetery_plot: 41
+source_file: Cemetery Directory
 ---
 # Emma EDELMAN Josefsen
 

@@ -1,10 +1,10 @@
 ---
 full_name: "Frank S. Nemec"
-family_name: "Nemec"
-given_names: "Frank S."
+last_name: "Nemec"
+first_name: "Frank S."
 source_file: "Frank Nemec"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Frank S. Nemec

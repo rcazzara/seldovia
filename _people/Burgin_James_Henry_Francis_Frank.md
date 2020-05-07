@@ -1,10 +1,10 @@
 ---
 full_name: "James Henry Francis \"Frank\" Burgin"
-family_name: "Burgin"
-given_names: "James Henry Francis \"Frank\""
+last_name: "Burgin"
+first_name: "James Henry Francis \"Frank\""
 source_file: "Frank Burgin"
-born: "February 7, 1879, Harrison, Missouri"
-died: "June 11, 1938, Seldovia, Alaska"
+birth_location: "February 7, 1879, Harrison, Missouri"
+death_location: "June 11, 1938, Seldovia, Alaska"
 cemetry_plot: 97
 ---
 # James Henry Francis "Frank" Burgin

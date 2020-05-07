@@ -1,11 +1,11 @@
 ---
-full_name: "Arthur Kvarness"
-family_name: "Kvarness"
-given_names: "Arthur"
-source_file: "Edelman"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Kvarness
+first_name: Arthur
+aka: Art
+birth_location: Norway
+death_date: 1953-03-16
+cemetery_plot: 17
+source_file: Cemetery Directory
 ---
 # Arthur Kvarness
 

@@ -1,10 +1,10 @@
 ---
 full_name: "Jordan Geagel was born in"
-family_name: "In"
-given_names: "Jordan Geagel Was Born"
+last_name: "In"
+first_name: "Jordan Geagel Was Born"
 source_file: "Jordan Gaegel"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Jordan Geagel was born in

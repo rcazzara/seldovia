@@ -1,10 +1,10 @@
 ---
 full_name: "Luned Dolwin \"Lynn\" MORRIS Inglima"
-family_name: "Inglima"
-given_names: "Luned Dolwin \"Lynn\" Morris"
+last_name: "Inglima"
+first_name: "Luned Dolwin \"Lynn\" Morris"
 source_file: "Richard Ceiriog MORRIS"
-born: nil
-died: nil
+birth_location:
+death_location:
 cemetry_plot: 
 ---
 # Luned Dolwin "Lynn" MORRIS Inglima

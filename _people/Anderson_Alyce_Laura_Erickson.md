@@ -1,11 +1,11 @@
 ---
-full_name: "Alyce Laura ERICKSON Anderson"
-family_name: "Anderson"
-given_names: "Alyce Laura Erickson"
-source_file: "Oscar and Alyce Erickson Anderson"
-born: nil
-died: nil
-cemetry_plot: 
+last_name: Anderson
+maiden_name: Erickson
+first_name: Alyce Laura
+birth_location: Illinois
+death_location: Seldovia, AK
+cemetery_plot: 54
+source_file: Cemetery Directory
 ---
 # Alyce Laura ERICKSON Anderson
 
