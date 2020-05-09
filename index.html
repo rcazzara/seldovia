@@ -23,6 +23,7 @@ title: Seldovia People
             <th>Source</th>
             <th>Died</th>
             <th>Plot</th>
+            <th>Words</th>
             <th></th>
         </tr>
     </thead>
@@ -34,6 +35,7 @@ title: Seldovia People
             <td>{{ people.source_file }}</td>
             <td>{{ people.death_date }}</td>
             <td>{{ people.cemetery_plot }}</td>
+            <td>{{ people.content | number_of_words }}</td>
             <td><a href="{{ site.github.repository_url }}/edit/master/{{ people.relative_path }}" target="_blank">Edit...</a></td>
         </tr>
         {% endfor %}
