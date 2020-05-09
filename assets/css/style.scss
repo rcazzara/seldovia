@@ -4,12 +4,14 @@
 @import "{{ site.theme }}";
 
 .wrapper {
+  width: unset;
   max-width: 1050px;
   margin:0 auto;
   position:relative;
 }
 
 section {
+  width: unset;
   padding: 30px 30px 50px 30px;
   margin: 20px 0;
   margin-top: 190px;
