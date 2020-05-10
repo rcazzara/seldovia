@@ -5,7 +5,7 @@ first_name: "Ann Marie Wilson"
 source_file: "Wilson Family"
 birth_date: 1947-01-09
 birth_location: "Seldovia, Alaska "
-death_date: 2014-01/19
+death_date: 2014-01-19
 death_location: "Seldovia, Alaska"
 cemetery: Seldovia City Cemetery
 cemetery_plot: 199
