@@ -13,9 +13,10 @@ cemetery_plot: 199
 
 **Ann Marie WILSON Anderson** was born January 9, 1947 in Seldovia, where
 she was a lifelong resident except for a stint from 1974-1979 in
-Anchorage. She was the daughter of [Tania Sorokovikoff Wilson](./Wilson_Tania_Sorokovikoff.md). She married Andy Anderson on February 11, 1967. Their
+Anchorage. She was the daughter of [Tania Sorokovikoff Wilson](./Wilson_Tania_Sorokovikoff.md).
+She married Andy Anderson on February 11, 1967. Their
 daughter, Donica Mae was born in Seldovia on December 23, 1968. Ann was
-a member of the Seldovia Bible Church. She ejoyed beading, swimming and
+a member of the Seldovia Bible Church. She enjoyed beading, swimming and
 the Girls’ Card Night playing Snertz. "Ann was a beloved wife, mother,
 grandmother, sister, aunt and loyal friend; a person who cherished
 friendships and was eager to share with others. A beautiful person, both
