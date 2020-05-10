@@ -1,11 +1,11 @@
 ---
 last_name: Blackburn
 first_name: Mrs. Frank
+birth_date:
+birth_location:
+death_date: 1965
+death_location: Seldovia, Alaska
 cemetery_plot: 194
 source_file: Cemetery Directory
 ---
-**Mrs. Frank   Blackburn** is buried in the Seldovia City Cemetery in plot 194.  The cause of death is unknown.
-
-Identified by City records.
-
-Unmarked grave.
+**Mrs. Frank   Blackburn** was buried in the Seldovia City Cemetery in Plot #194 in 1965.  

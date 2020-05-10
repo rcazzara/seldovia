@@ -5,11 +5,12 @@ first_name: Pattilu
 birth_date: 1952-09-11
 birth_location: Alaska
 death_date: 2010-03-12
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 221.5
 source_file: Cemetery Directory
 ---
-**Pattilu Hansen  Bowden** is buried in the Seldovia City Cemetery in plot 221.5.  The cause of death is unknown.
+**Pattilu HANSEN Bowden** was born September 11, 1952 to Roy and Lucille OLLESTAD Hansen. She married Thomas Bowden and had two children before she died March 12, 2010.  She is buried in the Seldovia City Cemetery in plot 221.5. 
 
 
 

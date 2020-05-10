@@ -10,7 +10,6 @@ source_file: Cemetery Directory
 ---
 # Nicholai "NICK" Hogenson
 
-## August 20, 1934, Seldovia, Alaska – June 30, 1988, Seldovia, Alaska
 
 When ***Nick Hogenson*** was born in 1934 in Alaska, his father, Martin,
 was 50 and his mother, Katie, was 36. He had one younger brother, Harry

@@ -7,8 +7,9 @@ death_date: 2010-11-26
 cemetery_plot: 276
 source_file: Cemetery Directory
 ---
-**Deborah E. Grindle  Morrison** is buried in the Seldovia City Cemetery in plot 276.  The cause of death is unknown.
-
+**Deborah E. Grindle  Morrison** was born in Maine to Wendell and Marlene
+Grindle. She married Pearly Morrison and had a son Laramie Morrison.
+They came to Seldovia in 2007. Debbie died of breast cancer in 2010. 
 
 
 

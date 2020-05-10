@@ -4,12 +4,14 @@ first_name: Mikkel Jr.
 aka: Mike, Jr.
 birth_date: 1910-11-10
 birth_location: Seldovia, AK
+death_date: 1967
 death_location: Seldovia, AK
+cemetery: Seldovia City Cemetery
 cemetery_plot: 578
 source_file: Cemetery Directory
 ---
-**Mikkel Jr.  Mike, Jr. Balashoff** is buried in the Seldovia City Cemetery in plot 578.  The cause of death is unknown.
+**Mikkel Balashoff, Jr., "Mike** was born in Seldovia November 10, 1910 to Mikkel and Anisiia Balashoff. He married Virginia SOROKOVIKOFF and had four children. Mike is buried in the Seldovia City Cemetery in Plot #578.  
 
 
-Mike son of Mike Sr.
+
 

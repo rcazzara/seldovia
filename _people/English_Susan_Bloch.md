@@ -10,7 +10,6 @@ source_file: Cemetery Directory
 ---
 # Susan BLOCH English
 
-## Feb. 26, 1904, Seldovia -Oct. 10, 1989, Seldovia
 
 Susan BLOCH was born February 26, 1904 in Seldovia, Alaska to Adam Bloch
 and Elizabeth BALASHOFF Bloch. When her mother died, Susan, at sixteen,

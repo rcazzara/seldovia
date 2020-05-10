@@ -2,6 +2,7 @@
 last_name: Nutbeem
 maiden_name: Larsen
 first_name: Alice
+birth_date: 1899-09-15
 birth_location: Unga Island, Alaska
 death_date: 1990-07-13
 death_location: Homer, AK
@@ -9,16 +10,6 @@ cemetery_plot: 116
 source_file: Cemetery Directory
 ---
 # Alice LARSEN Nutbeem
-
-**September 15, 1899, Unga, Alaska – July 13, 1990, Homer,
-Alaska**![](../assets/images/Ted%20and%20Alice%20Nutbeem/media/image1.jpeg)
-
-**Theodore "Ted" NUTBEEM** was the son of Albert and Nadezda Nutbeem.
-His father was from England and his mother was Alaskan. Ted's father
-died 17 Sept 1901, and after his mother also died he entered the Jesse
-Lee Home in Unalaska, Alaska. Ted entered the children's home June 1,
-1898, when he was four years old, and lived there attending school until
-he was 18 years of age.
 
 **Alice LARSEN** was the daughter of Peter and Mary (Hubley) Larsen. Her
 father was from Denmark and her mother was Alaskan. Alice was raised in

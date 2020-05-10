@@ -2,12 +2,14 @@
 last_name: Balashoff
 first_name: Fitka
 aka: Fred Fitka
-birth_location: Alaska
+birth_date: 1866
+birth_location: Seldovia, Alaska
+death_date: 1936
 death_location: Seldovia, AK
+cemetery: Seldovia City Cemetery
 cemetery_plot: 111
 source_file: Cemetery Directory
 ---
-# Fitka Balashoff
 
 **Fitka** [**Balashoff**](Balashov_balashof_balishoff_Family.md) was born about 1866. Some genealogists have listed
 him as the grandson of Vasilii Ksenofontov Bal’shev, born in Russia
@@ -43,3 +45,4 @@ esteeming his friendship and protesting inwardly against the statement
 that he was 'old enough for
 died'."*![](../assets/images/Balashov%20Family%202/media/image1.jpeg)
 
+Fitka died about 1936 in Seldovia and is buried in the Seldovia City Cemetery, Plot #111.

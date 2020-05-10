@@ -1,14 +1,12 @@
 ---
 last_name: Roe
-maiden_name: Dartgige
+maiden_name: Dartigue
 first_name: Anna
-birth_location: France
+birth_date: 1877-04-18
+birth_location: Tours-sur-Meymont, France
 death_date: 1941-09-28
+death_location: Seldovia, Alaska
 cemetery_plot: 80
 source_file: Cemetery Directory
 ---
-**Anna Dartgige  Roe** is buried in the Seldovia City Cemetery in plot 80.  The cause of death is unknown.
-
-Recorded in the City records Mrs. John (Anna) Roe.
-
-Her name is on a wooden marker.
+**Anna DARTIGUE Roe** was born in Tours-sur-Meymont, France on April 18, 1877 to Antone Dartgige.  She arrived in the US in 1919 and married John Roe in 1922 in Seward, Alaska. She died September 28, 1941 and is buried in the Seldovia City Cemetery in plot 80.  

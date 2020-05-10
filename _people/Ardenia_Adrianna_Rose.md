@@ -1,12 +1,15 @@
 ---
-full_name: "Adrianna Rose Ardenia"
-last_name: "Ardenia"
-first_name: "Adrianna Rose"
-source_file: "JOHN ABELARD ARDENIA"
-birth_location: "October 8, 1996, Seldovia, Alaska "
-death_location: " 1996, Seldovia, Alaska"
-cemetery_plot: 
+last_name: Ardenia
+first_name: Adrianna Rose
+birth_date: 1996-10-08
+birth_location: Seldovia, Alaska
+death_date: 1996-12-01
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
+cemetery_plot: 570
+source_file: Cemetery Directory
 ---
-# Adrianna Rose Ardenia
 
-## October 8, 1996, Seldovia, Alaska – 1996, Seldovia, Alaska
+**Adrianna Rose   Ardenia** was the daughter of John Ardenia and Clara Moonin. She lived only two months.  She is buried in the Seldovia City Cemetery in Plot #570, with her grandfather John Abelard Ardenia and her great grandmother, Justina Dushkin. 
+
+

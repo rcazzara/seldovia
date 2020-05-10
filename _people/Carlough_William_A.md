@@ -3,16 +3,15 @@ last_name: Carlough
 first_name: William A.
 aka: Bill
 birth_date: 1918-11-22
-birth_location: Port Graham, AK
-death_location: Alaska
+birth_location: Port Graham, Alaska
+death_date: 1956
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 187
 source_file: Cemetery Directory
 ---
-# William "BILL" Carlough
 
-## November 22, 1918, Port Graham, Alaska – 1956, Seldovia, Alaska
-
-**Bill was the son of James Howard Carlough and Jessie Moonin.** When
+**William A. Carlough, "Bill.** was the son of James Howard Carlough and Jessie Moonin. When
 William A Carlough and his twin brother Patrick Mike were born on
 November 22, 1918, in Port Graham, Alaska, their father, James, was 25,
 and their mother, Aphanasia – "Jessie"- was 20. He married [Emamarie

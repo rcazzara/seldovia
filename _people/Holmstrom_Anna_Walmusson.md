@@ -6,8 +6,9 @@ death_date: 1941-10-28
 cemetery_plot: 86
 source_file: Cemetery Directory
 ---
-**Anna Walmusson  Holmstrom** is buried in the Seldovia City Cemetery in plot 86.  The cause of death is unknown.
-
-City records. The surname is written as Holstrom in the alphabetical list. First name from Seldovia Death Certificate.
-Mrs. Gus Holstrom
-Unnamed grave marked by white Russian Orthodox Cross.
+**Anna Walmusson  Holmstrom** was born in Seldovia to Stepen and Madrona
+Walnusson. She first married someone named Slater and had five children,
+Paul, Peter, Sergei, Fina and Fevronia. Anna and the children were
+living together in Seldovia in 1910 and When Anna married Gus, sometime before 1920, her children became Gus’s
+adopted children and changed their last names from Slater to
+Holmstrom.**

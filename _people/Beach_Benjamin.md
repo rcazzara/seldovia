@@ -2,14 +2,12 @@
 last_name: Beach
 first_name: Benjamin
 aka: Benny
-birth_date: 1926-01-01
+birth_date: 1925-07-01
 birth_location: Seldovia, AK
+death_date: 1936
 death_location: Seldovia, AK
+cemetery: Seldovia City Cemetery
 cemetery_plot: 135
 source_file: Cemetery Directory
 ---
-**Benjamin  Benny Beach** is buried in the Seldovia City Cemetery in plot 135.  The cause of death is unknown.
-
-City Records
-
-Unmarked grave.
+**Benjamin  "Benny" Beach**, the son of Zenas and Barbara MARKA Beach is buried in the Seldovia City Cemetery in Plot #135.  

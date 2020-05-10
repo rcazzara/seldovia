@@ -2,14 +2,13 @@
 full_name: "Rufus Bowen, Jr."
 last_name: "Bowen"
 first_name: "Rufus, Jr."
-source_file: "Bowen Family"
-birth_location: "October 22, 1879, Alaska "
-death_location: " September 1953, Alaska"
-cemetery_plot: 
+birth_date: 1879-10-22
+birth_location: "Kodiak, Alaska "
+death_date: 1953
+death_location: Alaska
+cemetery: Seldovia City Cemetery
+cemetery_plot: 43
 ---
-# Rufus Bowen, Jr.
-
-## October 22, 1879, Alaska – September 1953, Alaska
 
 **Rufus Bowen** was born in Kodiak October 22, 1879 and came to Seldovia
 after the Novarupta eruption in 1912. He built a cabin where the

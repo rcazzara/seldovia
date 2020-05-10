@@ -8,7 +8,11 @@ death_location: Palmer, AK
 cemetery_plot: 52
 source_file: Cemetery Directory
 ---
-**John   Kanaback** is buried in the Seldovia City Cemetery in plot 52.  The cause of death is unknown.
+**John F. Kanaback** was born Sept. 29, 1923, in Seldovia, to Walter
+Kanaback and Limpyada Murray. He attended schools in Seldovia until 10th
+grade. Mr. Kanaback worked in the cannery at Snug Harbor for 25 years.
+He served in the Territorial Guard.
+
 
 
 

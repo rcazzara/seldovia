@@ -2,15 +2,15 @@
 full_name: "James Howard Carlough"
 last_name: "Carlough"
 first_name: "James Howard"
+aka: Jose
 source_file: "James Howard Carlough"
-birth_location:
-death_location:
-cemetery_plot: 
+birth_date: 1893-05-23
+birth_location: Patterson, New Jersey
+death_date: 1935-02-11
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
+cemetery_plot: 1001
 ---
-# James Howard Carlough
-
-**May 23, 1893, Patterson, New Jersey – February 11, 1935, Seldovia,
-Alaska**
 
 **James Howard (Jose) Carlough** was born on May 23, 1893, in Paterson,
 New Jersey to James and Mary Carlough. He arrived in Alaska sometime

@@ -10,8 +10,6 @@ source_file: Cemetery Directory
 ---
 # James Henry Francis "Frank" Burgin
 
-**February 7, 1879, Harrison, Missouri – June 11, 1938, Seldovia,
-Alaska**
 
 **James Henry Francis "FRANK" Burgin** was the first of Seldovia’s many
 celebrated dentists\! He was born in Harrison, Missouri on February 7,

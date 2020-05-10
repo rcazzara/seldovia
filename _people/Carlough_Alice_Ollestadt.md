@@ -3,8 +3,10 @@ full_name: "Alice OLLESTADT Carlough"
 last_name: "Carlough"
 first_name: "Alice Ollestadt"
 source_file: "James Howard Carlough"
-birth_location:
-death_location:
+birth_date: 1920-05-16
+birth_location: Seldovia, Alaska
+death_date: 2004-10-21
+death_location: Edmonds, Washington
 cemetery_plot: 
 ---
 # Alice OLLESTADT Carlough

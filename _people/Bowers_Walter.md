@@ -5,12 +5,11 @@ aka: Wally
 birth_date: 1920-02-15
 birth_location: Pennsylvania
 death_date: 1977-10-08
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 550
 source_file: Cemetery Directory
 ---
-**Walter  Wally Bowers** is buried in the Seldovia City Cemetery in plot 550.  The cause of death is unknown.
-
-(Unmarked grave. Identified by City records. Died Oct.8,1977 age 57. Walter Bowers in Alphabetical list.)
+**Walter Bowers, "Wally"** was born in Pennsylvania February 2, 1920. He had a boat and a trailer behind Wheelers' store and he took care of Louis Loudas in his reclining years. He died on October 8, 1977 and is buried in the Seldovia City Cemetery in Plot "550. 
 
 

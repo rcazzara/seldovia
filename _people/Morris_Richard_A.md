@@ -1,6 +1,7 @@
 ---
 last_name: Morris
-first_name: Richard A.
+first_name: Richard Aardudury
+aka: Dickie
 birth_date: 1928-01-07
 birth_location: Seattle, WA
 death_date: 1975-11-26

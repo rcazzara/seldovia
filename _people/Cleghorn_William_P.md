@@ -9,8 +9,4 @@ death_location: Seldovia, AK
 cemetery_plot: 28
 source_file: Cemetery Directory
 ---
-**William P.  Willie Cleghorn** is buried in the Seldovia City Cemetery in plot 28.  The cause of death is unknown.
-
-(Listed as Billy in the City records. 1980 information Feb 16, 1902 - Feb 8, 1943)
-
-Beloved "Uncle Willie"1902 - 1943
+**William P. Cleghorn, "Willie"** was born in Seldovia on February 16, 1902. He died in Seldovia on February 8, 1943 and is buried in the Seldovia City Cemetery in Plot #28.  

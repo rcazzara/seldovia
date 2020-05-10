@@ -5,11 +5,8 @@ birth_date: 1942-04-25
 birth_location: Seldovia, AK
 death_date: 1942-06-28
 death_location: Seldovia, AK
+cemetery: Seldovia City Cemetery
 cemetery_plot: 107
 source_file: Cemetery Directory
 ---
-**Ralph William   Balashoff** is buried in the Seldovia City Cemetery in plot 107.  The cause of death is unknown.
-
-City Records "Child of Mike and Virginia"
-baby
-Unmarked grave. Identified by City records.
+**Ralph William   Balashoff** an infant son of Mike and Virginia Balashoff (4/5/1942-6/30/1942) is interred in the Seldovia City Cemetery, Plot #107.

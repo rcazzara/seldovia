@@ -1,6 +1,7 @@
 ---
 last_name: Kanaback
 first_name: Walter Sr.
+birth_date: 1892-07-28
 birth_location: Seldovia, AK
 death_date: 1951-05-08
 death_location: Seldovia, AK

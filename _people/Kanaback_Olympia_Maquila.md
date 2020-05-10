@@ -15,6 +15,6 @@ source_file: Cemetery Directory
 
 **Olympia MAGUILA Kanaback** was born in Seldovia to Samuel
 Maguilla/Micuyal February 28, 1903. She married Walter Kanaback. They
-had She died January 4, 1939 as a result of tuberculosis. She is buried
+had several children before she died January 4, 1939 as a result of tuberculosis. She is buried
 in the Seldovia City Cemetery, Plot \#130.
 

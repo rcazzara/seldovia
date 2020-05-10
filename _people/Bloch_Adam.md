@@ -1,16 +1,15 @@
 ---
 last_name: Bloch
 first_name: Adam
+birth_date: 1843
 birth_location: Virginia
 death_date: 1915-03-01
 death_location: Seldovia, AK
+cemetery: Seldovia Hillside Cemetery
 source_file: Cemetery Directory
 ---
-# Adam Bloch
 
-## 1840- 1843, Bavaria - March 9, 1915 Seldovia, Alaska
-
-**Adam BLOCH** was born in Bavaria, Germany sometime between 1840 1843.
+**Adam BLOCH** was born in Bavaria, Germany sometime between 1840 and 1843.
 He came to the USA with his parents and at least one grandmother. He
 claimed that his parents, who died months apart from one another, told
 him that he was born 2 Jul 1840 in Bavaria, Germany, though he may

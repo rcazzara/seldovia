@@ -1,12 +1,16 @@
 ---
-full_name: "Demnina \"NINA\" OSKOLKOFF Edelman Matson"
-last_name: "Matson"
-first_name: "Demnina \"Nina\" Oskolkoff Edelman"
-source_file: "Edvin and Demnina Oskolkoff Edelman"
-birth_location:
-death_location:
-cemetery_plot: 51
+last_name: Matson
+maiden_name: Oskolkoff
+first_name: Demina
+aka: Nina
+birth_date: 1879-0-14
+birth_location: Ninilchik, AK
+death_date: 1949-09-25
+death_location: Seldovia, AK
+cemetery_plot: 61
+source_file: Cemetery Directory
 ---
+
 # Demnina "NINA" OSKOLKOFF Edelman Matson
 
 **March 27, 1880, Ninilchik, Alaska – September 25, 1945, Seldovia,

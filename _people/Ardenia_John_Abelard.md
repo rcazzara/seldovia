@@ -5,12 +5,11 @@ birth_date: 1938-02-02
 birth_location: Angoon, AK
 death_date: 2008-11-12
 death_location: Seldovia, AK
+cemetery: Seldovia City Cemetery
 cemetery_plot: 568
 source_file: Cemetery Directory
 ---
-# John Abelard Ardenia
 
-## Feb. 2, 1938 in Angoon, Alaska – Nov. 12, 2008 in Seldovia, Alaska
 
 ![](../assets/images/JOHN%20ABELARD%20ARDENIA/media/image1.jpeg)
 
@@ -55,6 +54,5 @@ children and grandchildren very much."
 
 Mr. Ardenia was preceded in death by his parents, Albert Ardenia and
 Lina Ireen Ardenia Rochas; brothers, Albert and Sami Ardenia,
-mother-in-law **Justina Dushkin**; and granddaughter **Adrianna Rose
-Ardenia**.
+mother-in-law **Justina Dushkin**; and granddaughter **Adrianna Rose Ardenia**.
 

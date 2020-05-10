@@ -11,8 +11,6 @@ source_file: Cemetery Directory
 ---
 # Evelyn Ruth WHEELER Hopkins
 
-**July 5, 1928, Greenville, California – September 29, 2007, Seldovia,
-Alaska**
 
 **Evelyn WHEELER Hopkins** was born on July 5, 1928, in Greenville,
 California. the daughter of Ida and Wesley Wheeler. She graduated from

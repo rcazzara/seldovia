@@ -5,6 +5,7 @@ birth_date: 1957-06-01
 birth_location: Anchorage, AK
 death_date: 1966-07-07
 death_location: Seldovia, AK
+cemetery: Seldovia City Cemetery
 cemetery_plot: 206
 source_file: Cemetery Directory
 ---

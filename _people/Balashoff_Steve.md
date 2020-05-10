@@ -5,11 +5,10 @@ birth_date: 1941-02-09
 birth_location: Seldovia, Alaska
 death_date: 1941-02-09
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 112
 source_file: Cemetery Directory
 ---
-**Steve   Balashoff** is buried in the Seldovia City Cemetery in plot 112.  The cause of death is unknown.
+**Steve   Balashoff** an infant son of Mike and Virginia Balashoff (2/9/1941-2/9/1941) is interred in the Seldovia City Cemetery, Plot # 112.
 
-City Records with notation "Baby"
-baby
-(Unmarked grave.
+

@@ -3,13 +3,13 @@ full_name: "Captain Henry Richard Bowen"
 last_name: "Bowen"
 first_name: "Captain Henry Richard"
 source_file: "Bowen Family"
-birth_location: "1853, Gloucester, Massachusetts "
-death_location: "(At Sea) Seldovia, Alaska"
-cemetery_plot: 
----
-# Captain Henry Richard Bowen
+birth_date: 1853
+birth_location: "Gloucester, Massachusetts "
+death_date: 1895
+death_location: "(At Sea) Kodiak, Alaska"
+cemetery: Not in cemetery
 
-## 1853, Gloucester, Massachusetts –(At Sea) Seldovia, Alaska
+---
 
 **David Bowen’s son, Henry Richard BOWEN was born in Massachusetts in
 1853. In 1880 a salting station of the Western Fur and Trading Company

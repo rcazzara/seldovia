@@ -2,14 +2,14 @@
 last_name: Balashoff
 first_name: Mikkel Sr
 aka: Mike
+birth_date: 1876
 birth_location: Seldovia, AK
 death_date: 1946-04-08
 death_location: Seldovia, AK
+cemetery: Seldovia City Cemetery
 cemetery_plot: 46
 source_file: Cemetery Directory
 ---
-**Mikkel Sr  Mike Balashoff** is buried in the Seldovia City Cemetery in plot 46.  The cause of death is Olga's husband.
+**Mikkel Balashoff, Sr, "Mike",** was born about 1876.  He married 4 times. He died in Seldovia on April 8 1946. He was the son of Zacher and Mary Panfilloff Balashoff, and brother of Elizabeth Bloch. He is buried in the Seldovia City Cemetery in Plot #46. 
 
-Identified by City records.
-brother of Elizabeth Block
-Hard to read wooden marker.
+

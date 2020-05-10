@@ -2,15 +2,14 @@
 last_name: Campbell
 first_name: Samuel
 aka: Sam
+birth_date: 1878-03-12
 birth_location: Newfoundland, Canada
 death_date: 1946-10-22
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
+cemetery: Seldovia Sity Cemetery
 cemetery_plot: 35
 source_file: Cemetery Directory
 ---
-# Samuel Campbell
-
-## March 12, 1878 – Newfoundland, Canada – 1946, Seldovia, Alaska
 
 **Samuel Campbell** was born on March 12, 1878, on Little Bay Island in
 Newfoundland Canada, to Alban and Martha Campbell. He had numerous
