@@ -5,7 +5,7 @@ first_name: "Mervin Howard"
 birth_date: 1921-11-16
 birth_location: Chignik, Alaska
 source_file: "BRUN FAMILY"
-death_date: 1993/02/09
+death_date: 1993-02-09
 death_location: "Seldovia, Alaska"
 cemetery: Seldovia City Cemetery
 cemetery_plot: 566
