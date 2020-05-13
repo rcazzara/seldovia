@@ -1,7 +1,7 @@
 ---
 last_name: Swenson
 first_name: Marvin Sylvester
-birth_date:1891-12-31
+birth_date: 1891-12-31
 birth_location: Holton, Michigan
 death_date: 1957-06-14
 death_location: Seldovia, Alaska
