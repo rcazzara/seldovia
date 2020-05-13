@@ -4,7 +4,7 @@ maiden_name: Hecks
 first_name: Dorothy Lane
 aka: Sunny
 birth_date: 1916-09-28
-birth_date: Washington
+birth_location: Washington
 death_date: 1998-08-05
 death_location: Seldovia, Alaska
 cemetery_plot: 311
