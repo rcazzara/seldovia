@@ -5,7 +5,7 @@ first_name: Elizabeth
 birth_date: 1885
 birth_location: Kenai, Alaska
 death_date: 1920-05-01
-cemetery_plot: Hillside Cemetery
+cemetery: Hillside Cemetery
 source_file: Cemetery Directory
 ---
 **Elisaveta Elizabeth Balashoff** was born about in 1884 or 1885 on the
