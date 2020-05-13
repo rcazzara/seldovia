@@ -4,7 +4,7 @@ first_name: Ted
 aka: Teddy
 birth_date: 1938
 birth_location: Seldovia, Alaska
-death_date:1941
+death_date: 1941
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 49
