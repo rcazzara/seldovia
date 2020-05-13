@@ -3,7 +3,7 @@ last_name: Engstrom
 first_name: Charles
 birth_location: Sweden
 death_date: 1947-05-10
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 182
 source_file: Cemetery Directory
 ---

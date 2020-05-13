@@ -2,9 +2,9 @@
 last_name: Dawson
 first_name: Donald Roy
 birth_date: 1949-10-15
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1949-11-14
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 185
 source_file: Cemetery Directory
 ---

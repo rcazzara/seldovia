@@ -2,10 +2,14 @@
 full_name: "Jethro James Stonehocker"
 last_name: "Stonehocker"
 first_name: "Jethro James"
+aka: Jim
+birth_date: 1864-01-18
 source_file: "Jethro James Stonehocker"
-birth_location: "Jan. 18, 1864, Montezuma, Iowa "
-death_location: " May 10, 1939, Seldovia, Alaska"
-cemetery_plot: 
+birth_location: Montezuma, Iowa 
+death_date: May 10, 1939
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
+cemetery_plot: 148
 ---
 # Jethro James Stonehocker
 
@@ -19,7 +23,8 @@ Missouri in 1910 but his family says that James let for Alaska in 1919
 and they never heard from him
 again.![](../assets/images/Jethro%20James%20Stonehocker/media/image1.jpeg)
 
-Jim died May 10, 1939 in Sledovia. He probably lived in a cabin on the
-creek that bears his name near China Poot Bay in Kachemak Bay.
+ He probably lived in a cabin on the creek that bears his name near China Poot Bay in Kachemak Bay.
 
 ![](../assets/images/Jethro%20James%20Stonehocker/media/image2.jpeg)
+
+Jim died May 10, 1939 in Seldovia. He is buried in the Seldovia City Cemetery in Plot #148.

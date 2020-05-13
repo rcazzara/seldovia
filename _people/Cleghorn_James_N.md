@@ -73,13 +73,13 @@ her Social Security papers.**
     Seldovia, Alaska. His death certificate says his father's name was
     James Cleghorn and his mother's was Mary Paul (not Shitachka).**
 
-7.  **Eliza Cleghorn Colberg b. February 24, 1904-d. 1980; married John
-    Colberg, b. March 28, 1887, died November 15, 1969, Seldovia,
-    Alaska. See COLBERG FAMILY**
+7.  **Eliza Cleghorn Colberg** b. February 24, 1904-d. 1980; married [John
+    Colberg](./Colberg_John.md), b. March 28, 1887, died November 15, 1969, Seldovia,
+    Alaska. See [**COLBERG FAMILY**](./Colberg_Family)
 
 8.  **Annie Cleghorn 1905-?**
 
-9.  **Walter Howard Cleghorn b. September 15, 1907- d. August 22,1975.
+9.  **Walter Howard Cleghorn** b. September 15, 1907- d. August 22,1975.
     Walter became a professional middleweight boxer (known as the
     "Kodiak Bear") and competed in 91 professional fights in the lower
     48 between 1925 and 1934.**
@@ -88,7 +88,7 @@ her Social Security papers.**
 
 11. **Maxine Cleghorn 1913-1982**
 
-12. **Adam "Crow" Calvin Cleghorn 1915-1978 died in Seldovia and is
+12. **Adam "Crow" Calvin Cleghorn** 1915-1978 died in Seldovia and is
     buried in the Seldovia City Cemetery Plot
     \#209**![](../assets/images/James%20Naismith%20Cleghorn%20family/media/image1.jpeg)
 

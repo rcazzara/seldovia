@@ -3,7 +3,7 @@ last_name: Swenson
 first_name: David
 aka: David Johnson
 birth_date: 1937-05-06
-birth_location: Port Graham, AK
+birth_location: Port Graham, Alaska
 death_date: 1970-01-01
 cemetery_plot: 235
 source_file: Cemetery Directory

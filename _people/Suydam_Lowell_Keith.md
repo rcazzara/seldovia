@@ -2,19 +2,16 @@
 last_name: Suydam
 first_name: Lowell Keith
 birth_date: 1953-01-27
-birth_location: Chignik, AK
+birth_location: Chignik, Alaska
 death_date: 2011-01-14
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 554
 source_file: Cemetery Directory
 ---
-# Lowell Keith Suydam
 
-**January 27, 1953, Chignik Lagoon, Alaska – December 2, 1987, Seldovia,
-Alaska**
-
-**Lowell Keith Suydam** was born to **\[Floyd Lowell Suydam\]** and
-**Stella BRUN Suydam** on January 27, 1953 in Chignik Lagoon. He spent
+**Lowell Keith Suydam** was born to **Floyd Lowell Suydam** and
+[**Stella BRUN Suydam**](./Suydam_Stella_Alexandria_Brun.md) on January 27, 1953 in Chignik Lagoon. He spent
 most of his life in Seldovia, having graduated from Susan B. English
 School in 1972. He commercial fished in Chignik Lagoon all his life.
 Starting as a young boy, Lowell learned from his father, Floyd, and

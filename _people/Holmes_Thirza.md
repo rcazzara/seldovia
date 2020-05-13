@@ -2,7 +2,7 @@
 last_name: Holmes
 first_name: Thirza
 birth_location: Maine
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 140
 source_file: Cemetery Directory
 ---

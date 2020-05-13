@@ -5,7 +5,7 @@ aka: Willie
 birth_date: 1902-02-16
 birth_location: Seldovia, Alaska
 death_date: 1943-02-08
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 28
 source_file: Cemetery Directory
 ---

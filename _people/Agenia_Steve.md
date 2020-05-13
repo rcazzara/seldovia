@@ -4,7 +4,7 @@ first_name: Steve
 birth_date:
 birth_location: English Bay
 death_date:
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: N.A.
 source_file: Cemetery Directory
 ---

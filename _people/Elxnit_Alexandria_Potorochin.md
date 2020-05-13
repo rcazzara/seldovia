@@ -2,7 +2,7 @@
 last_name: Elxnit
 maiden_name: Potorochin
 first_name: Alexandria
-birth_location: Kodiak, AK
+birth_location: Kodiak, Alaska
 death_date: 1966-03-20
 cemetery_plot: 228
 source_file: Cemetery Directory

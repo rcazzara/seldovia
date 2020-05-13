@@ -5,7 +5,7 @@ aka: Dusty
 birth_date: 1870-08-08
 birth_location: Missouri or Ohio
 death_date: 1939-08-02
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 147
 source_file: Cemetery Directory
 ---

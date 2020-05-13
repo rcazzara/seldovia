@@ -5,6 +5,7 @@ first_name: Hettie M.
 birth_date: 1908
 birth_location: Bether, Alaska
 death_date: 1981-06-16
+cemetery: Seldovia City Cemetery
 cemetery_plot: 531
 source_file: Cemetery Directory
 ---

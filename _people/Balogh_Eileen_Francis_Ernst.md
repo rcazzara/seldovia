@@ -5,7 +5,7 @@ first_name: Eileen Francis
 birth_date: 1914-02-07
 birth_location: Ohio
 death_date: 1993-04-27
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 538
 source_file: Cemetery Directory

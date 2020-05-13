@@ -4,7 +4,7 @@ first_name: Carl John
 aka: Chas
 birth_location: Bergen, Norway
 death_date: 1939-11-11
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 50
 source_file: Cemetery Directory
 ---

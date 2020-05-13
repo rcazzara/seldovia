@@ -5,7 +5,7 @@ aka: Ronnie
 birth_date: 1916-05-24
 birth_location: Pendleton, OR
 death_date: 1992-01-12
-death_location: Anchorage, AK
+death_location: Anchorage, Alaska
 cemetery_plot: 1251
 source_file: Cemetery Directory
 ---

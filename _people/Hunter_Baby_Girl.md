@@ -2,9 +2,9 @@
 last_name: Hunter
 first_name: Baby Girl
 birth_date: 1937-12-20
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1937-12-26
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 89
 source_file: Cemetery Directory
 ---

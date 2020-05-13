@@ -5,7 +5,7 @@ aka: Joe
 birth_date: 1909-10-31
 birth_location: Wisconsin
 death_date: 2003-08-29
-death_location: Anchorage, AK
+death_location: Anchorage, Alaska
 cemetery_plot: 371
 source_file: Cemetery Directory
 ---
@@ -56,7 +56,7 @@ between the frames of welded steel rods.
 One of Joe Kurtz’ fishing vessels was the *Amatuli:*
 
 The Amatuli is a 111' fishing vessel, built in 1967 by Pacific Fisherman
-Shipyard in Ballard, Washington for Joe Kurtz of Seldova, AK. It was
+Shipyard in Ballard, Washington for Joe Kurtz of Seldova, Alaska. It was
 sold to Bart Eaton in 1974, and became a part of Trident Seafoods later
 in the decade. As one if the top high liners in the Bering Sea, the
 Amatuli was "the boat to fish on". In 1988 she was sold to Bill Widing,

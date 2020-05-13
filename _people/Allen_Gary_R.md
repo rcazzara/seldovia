@@ -5,7 +5,8 @@ aka: Tuffy
 birth_date: 1955
 birth_location: Oregon
 death_date: 1975-05-02
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 247
 source_file: Cemetery Directory
 ---

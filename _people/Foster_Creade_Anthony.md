@@ -25,7 +25,7 @@ Liverpool England and arrived in New York. By 1925 they were living in
 Seattle and he gave is occupation as carpenter. In 1934 they lived in
 Seattle, WA. In 1940 the family is also in Seattle, with 5 children:
 Edna, Jeanne, Jack, William, and Robert. In 1942 he registered for the
-WWII draft in Anchorage, AK. His form indicated he was divorced. Emily
+WWII draft in Anchorage, Alaska. His form indicated he was divorced. Emily
 remarried William F. Langland
 
 Chuck died in Peterson Bay, on September 24, 1948, at age 57. The death

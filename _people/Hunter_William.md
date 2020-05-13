@@ -2,7 +2,7 @@
 last_name: Hunter
 first_name: William
 aka: Bill
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 552
 source_file: Cemetery Directory
 ---

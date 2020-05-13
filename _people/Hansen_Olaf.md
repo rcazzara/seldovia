@@ -2,14 +2,12 @@
 last_name: Hansen
 first_name: Olaf
 aka: Ole
+birth_date: 1890
 birth_location: Sweden
 death_date: 1961-01-23
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 63
 source_file: Cemetery Directory
 ---
-**Olaf  Ole Hansen** is buried in the Seldovia City Cemetery in plot 63.  The cause of death is unknown.
-
-Identified by City records died Jan 23, 1961. Hanson in 1980 information)
-
-Unmarked grave.
+**Olaf  Ole Hansen** was born in Sweden about 1890.  He was a seaman all of his life and died Jan 23, 1961 in Seldovia and buried is in Seldovia City Cemetery Plot #63.

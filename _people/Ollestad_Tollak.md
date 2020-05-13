@@ -6,8 +6,4 @@ death_date: 1944-11-21
 cemetery_plot: 193
 source_file: Cemetery Directory
 ---
-**Tollak   Ollestad** is buried in the Seldovia City Cemetery in plot 193.  The cause of death is unknown.
-
-
-
-Alaska PVT 208 Inf Dec 3, 1922 - Nov 21, 1944 (Posted veterans marker)
+**TOllAK OLLESTAD**, son of [**Tollak and Lucille CLEGHORN Ollestad**](./Ollestad_Tollak_Bowitz.md) was born December 3, 1922.  He died November 21, 1944 and has a memorial in the Seldovia City Cemetery in plot 193.  He also has a Posted Veterans mMarker: Alaska PVT 208 Inf Dec 3, 1922 - Nov 21, 1944.

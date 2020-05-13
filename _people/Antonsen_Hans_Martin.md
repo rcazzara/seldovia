@@ -4,7 +4,7 @@ first_name: Hans Martin
 birth_date: 1895-06-24
 birth_location: Gronnoy, Norway
 death_date: 1965-09-16
-death_location: Anchorage, AK
+death_location: Anchorage, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 195
 source_file: Cemetery Directory

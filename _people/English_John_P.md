@@ -5,7 +5,7 @@ aka: Jack
 birth_date: 1905-08-14
 birth_location: Canada
 death_date: 1989-08-15
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 595
 source_file: Cemetery Directory
 ---

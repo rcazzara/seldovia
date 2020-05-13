@@ -3,7 +3,7 @@ last_name: Morrison
 first_name: Laramie
 birth_date: 1979-07-16
 death_date: 2008-04-24
-death_location: Anchorage, AK
+death_location: Anchorage, Alaska
 cemetery_plot: 275
 source_file: Cemetery Directory
 ---

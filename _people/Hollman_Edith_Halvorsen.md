@@ -3,9 +3,9 @@ last_name: Hollman
 maiden_name: Halvorsen
 first_name: Edith
 birth_date: 1927-08-15
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1982-04-19
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 254
 source_file: Cemetery Directory
 ---

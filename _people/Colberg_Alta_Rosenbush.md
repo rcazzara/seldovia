@@ -1,10 +1,14 @@
 ---
 full_name: "Alta ROSENBUSH Colberg"
 last_name: "Colberg"
-first_name: "Alta Rosenbush"
+maiden_name: Rosenbush
+first_name: "Alta"
 source_file: "COLBERG Family"
-birth_location: "February 24, 1934 "
-death_location: " January 20, 2020, Anchorage, Alaska"
+birth_date: 1934-02-24
+birth_location: Seattle, Washington
+death_date: 2020-01-20
+death_location: "Anchorage, Alaska"
+cemetery: Not in cemetery
 cemetery_plot: 
 ---
 # Alta ROSENBUSH Colberg
@@ -15,9 +19,9 @@ cemetery_plot:
 Wash., to **Alta Crete Phillips** and **Leslie Grant Rosebush**. Her
 family moved to Seldovia, Alaska in 1936, when she was a young girl.
 Seldovia is where she spent the majority of her life. She married,
-first, in 1951, Albert Martin Peterson, and they had three children,
+first, in 1951, [**Albert Martin Peterson**](./Peterson_Martin.md), and they had three children,
 Albert, Liza and Leslie. Then, in 1955 she married another Seldovian,
-**John Colberg** and they had three more children, John, Alexis and
+[**John Colberg**](./Colberg_John.md) and they had three more children, John, Alexis and
 Arlise. They raised these six children in Seldovia, she was busy member
 of the community. As a member of the Seldovia Hospital Guild, working
 and learning from the doctors, she took the x-rays and developed them,

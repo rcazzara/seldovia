@@ -4,7 +4,7 @@ first_name: Olaf C.
 aka: Ole
 birth_location: Bergen, Norway
 death_date: 1965-01-29
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 192
 source_file: Cemetery Directory
 ---

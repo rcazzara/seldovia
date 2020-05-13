@@ -3,7 +3,7 @@ last_name: Hammelbacher
 first_name: Charles (Carl)
 aka: Carl
 birth_location: Germany
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 92
 source_file: Cemetery Directory
 ---

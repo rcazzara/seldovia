@@ -3,9 +3,9 @@ last_name: Balashoff
 first_name: Mikkel Jr.
 aka: Mike, Jr.
 birth_date: 1910-11-10
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1967
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 578
 source_file: Cemetery Directory

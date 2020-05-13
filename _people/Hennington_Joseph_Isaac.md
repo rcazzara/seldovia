@@ -1,8 +1,8 @@
 ---
 last_name: Hennington
 first_name: Joseph Isaac
-birth_location: Seldovia, AK
-death_location: Seldovia, AK
+birth_location: Seldovia, Alaska
+death_location: Seldovia, Alaska
 cemetery_plot: 94
 source_file: Cemetery Directory
 ---

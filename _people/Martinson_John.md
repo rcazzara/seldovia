@@ -3,7 +3,7 @@ last_name: Martinson
 first_name: John
 birth_location: Sweden
 death_date: 1946-11-14
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 181
 source_file: Cemetery Directory
 ---

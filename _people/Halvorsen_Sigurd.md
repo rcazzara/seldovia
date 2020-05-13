@@ -4,7 +4,7 @@ first_name: Sigard
 aka: Sig
 birth_location: Norway
 death_date: 1951-03-01
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 16
 source_file: Cemetery Directory
 ---

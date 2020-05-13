@@ -2,7 +2,7 @@
 last_name: Gaegel
 first_name: Jordan
 birth_date: 1990-10-11
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 368
 source_file: Cemetery Directory
 ---

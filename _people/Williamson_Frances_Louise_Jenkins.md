@@ -5,12 +5,13 @@ first_name: Frances Lucille
 birth_date: 1927-10-30
 birth_location: Yoakum, TX
 death_date: 2001-08-07
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 370
 source_file: Cemetery Directory
 ---
 **Frances Louise JENKINS Williamson** was born into a large family in Yoakum, Texas October 30, 1927. By 1935 the
-family was living in Oregon where she met Mike Williamson.She and Mike were married on February 17, 1945. 
+family was living in Oregon where she met [Mike Williamson](./Williamson_Marlin_Mike_Thomas.md).She and Mike were married on February 17, 1945. 
 
 
 Mike was a devoted provider and Frances always had dinner waiting for

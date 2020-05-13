@@ -2,9 +2,9 @@
 last_name: Anderson
 first_name: Robert Eugene
 birth_date: 1948-11-19
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1948-11-19
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 40
 source_file: Cemetery Directory

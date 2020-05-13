@@ -4,7 +4,7 @@ first_name: McFay
 aka: Matfoy
 birth_location: Alaska
 death_date: 1939-06-24
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 88
 source_file: Cemetery Directory
 ---

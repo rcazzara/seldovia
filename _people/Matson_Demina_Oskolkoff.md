@@ -4,9 +4,9 @@ maiden_name: Oskolkoff
 first_name: Demina
 aka: Nina
 birth_date: 1879-0-14
-birth_location: Ninilchik, AK
+birth_location: Ninilchik, Alaska
 death_date: 1949-09-25
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 61
 source_file: Cemetery Directory
 ---

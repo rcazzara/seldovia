@@ -3,8 +3,11 @@ full_name: "Hartley Scott Young"
 last_name: "Young"
 first_name: "Hartley Scott"
 source_file: "H. S. Young"
-birth_location: "July 19, 1879, Ontario Canada "
-death_location: " February 10, 1945, Seldovia, Alaska"
+birth_date: 1879- 07-19
+birth_location: Ontario Canada
+death_date: 1945-02-10
+death_location: Seattle, Washington
+cemetery: not in cemetery
 cemetery_plot: 
 ---
 # Hartley Scott Young

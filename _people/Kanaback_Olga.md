@@ -1,7 +1,7 @@
 ---
 last_name: Kanaback
 first_name: Olga
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 cemetery_plot: 132
 source_file: Cemetery Directory
 ---

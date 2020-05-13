@@ -5,8 +5,5 @@ first_name: Nadia
 cemetery_plot: 47
 source_file: Cemetery Directory
 ---
-**Nadia Loco  Sorokovikoff** is buried in the Seldovia City Cemetery in plot 47.  The cause of death is unknown.
+**Nadia LOCO Sorokovikoff** wife of [**Nick Sorokovikoff**](./Sorokovikoff_Konstantine), is buried in the Seldovia City Cemetery in Plot #47. 
 
-Identified by City records.
-
-Marked by white Russian Orthodox Cross.

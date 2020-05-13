@@ -5,7 +5,7 @@ aka: Matt
 birth_date: 1895-12-25
 birth_location: Michigan
 death_date: 1954-01-10
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 1
 source_file: Cemetery Directory

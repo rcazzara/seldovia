@@ -5,7 +5,7 @@ aka: Ben
 birth_date: 1901-04-11
 birth_location: Pittsfield, Maine
 death_date: 1944
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 175
 source_file: Cemetery Directory

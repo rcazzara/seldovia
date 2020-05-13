@@ -4,7 +4,7 @@ first_name: Anders Edvard
 aka: Ed
 birth_location: Sweden
 death_date: 1945-07-01
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 154
 source_file: Cemetery Directory
 ---

@@ -4,7 +4,7 @@ first_name: Paul Elias
 birth_date: 1894-01-15
 birth_location: Syvde, Norway
 death_date: 1944-10-03
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 176
 source_file: Cemetery Directory
 ---

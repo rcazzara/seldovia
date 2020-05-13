@@ -4,7 +4,7 @@ first_name: Martin
 aka: Martin Haakenson
 birth_location: Stavanger, Norway
 death_date: 1964-08-01
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 191
 source_file: Cemetery Directory
 ---

@@ -3,7 +3,7 @@ last_name: Lund
 maiden_name: Edelman
 first_name: Nina E.
 birth date: 1896-03-10
-birth_location: Kenai, AK
+birth_location: Kenai, Alaska
 death_date: 1977-12-08
 cemetery_plot: 51
 source_file: Cemetery Directory

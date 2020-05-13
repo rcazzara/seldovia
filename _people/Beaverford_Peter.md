@@ -5,7 +5,7 @@ aka: Pete
 birth_date: 1895-11-11
 birth_location: Stangvik,Norway
 death_date: 1946-09-23
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 179
 source_file: Cemetery Directory

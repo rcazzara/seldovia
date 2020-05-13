@@ -4,7 +4,7 @@ first_name: Arthur Emil
 aka: Art
 birth_location: Norway
 death_date: 1937-08-30
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 142
 source_file: Cemetery Directory
 ---

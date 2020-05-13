@@ -4,7 +4,7 @@ first_name: Harry David
 birth_date: 1882-12-27
 birth_location: Chippewa,Wisconsin
 death_date: 1953-07-29
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 15
 source_file: Cemetery Directory

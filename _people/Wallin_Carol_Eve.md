@@ -2,14 +2,13 @@
 last_name: Wallin
 first_name: Carol Eve
 birth_date: 1948-12-24
-birth_location: Chignik, AK
+birth_location: Chignik, Alaska
 death_date: 1999-01-01
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
+cemetery_Seldovia City Cemetery
 cemetery_plot: 553
 source_file: Cemetery Directory
 ---
-**Carol Eve   Wallin** is buried in the Seldovia City Cemetery in plot 553.  The cause of death is unknown.
-
-Dec 24, 1948 - Jan 1, 1999
+**Carol Eve   Wallin** the daughter of [**Edward and Stella BRUN Wallin**](./Wallin_Family.md)(./Brun_Family.md) was born December 24, 1948 in Chignik Lagoon, Alaska. She married ROBERT KINCAID in 1968 and Mr. Crandell in 1983.  She was living in McAlester, Oklahoma when she died on January 1, 1999.  She is buried in the Seldovia City Cemetery Plot #553.  
 
 

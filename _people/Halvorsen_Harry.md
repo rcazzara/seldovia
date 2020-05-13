@@ -2,9 +2,9 @@
 last_name: Halvorsen
 first_name: Harry
 birth_date: 1932-10-09
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1967-09-03
-death_location: Anchorage, AK
+death_location: Anchorage, Alaska
 cemetery_plot: 33
 source_file: Cemetery Directory
 ---

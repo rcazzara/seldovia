@@ -4,7 +4,7 @@ first_name: Storm William
 birth_date" 1879-04-07
 birth_location: Kristiana, Norway
 death_date: 1941-04-28
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 125
 source_file: Cemetery Directory

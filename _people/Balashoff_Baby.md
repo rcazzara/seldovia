@@ -2,9 +2,9 @@
 last_name: Balashoff
 first_name: Baby
 birth_date: 1937
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1937-01-30
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 112
 source_file: Cemetery Directory

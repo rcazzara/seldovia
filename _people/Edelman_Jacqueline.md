@@ -3,7 +3,7 @@ last_name: Edelman
 first_name: Jacqueline
 aka: Jackie
 death_date: 1951-10-27
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 21
 source_file: Cemetery Directory
 ---

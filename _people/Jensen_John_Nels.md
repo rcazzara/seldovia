@@ -2,7 +2,7 @@
 last_name: Jensen
 first_name: John Nels
 birth_date: 1924-03-01
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_location: Alaska
 cemetery_plot: 23
 source_file: Cemetery Directory

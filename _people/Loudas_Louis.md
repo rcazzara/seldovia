@@ -4,7 +4,7 @@ first_name: Louis
 aka: Louie
 birth_location: Greece
 death_date: 1978-11-01
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 551
 source_file: Cemetery Directory
 ---

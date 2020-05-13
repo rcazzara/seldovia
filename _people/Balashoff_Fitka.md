@@ -5,7 +5,7 @@ aka: Fred Fitka
 birth_date: 1866
 birth_location: Seldovia, Alaska
 death_date: 1936
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 111
 source_file: Cemetery Directory

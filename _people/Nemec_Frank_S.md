@@ -4,7 +4,7 @@ first_name: Frank S.
 birth_date: 1893
 birth_location: Czechoslavakia
 death_date: 1940-12-24
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 122
 source_file: Cemetery Directory
 ---

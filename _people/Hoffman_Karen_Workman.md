@@ -5,7 +5,7 @@ first_name: Karen
 birth_date: 1942-08-13
 birth_location: California
 death_date: 1979-10-07
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 262
 source_file: Cemetery Directory
 ---

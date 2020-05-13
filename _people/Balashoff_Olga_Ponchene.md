@@ -5,7 +5,7 @@ first_name: Olga
 birth_date: 1883
 birth_location: Alaska
 death_date: 1962-05-04
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 56.5
 source_file: Cemetery Directory
 ---

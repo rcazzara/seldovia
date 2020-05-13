@@ -4,7 +4,7 @@ first_name: Anesiem
 birth_date: 1872
 birth_location: Kodiak, Alaska
 death_date: 1945-06-27
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 25
 source_file: Cemetery Directory

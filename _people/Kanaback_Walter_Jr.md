@@ -3,7 +3,7 @@ last_name: Kanaback
 first_name: Walter Jr
 birth_date: 1925-11-26
 death_date: 1951-05-08
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 128
 source_file: Cemetery Directory
 ---

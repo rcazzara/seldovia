@@ -2,22 +2,20 @@
 last_name: Wheeler
 first_name: Lloyd Collins
 birth_date: 1927-01-07
-birth_location: CA
+birth_location: Sonoma, California
 death_date: 2009-06-26
-death_location: Anchor Point, AK
+death_location: Anchor Point, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 606
 source_file: Cemetery Directory
 ---
-# Lloyd Collins WHEELER
 
-**January 7, 1927, Sonoma California – June 26, 2009, Seldovia, Alaska**
-
-**Lloyd Collins Wheeler** was born on January 7, 1927, in Petaluma,
+[**Lloyd Collins Wheeler**](./Wheeler_Family.md) was born on January 7, 1927, in Petaluma,
 California. He grew up on the family dairy farm and then served two
 years in the U S Navy. He returned to Greenville and married Juanita Van
 Ronk on November 2, 1947, in Minden, Nevada.
 
-Lloyd and his brother-in-law, Jack Hopkins began a logging operation in
+Lloyd and his brother-in-law, [Jack Hopkins](./Hopkins_Jack_Watson.md) began a logging operation in
 California.
 
 "I had a timber falling contract for Lilburn Hue"Si" (pronounced as

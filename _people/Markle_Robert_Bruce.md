@@ -3,7 +3,7 @@ last_name: Markle
 first_name: Robert Bruce
 birth_location: Indiana
 death_date: 1920-05-28
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 source_file: Cemetery Directory
 ---
 # Robert Bruce Markle

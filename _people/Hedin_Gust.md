@@ -3,7 +3,7 @@ last_name: Hedin
 first_name: Gust
 birth_location: Sweden
 death_date: 1942-06-18
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 149
 source_file: Cemetery Directory
 ---

@@ -4,7 +4,7 @@ first_name: Richard
 aka: Ritchie
 birth_location: Alaska
 death_date: 1965-06-05
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 13
 source_file: Cemetery Directory
 ---

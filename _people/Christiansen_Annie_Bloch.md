@@ -5,7 +5,7 @@ first_name: Annie
 birth_date: 1871-10-11
 birth_location: San Francisco, California
 death_date: 1921-01-11
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia Hillside Cemetery
 cemetery_site: 3-1
 source_file: Cemetery Directory

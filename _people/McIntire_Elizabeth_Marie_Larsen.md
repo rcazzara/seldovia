@@ -4,9 +4,9 @@ maiden_name: Larsen
 first_name: Elizabeth Marie
 aka: Betty
 birth_date: 1912-10-01
-birth_location: Unga Island, AK
+birth_location: Unga Island, Alaska
 death_date: 1984-10-19
-death_location: Homer, AK
+death_location: Homer, Alaska
 cemetery_plot: 593
 source_file: Cemetery Directory
 ---

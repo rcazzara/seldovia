@@ -4,7 +4,7 @@ first_name: Walter
 birth_date: 1931-11-19
 birth_location: Ontario, Canada
 death_date: 2017-07-16
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 98
 source_file: Cemetery Directory
 ---

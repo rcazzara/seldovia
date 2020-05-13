@@ -4,7 +4,7 @@ first_name: Elliot
 birth_date: 1907-07-29
 birth_location: New Jersey
 death_date: 1983-12-28
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 212
 source_file: Cemetery Directory
 ---

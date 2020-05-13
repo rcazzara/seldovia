@@ -4,7 +4,7 @@ first_name: John
 aka: Russian John
 birth_location: Lithuania
 death_date: 1944-02-19
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 174
 source_file: Cemetery Directory
 ---

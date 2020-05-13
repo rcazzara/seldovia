@@ -5,7 +5,7 @@ first_name: Lavern Walter
 birth_date: 1920-03-13
 birth_location: Minnesota
 death_date: 1982-12-17
-death_location: Homer, AK
+death_location: Homer, Alaska
 cemetery_plot: 266
 source_file: Cemetery Directory
 ---

@@ -6,11 +6,8 @@ birth_date: 1963-02-03
 birth_location: Alaska
 death_date: 2005-07-13
 death_location: Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 598
 source_file: Cemetery Directory
 ---
-**Lynnette Willard  White** is buried in the Seldovia City Cemetery in plot 598.  The cause of death is unknown.
-
-daughter of Gerald Willard, mother of Cheyanne Willard
-
-unmarked 4 ft. cross of metal
+**Lynnette Willard  White**, the daughter of [Gerald W. and Alberta G. Willard](./Willard_Gerald_Winniston.md), is buried in the Seldovia City Cemetery in Plot #598, at the site of the unmarked -foot cross.

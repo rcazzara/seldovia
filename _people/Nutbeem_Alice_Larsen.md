@@ -5,7 +5,7 @@ first_name: Alice
 birth_date: 1899-09-15
 birth_location: Unga Island, Alaska
 death_date: 1990-07-13
-death_location: Homer, AK
+death_location: Homer, Alaska
 cemetery_plot: 116
 source_file: Cemetery Directory
 ---

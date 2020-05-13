@@ -2,15 +2,13 @@
 last_name: Pemberton
 first_name: Peter
 aka: Pete
+birth_date: 1860
 birth_location: Massachusetts
 death_date: 1940-12-26
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 123
 source_file: Cemetery Directory
 ---
-# Peter Pemberton
-
-## 1859 in Massachusetts – Dec. 26, 1940, Seldovia, AK
 
 **Peter "Pete" Pemberton** was born in Massachusetts sometime between
 1859 and 1862. He first shows up in Alaska records in 1910 when he was
@@ -88,4 +86,4 @@ the park. They carried a rifle for bear protection but didn't need it.
 In 1930 Pete was in Anchorage, working as a watchman at a salmon
 cannery. When he died in Seldovia on December 26, 1940 he had been ill
 for several months. His death certificate listed his occupation as
-"miner".
+"miner". He is buried in the Seldovia City Cemetery, Plot #123.

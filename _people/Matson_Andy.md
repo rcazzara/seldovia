@@ -4,7 +4,7 @@ first_name: Andy
 aka: Andy
 birth_location: Finland
 death_date: 1949-02-26
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 62
 source_file: Cemetery Directory
 ---

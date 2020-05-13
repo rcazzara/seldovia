@@ -4,7 +4,7 @@ first_name: Sergei
 birth_date: 1902-11-29
 birth_location: Finland
 death_date: 1941-08-18
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 87
 source_file: Cemetery Directory
 ---

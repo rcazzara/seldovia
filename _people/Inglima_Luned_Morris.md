@@ -4,9 +4,9 @@ maiden_name: Morris
 first_name: Luned
 aka: Lynn
 birth_date: 1926-04-30
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1992-04-05
-death_location: Homer, AK
+death_location: Homer, Alaska
 cemetery_plot: 105
 source_file: Cemetery Directory
 ---

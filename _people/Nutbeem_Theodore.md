@@ -3,7 +3,7 @@ last_name: Nutbeem
 first_name: Theodore
 aka: Ted
 birth_date: 1894-05-02
-birth_location: Unalaska, AK
+birth_location: Unalaska, Alaska
 death_date: 1944-11-28
 cemetery_plot: 115
 source_file: Cemetery Directory

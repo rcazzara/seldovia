@@ -5,7 +5,7 @@ aka: Lou
 birth_location: Michigan
 birth_date: 1895
 death_date: 1940-03-21
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 120
 source_file: Cemetery Directory
 ---

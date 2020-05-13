@@ -2,9 +2,9 @@
 last_name: Minano
 first_name: James Grafton
 birth_date: 1909-09-23
-birth_location: Beaver, AK
+birth_location: Beaver, Alaska
 death_date: 1961-04-07
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 168
 source_file: Cemetery Directory
 ---

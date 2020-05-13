@@ -4,7 +4,7 @@ first_name: Earl Henry
 birth_date: 1917-11-22
 birth_location: Winona, Mississippi
 death_date: 1997-11-17
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 265
 source_file: Cemetery Directory
 ---

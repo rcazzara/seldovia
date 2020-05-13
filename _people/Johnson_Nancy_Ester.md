@@ -3,7 +3,7 @@ last_name: Johnson
 first_name: Nancy Ester
 birth_date: 1938-10-18
 death_date: 1938-12-03
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 108
 source_file: Cemetery Directory
 ---

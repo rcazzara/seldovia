@@ -3,9 +3,9 @@ last_name: Kanaback
 maiden_name: Nicky
 first_name: Nicholas
 birth_date: 1934-12-11
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1938-04-07
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 131
 source_file: Cemetery Directory
 ---

@@ -5,7 +5,7 @@ aka: Mike
 birth_date: 1903-03-28
 birth_location: Saginaw, Michigan
 death_date: 1945-10-16
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 156
 source_file: Cemetery Directory
 ---

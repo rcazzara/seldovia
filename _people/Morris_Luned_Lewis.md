@@ -4,7 +4,7 @@ maiden_name: Lewis
 first_name: Luned
 birth_location: Wales
 death_date: 1969-02-23
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 83
 source_file: Cemetery Directory
 ---

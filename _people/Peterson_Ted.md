@@ -2,11 +2,12 @@
 last_name: Peterson
 first_name: Ted
 aka: Teddy
+birth_date: 1938
+birth_location: Seldovia, Alaska
+death_date:1941
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 49
 source_file: Cemetery Directory
 ---
-**Ted  Teddy Peterson** is buried in the Seldovia City Cemetery in plot 49.  The cause of death is unknown.
-
-City records . The city's alphabetical list records Pedersen.
-
-Identified by the same type of wooden marker as plot 29 Martin Peterson. Very faded. Birth date is_ _ _ 8.
+**Ted  Teddy Peterson** was the son of [**Martin and Lottie HOWARD Peterson.**](./Peterson_Martin.md) He died and is buried in the Seldovia City Cemetery in Plot #49.  

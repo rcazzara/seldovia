@@ -3,9 +3,9 @@ last_name: Baines
 first_name: Daniel Richard
 aka: Dan
 birth_date: 1954-12-29
-birth_location: Ketchikan, AK
+birth_location: Ketchikan, Alaska
 death_date: 2002-04-06
-death_location: Red Dog Mine, AK
+death_location: Red Dog Mine, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 314
 source_file: Cemetery Directory

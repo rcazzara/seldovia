@@ -91,7 +91,7 @@ cemetery_plot:
 <td></td>
 <td>1947-05-01</td>
 <td>C of R issued to:<br />
-Arnold Air Service Inc.; 415 5th Avenue, Anchorage, AK 99501.</td>
+Arnold Air Service Inc.; 415 5th Avenue, Anchorage, Alaska 99501.</td>
 </tr>
 <tr class="even">
 <td></td>

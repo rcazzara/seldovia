@@ -2,7 +2,7 @@
 last_name: Forrest
 first_name: Crickett
 birth_date: 1936-03-12
-birth_location: Sand Point, AK
+birth_location: Sand Point, Alaska
 death_date: 1948-07-03
 death_location: Seldovia
 cemetery_plot: 119

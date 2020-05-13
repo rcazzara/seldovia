@@ -7,7 +7,7 @@ birth_date: "June 17, 1926"
 birth_location: Oregon
 death_date: " February 11, 2013" 
 death_location: "Pittsburgh, Pennsylvania"
-body_location: not in Seldovia
+cemetery: not in Seldovia
 cemetery_plot: 
 ---
 **Marlin "Mike" Thomas Williamson** was born in Corvalis, Oregon on June

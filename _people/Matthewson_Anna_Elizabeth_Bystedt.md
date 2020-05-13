@@ -4,9 +4,9 @@ maiden_name: Bystedt
 first_name: Anna Elizabeth
 aka: Betty
 birth_date: 1913-10-11
-birth_location: Valdez, AK
+birth_location: Valdez, Alaska
 death_date: 1975-12-20
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 264
 source_file: Cemetery Directory
 ---

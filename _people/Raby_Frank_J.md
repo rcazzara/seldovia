@@ -5,11 +5,12 @@ aka: Frank
 birth_date: 1894-07-27
 birth_location: Arnprior, Ontario, Canada
 death_date: 1984-01-04
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 95
 source_file: Cemetery Directory
 ---
-**Francis John "Frank" Raby,** the next youngest of nine children, was
+**Francis John Raby, "Frank"** the next youngest of nine children, was
 born in Arnprior, Ontario Canada on July 27, 1894 to Frank and Lavenia
 Hill Raby. He registered for the draft in WWI in Canada, but in July 1914,
 at the age of 19 he entered the US at Sault Ste Marie, Michigan. He
@@ -84,7 +85,6 @@ In 1955 Frank Raby was registered as the owner of the Seldovia Mining
 Company at Red Mountain, chromium prospecting. The company had a crew of
 2 people.
 
-Frank Raby died January 1984 in Seldovia and there is a memorial for him
-(\#95) in the Seldovia City Cemetery that he helped create by donating
+Frank Raby died January 1984 in Seldovia and there is a memorial for him in Plot #95 in the Seldovia City Cemetery that he helped create by donating
 the land to the City of Seldovia in 1934.
 

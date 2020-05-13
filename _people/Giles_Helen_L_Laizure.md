@@ -5,7 +5,7 @@ first_name: Helen L.
 birth_date: 1908-10-21
 birth_location: Washington
 death_date: 1994-01-10
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 259
 source_file: Cemetery Directory
 ---

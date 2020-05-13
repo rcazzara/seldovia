@@ -2,7 +2,7 @@
 last_name: Cleghorn
 first_name: Adam Calvin
 birth_date: 1915-05-12
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1978-04-01
 cemetery: Seldovia City Cemetery
 cemetery_plot: 209

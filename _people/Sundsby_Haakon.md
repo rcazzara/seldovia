@@ -3,7 +3,7 @@ last_name: Sundsby
 first_name: Haakon
 birth_location: Norway
 death_date: 1946-10-09
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 180
 source_file: Cemetery Directory
 ---

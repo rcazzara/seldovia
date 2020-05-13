@@ -4,7 +4,7 @@ first_name: Oscar William
 birth_date: 1866
 birth_location: Sweden
 death_date: 1940
-death_location: Palmer, AK
+death_location: Palmer, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 53
 source_file: Cemetery Directory

@@ -5,7 +5,7 @@ first_name: Ann
 birth_date: 1947-01-09
 birth_location: Seldovia, Alaska
 death_date: 2014-01-19
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 199
 source_file: Cemetery Directory
 ---

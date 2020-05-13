@@ -3,7 +3,7 @@ last_name: English
 maiden_name: Bloch
 first_name: Susan
 birth_date: 1904-02-26
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1986-10-10
 cemetery_plot: 594
 source_file: Cemetery Directory

@@ -3,9 +3,9 @@ last_name: Balashoff
 first_name: Mikkel Sr
 aka: Mike
 birth_date: 1876
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1946-04-08
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 46
 source_file: Cemetery Directory

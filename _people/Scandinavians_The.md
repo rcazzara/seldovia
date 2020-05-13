@@ -74,7 +74,7 @@ He married Agnes Ponchene in Seldovia in 1928**.** They are buried in
 Washington State, but several of their descendants are buried in the
 Seldovia Cemetery.
 
-> **Peter Ivor Elvsaas** was born August 15, 1930 in Seldovia, AK and
+> **Peter Ivor Elvsaas** was born August 15, 1930 in Seldovia, Alaska and
 > died June 2, 2003 in Homer.
 > 
 > **Frederick H. Elvsaas** was born May 28, 1933 in Seldovia and died
@@ -85,7 +85,7 @@ Seldovia Cemetery.
 
 **Edward Erickson** was born in 1884 in Norway. He immigrated 1910 and
 was a fisherman in Valdez and Bristol before coming to Seldovia. He died
-in Nov. 1938, Seldovia, AK at the age of 54.
+in Nov. 1938, Seldovia, Alaska at the age of 54.
 
 **Sigurd Halvorsen** was born on September 27, 1892, in Haugesund,
 Norway and naturalized on 26 May, 1947. He married Marie Anderson on
@@ -117,7 +117,7 @@ Alaska, but in 1942 he was registered for WWII draft while living in
 Seldovia. He died in Seldovia in 1962**.**
 
 **Nels John Jacobsen** was born September 16, 1865 in Norway; He arrived
-in Alaska April 1886. He gave Orca, AK as his hometown in the 1900 US
+in Alaska April 1886. He gave Orca, Alaska as his hometown in the 1900 US
 Census. In pre-gold rush 1897, increased prospecting activity by cannery
 personnel from Orca led to first claims in areas that would later be
 important: Nels Jacobsen and Louis Thorstensen file claims at Landlocked
@@ -215,7 +215,7 @@ and emigrated in 1904. He became a US citizen in 1937. He married **Anna
 Dartgige** (b. April 18, 1887, France – September 1941, Seldovia,
 Alaska) on August 9, 1922 in Seward, Alaska. After her death, John
 married **Velma Shafford** (December 6, 1913, Colorado-May 27, 1945,
-Seldovia, AK) in Seldovia in 1943. He was a fisherman who owned his own
+Seldovia, Alaska) in Seldovia in 1943. He was a fisherman who owned his own
 boat. He died December 1, 1972 in Seldovia. He had no known children.
 
 **Theodor (Tom) Joachim Steffenson** b. Feb. 13, 1886 in Ibestad,

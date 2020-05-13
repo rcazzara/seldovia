@@ -4,9 +4,9 @@ maiden_name: Bowen
 first_name: Harriet Susannah
 aka: Hattie
 birth_date: 1888-12-13
-birth_location: Kodiak, AK
+birth_location: Kodiak, Alaska
 death_date: 1931-03-03
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 37
 source_file: Cemetery Directory
 ---

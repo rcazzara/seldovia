@@ -2,9 +2,9 @@
 last_name: McDonough
 maiden_name: Wilson
 first_name: Mary
-birth_location: King Cove, AK
+birth_location: King Cove, Alaska
 death_date: 1947-07-17
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 85
 source_file: Cemetery Directory
 ---

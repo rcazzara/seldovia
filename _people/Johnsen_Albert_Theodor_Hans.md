@@ -3,7 +3,7 @@ last_name: Johnsen
 first_name: Albert Theodor Hans
 birth_location: Germany
 death_date: 1938-04-20
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 145
 source_file: Cemetery Directory
 ---

@@ -5,7 +5,7 @@ aka: Teddy
 birth_date: 1925-03-21
 birth_location: Alaska
 death_date: 1953-09-13
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 12
 source_file: Cemetery Directory
 ---

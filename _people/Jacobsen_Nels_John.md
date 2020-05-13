@@ -3,7 +3,7 @@ last_name: Jacobsen
 first_name: Nels John
 birth_location: Norway
 death_date: 1951-05-08
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 3
 source_file: Cemetery Directory
 ---

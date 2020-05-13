@@ -2,9 +2,9 @@
 last_name: Berger
 first_name: Kenneth
 birth_date: 1957-06-01
-birth_location: Anchorage, AK
+birth_location: Anchorage, Alaska
 death_date: 1966-07-07
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 206
 source_file: Cemetery Directory

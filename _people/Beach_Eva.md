@@ -2,9 +2,9 @@
 last_name: Beach
 first_name: Eva
 birth_date: 1936
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1936
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 134
 source_file: Cemetery Directory

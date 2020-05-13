@@ -4,7 +4,7 @@ first_name: Andrew Edward
 aka: Andy
 birth_location: Tromso, Norway
 death_date: 1949-10-19
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 184
 source_file: Cemetery Directory
 ---

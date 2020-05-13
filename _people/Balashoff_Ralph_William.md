@@ -2,9 +2,9 @@
 last_name: Balashoff
 first_name: Ralph William
 birth_date: 1942-04-25
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1942-06-28
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 107
 source_file: Cemetery Directory

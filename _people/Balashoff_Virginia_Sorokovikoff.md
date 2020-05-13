@@ -5,7 +5,7 @@ first_name: Virginia
 birth_date: 1918
 birth_location: Alaska
 death_date: 1946-07-07
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 44
 source_file: Cemetery Directory

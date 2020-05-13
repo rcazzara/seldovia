@@ -5,7 +5,7 @@ first_name: Jessie
 birth_date: 1898-11-22
 birth_location: Port Graham, Alaska
 death_date: 1979-06-01
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 53
 source_file: Cemetery Directory

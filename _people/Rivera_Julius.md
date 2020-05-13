@@ -4,7 +4,8 @@ first_name: Julius
 birth_date: 1905-04-12
 birth_location: Phillipine Islands
 death_date: 1942-06-28
-death_location: Snug Harbor, AK
+death_location: Snug Harbor, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 150
 source_file: Cemetery Directory
 ---

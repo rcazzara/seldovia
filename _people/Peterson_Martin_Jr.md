@@ -4,12 +4,11 @@ first_name: Martin Jr.
 birth_date: 1931-04-22
 birth_location: Seldovia, Alaska
 death_date: 1941-07-05
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 49.5
 source_file: Cemetery Directory
 ---
-**Martin Jr.   Peterson** is buried in the Seldovia City Cemetery in plot 49.5.  The cause of death is Drowning.
+**Martin Peterson, Jr** was the son of [**Martin and Lottie Howard Peterson**](./peterson_Martin.md). He was born April 22, 1931 in Seldovia and died July 5, 1941 in Seldovia as a result of drowning.  He is buried in the Seldovia City Cemetery in plot 49.5.  The cause of death is Drowning.
 
-No City Record
 
-1932 - _ _ _ _(Hard to read. Beloved Son and Brother Fenced plot. Same type thick wooden marker as plot 29 Martin Peterson and plot 49 Teddy Peterson. No city record.

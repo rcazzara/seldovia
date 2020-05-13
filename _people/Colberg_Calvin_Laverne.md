@@ -3,7 +3,8 @@ last_name: Colberg
 first_name: Calvin Laverne
 birth_date: 1933-05-09
 birth_location: Alaska
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 267.5
 source_file: Cemetery Directory
 ---

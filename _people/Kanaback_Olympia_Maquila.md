@@ -3,9 +3,9 @@ last_name: Kanaback
 maiden_name: Maquila
 first_name: Olympia
 birth_date: 1903-02-28
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 death_date: 1939-01-19
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 130
 source_file: Cemetery Directory
 ---

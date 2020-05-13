@@ -4,26 +4,23 @@ first_name: Martin
 birth_date: 1902-02-28
 birth_location: Savannah, Georgia
 death_date: 1950-09-21
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 29
 source_file: Cemetery Directory
 ---
-# Martin Peterson
-
-**February 28, 1902, Savannah, Georgia – September 21, 1950, Seldovia,
-Alaska**
 
 **Martin PETERSON** was born February 28, 1902 in Savannah, Georgia. It
 is not certain when he arrived in Alaska but he is listed in the 1930 US
-Census in Seldovia as single. He married **\[Lottie HOWARD Rapin
-Nyman\]** in 1935. **Lottie** was born in Alaska in 1892. Legend has it
+Census in Seldovia as single. He married **Lottie HOWARD Rapin
+Nyman** in 1935. **Lottie** was born in Alaska in 1892. Legend has it
 that she was kidnapped and brought to Kodiak as a child, where she
 married 1<sup>st</sup> **Nicholai Rapin** and had a son Frederick Rapin.
 After Nicholai died Lottie married **Nicholas Nyman** and they had
 several more children. Lottie’s son Frederick Rapin became known as Fred
 Nyman.
 
-> **Fred (Rapin) NYMAN,** born in Kodiak, December 11, 1907, died
+> [**Fred (Rapin) NYMAN,**](./Nyman_Fred.md) born in Kodiak, December 11, 1907, died
 > December 27, 1943 in Seldovia, as a result of drowning. He is buried
 > in Seldovia City Cemetery, Plot 48, next to his half- brothers,
 > **Martin** and \[**Teddy** **Peterson**\].
@@ -40,12 +37,12 @@ Lottie moved back to Kodiak after the 1964 earthquake and died there in
 > **Majora (Margie) PETERSON** was born August 20, 1929 in Seldovia and
 > died September 15, 1997.
 > 
-> **Martin PETERSON** born April 22, 1931 in Seldovia, died July 5, 1941
+> [**Martin PETERSON**]() born April 22, 1931 in Seldovia, died July 5, 1941
 > as a result of drowning. He is buried in the Seldovia City Cemetery,
 > Plot \# 49 next to his brother Teddy Peterson who died only a few
 > months earlier.
 > 
-> **Albert Martin "Coogan" PETERSON (1933-1989)**
+> **Albert Martin "Coogan" PETERSON (1933-1989)** married [**Alta ROSENBUSH**](./Colberg_Alta_Rosenbush)
 > 
 > **\[Freda PETERSON Robinson (1934, Seldovia – 2015, Anchorage)\]**
 > 

@@ -1,7 +1,7 @@
 ---
 last_name: Meehan
 first_name: Terry
-birth_location: Seldovia, AK
+birth_location: Seldovia, Alaska
 cemetery_plot: 118
 source_file: Cemetery Directory
 ---

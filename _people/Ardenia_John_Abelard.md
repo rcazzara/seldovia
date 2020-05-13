@@ -2,9 +2,9 @@
 last_name: Ardenia
 first_name: John Abelard
 birth_date: 1938-02-02
-birth_location: Angoon, AK
+birth_location: Angoon, Alaska
 death_date: 2008-11-12
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 568
 source_file: Cemetery Directory

@@ -3,6 +3,7 @@ last_name: Olsen
 first_name: Hilmar
 birth_location: Norway
 death_date: 1959-08-11
+cemetery: Seldovia City Cemetery
 cemetery_plot: 164
 source_file: Cemetery Directory
 ---
@@ -10,10 +11,10 @@ source_file: Cemetery Directory
 
 ## 1879, Norway – August 11, 1959, Seldovia, Alaska
 
-**Hilmar Olsen** was born, Norway in 1879. In 1910 he was on a ship in
+**HILMAR OLSEN** was born, Norway in 1879. In 1910 he was on a ship in
 Shelikof Strait. He was living on Kachemak Bay by 1920 and was a fox and
 fur farmer then and in 1930 census as well. He was not married until
-1943 when he married Hanna Hansen Pedersen, widow of Peder Petersen in
+1943 when he married Hanna Hansen Pedersen, widow of [**Peder Pedersen**](./Pederson_Peter_Emanuel.md) in
 Seldovia on January 20, 1943.
 
 From Elsa Pedersen's book "Kachemak Bay Years": Hilmer Olsen of Bradley
@@ -25,3 +26,5 @@ and would soon be helpless to care for himself. One day he put his old
 squirrel-shooting rifle to his head and pulled the trigger. His neighbor
 found Hilmer in his woodshed the next morning, still sitting upright,
 his life ebbed."
+
+Pete died on August 11, 1959 and is buried in the Seldovia City Cemetery, Plot #164.

@@ -2,7 +2,7 @@
 last_name: Elxnit
 first_name: Nick Grenieff
 birth_date: 1903-11-03
-birth_location: Kodiak, AK
+birth_location: Kodiak, Alaska
 death_date: 2001-05-26
 cemetery_plot: 227
 source_file: Cemetery Directory

@@ -3,9 +3,9 @@ last_name: Baines
 maiden_name: Hilts
 first_name: Della
 birth_date: 1958-05-19
-birth_location: Noatak, AK
+birth_location: Noatak, Alaska
 death_date: 2000-05-30
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 313
 source_file: Cemetery Directory

@@ -3,15 +3,14 @@ full_name: "JACK THOMAS"
 last_name: "Thomas"
 first_name: "Jack"
 source_file: "Jack Thomas scrapbook"
-birth_location: "February 2, 1931, California "
-death_location: " October 12, 2016, Seldovia, Alaska"
-cemetery_plot: 
+birth_date: 1931-02-02
+birth_location: California
+death_date: 2016-10-12
+death_location: Seldovia, Alaska
+cemetery: not in cemetery
+
 ---
-# JACK THOMAS
-
-## February 2, 1931, California – October 12, 2016, Seldovia, Alaska
-
-Jack Thomas came to Seldovia in 1968.
+**JACK THOMAS** was born in California February 2, 1931. He came to Seldovia in 1968.
 
 Jack had worked for Jack Hopkins and Lloyd Wheeler on logging operations
 in California. In the mid-1960s logging operations in California got

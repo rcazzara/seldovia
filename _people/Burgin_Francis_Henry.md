@@ -4,7 +4,7 @@ first_name: Francis Henry
 aka: Frank
 birth_location: Missouri
 death_date: 1938-06-11
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 97
 source_file: Cemetery Directory
 ---

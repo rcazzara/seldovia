@@ -3,7 +3,7 @@ last_name: Erickson
 first_name: Edward
 aka: Ed
 birth_location: Norway
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 144
 source_file: Cemetery Directory
 ---

@@ -4,11 +4,10 @@ first_name: Joseph (Chad)
 aka: Chad
 birth_date: 1982-10-13
 death_date: 2000-08-28
+cemetery: Seldovia City Cemetery
 cemetery_plot: 537
 source_file: Cemetery Directory
 ---
-**Joseph (Chad)  Chad Van Volkenburg** is buried in the Seldovia City Cemetery in plot 537.  The cause of death is unknown.
-
-Oct 13, 1982 - Aug 28, 2000 Age 17(Mortuary marker)
+**Joseph Van Volkenburg, "Chad** was born in Seldovia October 13, 1982 to James Allen VanVolkenburg and **Mary ROBISON** .  He died in Seldovia August 28, 2000 and is buried in the Seldovia City Cemetery in Plot #537.  
 
 

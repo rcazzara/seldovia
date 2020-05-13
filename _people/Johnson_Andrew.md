@@ -4,7 +4,7 @@ first_name: Andrew
 aka: Andy
 birth_location: Finland
 death_date: 1940-07-13
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 36
 source_file: Cemetery Directory
 ---

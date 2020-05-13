@@ -4,7 +4,7 @@ first_name: John Jr.
 birth_date: 1934-04-30
 birth_location: Alaska
 death_date: 1951-08-27
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 2
 source_file: Cemetery Directory

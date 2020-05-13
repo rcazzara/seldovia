@@ -3,7 +3,7 @@ last_name: Leonhardt
 first_name: Harry Alfred
 birth_location: Leipzig, Germany
 death_date: 1949-12-16
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 100
 source_file: Cemetery Directory
 ---

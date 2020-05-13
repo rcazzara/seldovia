@@ -4,7 +4,7 @@ first_name: Adam
 birth_date: 1843
 birth_location: Virginia
 death_date: 1915-03-01
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery: Seldovia Hillside Cemetery
 source_file: Cemetery Directory
 ---
@@ -56,7 +56,7 @@ Malacoff. They had two children in Sitka and two more in San Francisco.
 He was married to his first wife, Anny-Anna Malakoff, prior to 1870 in
 Alaska. She was born about 1843 in Russian America (now Alaska) and died
 2 Nov 1895 in Kodiak, Alaska. Adam and Anna had seven known children: 1)
-Nellie Block; 2) Annie (Bloch) Christiansen; 3) Mary (Bloch) Andreanoff
+Nellie Block; 2) [Annie (Bloch) Christiansen](./Christiansen_Annie_Bloch.md); 3) Mary (Bloch) Andreanoff
 Simmons; 4) Jane-Jennie Bloch; 5) Kate (Bloch) Johansen; 6) Frederika
 Bloch; and 7) Emma A. (Bloch) White.
 
@@ -94,7 +94,7 @@ situation cured itself, Marina presumably returning to her husband. Adam
 married Elisaveta Balyshev (Elizabeth Balashoff), also known as "Lizzie"
 in 1902.
 
-He was married to his second wife, Elizabeth "Lizzie" Balashoff, on 9
+He was married to his second wife, [Elizabeth "Lizzie" Balashoff](), on 9
 Sep 1900 at Saint Nicholas Chapel (aka Russian Orthodox Church) in
 Seldovia, Alaska by Reverend Ivan E. Bartnovsky. By his second wife he
 had four known children: 1) Susana-Susan E. (Bloch) English (director of

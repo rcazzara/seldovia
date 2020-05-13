@@ -3,7 +3,7 @@ last_name: Olsen
 first_name: Andrew
 aka: Andy
 birth_location: Bergen, Norway
-death_location: Kodiak, AK
+death_location: Kodiak, Alaska
 cemetery_plot: 173
 source_file: Cemetery Directory
 ---

@@ -5,7 +5,7 @@ first_name: Elaine Merle
 birth_date: 1922-07-29
 birth_location: Wisconsin
 death_date: 2010-01-16
-death_location: Seldovia, AK
+death_location: Seldovia, Alaska
 cemetery_plot: 344
 source_file: Cemetery Directory
 ---
