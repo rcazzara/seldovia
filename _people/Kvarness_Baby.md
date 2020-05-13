@@ -1,11 +1,9 @@
 ---
 last_name: Kvarness
 first_name: Baby
-cemetery_plot: 100
+cemetery: Seldovia Hillside Cemetery
+cemetery_plot: 
 source_file: Cemetery Directory
 ---
-**Baby   Kvarness** is buried in the Seldovia Hillside Cemetery in plot 100.  The cause of death is unknown.
+**Baby   Kvarness** was the child of [**Arthur**](./Kvarness_Arthur.md) and Martha Kvarness. He is buried in the Seldovia Hillside Cemetery.  The cause of death is unknown.
 
-Seldovia Hillside Cemetery
-child of Arthur and Martha
-Hillside Cemetery
