@@ -13,6 +13,15 @@ collections:
   people:
     output: true
     permalink: /:collection/:name
+  families:
+    output: true
+    permalink: /:collection/:name
+  boats:
+    output: true
+    permalink: /:collection/:name
+  tidbits:
+    output: true
+    permalink: /:collection/:name
 
 defaults:
   - scope:
