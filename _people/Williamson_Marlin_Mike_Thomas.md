@@ -16,8 +16,9 @@ Williamson. He lost his mother when he was 3 and grew up with his father
 and siblings, Lloyd, Beaula, Harry and Chuck. The Williamsons were a
 lively, good-hearted bunch. They learned young to work hard and take
 care of themselves and each other. As Mike would say, they were "as
-independent as a hog on
-ice".![](../assets/images/Williamson%20Mike%20and%20Frances/media/image1.png)
+independent as a hog on ice".
+
+![](../assets/images/Williamson%20Mike%20and%20Frances/media/image1.png)
 
 In Oregon, Mike learned early to hunt, fish and trap. He told old
 stories of how he would go out spotlighting with his friends and then on
