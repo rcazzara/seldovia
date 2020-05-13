@@ -4,7 +4,7 @@ maiden_name: Backoff
 first_name: Eva
 birth_date: 1882
 birth_location: Alaska
-death_date: 
+death_date: 1937
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 90
