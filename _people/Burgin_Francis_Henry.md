@@ -2,6 +2,7 @@
 last_name: Burgin
 first_name: Francis Henry
 aka: Frank
+birth_date: 1879
 birth_location: Missouri
 death_date: 1938-06-11
 death_location: Seldovia, Alaska
