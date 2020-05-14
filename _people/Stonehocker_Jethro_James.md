@@ -6,7 +6,7 @@ aka: Jim
 birth_date: 1864-01-18
 source_file: "Jethro James Stonehocker"
 birth_location: Montezuma, Iowa 
-death_date: May 10, 1939
+death_date: 1939-05-10
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 148

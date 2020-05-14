@@ -1,0 +1,36 @@
+---
+layout: default
+title: Seldovia Families
+---
+
+<link rel="stylesheet" type="text/css"
+    href="https://cdn.datatables.net/v/dt/dt-1.10.20/r-2.2.3/rg-1.1.1/datatables.min.css" />
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.20/r-2.2.3/rg-1.1.1/datatables.min.js">
+</script>
+<script>
+    $(document).ready(function () {
+        $('#Families').DataTable({
+            "paging": false
+        });
+    });
+</script>
+
+<table id="Families" class="display">
+    <thead>
+        <tr>
+            <th>Family Name</th>
+            <th>Words</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for families in site.families %}
+        <tr>
+            <td><a href="{{ families.url | prepend: site.baseurl }}">{{ families.full_name }}</a></td>
+            <td>{{ families.content | number_of_words }}</td>
+            <td><a href="{{ site.github.repository_url }}/edit/master/{{ families.relative_path }}"
+                    target="_blank">Edit...</a></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>

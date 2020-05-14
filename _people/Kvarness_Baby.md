@@ -10,3 +10,5 @@ cemetery_plot: 5014
 source_file: Cemetery Directory
 ---
 **Baby   Kvarness**, the child of [**Art**](./Kvarness_Arthur.md) and **Martha EDELMAN Kvarness, was born and died in Seldovia in 1931 and is buried in the Seldovia Hillside Cemetery.
+**Baby   Kvarness** was the child of [**Arthur**](./Kvarness_Arthur.md) and Martha EDELMAN Kvarness. S/he is buried in the Seldovia Hillside Cemetery.  
+

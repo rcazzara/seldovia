@@ -3,9 +3,9 @@ full_name: "Marlin \"Mike\" Thomas Williamson"
 last_name: "Williamson"
 first_name: "Marlin \"Mike\" Thomas"
 source_file: "Williamson Mike and Frances"
-birth_date: "June 17, 1926"
+birth_date: 1926-06-17
 birth_location: Oregon
-death_date: " February 11, 2013" 
+death_date: 2013-02-11
 death_location: "Pittsburgh, Pennsylvania"
 cemetery: not in Seldovia
 cemetery_plot: 
