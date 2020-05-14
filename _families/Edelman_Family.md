@@ -1,8 +1,6 @@
+---
 full_name: "Edelman Family"
-last_name: "Edelman"
-first_name: "Family"
 source_file: "Edelman FAMILY"
-
 ---
 # Edelman Family
 
