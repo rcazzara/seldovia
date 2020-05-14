@@ -10,7 +10,7 @@ cemetery_plot: 2
 source_file: Cemetery Directory
 ---
 
-**John ALEX, Jr.** was born in Kenai, Alaska April 30, 1934 to John and
+**JOHN ALEX, Jr.** was born in Kenai, Alaska April 30, 1934 to John and
 Flora Alex. He died August 27, 1951 when the plane he was in crashed on
 takeoff from Seldovia. He is buried in Seldovia City Cemetery Plot \#2.
 His gravestone was erected by his friend and teacher Francis. He is

@@ -11,7 +11,7 @@ cemetery_plot: 1
 source_file: Cemetery Directory
 ---
 
-**Matthias Herbert Albertson, "Matt"** was born in Manistee, Michigan to
+**MATTHIAS HERBERT ALBERTSON, "Matt"** was born in Manistee, Michigan to
 Norwegian emigrants Matthias and Hannah (Olsen) Albertson. In 1930 he was
 living in Seattle, Washington, where he had married Thelma WARRICK
 (1897, Texas – 1973, Washington). In 1940 they lived in Sitka, Alaska

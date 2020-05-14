@@ -10,7 +10,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 54
 source_file: Cemetery Directory
 ---
-**Alyce Laura ERICKSON Anderson**, the daughter of Lars and Elizabeth Erickson, was born August 1868 in Bishop Hill, Illinois.  She married [OSCAR WILLIAM ANDERSON(./Anderson_Oscar_William.md) in Kirkland, Washington on June 24, 1890.   Their daughter Juanita Amelia Lenore Anderson was born September 1890.  The family lived in Washington but before the turn of the century, Alyce was living in Alaska.  She was first teaching in Juneau, but in 1909 the Governor of the Alaska Territory asked her to open a school in Unga.  
+**ALYCE *ERICKSON* ANDERSON**, the daughter of Lars and Elizabeth Erickson, was born August 1868 in Bishop Hill, Illinois.  She married [OSCAR WILLIAM ANDERSON(./Anderson_Oscar_William.md) in Kirkland, Washington on June 24, 1890.   Their daughter Juanita Amelia Lenore Anderson was born September 1890.  The family lived in Washington but before the turn of the century, Alyce was living in Alaska.  She was first teaching in Juneau, but in 1909 the Governor of the Alaska Territory asked her to open a school in Unga.  
 
 Prior to that time in unincorporated communities in Alaska, the only schools were what was then known as “The Bureau of Indian Schools,” for Indians only, though an occasional white child attended them.  The 1905 “Nelson Act” of the US Congress, provided a mechanism for funding “white and mixed-race” schools in unincorporated towns. The school in Unga became the first of many new “Nelson Schools” to be built around the state. Alyce taught there from 1908 to 1911. 
 

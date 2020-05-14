@@ -3,18 +3,15 @@ full_name: "John Naismith Colberg"
 last_name: "Colberg"
 first_name: "John Naismith"
 source_file: "COLBERG Family"
-birth_location:
-death_location:
-cemetery_plot: 
+birth_date: 1931-04-30
+birth_location: Seldovia, Alaska
+death_date: 2002-12-23
+death_location: Anchorage, Alaska
+cemetery: not in cemetery
 ---
-# John Naismith Colberg
 
-**April 30, 1931, Seldovia, Alaska – December 23, 2002, Anchorage,
-Alaska**
-
-When John Naismith Colberg was born on April 30, 1931, in Seldovia,
-Alaska, his father, John, was 44 and his mother, Eliza, was 27. He
-married Alta C Peterson on October 9, 1955, in his hometown. They had
-one child during their marriage. He died on December 23, 2002, in
+When **John Naismith Colberg** was born on April 30, 1931, in Seldovia,
+Alaska, his father, [**John**](./Colberg_John.md), was 44 and his mother, [**Eliza Cleghorn Colberg**](./Colberg_Eliza_Cleghorn.md), was 27. He
+married Alta C Peterson on October 9, 1955, in his hometown. They had one child during their marriage. He died on December 23, 2002, in
 Anchorage, Alaska, at the age of 71.
 

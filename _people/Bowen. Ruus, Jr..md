@@ -10,7 +10,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 43
 ---
 
-**Rufus Bowen** was born in Kodiak October 22, 1879 and came to Seldovia
+**RUFUS [BOWEN**](../_families/Bowen_Family.md) was born in Kodiak October 22, 1879 and came to Seldovia
 after the Novarupta eruption in 1912. He built a cabin where the
 Harbor’s Edge is located and grazed horses in a pasture located where
 the current SVT building stands. Later he lived in a cabin on the edge
