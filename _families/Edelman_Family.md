@@ -1,3 +1,10 @@
+full_name: "Edelman Family"
+last_name: "Edelman"
+first_name: "Family"
+source_file: "Edelman FAMILY"
+
+---
+# Edelman Family
 
 The **Edelman** family in Alaska begins with (Edvin Jacobsen) **“Edwin” Edelman** who was born in Porvoo ,Uusimaa, Finland on February 11, 1856.  At that time Finland was under the authority of Russia, so he may have come to Alaska as part of a Russian connection. He declared his loyalty to the US in 1883 and became a naturalized US citizen in 1915.  In 1900 he was living in “Fort Kenai” Alaska and already married to **Demnina Oskolkoff**, (b. Alaska 1879-d. 1949) the daughter of Zakharii and Elizaveta KNAGIN Oskolkoff. They had two children, Nina and Zacharias.  He was listed as a miner and his mailing address was San Francisco, California. By 1910 there were five more children.
 
