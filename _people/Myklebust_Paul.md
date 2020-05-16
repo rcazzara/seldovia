@@ -5,10 +5,11 @@ birth_date: 1894-01-15
 birth_location: Syvde, Norway
 death_date: 1944-10-03
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 176
 source_file: Cemetery Directory
 ---
-**Paul   Myklebust** was born in Myklebost or Syvde Norway in 1894. In 1913 he sailed on the
+**PAUL MYKLEBUST** was born in Myklebost or Syvde Norway in 1894. In 1913 he sailed on the
 *Empress of Britain* from Liverpool arriving in New Brunswick, Canada,
 proceeding to St. Albans, Vermont, and listing his destination as
 Tacoma, Washington. In 1917 when he registered for the draft in WWI, he

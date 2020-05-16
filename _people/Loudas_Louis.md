@@ -2,17 +2,16 @@
 last_name: Loudas
 first_name: Louis
 aka: Louie
+birth_date: 1894-02-14
 birth_location: Greece
 death_date: 1978-11-01
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 551
 source_file: Cemetery Directory
 ---
-# Louis Loudas
 
-## February 14, 1894, Greece - November 1978, Seldovia, Alaska
-
-**Louis Loudas** was born Feb. 14, 1894 in Greece and died Nov. 1978 in
+**LOUIS LOUDAS "Louie"** was born Feb. 14, 1894 in Greece and died Nov. 1978 in
 Seldovia, Alaska. He owned the Coffee Cup Café. Louie could speak
 English, but very broken English, with a heavy accent.
 

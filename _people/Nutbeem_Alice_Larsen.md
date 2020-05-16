@@ -6,6 +6,7 @@ birth_date: 1899-09-15
 birth_location: Unga Island, Alaska
 death_date: 1990-07-13
 death_location: Homer, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 116
 source_file: Cemetery Directory
 ---
@@ -44,7 +45,7 @@ named in his honor. Peter also transplanted blue fox from the westward
 Aleutian Islands onto Big Konuji Island in the Shumagin Islands, which
 he leased from the federal government for fox farming.
 
-Ted Nutbeem and Alice Larsen were married on February 12, 1920, in Unga
+[**Ted Nutbeem**](./Nutbeem_Theodore.md) and Alice Larsen were married on February 12, 1920, in Unga
 Village, Unga Island, Shumagin Islands, Alaska. They later moved to the
 Kenai Peninsula where they homesteaded in Halibut Cove before moving to
 Seldovia to make it a permanent home. Ted and his wife Alice held the

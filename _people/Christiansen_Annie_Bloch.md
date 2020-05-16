@@ -8,12 +8,13 @@ death_date: 1921-01-11
 death_location: Seldovia, Alaska
 cemetery: Seldovia Hillside Cemetery
 cemetery_site: 3-1
+Family: Bloch
 source_file: Cemetery Directory
 ---
 
-**Annie BLOCH Christiansen** was the daughter of Adam Bloch and his first wife, Anny-Anna
+**ANNIE *BLOCH* CHRISTIANSEN** was the daughter of [**Adam Bloch**](./Bloch_Adam.md) and his first wife, Anny-Anna
 (Malakoff) Bloch, and was born at the Presidio of San Francisco on October 11, 1871. She
-married Julius Christiansen in about 1894 in Alaska. He was born between
+married **Julius Christiansen** in about 1894 in Alaska. He was born between
 Nov 1855 and Nov 1859 in Norway. She died on January 11, 1921 and is buried in the Seldovia Hillside
 Cemetery near her father and step-mother.  
   

@@ -9,4 +9,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 189
 source_file: Cemetery Directory
 ---
-**Ray   Clock** was born in Valdez, Alaska on November 17, 1926.  He was living in Cordova but drowned in Seward on May 5, 1957 and is buried in the Seldovia City Cemetery in Plot #189.  T
+**RAY CLOCK** was born in Valdez, Alaska on November 17, 1926.  He was living in Cordova but drowned in Seward on May 5, 1957 and is buried in the Seldovia City Cemetery in Plot #189.  

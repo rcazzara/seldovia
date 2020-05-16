@@ -1,17 +1,21 @@
 ---
-full_name: "Craig \"Higgy\" Higman"
-last_name: "Higman"
-first_name: "Craig \"Higgy\""
+full_name: Craig "Higgy" Higman
+last_name: Higman
+first_name: Craig
+aka: Higgy
 source_file: "Craig Higman"
-birth_location: "1945"
-death_location: " June 19, 2016 Seldovia, Alaska"
+birth_date: 1945
+birth_location: 
+death_date: 2016-06-19
+death_location: Seldovia, Alaska
+cemetery: not in cemetery
 cemetery_plot: 
 ---
 # Craig "Higgy" Higman
 
 ## 1945– June 19, 2016 Seldovia, Alaska
 
-**Craig "Higgy" Higman** passed away on June 19 in Homer, by the side of
+**CRAIG HIGMAN, "Higgy"** passed away on June 19 in Homer, by the side of
 his son, Bretwood "Hig" Higman. He had been out for a walk in Seldovia,
 his home for 39 years, when he fell and hit his head. By the time he
 reached the hospital in Homer he was non-responsive – a quick and simple

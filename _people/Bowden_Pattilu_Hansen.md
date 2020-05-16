@@ -10,7 +10,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 221.5
 source_file: Cemetery Directory
 ---
-**Pattilu HANSEN Bowden** was born September 11, 1952 to Roy and Lucille OLLESTAD Hansen. She married Thomas Bowden and had two children before she died March 12, 2010.  She is buried in the Seldovia City Cemetery in plot 221.5. 
+**PATTILU *HANSEN* BOWDEN** was born September 11, 1952 to [**Roy and Lucille OLLESTAD Hansen**](./Hansen_Roy_Louis.md). She married **Thomas Bowden** and had two children before she died March 12, 2010.  She is buried in the Seldovia City Cemetery in plot 221.5. 
 
 
 

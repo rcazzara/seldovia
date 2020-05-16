@@ -15,8 +15,8 @@ cemetery_plot:
 
 ## February 24, 1934 – January 20, 2020, Anchorage, Alaska
 
-**Alta Crete ROSENBUSH Colberg** was born on Feb. 24, 1934, in Seattle,
-Wash., to **Alta Crete Phillips** and **Leslie Grant Rosebush**. Her
+**ALTA CRETE *ROSENBUSH* (Peterson) COLBERG** was born on Feb. 24, 1934, in Seattle,
+Wash., to **Alta Crete Phillips** and [**Leslie Grant Rosenbush**](./Rosenbush_Leslie_Grant.md). Her
 family moved to Seldovia, Alaska in 1936, when she was a young girl.
 Seldovia is where she spent the majority of her life. She married,
 first, in 1951, [**Albert Martin Peterson**](./Peterson_Martin.md), and they had three children,

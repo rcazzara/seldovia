@@ -7,6 +7,7 @@ death_date: 1953-08-22
 death_location:
 cemetery: Seldovia City Cemetery
 cemetery_plot: 22
+family: Berestoff
 source_file: Cemetery Directory
 ---
-**Alex Berestoff, Jr.** is buried in the Seldovia City Cemetery in Plot #22.  
+**ALEX BERESTOFF, Jr.** is buried in the Seldovia City Cemetery in Plot #22.  

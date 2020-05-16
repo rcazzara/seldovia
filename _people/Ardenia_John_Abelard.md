@@ -54,5 +54,5 @@ children and grandchildren very much."
 
 Mr. Ardenia was preceded in death by his parents, Albert Ardenia and
 Lina Ireen Ardenia Rochas; brothers, Albert and Sami Ardenia,
-mother-in-law **Justina Dushkin**; and granddaughter **Adrianna Rose Ardenia**.
+mother-in-law [**Justina Dushkin**](./Dushkin_Justina_Kuzakin.md); and granddaughter [**Adrianna Rose Ardenia**](./Ardenia_Adrianna_Rose.md).
 

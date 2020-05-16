@@ -9,10 +9,8 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 531
 source_file: Cemetery Directory
 ---
-# Henrietta "Hettie" HULTBERG Crawford
 
-
-**Henrietta Maria "Hettie" HULTBERG Crawford** was one of four children
+**HENRIETTA MARIA *HULTBERG* CRAWFORD, "Hettie"** was one of four children
 born to John Oliver Hultberg and Helen Alarpakorak in the Bethel
 district of Alaska, about 1908. Her mother was the daughter of Herman
 Bever and was born in Quinahok. Her father was a miner from Illinois and

@@ -10,7 +10,7 @@ death_location: Seldovia, Alaska
 cemetery_plot: 311
 source_file: Cemetery Directory
 ---
-**Dorothy Lane HECKS Christie, "Sunny",** was born September 28, 1916 in Washington. She died August 5, 1998 and is buried in the Seldovia City Cemetery in Plot #311.  
+**DOROTHY LANE *HECKS* CHRISTIE, "Sunny",** was born September 28, 1916 in Washington. She died August 5, 1998 and is buried in the Seldovia City Cemetery in Plot #311.  
 
 
 

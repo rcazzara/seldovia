@@ -7,6 +7,7 @@ birth_location: "Kodiak, Alaska "
 death_date: 1953
 death_location: Alaska
 cemetery: Seldovia City Cemetery
+family: Bowen
 cemetery_plot: 43
 ---
 

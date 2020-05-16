@@ -12,7 +12,7 @@ source_file: Cemetery Directory
 # James Henry Francis "Frank" Burgin
 
 
-**James Henry Francis "FRANK" Burgin** was the first of Seldovia’s many
+**FRANCIS HENRY BURGIN, "Frank"** was the first of Seldovia’s many
 celebrated dentists\! He was born in Harrison, Missouri on February 7,
 1879 to Fleming and Mary Burgin. His father was a physician and Frank as
 well as two of his brothers entered the field of medicine. Frank

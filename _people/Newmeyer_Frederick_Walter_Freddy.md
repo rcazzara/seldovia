@@ -1,16 +1,18 @@
 ---
-full_name: "Frederick Walter (Freddy) Newmeyer"
-last_name: "Newmeyer"
-first_name: "Frederick Walter (Freddy)"
+full_name: "Frederick Walter Newmeyer"
+last_name: Newmeyer
+first_name: Frederick Walter
+aka: Freddy
+birth_date: 1928-02-29
+birth_location: San Francisco, California
+death_date: 2012-09-18
+death_location: Seldovia, Alaska
+cemetery: not in cemetery
+
 source_file: "Frederick Walter Newmeyer not in cemetery"
-birth_location:
-death_location:
-cemetery_plot: 
+
 ---
 # Frederick Walter (Freddy) Newmeyer
-
-**February 29, 1928, San Francisco, California – September 18, 2012,
-Seldovia, Alaska**
 
 ![](../assets/images/Frederick%20Walter%20Newmeyer%20not%20in%20cemetery/media/image1.jpeg)
 

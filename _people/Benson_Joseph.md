@@ -10,4 +10,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 178
 source_file: Cemetery Directory
 ---
-**Joseph Benson, "Joe",** was born in Pittsburgh, Pennsylvania on June 30, 1884.  He died in Seldovia on May 5, 1945 and is buried in the Seldovia City Cemetery in Plot #178.  
+**JOSEPH BENSON, "Joe",** was born in Pittsburgh, Pennsylvania on June 30, 1884. THere is no record of him having had a wife or children. He died in Seldovia on May 5, 1945 and is buried in the Seldovia City Cemetery in Plot #178.  

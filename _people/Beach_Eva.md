@@ -9,4 +9,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 134
 source_file: Cemetery Directory
 ---
-**Eva   Beach** infant daughter of Zenas and Barbara Beach, is buried in the Seldovia City Cemetery in Plot #134.  
+**EVA [BEACH](../_families/Beach_Family.md)** infant daughter of Zenas and Barbara Beach, is buried in the Seldovia City Cemetery in Plot #134.  

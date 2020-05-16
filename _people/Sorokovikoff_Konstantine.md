@@ -8,11 +8,12 @@ death_date: 1942-06-04
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 69
+family: Sorokovikoff, Berestoff
 source_file: Cemetery Directory
 ---
-**Konstantine Sorokovikoff "Konste"**  was born January 24, 1871 in Kodiak.  He married Sarafina and had children Sarafina (1903), Nick (1905), and Andrew (1908). He was a Dena'ina-speaking lay song leader who grew up in Kenai and was in charge of a chapel in Seldovia in the 1920s and 1930s. He accompanied the missionary Paul Shadura as an interpreter between 1908 and 1914.  A phrase ("my own Indian song leader") casually uttered by Shadura regarding this Creole-cultural broker reveals the level of Constantine's entrenchment into Dena'ina culture. The US Bureau of Indian Affairs (BIA) could not figure out how to categorize him in their official rosters: on the one hand, Constantine was involved in local subsistence activities, and on the other hand, he was performing chapel services.  As a result, in their 1934 roster of Seldovia residents, the BIA labeled him as a "second priest of Seldovia".  
+**KONSTANTINE SOROKOVIKOFF, "Konste"**  was born January 24, 1871 in Kodiak.  He married Sarafina and had children Sarafina (1903), Nick (1905), and Andrew (1908). He was a Dena'ina-speaking lay song leader who grew up in Kenai and was in charge of a chapel in Seldovia in the 1920s and 1930s. He accompanied the missionary Paul Shadura as an interpreter between 1908 and 1914.  A phrase ("my own Indian song leader") casually uttered by Shadura regarding this Creole-cultural broker reveals the level of Constantine's entrenchment into Dena'ina culture. The US Bureau of Indian Affairs (BIA) could not figure out how to categorize him in their official rosters: on the one hand, Constantine was involved in local subsistence activities, and on the other hand, he was performing chapel services.  As a result, in their 1934 roster of Seldovia residents, the BIA labeled him as a "second priest of Seldovia".  
 
-NICK SOROKOVIKOFF: Aug.12,1905- Feb.1968, buried in Seldovia City Cemetery - married Nadia Loco/Toko September 25, 1933 in Seldovia.
+**NICK SOROKOVIKOFF**: son of Konstantine and Sarafina Sorokovikoff was born August 12,1905 and died February 1968, married Nadia Loco/Toko September 25, 1933 in Seldovia.
 
 Konste and his wife **Anna BERESTOFF Sorokovikoff** had 8 children:
 

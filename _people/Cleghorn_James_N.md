@@ -1,6 +1,6 @@
 ---
 last_name: Cleghorn
-first_name: James N.
+first_name: James Naismith
 aka: Jim
 birth_date: 1852-11-22
 birth_location: New York
@@ -8,10 +8,11 @@ death_date: 1971-07-01
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 234
+family: Cleghorn
 source_file: Cemetery Directory
 ---
 **James Naismith Cleghorn, was born on November 22, 1852 in Lewiston,
-New York to Nasmith and Elizabeth Cleghorn. His father was born in
+New York to Naismith and Elizabeth Cleghorn. His father was born in
 Scotland and his mother in Ireland.**
 
 **James came to Alaska in 1886. He and his partner, Harry Mellish

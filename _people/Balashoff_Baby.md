@@ -9,5 +9,5 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 112
 source_file: Cemetery Directory
 ---
-**Baby   Balashoff**, child of Mike and Virginia Balashoff, was born and died in 1937 and is buried with a brother, Steve, in the Seldovia City Cemetery in Plot #112.  
+**BABY BALASHOFF**, child of [**Mike and Virginia Balashoff**](./Balashoff_Mikkel_Jr.md), was born and died in 1937 and is buried with a brother, Steve, in the Seldovia City Cemetery in Plot #112.  
 City Records. There are two Balashoff babies in one grave. Steve and this baby. 

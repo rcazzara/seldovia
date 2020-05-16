@@ -6,7 +6,7 @@ death_location: Seldovia, Alaska
 cemetery_plot: 84.5
 source_file: Cemetery Directory
 ---
-**Elizabeth May MACKENZIE MacKenzie** was born in Hong Kong, China on
+**ELIZABETH MAY *MACKENZIE* MACKENZIE** was born in Hong Kong, China on
 July 7, 1911. Her mother is listed as Eileen Law Mackenzie and she was a
 British citizen. It is not known if Elizabeth was adopted, but she did
 have Chinese features. She had British citizenship. She married **Edward

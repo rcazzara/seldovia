@@ -3,14 +3,12 @@ last_name: Dunning
 first_name: Lawrence Albert
 birth_location: Fremont, Ohio
 death_date: 1940-03-01
+cemetery: Seldovia City Cemetery
 cemetery_plot: 57
 source_file: Cemetery Directory
 ---
-# Lawrence Albert Dunning
 
-## September 18, 1868, Fremont, Ohio – March 25, 1940, Seldovia,Alaska
-
-**Lawrence A. DUNNING** was born September 18, 1868 in Fremont, Ohio to
+**LAWRENCE ALBERT DUNNING** was born September 18, 1868 in Fremont, Ohio to
 Edwin and Charlotte Lawrence Dunning. The family moved to Tennessee and
 Washington states. In 1930 Lawrence was single, living with his brother
 Ralph in Seldovia.

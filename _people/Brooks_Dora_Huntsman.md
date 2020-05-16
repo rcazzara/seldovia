@@ -10,4 +10,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 177
 source_file: Cemetery Directory
 ---
-**Dora HUNTSMAN Brooks** was born February 28, 1862 in Emerson, Iowa. She married William Brooks and in 1940 she was widowed and living in Seldovia as a rancher. She died in Seldovia in 1944 and is buried in the Seldovia City Cemetery in Plot #177.  
+**DORA *HUNTSMAN* BROOKS** was born February 28, 1862 in Emerson, Iowa. She married **William Brooks** and in 1940 she was widowed and living in Seldovia as a rancher. She died in Seldovia in 1944 and is buried in the Seldovia City Cemetery in Plot #177.  

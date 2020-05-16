@@ -9,7 +9,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 248
 source_file: Cemetery Directory
 ---
-**Ariston Dayap   Cadiz** is buried in the Seldovia City Cemetery in plot 248.  
+**ARISTON DAYAP CADIZ** was born February 19, 1905 in the Philipine Islands. He died in Seldovia on June 20, 1938 and is buried in the Seldovia City Cemetery in plot 248.  
 City Records
 
 1905 - 1972

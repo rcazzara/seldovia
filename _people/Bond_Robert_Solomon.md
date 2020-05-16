@@ -9,5 +9,5 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 549
 source_file: Cemetery Directory
 ---
-**Robert Solomon Bond**, the son of Steven and Mary Bond, was born February 9, 1977 and died December 20, 1978.  He is buried in the Seldovia City Cemetery in Plot #549.  
+**ROBERT SOLOMON BOND**, the son of Steven and Mary Bond, was born February 9, 1977 and died December 20, 1978.  He is buried in the Seldovia City Cemetery in Plot #549.  
 

@@ -7,5 +7,5 @@ death_date: 1937
 cemetery_plot: 70
 source_file: Cemetery Directory
 ---
-**Baby Bowen** is buried in the Seldovia City Cemetery in plot 70. 
+**BABY BOWEN** was born and died in 1937 and is buried in the Seldovia City Cemetery in plot 70. 
 

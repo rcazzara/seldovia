@@ -10,5 +10,5 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 22.5
 source_file: Cemetery Directory
 ---
-**Mary JACOBSEN  Borovena** was born in Alaska in 1904.  She married,1st, John Jensen in September 1919 and they had three children. She next married Frank Borovena October 24, 1944. She died November 14, 1958 in Seldovia and is buried in the Seldovia City Cemetery in plot 22.5.  
+**MARY *JACOBSEN* BOROVENA** was born in Alaska in 1904.  She married,1st, [**John Nels Jensen**](./Jensen_John_Nels.md) in September 1919 and they had three children. She next married [**Frank Borovena** October 24, 1944. She died November 14, 1958 in Seldovia and is buried in the Seldovia City Cemetery in plot 22.5.  
 

@@ -9,4 +9,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 24
 source_file: Cemetery Directory
 ---
-**Anesiem Jr   Berestoff** was born in 1910 to Philip and Lubov CHAINYI Berestoff. He is buried in the Seldovia City Cemetery in Plot #24.  
+**ANESIEM BERESTOFF, Jr.** was born in 1910 to Philip and Lubov CHAINYI Berestoff. He is buried in the Seldovia City Cemetery in Plot #24.  

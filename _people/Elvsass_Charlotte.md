@@ -5,6 +5,7 @@ birth_date: 1950-10-22
 birth_location: Seldovia, Alaska
 death_date: 2005-09-03
 death_location: Homer, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 271
 source_file: Cemetery Directory
 ---

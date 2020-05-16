@@ -9,9 +9,10 @@ death_date: 1993-02-09
 death_location: "Seldovia, Alaska"
 cemetery: Seldovia City Cemetery
 cemetery_plot: 566
+family: Brun
 ---
 
-**Mervin Harold Brun** was born November 16, 1921, in Chignik. As a child, he
+**MERVIN HOWARD [BRUN**](../_families/Brun_Family.md) was born November 16, 1921, in Chignik. As a child, he
 attended school from April to September. Many times his was one of only
 two families to stay in Chignik the entire winter, while the rest of the
 village left to hunt and trap. The Aleut village of Perryville formed a

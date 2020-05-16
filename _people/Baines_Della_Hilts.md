@@ -10,11 +10,8 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 313
 source_file: Cemetery Directory
 ---
-# Della HILTS Baines
 
-## May 19, 1958, Noatak, Alaska – April 13, 2000 Seldovia, Alaska
-
-Della was born in Noatak, Alaska on May 19, 1958 and was adopted by Rod and Sunni Hilts. She lived in Seldovia from
+**DELLA *HILTS* BAINES** was born in Noatak, Alaska on May 19, 1958 and was adopted by Rod and Sunni Hilts. She lived in Seldovia from
 1970 until her death. She married **[Daniel Richard
-Baines](#daniel-richard-baines)** in 1988. She died in Seldovia on May 30, 2000 and is buried in the Seldovia City Cemetery Plot # 313, next to her husband.
+Baines](./Baines_Daniel_Richard.md)** in 1988. She died in Seldovia on May 30, 2000 and is buried in the Seldovia City Cemetery Plot # 313, next to her husband.
 

@@ -9,10 +9,6 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 230
 source_file: Cemetery Directory
 ---
-# John Colberg
-
-**March 28, 1887, Mo i Rana, Norway – November 15, 1969, Seldovia,
-Alaska**
 
 **JOHN COLBERG** was born on March 28, 1887, in Mo i Rana, Helgeland,
 Norway. He emigrated from Norway and was a citizen of Canada in 1910

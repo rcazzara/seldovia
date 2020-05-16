@@ -11,7 +11,7 @@ cemetery_plot: 240
 source_file: Cemetery Directory
 ---
 
-When **Virginia YUTH (Cochrane) (Bailey)** was born on August 16, 1924,
+When **VIRGINIA *YUTH* (Cochrane) BAILEY** was born on August 16, 1924,
 in Seldovia, Alaska, her father, Matt, was 54, and her mother, Eugenia,
 was 26. She married Ira S. "Stan" Bailey in 1954 and they lived in
 Washington State, where she died of breast cancer on April 4, 1973, at

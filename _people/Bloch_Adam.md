@@ -94,7 +94,7 @@ situation cured itself, Marina presumably returning to her husband. Adam
 married Elisaveta Balyshev (Elizabeth Balashoff), also known as "Lizzie"
 in 1902.
 
-He was married to his second wife, [Elizabeth "Lizzie" Balashoff](), on 9
+He was married to his second wife, [**Elizabeth "Lizzie" Balashoff**](./Markle_Elizabeth_Bloch.md), on 9
 Sep 1900 at Saint Nicholas Chapel (aka Russian Orthodox Church) in
 Seldovia, Alaska by Reverend Ivan E. Bartnovsky. By his second wife he
 had four known children: 1) Susana-Susan E. (Bloch) English (director of

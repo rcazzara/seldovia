@@ -7,6 +7,7 @@ death_date: 2004-01-14
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 267.5
+family: Colberg
 source_file: Cemetery Directory
 ---
 

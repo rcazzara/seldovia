@@ -10,4 +10,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 179
 source_file: Cemetery Directory
 ---
-**Peter  Pete Beaverford** (Peder Olsen Baeverfjord) was born in Stangvik, Norway November 11,1895.  He came to the US in 1924 and was naturalized in 1934. In 1940 he was listed in the US Census in Seattle, Washington as a fisherman. He died in Seldovia, Alaska on September 23, 1946 and is buried in the Seldovia City Cemetery in Plot #179.  
+**PETER BEAVERFORD, "Pete"** (Peder Olsen Baeverfjord) was born in Stangvik, Norway November 11,1895.  He came to the US in 1924 and was naturalized in 1934. In 1940 he was listed in the US Census in Seattle, Washington as a fisherman. He died in Seldovia, Alaska on September 23, 1946 and is buried in the Seldovia City Cemetery in Plot #179.  

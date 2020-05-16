@@ -8,10 +8,11 @@ birth_location: "Gloucester, Massachusetts "
 death_date: 1895
 death_location: "(At Sea) Kodiak, Alaska"
 cemetery: Not in cemetery
+family: Bowen
 
 ---
 
-**David Bowen’s son, Henry Richard BOWEN was born in Massachusetts in
+**HENRY RICHARD BOWEN**, son of David [Bowen](../_families/Bowen_Family.md), was born in Massachusetts in
 1853. In 1880 a salting station of the Western Fur and Trading Company
 of San Francisco, operated at Karluk with Captain Bowen of Saint Paul
 (Kodiak) as the local superintendent. They also maintained a saltery at

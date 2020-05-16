@@ -9,11 +9,8 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 206
 source_file: Cemetery Directory
 ---
-# Kenneth Berger
 
-## June 5, 1957, Anchorage, Alaska – July 9, 1966, Seldovia, Alaska
-
-**Kenneth "Kenny" Berger**, was born in Anchorage, Alaska on June 5,
+**KENNETH BERGER, "Kenny**, was born in Anchorage, Alaska on June 5,
 1957 to Merle Berger and Lillian Hojnacke. Merle and Lillian came to
 Alaska from South Dakota in 1955, with the US Army. The family moved to
 Seldovia in 1959 and left in 1968.

@@ -2,12 +2,13 @@
 last_name: Hunter
 first_name: William
 aka: Bill
+birth_date: 1920
 death_location: Seldovia, Alaska
+death_date: 1966
+death_location: Seldovia, Alaska
+cemetery:Seldovia City Cemetery
 cemetery_plot: 552
+family: Hunter
 source_file: Cemetery Directory
 ---
-**William  Bill Hunter** is buried in the Seldovia City Cemetery in plot 552.  The cause of death is unknown.
-
-Identified by City records. Interred 1966 with notation burned.)
-
-Unmarked grave.
+[**WILLIAM HUNTER, "Bill"**](../_families/Hunter_Family.md) was born to **William and Eva BACKOFF Hunter** in 1920.  William and two Seldovia friends were killed in a house fire in Seldovia in 1966. He is buried in Seldovia City Cemetery, Plot \#552.

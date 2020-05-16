@@ -10,9 +10,9 @@ cemetery_plot: 53
 source_file: Cemetery Directory
 ---
 
-**Oscar William ANDERSON** was born April 1866 in Sweden. He immigrated
+**OSCAR WILLIAM ANDERSON** was born April 1866 in Sweden. He immigrated
 to the US in 1882 and lived in Bishop Hill, Illinois where he met
-**Alyce Laura ERICKSON.** They were married in Kirkland, Washington on
+[**Alyce Laura ERICKSON.**](./Anderson_Alyce_Laura_Erickson.md) They were married in Kirkland, Washington on
 June 24, 1890. He lived in Kirkland, Washington much of his life. The
 1900 US Census lists him as a coal miner; in 1920 he was a blacksmith
 living with his daughter Juanita and husband. In 1940 he was divorced

@@ -10,7 +10,7 @@ cemetery_plot: 552
 # HUNTER Family
 
 **William J. Hunter** was born in 1853 in Illinois. In 1900 he was
-living at Ft. Kenai with his wife "Eve" Odoyiah but he listed his home
+living at Ft. Kenai with his wife "Eve" Odoyiah Backof but he listed his home
 address as Baker City, Oregon. He was working as a miner in Alaska but
 was a farmer in Oregon. They were still in Kenai in 1910, with children
 William, Mary, Theodore, Alice, and Lizzie. He died in 1917 in Kenai,

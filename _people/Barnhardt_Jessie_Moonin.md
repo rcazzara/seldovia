@@ -8,14 +8,13 @@ death_date: 1979-06-01
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 53
+family: Moonin
 source_file: Cemetery Directory
 ---
-When **Aphanasia "Jessie" Moonin** was born on November 22, 1898, in
-Kenai Peninsula, Alaska, her father, Demetrie, was 30, and her mother,
-Annisea, was 26. She married **\[James Carlough\]** September 26, 1921
+[**APHANESIA MOONIN, "Jessie"](../_families/Moonin_Family.md) was born on November 22, 1898, on the Kenai Peninsula, Alaska to Demetrie and Annisea Moonin. She married [**James Carlough**](./Carlough_James_Howard.md) September 26, 1921
 and they had seven children together. The family was living in Seldovia
 in 1930. He died in Washington in 1935 and Jessie subsequently married
-**\[Harry David Barnhardt\]** (1882-1953) on August 17, 1943 in
+[**Harry David Barnhardt**](./Barnhardt_Harry.md) (1882-1953) on August 17, 1943 in
 Seldovia. She died in June of 1979 at the age of 80, and is buried in
 the Seldovia City Cemetery, next to her second husband.
 She is buried in the Seldovia City Cemetery in Plot #53.  

@@ -10,4 +10,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 135
 source_file: Cemetery Directory
 ---
-**Benjamin  "Benny" Beach**, the son of Zenas and Barbara MARKA Beach is buried in the Seldovia City Cemetery in Plot #135.  
+**BENJAMIN [BEACH](../_families/Beach_Family.md), "Benny"**, the son of Zenas and Barbara MARKA Beach is buried in the Seldovia City Cemetery in Plot #135.  

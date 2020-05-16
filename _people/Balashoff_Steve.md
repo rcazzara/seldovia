@@ -9,6 +9,6 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 112
 source_file: Cemetery Directory
 ---
-**Steve   Balashoff** an infant son of Mike and Virginia Balashoff (2/9/1941-2/9/1941) is interred in the Seldovia City Cemetery, Plot # 112.
+**STEVE BALASHOFF** an infant son of [**Mike and Virginia Balashoff**](./Balashoff_Mikkel_Jr.md) (2/9/1941-2/9/1941) is interred in the Seldovia City Cemetery, Plot # 112.
 
 

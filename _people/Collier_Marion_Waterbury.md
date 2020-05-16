@@ -9,7 +9,7 @@ death_location: Seldovia, Alaska
 cemetery_plot: 580
 source_file: Cemetery Directory
 ---
-**Marion WATERBURY  Collier**  was born April 18, 1936, in Seldovia, Alaska. She was the daughter of [**Russell Waterbury**](./Waterbury_Russell_Sr.md) and [**Anna SOROKOVIKOFF Waterbury**](./Waterbury-AnnaSorokovikoff). She married Louis Collier in Seldovia and together they owned and operated a restaurant for many years. They had three children and her joy in life was spending time with God and her family. She died April 6, 2019 and has a place in the Seldovia City Cemetery in plot 580.  
+**MARIAN *WATERBURY* COLLIER**  was born April 18, 1936, in Seldovia, Alaska. She was the daughter of [**Russell Waterbury**](./Waterbury_Russell_Sr.md) and [**Anna SOROKOVIKOFF Waterbury**](./Waterbury-AnnaSorokovikoff). She married Louis Collier in Seldovia and together they owned and operated a restaurant for many years. They had three children and her joy in life was spending time with God and her family. She died April 6, 2019 and has a place in the Seldovia City Cemetery in plot 580.  
 
 
 

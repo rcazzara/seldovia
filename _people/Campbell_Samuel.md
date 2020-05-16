@@ -11,7 +11,7 @@ cemetery_plot: 35
 source_file: Cemetery Directory
 ---
 
-**Samuel Campbell** was born on March 12, 1878, on Little Bay Island in
+**SAMUEL CAMPBELL, "Sam"** was born on March 12, 1878, on Little Bay Island in
 Newfoundland Canada, to Alban and Martha Campbell. He had numerous
 brothers and sisters who settled in both Canada and the U.S.
 

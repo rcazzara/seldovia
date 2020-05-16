@@ -6,8 +6,9 @@ birth_date: 1883
 birth_location: Alaska
 death_date: 1962-05-04
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 56.5
 source_file: Cemetery Directory
 ---
-**Olga Ponchene  Balashoff** was the wife of Mike Balashoff Sr, at the time of his death. She  died May 4, 1962, and is buried in the Seldovia City Cemetery in Plot #56.Is this the Olga who was married to John Anderson who died in 1933? Olga Ponchene?.
+**OLGA *PONCHENE* BALASHOFF** was the wife of [**Mike Balashoff Sr**](./Balashoff_Mikkel_Sr.md), at the time of his death. She  died May 4, 1962, and is buried in the Seldovia City Cemetery in Plot #56. This is likely the same Olga who was married to John Anderson who died in 1933? Olga Ponchene.  More research is needed here.
 

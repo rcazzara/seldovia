@@ -15,7 +15,6 @@ likely that the original Russian Bayou came to Kodiak in the
 descendants are sometimes listed as
 "[Creoles](RUSSIAN%20CREOLES%20in%20SELDOVIA.md)" in census records.
 
-**Wassilii Bayou** was born in 1873 in Alaska. Most census records claim
 that both of his parents were born in Alaska. He and his wife, Christina
 were living in Seldovia with 3 children and he was listed as a laborer.
 In 1910, the family was in Ninilchik with 4 children and he was listed
@@ -25,8 +24,8 @@ married 2<sup>nd</sup> Eva Odoyiah Hunter September 22, 1925. Wassilii
 was a trapper in Seldovia at the time of the 1930 census. He died May
 10, 1937 and is buried in Seldovia City Cemetery, Plot \# 91.
 
-**Eva ODOYIAH BACKOFF Hunter Bayou** b. 1882, d. 1937, married 1st
-[William Hunter](HUNTER%20FAMILY.md), and after his death she Wassilii
+[**EVA O](./Bayou_Eva_Hunter.md) b. 1882, d. 1937, married 1st
+[William Hunter](../_families/Hunter_Family.md), and after his death she Wassilii
 Bayou and they were living in Seldovia with her children in 1930. She is
 buried in Seldovia City Cemetery, next to Wassilii in Plot \#90.
 

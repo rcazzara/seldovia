@@ -7,8 +7,4 @@ death_location: Seldovia, Alaska
 cemetery_plot: 43
 source_file: Cemetery Directory
 ---
-**Rufus, Jr.   Bowen** is buried in the Seldovia City Cemetery in plot 43.  The cause of death is unknown.
-
-Identified by Seldovia City records.
-
-Unmarked grave.
+**RUFUS BOWEN, Jr.** was born February 1, 1907. He died and is buried in the Seldovia City Cemetery in plot 43.  
