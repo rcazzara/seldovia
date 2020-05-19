@@ -1,17 +1,17 @@
 ---
 full_name: "Albert Filmore/Fillmore/Fulmor"
-last_name: "Filmore/fillmore/fulmor"
-first_name: "Albert"
+last_name: Filmore
+first_name: Albert
 source_file: "Albert Filmore"
-birth_location: "November 1850, Maine "
-death_location: " February 13, 1919, Seldovia, Alaska"
-cemetery_plot: 
+birth_date: 1851
+birth_location: Maine
+death_date: 1919-02-13
+death_location: Seldovia, Alaska
+cemetery: not in cemetery
+
 ---
-# Albert Filmore/Fillmore/Fulmor
 
-## November 1850, Maine – February 13, 1919, Seldovia, Alaska
-
-**Albert Filmore** was born in Maine in 1851. His father was born in
+**ALBERT FILMORE** was born in Maine in 1851. His father was born in
 Massachusetts and mother in Nova Scotia, but there were a great many
 Filmores in the US who descend from that Nova Scotia line.
 

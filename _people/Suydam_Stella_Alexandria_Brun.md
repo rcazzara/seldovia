@@ -9,6 +9,7 @@ birth_location: Chignik, Alaska
 death_date: 1987-12-02
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
+family: Brun, Suydam
 cemetery_plot: 565
 ---
 

@@ -6,6 +6,7 @@ birth_date: 1867-06-12
 birth_location: Tromso, Norway
 death_date: 1948-04-25
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 59
 source_file: Cemetery Directory
 ---

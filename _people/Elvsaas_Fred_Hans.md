@@ -5,7 +5,7 @@ birth_date: 1933-05-28
 birth_location: Seldovia, Alaska
 death_date: 2017-09-25
 death_location: Seldovia, Alaska
-cemetery_plot: 214
+cemetery_plot: 239
 source_file: Cemetery Directory
 ---
 **FREDERICK HANS ELVSAAS** was born May 28, 1933, in Seldovia, Alaska to [**Herman and Agnes (Ponchene) Elvsaas**](../_families/Elvsaas_Family.md). He married [**Gladys SIMEONOFF Ogle**](./Elvsass_Gladys_Ogle.md)and they raised seven children.

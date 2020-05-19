@@ -9,7 +9,7 @@ death_location: Anchorage, Alaska
 cemetery_plot: 371
 source_file: Cemetery Directory
 ---
-**Joseph Arthur KURTZ** 93, died August 29, 2003 at Providence Alaska
+**JOSEPH ARTHUR KURTZ, "Joe"** 93, died August 29, 2003 at Providence Alaska
 Medical Center of natural causes. A graveside service was held at
 Seldovia Cemetery. Mr. Kurtz was born October 31, 1909 in Monico,
 Wisconsin to Joseph and Ella Orth Kurtz. He completed high school.

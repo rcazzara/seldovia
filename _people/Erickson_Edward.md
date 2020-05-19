@@ -2,13 +2,12 @@
 last_name: Erickson
 first_name: Edward
 aka: Ed
+birth_date: 1884
 birth_location: Norway
+death_date: 1938
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 144
 source_file: Cemetery Directory
 ---
-**Edward  Ed Erickson** is buried in the Seldovia City Cemetery in plot 144.  The cause of death is unknown.
-
-City Records: "Drowned"
-
-Unmarked grave.
+**EDWARD ERICKSON, "Ed"** was born in 1884 in Norway. He immigrated in 1910 and was a fisherman in Valdez and Bristol before coming to Seldovia.  He died in Nov. 1938, Seldovia, as a result of drowning, at the age of 54.  He is buried in the Seldovia City Cemetery in Plot #144.  

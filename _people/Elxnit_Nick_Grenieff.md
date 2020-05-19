@@ -4,17 +4,15 @@ first_name: Nick Grenieff
 birth_date: 1903-11-03
 birth_location: Kodiak, Alaska
 death_date: 2001-05-26
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 227
 source_file: Cemetery Directory
 ---
-# Nicholai "Nick" Grenieff Elxnit
 
-**Nick Grienoff Elxnit** was born in Kodiak on Nov. 3, 1903, to
-Alexandra Fomin, of Aleut and Russian descent, and Harry Grienoff of
-Finland.
-
-Mr. Elxnit was born in Kodiak His stepfather was Alex Elxnit of
-Seldovia.
+**NICKOLAS GRENIEFF ELXNIT, "Nick"** was born in Kodiak on Nov. 3, 1903, to
+[**Alexandra Fomin Potorochin**](./Elxnit_Alexandria_Potorochin), of Aleut and Russian descent, and Harry Grienoff of
+Finland.  His stepfather was [**Alex Elxnit**](../_families/Elxnit_Family.md) of Seldovia.
 
 Following the Mount Katmai eruption in 1913, the family left Kodiak on
 the steamer Manning for Seldovia, where his maternal grandfather,

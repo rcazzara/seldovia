@@ -6,7 +6,7 @@ birth_date: 1920
 death_location: Seldovia, Alaska
 death_date: 1966
 death_location: Seldovia, Alaska
-cemetery:Seldovia City Cemetery
+cemetery: Seldovia City Cemetery
 cemetery_plot: 552
 family: Hunter
 source_file: Cemetery Directory

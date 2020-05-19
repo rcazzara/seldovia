@@ -2,17 +2,17 @@
 last_name: Faith
 first_name: Frank Lee
 aka: Frank
+birth_date: 1894-12-03
 birth_location: Indiana
 death_date: 1959-08-05
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 163
 source_file: Cemetery Directory
 ---
-# Frank Lee Faith
 
-**December 3, 1894,Vincennes, Indiana – August 5, 1959, Seldovia,
-Alaska**
 
-**Frank Lee Faith**, was born in Indiana on December 3, 1894 to Charles
+**FRANK LEE FAIH**, was born in Indiana on December 3, 1894 to Charles
 and Nora Faith, of Irish descent. In 1918 he was a private in the US
 Army Infantry embarking on the USS Moldavia from Brooklyn, NY. By 1920
 he was back in Indiana working alongside his father in a glass factory

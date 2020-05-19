@@ -6,11 +6,8 @@ birth_date: 1925-03-21
 birth_location: Alaska
 death_date: 1953-09-13
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 12
 source_file: Cemetery Directory
 ---
-**Theodore  Teddy Halvorsen** is buried in the Seldovia City Cemetery in plot 12.  The cause of death is unknown.
-
-City's Records list it as Halverson. The alphabetical list has Halvorson.
-
-Identified by his name on a stake
+**THEODORE HALVORSEN, "Teddy"** was born March 21, 1925 to [**Sigurd and Marie ANDERSON Halvorsen**](./Halvorsen_Sigurd.md) He married Flora Christofferson in Kodiak, Alaska.  He died September 13, 1953 and is buried in the Seldovia City Cemetery in Plot #12.  

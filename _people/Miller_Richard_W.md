@@ -9,7 +9,7 @@ death_location: San Rafael, California
 cemetery_plot: 71
 source_file: Cemetery Directory
 ---
-**Richard William MILLER**, who always went by the name of "Dick", was
+**RICHARD WILLIAM MILLER**, who always went by the name of "Dick", was
 born in San Francisco California on May 2, 1908 to William Otis Miller
 and Alma Amelia Hextrum Miller. He was the youngest of three brothers
 and they were raised in Marin north of San Francisco.
@@ -21,7 +21,7 @@ him a house if his father would send him to flying school. So Dick built
 a house of redwood logs that is still standing and then he went to
 flying school in Santa Maria, California.
 
-About that time Grace Gleason was arriving in California. She had been
+About that time [**Grace Gleason**](./Miller_Avery_Grace_Gleason.md) was arriving in California. She had been
 born on December 18, 1907 in Box Elder, Utah and she was of Mormon
 stock, although her family weren’t practicing Mormons. Her cousin had
 come to California before her and had married Dick’s older brother, so

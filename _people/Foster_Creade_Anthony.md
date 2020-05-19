@@ -6,10 +6,11 @@ birth_date: 1891-07-04
 birth_location: Eureka, California
 death_date: 1948-09-24
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 159
 source_file: Cemetery Directory
 ---
-**"Chuck", Crede Anthony Foster**, was born in Eureka, California on
+**CREDE ANTHONY FOSTER, "Chuck"**, was born in Eureka, California on
 July 4, 1891, to John and Sara Case Foster. In 1900 he is listed in an
 orphanage in Alameda, California with his brother Ray. By 1910 they are
 living with their mother Sara, who is listed as a widow, but probably

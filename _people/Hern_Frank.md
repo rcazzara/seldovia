@@ -5,10 +5,11 @@ birth_date: 1927-04-25
 birth_location: Santa Cruz, California
 death_date: 1966-04-28
 death_location: Aishihik, Yukon Territories, Canada
+cemetery: Seldovia City Cemetery
 cemetery_plot: 96
 source_file: Cemetery Directory
 ---
-**Frank Lyn Hern** was born on April 25, 1926 in Santa Cruz, California
+**FRANK LYN HERN** was born on April 25, 1926 in Santa Cruz, California
 to Royal Franklin and Ruby Alice (Powell) Hern. He attended Mission Hill
 school and later moved with his family to Seattle where he continued his
 schooling. Later his family returned to Santa Cruz where they again made

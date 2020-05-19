@@ -7,19 +7,16 @@ birth_date: 1879-0-14
 birth_location: Ninilchik, Alaska
 death_date: 1949-09-25
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 61
 source_file: Cemetery Directory
 ---
 
-# Demnina "NINA" OSKOLKOFF Edelman Matson
 
-**March 27, 1880, Ninilchik, Alaska – September 25, 1945, Seldovia,
-Alaska**
-
-**Nina** was the daughter of **Zakharii Oskolkoff** and **Elizaveta
-KNAGIN Oskolkoff** of Ninilchik, Alaska. She married first **Edvin
+**DEMNINA *OSKOLKOFF* EDELMAN MATSON** was the daughter of **Zakharii Oskolkoff** and **Elizaveta
+KNAGIN Oskolkoff** of Ninilchik, Alaska. She was born March 27, 1880 in Ninilchik, Alaska. She married first **Edvin
 "Edwin" Edelman**, an immigrant from Finland. After he died in 1928, she
-married [Andrew Matson](Andrew%20Matson%20and%20Edelman.docx), another
+married [** Andrew Matson**](./Matson_Andrew_Andy.md), another
 Finnish immigrant. She died in 1949 and while most of the family is
 buried in Ninilchik, there are quite a few here in Seldovia.
 

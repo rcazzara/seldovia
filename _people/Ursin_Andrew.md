@@ -4,6 +4,7 @@ first_name: Andrew
 birth_location: Harstad, Norway
 death_date: 1950-08-15
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 60
 source_file: Cemetery Directory
 ---

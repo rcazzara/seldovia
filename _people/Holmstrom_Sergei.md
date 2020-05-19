@@ -5,12 +5,13 @@ birth_date: 1902-11-29
 birth_location: Finland
 death_date: 1941-08-18
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 87
 source_file: Cemetery Directory
 ---
 # Sergei Holmstrom
 
-**Sergei was born in Alaska November 29, 1902 and died August 18, 1941
+**SERGAI HOLMSTROM** was the son of [**Anna Walnusson**](./Holmstrom_Anna_Walmusson.md) and her first husband whose last name was Slater.  When she married [**Gus Holmstrom**](./Holmstrom_Gustave_Edvard.md), the children took his last name. Sergai was born in Alaska November 29, 1902 and died August 18, 1941
 in Seldovia. He married Helen Nelson December 26, 1924 in Seldovia. His
 death was as a result of tuberculosis.**
 

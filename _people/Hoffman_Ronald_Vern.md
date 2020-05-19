@@ -8,8 +8,5 @@ death_date: 1979-11-01
 cemetery_plot: 261
 source_file: Cemetery Directory
 ---
-**Ronald Vern  Ron Hoffman** is buried in the Seldovia City Cemetery in plot 261.  The cause of death is unknown.
-
-Husband of Karen Workman Hoffman, brother of Dennis, son of LaVern
-
+**RONALD VERN HOFFMAN, "Ron"**, the son of [**LaVern and Lila HUNTINGTON Hoffman**](Hoffman_Lavern_Walter_Vern.md) was born in California on August 18, 1942.  He married [**Karen Workman**](./Hoffman_Karen_Workman.md) in California in 1962 He died at sea and his memorial is in the Seldovia City Cemetery in Plot #261.  T
 

@@ -9,8 +9,4 @@ death_location: Homer, Alaska
 cemetery_plot: 266
 source_file: Cemetery Directory
 ---
-**Lavern Walter Vern  Hoffman** is buried in the Seldovia City Cemetery in plot 266.  The cause of death is unknown.
-
-City records. Died Dec 17, 1982. Posted veteran marker)Father of Ron Hoffman
-
-Unmarked grave.
+**LAVERN WALTER HOFFMAN "Vern"** was born in Minnesota March 1, 1920. He married Lila Huntington and they were the parents of [**Ronald Hoffman**](./Hoffman_Ronald_Vern.md) and [**Dennis Walter Hoffman**](./Hoffman_Dennis_W.md). Vern died on December 17, 1982 in Homer, Alaska and is buried in the Seldovia City Cemetery in Plot #266.  

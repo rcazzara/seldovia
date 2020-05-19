@@ -5,12 +5,13 @@ birth_date: 1936-03-12
 birth_location: Sand Point, Alaska
 death_date: 1948-07-03
 death_location: Seldovia
+cemetery: Seldovia City Cemetery
 cemetery_plot: 119
 source_file: Cemetery Directory
 ---
 # Crickett Forrest
 
-**Leroy "Cricket" Forrest** was only 11 years old when he drowned in
+**LEROY FORREST, "Crickett"** was only 11 years old when he drowned in
 Seldovia on July 3, 1948. His mother was Helen Skinner of Unga Island,
 but he was living with his grandparents **Walter and Nellie
 Arkhimandritov Hansen Forrest** in Seldovia at the time of his death.

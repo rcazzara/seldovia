@@ -9,4 +9,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 244
 source_file: Cemetery Directory
 ---
-**Baby Boy Groothof** the son of [**Sandi Hansen**](./Hansen_Roy_Louis.md) only lived only a month and is buried in the Seldovia City Cemetery in plot 244.  
+**BABY BOY GROOTHOF** the son of [**Sandi Hansen**](./Hansen_Roy_Louis.md) only lived only a month and is buried in the Seldovia City Cemetery in plot 244.  

@@ -5,10 +5,11 @@ birth_date: 1909-09-23
 birth_location: Beaver, Alaska
 death_date: 1961-04-07
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 168
 source_file: Cemetery Directory
 ---
-**James Grafton MINANO**, "Jim", was born in Beaver, Alaska September
+**JAMES GRAFTON MINANO, "Jim"**, was born in Beaver, Alaska September
 23, 1909 to James **Minano** and Susie **SHUKSHALIK (**various
 spellings).
 

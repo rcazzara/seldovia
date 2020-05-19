@@ -10,4 +10,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 221
 source_file: Cemetery Directory
 ---
-**Lucille Ollestad  Hansen** the daughter of [**Tollak and Lucille Ollestad**](./Ollestad_Tollak_Bowitz) was born December 7, 1929.  She married [**Roy Louis Hansen**](./Hansen_Roy_Louis.md) in Seldovia. She died July 22, 1986, and is buried next to her husband in Seldovia City Cemetery, Plot \#221.
+**LUCILLE *OLLESTAD* HANSEN** the daughter of [**Tollak and Lucille Ollestad**](./Ollestad_Tollak_Bowitz) was born December 7, 1929.  She married [**Roy Louis Hansen**](./Hansen_Roy_Louis.md) in Seldovia. She died July 22, 1986, and is buried next to her husband in Seldovia City Cemetery, Plot \#221.

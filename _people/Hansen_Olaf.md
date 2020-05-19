@@ -10,4 +10,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 63
 source_file: Cemetery Directory
 ---
-**Olaf  Ole Hansen** was born in Sweden about 1890.  He was a seaman all of his life and died Jan 23, 1961 in Seldovia and buried is in Seldovia City Cemetery Plot #63.
+**OLAF HANSEN, "Ole"** was born in Sweden about 1890.  He was a seaman all of his life and died Jan 23, 1961 in Seldovia and buried is in Seldovia City Cemetery Plot #63.

@@ -1,12 +1,10 @@
 ---
 last_name: Hunter
-first_name: Rita May
+first_name: Rita 
+birth_date: 1943
 death_date: 1943-08-01
+cemetery: Seldovia City Cemetery
 cemetery_plot: 117
 source_file: Cemetery Directory
 ---
-**Rita May   Hunter** is buried in the Seldovia City Cemetery in plot 117.  The cause of death is unknown.
-
-Identified by City records with notation Baby. Hard to read middle name.
-baby
-Unmarked grave.
+**RITA MAY HUNTER** was born in Seldovia on August 1, 1943 She died in Seldovia in 1943and is buried in the Seldovia City Cemetery in Plot #117.  

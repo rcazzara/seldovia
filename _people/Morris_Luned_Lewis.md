@@ -2,24 +2,15 @@
 last_name: Morris
 maiden_name: Lewis
 first_name: Luned
+birth_date: 1885-04-13
 birth_location: Wales
 death_date: 1969-02-23
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 83
 source_file: Cemetery Directory
 ---
-# Luned LEWIS Morris
-
-**April 13, 1885, Dolgelly, Wales – February 23, 1969, Seldovia,
-Alaska**
-
-**Richard C. Morris** was born in Lancashire, England and came to Alaska
-at the turn of the 20<sup>th</sup> century to mine for gold. In 1907 he
-invested his savings in a small general store in Tofty, Alaska, becoming
-half owner. A few years later he moved the store to the more
-economically sound village o Nenana and did well. In 1918 he returned to
-Wales and married **Luned Lewis**, with whom he had corresponded for ten
-years. They returned to Nenana in the spring of 1919. In 1922 their son,
+**LUNED *LEWIS* MORRIS** was born in Wales April 13, 1885. She corresponded with [**Richard C. Morris**](./Morris_Richard_C.md) for 10 years when he was in Alaska and in 1918 he returned to Wales to marry her. They returned to Nenana, Alaska in the spring of 1919. In 1922 their son,
 Berwyn was born, but their happiness was short-lived when they lost him
 in the 1923 flu epidemic.
 
@@ -33,7 +24,7 @@ Grieving for their little son, the couple decided to make a change. They
 found a small store for sale in Seldovia and moved there in 1925. The
 small town had two churches, a school, one other store, a doctor and
 three very busy salteries. They moved into a small house built on
-pilings over the water. Their daughter **Luned MORRIS Inglima** was born
+pilings over the water. Their daughter [**Luned MORRIS Inglima**](./Inglima_Luned_Morris.md) was born
 in 1926 and the son **Richard Ardudury Morris**, "Dickie", in 1928.
 Things were going well and they built a new home overlooking the bay.
 

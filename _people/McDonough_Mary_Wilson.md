@@ -1,15 +1,21 @@
 ---
 last_name: McDonough
-maiden_name: Wilson
+maiden_name: Hunter
 first_name: Mary
-birth_location: King Cove, Alaska
+birth_date: 1903
+birth_location: Alaska
 death_date: 1947-07-17
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 85
 source_file: Cemetery Directory
 ---
-**Mary Wilson  McDonough** is buried in the Seldovia City Cemetery in plot 85.  The cause of death is unknown.
+**MARY *HUNTER* McDONOUGH**, daughter of William and Eva BACKOFF Hunter, was born December 1903  in King Cove Alaska. 
 
-City Records.
+She married Robert Mitchell on December 23, 1933. He died in 1934.  She then married Mr. Wilson
 
-1901 - 1946 (Marked with a white RussianOrthodox cross.
+She married [**Michael George McDonough**](./McDonough_Michael_George.md)
+
+
+
+She died July 17, 1947 and is buried in the Seldovia City Cemetery in plot 85.  

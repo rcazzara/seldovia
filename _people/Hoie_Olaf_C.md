@@ -2,14 +2,12 @@
 last_name: Hoie
 first_name: Olaf C.
 aka: Ole
+birth_date: 1882-05-07
 birth_location: Bergen, Norway
 death_date: 1965-01-29
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 192
 source_file: Cemetery Directory
 ---
-**Olaf C.  Ole Hoie** is buried in the Seldovia City Cemetery in plot 192.  The cause of death is unknown.
-
-Identified by City records. Died Feb 12, 1965.)
-
-(Unmarked grave.
+**OLAF C. HOIE, "Ole"** was born May 7, 1882 in Bergen, Norway. He arrived in Anchorage August 1920. He died in Seldovia January 29, 1965. There is no record of a marriage or children. He is buried in the Seldovia City Cemetery in Plot #192.  

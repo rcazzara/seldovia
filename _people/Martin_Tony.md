@@ -1,16 +1,16 @@
 ---
 last_name: Martin
 first_name: Tony
+birth_date: 1886-09-15
 birth_location: Bulgaria
 death_date: 1977-04-15
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 546
 source_file: Cemetery Directory
 ---
-# Tony Martin
 
-## September 15, 1886, Bulgaria – April 1977, Seldovia Alaska
-
-**Tony Dementroff Martin** was born September 15, 1886 in Toshevo,
+**TONY DEMENTROFF MARTIN** was born September 15, 1886 in Toshevo,
 Bulgaria. His native language was German. Census records indicate that
 he came to the US about 1906 and was living on the Kenai Peninsula as
 early as 1920, and in Seldovia by 1930. His naturalization papers from

@@ -3,13 +3,14 @@ last_name: Gruber
 first_name: Frank
 aka: Dusty
 birth_date: 1870-08-08
-birth_location: Missouri or Ohio
+birth_location: Marion, Ohio
 death_date: 1939-08-02
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 147
 source_file: Cemetery Directory
 ---
-**Frank S.** **Gruber** was born August 1870 in Marion, Ohio to John J.
+**FRANK S. GRUBER, "Dusty"** was born August 1870 in Marion, Ohio to John J.
 Gruber and Martha Sayers Gruber. His family moved to Shawnee, Kansas
 soon after that, and there Frank married Leila Matthews (1880-?). They
 had 3 children: Elizabeth Gruber Duchard/Moisant/Brown, (1901-1995),

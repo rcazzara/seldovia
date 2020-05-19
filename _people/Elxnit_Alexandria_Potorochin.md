@@ -2,12 +2,15 @@
 last_name: Elxnit
 maiden_name: Potorochin
 first_name: Alexandria
+birth_date: 1885-03-16
 birth_location: Kodiak, Alaska
 death_date: 1966-03-20
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 228
 source_file: Cemetery Directory
 ---
-**Alexandria Potorochin  Elxnit** is buried in the Seldovia City Cemetery in plot 228.  
+**ALEXANDRIA *POTOROCHIN* ELXNIT** is buried in the Seldovia City Cemetery in plot 228.  
 
 Alexsandra’s family, the Potorochins, lived for ten years in Eagle
 Harbor near Saltery Cove on Kodiak Island. According to the birth
@@ -25,15 +28,15 @@ Nicholas Fomin’s step-daughter.
 Alexsandra, known as Shura, married first on November 24, 1902, Harry
 (Rufus) Grenieff, Russian-born though of Finnish descent. As was custom,
 the church arranged the marriage between Rufus and Alexandra. The
-Grenieff’s had two children, Nicholas born November 3, 1903 in Kodiak,
+Grenieff’s had two children, [**Nicholas**](./Elxnit_Nick_Grenieff.md) born November 3, 1903 in Kodiak,
 and Dora, born on the Steamship DORA on November 2, 1905, while the ship
 traveled between Seldovia and Kodiak. Rufus died in Kodiak from
-pneumonia at an early age and Alexandra later married **Aleksandr
-Elxnit** who was born in 1867.
+pneumonia at an early age and Alexandra later married [**Aleksandr
+Elxnit**](../_families/Elxnit_Family) who was born in 1867.
 
 Her daughter Dora lived in Kodiak until 1913 when she moved to Seldovia
-and attended the Seldovia Territorial School. She married **\[Axel
-Ursin\]** of Seldovia and the couple had four children: Rayder, Laura,
+and attended the Seldovia Territorial School. She married [**Axel
+Ursin**](./Ursin_Axel.md) of Seldovia and the couple had four children: Rayder, Laura,
 Norman and Eleanor.
 
 

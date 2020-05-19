@@ -1,13 +1,18 @@
 ---
-full_name: "Hank Kroll"
+full_name: "Henry Kroll"
 last_name: "Kroll"
-first_name: "Hank"
+first_name: Henry
+aka: Hank
 source_file: "Hank Kroll"
-birth_location:
-death_location:
-cemetery_plot: 
+birth_date: 1904-04-09
+birth_location: New London, Wisconsin
+death_date: 1968-09-21
+death_location: Ferry, Alaska
+cemetery: not in cemetery
+
 ---
-# Hank Kroll
+
+**HENRY KROLL, "Hank"** was born in New London, Wisconsin on April 9, 1904. He died in Ferry, Alaska on September 21, 1968.
 
 ## Alaska's Mad Trapper 1949 Seldovia
 

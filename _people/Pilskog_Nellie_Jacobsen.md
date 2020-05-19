@@ -10,4 +10,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 30
 source_file: Cemetery Directory
 ---
-**Nellie JACOBSEN Pilskog** was born at Ellamar, Alaska and came to Seldovia as a child. She lived in Cordova, Seattle and Anchorage and came back to Seldovia with her husband [**Nels Pilskog**](./Pilskog_Nels_Rasmussen.md) in 1959.  She died July 16, 1978 and is buried in the Seldovia City Cemetery in plot 30. 
+**Nellie JACOBSEN Pilskog**, daughter of [**Nils and Irena Jacobsen**](./Jacobsen_Nels_John.md) was born at Ellamar, Alaska and came to Seldovia as a child. She lived in Cordova, Seattle and Anchorage and came back to Seldovia with her husband [**Nels Pilskog**](./Pilskog_Nels_Rasmussen.md) in 1959.  She died July 16, 1978 and is buried in the Seldovia City Cemetery in plot 30. 

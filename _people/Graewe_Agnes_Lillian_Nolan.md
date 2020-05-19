@@ -5,16 +5,13 @@ first_name: Agnes Lillian
 birth_location: Chicago, Illinois
 death_date: 1947-09-20
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 58
 source_file: Cemetery Directory
 ---
-# Agnes Lillian Nolan Graewe
 
-**November 13, 1882, Chicago, Illinois – September 20, 1947, Seldovia,
-Alaska**
-
-**Agnes Lillian** **Nolan** was born in Chicago, Illinois November 13,
-1882 to Joseph W. and Rachel Ford Nolan. She married Oscar **Graewe**
+**AGNES LILLIAN *NOLAN* GRAEWE** was born in Chicago, Illinois November 13,
+1882 to Joseph W. and Rachel Ford Nolan. She married **Oscar Graewe**
 (1887-1952) in Los Angeles on December 17, 1923. Oscar was from Itzehoc,
 Germany, near Hamburg and he became a naturalized US citizen while
 living in Seldovia in 1940. The Graewes lived in Seattle, Washington in

@@ -4,12 +4,14 @@ last_name: "Int Hout"
 first_name: "Esther"
 source_file: "Int Hout"
 birth_location:
-death_location:
-cemetery_plot: 
+death_date: 2015-08-31
+death_location: Seldovia, Alaska
+cemetery: not in cemetery
+
 ---
 # Esther
 
-In 1952, Tuggle Int-Hout’s bride-to-be, Esther, followed him to
+In 1952, [**Tuggle Int-Hout](./Int_Hout_Garland_Brooks_Tuggle.md)’s bride-to-be, Esther, followed him to
 Seldovia. Her plane ride from Anchorage to Homer left a lasting
 impression. "We were flying along and it was snowing and nasty. He (the
 pilot) said, ‘Can you see anything?’ and I said, ‘No,’ and he said,
@@ -79,6 +81,11 @@ fish. Esther and Tuggle are truly a couple of the Seldovia Gold Nuggets.
 I hope you might get to meet them one day\! For those of us who swim in
 the same pond, we love and respect the bigger fishes\!" *Mary Glover*
 Seldovia Gazette Summer 2005
+
+Her daughter Jan said that "Sunsets were my mom’s favorite part of the day and she always took time to watch them, commenting on how beautiful they were. I would like to leave a passage that my mom read the last day she was here with me from a small book of faith that she read each and every day!
+
+“Find Me in the midst of a maelstrom. Sometimes events whirl around you so quickly that they become a blur. Whisper My Name in recognition that I am still with you. Without skipping a beat in the activities that occupy you, you find strength and Peace through praying My Name. Later, when the happenings have run their course, you can talk with Me more fully.
+Accept each day just as it comes to you. Do not waste your time and energy wishing for a different set of circumstances. Instead, trust Me enough to yeild to My design and purposes. Remember that nothing can separate you from My loving Presence; you are Mine.” from Jesus Calling by Sarah Young. "
 
 **  
 **

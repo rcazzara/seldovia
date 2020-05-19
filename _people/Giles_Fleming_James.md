@@ -1,18 +1,14 @@
 ---
-full_name: "Fleming James Giles"
-last_name: "Giles"
-first_name: "Fleming James"
-source_file: "Giles Family"
-birth_location: "May 12, 1910, Washington "
-death_location: " February 8, 1971, Alaska"
-cemetery_plot: 
+last_name: Giles
+first_name: Fleming James 
+birth_date: 1910-05-12
+birth_location: Washington
+death_date: 1971-02-08
+death_location: Alaska
+cemetery: not in cemetery
+family: Giles
 ---
-# Fleming James Giles
-
-
-
-**Fleming Giles married Helen Winnifred Laizure, born Ocober 21, 1908,
-died January 10, 1994. They had three children, Gordon, Peggy
+**FLEMING JAMES GILES** was born in King County, Washington on May 12, 1910.  He married [**Helen Laizure**](./Giles_Helen_L_Laizure.md)  They had three children, Gordon, Peggy
 (Boscacci), and Carol. They are buried side-by-side in the Seldovia City
 Cemetery, Plots \#258 and \#259.**
 

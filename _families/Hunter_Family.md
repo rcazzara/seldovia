@@ -32,9 +32,9 @@ buried beside each other in Seldovia City Cemetery, Plots \#90 and \#91.
 > Mary and Michael McDonough are buried in Seldovia City Cemetery, Plots
 > \#85 and \#156.
 > 
-> **William Hunter** b. 1920, d. 1966, William and two Seldovia friends
+> [**William Hunter**](../_people/Hunter_William.md) b. 1920, d. 1966, William and two Seldovia friends
 > were killed in a house fire in Seldovia in 1966. He is buried in
 > Seldovia City Cemetery, Plot \#552.
 > 
-> **Sam Hunter**, b. Aug. 20, 1916, d. May 1951; buried in Seldovia City
+> [**Sam Hunter**](../_people/Hunter_Sam.md), b. Aug. 20, 1916, d. May 1951; buried in Seldovia City
 > Cemetery, Plot \#106.

@@ -1,16 +1,18 @@
 ---
 last_name: Ketourakis
-first_name: John
+first_name: John Anton
 aka: Russian John
-birth_location: Lithuania
+birth_date: 1874-11-30
+birth_location: Kovna, Lithuania
 death_date: 1944-02-19
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 174
 source_file: Cemetery Directory
 ---
-***John Ketourakis,** was known as "Russian John" in Seldovia**. There
+**JOHN ANTON KETOURAKIS,** born November 30, 1874 in Kovna, Lithuania, was known as "Russian John" in Seldovia**. There
 were a number of "Russian John’s" in Alaska in its early days and
-there’s even a Russian John Creek. Our Russian John** was actually
+there is even a Russian John Creek. Our "Russian John" was actually
 born in Lithuania in 1874, and depending on his ethnic background he may
 or may not have appreciated the name.
 
@@ -55,10 +57,10 @@ Lithuanians living in all the provinces now covered by Lithuania, 93
 percent were peasants, 4 percent city dwellers, 3 percent gentry. Only
 14 Lithuanians identified themselves as merchants.
 
-So, the first we know of John is that in 1897 filed for US citizenship
-in Philadelphia , probably soon after he arrived. When he registered for
+So, the first we know of John is that in 1897 he filed for US citizenship
+in Philadelphia , probably soon after he arrived. In 1902 he was living in Seattle, and was a member of the Cooks and Waiters Union. When he registered for
 the draft in WWI he owned a restaurant in Nenana. He was living in
-Seldovia by 1930 and 1940 and he was a restaurant operator. He again
+Seldovia in 1930 and 1940 and he was a restaurant operator. He again
 filed for US citizenship in 1941, from Seldovia, but he died before his
 application was completely processed. He was 69 years old at the time of
 his death of heart failure on February 19, 1944. He is buried in the

@@ -3,13 +3,15 @@ full_name: "David John \"Eric\" Erickson"
 last_name: "Erickson"
 first_name: "David John \"Eric\""
 source_file: "David John Ericson"
-birth_location:
-death_location:
+birth_date: 1943-08-14
+birth_location: Cheyenne, Wyoming
+death_date: 2015_10-06
+death_location: Oro Valley, Arizona
+cemetery: not in cemetery
 cemetery_plot: 
 ---
-# [David John "Eric" Erickson](http://www.seldovia.com/david-john-eric-erickson/)
 
-Posted: 13 Oct 2015 04:01 PM PDT
+**DAVID JOHN ERICKSON, "Eric"**
 
 *Submitted by Frieda Erickson*
 

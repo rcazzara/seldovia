@@ -7,5 +7,5 @@ birth_location:
 death_location:
 cemetery_plot: 
 ---
-# Halversen Family
+# Halvorsen Family
 

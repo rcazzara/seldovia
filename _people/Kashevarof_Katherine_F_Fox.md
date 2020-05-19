@@ -6,10 +6,11 @@ birth_date: 1906-05-06
 birth_location: Unga Island, Alaska
 death_date: 1998-03-22
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 224
 source_file: Cemetery Directory
 ---
-**Katherine FOX Kashevarof**, was born May 6, 1906, in Unga. Her father,
+**KATHERINE *FOX* VINBERG KASHEVAROF**, was born May 6, 1906, in Unga. Her father,
 Thomas Fox, was from England. Thomas was a member of the Roman Catholic
 Church and served in His Majesty's Navy in England. He emigrated on the
 sailing ship SERVIA, from Sydney, Australia, arriving in America on 1
@@ -38,5 +39,5 @@ the ''Katie K.'' in her honor. In 1996, she was named CITC's Elder of
 the Year and a large 90th birthday party was held in her honor. She had
 lived in Anchorage in the Robert Rude Center until her death on March
 22, 1998, at the age of 91. She was buried in Seldovia Cemetery, next to
-her daughter, **Diane Helena Kashevarof**. Diane died in Anchorage on
+her daughter, [**Diane Helena Kashevarof**](./Kashevarof_Diane.md). Diane died in Anchorage on
 October 20, 1959. She was 16 years old.

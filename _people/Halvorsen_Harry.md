@@ -8,8 +8,4 @@ death_location: Anchorage, Alaska
 cemetery_plot: 33
 source_file: Cemetery Directory
 ---
-**Harry   Halvorsen** is buried in the Seldovia City Cemetery in plot 33.  The cause of death is unknown.
-
-City records the spelling in both lists Harry Halvorson. Died Sep 3, 1967 with a notation Anchorage. Son of Sig and Marie Anderson Halverson
-
-Identified by his name on a stake.
+**HARRY HALVORSEN**, the son of [**Sigurd and Marie Anderson Halverson**](./Halvorsen_Sigurd.md), was born in Seldovia, Alaska October 9, 1932.  He died in Anchorage on September 3, 1967 and is buried in the Seldovia City Cemetery in plot 33.  

@@ -4,12 +4,12 @@ last_name: "Hilts"
 first_name: "David"
 source_file: "Hilts FAMILY"
 birth_location:
-death_location:
-cemetery_plot: 
+death_location: at sea Cook Inlet, Alaska
+cemetery: not in cemetery 
+cemetery_plot: Outside Beach, Seldovia, Alaska
 ---
-# David Hilts
 
-  - **February 22, 1987, at sea**
+**David Hilts** the son of Rodney and Sunni Hilts, died on February 22, 1987 at sea.  Andy Anderson describes the tragedy: 
 
 On February 22, 1987, while setting king crab pots off of Augustine
 Island in Kamashak Bay area, David was swept overboard by a rogue wave.
