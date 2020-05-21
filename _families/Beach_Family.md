@@ -9,7 +9,7 @@ cemetery_plot: 135
 ---
 # Beach Family
 
-**Zenas Beach** was born January 16, 1890 in Vancouver, Canada. In 1921,
+**Zenas Beach** was born January 16, 1890 in Vancouver, Canada. In 1920, he was living in Seldovia, Alaska with his father Wade Hampton Beach and his brother, Jerome. They were all fishermen for a cannery there. In 1921,
 at age 29, Zenas was inducted from Anchorage, Alaska into the US Army.
 That same year he married Barbara Marka in Seldovia. His occupation was
 "cannery worker".
@@ -30,6 +30,6 @@ SeaTac, WA. His military headstone states: Alaska - PVT US Army WWI born
 
 Children buried in the Seldovia City Cemetery:
 
-**Benjamin** **BEACH**, born 1926, Plot \#135.
+[**Benjamin** **BEACH**](../_people/Beach_Benjamin.md), born 1926, Plot \#135.
 
-**Eva** **BEACH,** born 1936, Plot \#134.
+[**Eva** **BEACH,**](../_people/Beach_Eva.md) born 1936, Plot \#134.
