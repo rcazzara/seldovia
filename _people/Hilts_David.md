@@ -5,11 +5,12 @@ first_name: "David"
 source_file: "Hilts FAMILY"
 birth_location:
 death_location: at sea Cook Inlet, Alaska
-cemetery: not in cemetery 
-cemetery_plot: Outside Beach, Seldovia, Alaska
+cemetery: "Outside Beach, Seldovia, Alaska"
 ---
 
-**David Hilts** the son of Rodney and Sunni Hilts, died on February 22, 1987 at sea.  Andy Anderson describes the tragedy: 
+**David Hilts** the son of Rodney and Sunni Hilts, died on February 22, 1987 at sea.  
+
+Andy Anderson describes the tragedy: 
 
 On February 22, 1987, while setting king crab pots off of Augustine
 Island in Kamashak Bay area, David was swept overboard by a rogue wave.
@@ -29,6 +30,7 @@ local residents continued the search, hoping to bring a sense of
 closure. The family was given permission by the city of Seldovia to
 erect a memorial in honor of David at the Outside Beach park. On a knoll
 overlooking Kachemak Bay, Lower Cook Inlet, and the Kamashak Bay area,
-they built a bench for all of us to go to pay our respects. (Summarized
-from "Alaska Bush Cop: The Beginning" by Andy Anderson, 2019.)
+they built a bench for all of us to go to pay our respects. 
+
+_Summarized from "Alaska Bush Cop: The Beginning" by Andy Anderson, 2019._
 
