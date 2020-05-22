@@ -8,7 +8,7 @@ birth_location: "Seldovia, Alaska"
 death_date: 2014-01-19
 death_location: "Seldovia, Alaska"
 cemetery: Seldovia City Cemetery
-Family: Sorokovikoff, Wilson
+Family: "Sorokovikoff, Wilson"
 cemetery_plot: 199
 ---
 
