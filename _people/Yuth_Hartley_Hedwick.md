@@ -11,7 +11,7 @@ source_file: Cemetery Directory
 ---
 # Hartley Hedwick YUTH
 
-[Matt and Eugenia Yuth](YUTH_Family.md) were the parents of **Hartley Hedwick Yuth** who
+[Matt and Eugenia Yuth](../_families/Yuth_Family.md) were the parents of **Hartley Hedwick Yuth** who
 was raised in Seldovia and entered the U.S. Army in 1945. He had previously been
 employed as a commercial fisherman. Mr. Yuth was a member of the
 Veterans of Foreign Wars, the Seldovia Native Corp., and Cook Inlet

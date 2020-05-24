@@ -1,7 +1,7 @@
 ---
-full_name: "Alice OLLESTADT Carlough"
+full_name: "Alyce OLLESTAD Carlough"
 last_name: "Carlough"
-first_name: "Alyce Ollestadt"
+first_name: "Alyce Ollestad"
 source_file: "James Howard Carlough"
 birth_date: 1920-05-16
 birth_location: Seldovia, Alaska
@@ -10,11 +10,11 @@ death_location: Edmonds, Washington
 cemetery_plot: 
 ---
 
-**ALYCE *OLLESTADT* CARLOUGH** was born on May 16, 1920, in Seldovia, Alaska.
+**ALYCE *OLLESTAD* CARLOUGH** was born on May 16, 1920, in Seldovia, Alaska.
 Her father was [Tollak Ollestad](../_families/Ollestad_Family.md), and her
 mother [**Lucille Cleghorn**](./Ollestad_Lucille_Cleghorn.md). She married **\[Fredrick Oscar Monson\]** and
 they had three children together. She then married **Howard P
-Carlough,** son of Joseph and Aphanasia "Jessie" Carlough, on December
+Carlough,** son of [**James and Aphanasia "Jessie" Carlough**](./Carlough_James_Howard.md), on December
 17, 1954, in Seldovia, Alaska. She died on October 21, 2004, in Edmonds,
 Washington, at the age of 84. Her memorial is at the Seldovia City Cemetery, Plot #193.
 

@@ -9,21 +9,20 @@ cemetery_plot: 552
 ---
 # HUNTER Family
 
-**William J. Hunter** was born in 1853 in Illinois. In 1900 he was
-living at Ft. Kenai with his wife "Eve" Odoyiah Backof but he listed his home
-address as Baker City, Oregon. He was working as a miner in Alaska but
+**William J. Hunter** was born in 1853 in Illinois to David and Sarah Hunter. By 1900 he was
+already living at "Ft. Kenai" with his wife "Eve" Odoyiah Backof. At the time he listed his  home address as Baker City, Oregon. He was working as a miner in Alaska but
 was a farmer in Oregon. They were still in Kenai in 1910, with children
 William, Mary, Theodore, Alice, and Lizzie. He died in 1917 in Kenai,
 leaving his wife with seven young children. She married Wassilie Bayou
 in 1925.
 
-**Eva ODOYIAH BACKOFF Hunter Bayou** b. 1882, d. 1937, married 1st
+[**Eva ODOYIAH BACKOFF Hunter Bayou**](../_people/Bayou_Eva_Hunter.md) b. 1882, d. 1937, married 1st
 William Hunter, 2<sup>nd</sup> Wassilie Bayou. Eva and Wassilie are
 buried beside each other in Seldovia City Cemetery, Plots \#90 and \#91.
 
 > Children of Eva and William Hunter include:
 > 
-> **Mary Hunter McDonough** married Unknown Wilson, and had two
+> [**Mary Hunter McDonough**](../_people/McDonough_Mary_Wilson.md) married Unknown Wilson, and had two
 > children, Anna and Albert. They divorced and she married Robert
 > Mitchell in 1933. After his death in 1934, she married **Michael
 > George McDonough**. Michael was born in Saganaw, Michigan March 28,
@@ -38,3 +37,13 @@ buried beside each other in Seldovia City Cemetery, Plots \#90 and \#91.
 > 
 > [**Sam Hunter**](../_people/Hunter_Sam.md), b. Aug. 20, 1916, d. May 1951; buried in Seldovia City
 > Cemetery, Plot \#106.
+
+    Theodore Hunter (1906-1980); was a railroad
+    
+    Alice HUNTER McMeeken (1908-1989); married Edward Gordon McMeeken; died in Washington
+    
+    Elizabeth (Lizzie) Hunter (1910-?)
+    
+    Mildred HUNTER Scrape (1915-1956), married Grover Scrape, died in San Rafael, California
+    
+    Nicholas Hunter (1913-?)

@@ -28,3 +28,4 @@ Seldovia. In several of the canneries, he worked his way up to being
 superintendent. He also worked as a store manager in Seldovia and
 Seward.
 
+![](../assets/images/BRUN%20Family/media/image1.jpeg)

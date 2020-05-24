@@ -11,15 +11,21 @@ cemetery_plot: 241
 source_file: Cemetery Directory
 ---
 
-[**Eugenia Virginia OSKOLKOFF Yuth**](./YUTHFamily.md) was born Dec. 19, 1897 in Ninilchik,
+**Eugenia Virginia OSKOLKOFF Yuth**was born Dec. 19, 1897 in Ninilchik,
 Alaska. The Oskolkoff family, headed by a Russian man and Alutiq woman,
-was one of the first to permanently settle in Ninilchik in 1847. Many researchers believe hat Ninilchik developed as a "retirement community" for Russian and Creole families when they chose to stay in Alaska rather than go back to Russia. Oskolkoff
+was one of the first to permanently settle in Ninilchik in 1847. Many researchers believe that Ninilchik developed as a "retirement community" for Russian and Creole families when they chose to stay in Alaska rather than go back to Russia. Oskolkoff
 descendants, who often married Alutiiq, made up most of the village and
 spoke a Russian dialect that persisted even into the 21<sup>st</sup>
 century.
 
+Eugenia married [**Matt Yuth**](../_families/Yuth_family.md) in Seldovia in 1921. Matt and Eugenia raised eight children in Seldovia before his health failed and he went off to Sitka's Pioneer Home until his death in 1952.
+
+Their son [**Hartley Hedwick Yuth**](./Yuth_Hartley_Hedwick.md) is buried in the Seldovia City Cemetery, Plot #268
+
 Eugenia died Nov. 23, 1970 in Seldovia, Alaska and is buried in the
 Seldovia City Cemetery, Plot \#241.
+
+
 
 .
 

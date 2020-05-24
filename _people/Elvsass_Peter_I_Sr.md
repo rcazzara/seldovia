@@ -1,5 +1,5 @@
 ---
-last_name: Elvsass
+last_name: Elvsaas
 first_name: Peter I. Sr
 birth_date: 1930-10-15
 death_date: 2003-06-03

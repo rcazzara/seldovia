@@ -92,3 +92,11 @@ more and better seeds."
 When water lines were excavated at the base of a hill above the power
 plant, Cap’s grave was found and reburied in about the same place. There
 doesn’t seem to be any kind of marker there.
+
+![](../assets/images/Albert%20Filmore/media/image1.jpeg)
+
+![](../assets/images/Albert%20Filmore/media/image2.jpeg)
+
+![](../assets/images/Albert%20Filmore/media/image3.jpeg)
+
+Cap's Hill being blasted during Urban Renewal Project after 1964 Earthquake

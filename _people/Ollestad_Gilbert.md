@@ -13,6 +13,8 @@ source_file: Cemetery Directory
 
 He was a respected leader in the Alaskan Native community serving on the board of directors of Chugach Alaska Corporation for 25 years from its inception. He had a life-long affinity for the beauty of nature having spent so much of his life in the great outdoors. He remained active throughout his life and loved a good brisk walk. He was always concerned about the well-being of others, willing to lend a helping hand whenever needed. He maintained his sense of humor entertaining us with his rendition of many stories and characters from his life. He will be remembered for his kind, gracious, benevolent and loving spirit. He was the patriarch of our family, a dear and precious soul and will be greatly missed.  He was preceded in death by his eldest son Gilbert (Bovitz) and eight of his siblings. He is  survived by his sons Burt, Jeff and Tollak and daughter Onnolee, their mother Anna June, along  with 5 grandchildren, three great grandchildren, sister Thelma Patton and partner Caroline Toloff.
 
+Gilbert Ollestad married Anna Wilson, daughter of [**Mary Hunter**](./McDonough_Mary_Wilson) and James Wilson. 
+
 He died August 10, 2013, in Seward, Alaska. His memorial is at the Seldovia City Cemetery Plot #193.
 
 

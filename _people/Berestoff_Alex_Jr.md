@@ -10,4 +10,4 @@ cemetery_plot: 22
 family: Berestoff
 source_file: Cemetery Directory
 ---
-**ALEX BERESTOFF, Jr.** is buried in the Seldovia City Cemetery in Plot #22.  
+**ALEX BERESTOFF, Jr.** a member of the [**Berestoff**](../_families/Berestov_Berestoff_Family.md) family, is buried in the Seldovia City Cemetery in Plot #22.  

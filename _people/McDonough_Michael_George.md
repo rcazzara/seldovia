@@ -10,7 +10,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 156
 source_file: Cemetery Directory
 ---
-**MICHAEL GEORGE McDONOUGH, "Mike"** was born in Saginaw, Michigan on March 28, 1903. He married [**Mary Wilson**](./McDonough_Mary_Wilson.md).  He died on October 16, 1945 as a result of gunfight.  He is buried in the Seldovia City Cemetery in plot 156.  
+**MICHAEL GEORGE McDONOUGH, "Mike"** was born in Saginaw, Michigan on March 28, 1903. He married [**Mary Hunter Wilson**](./McDonough_Mary_Wilson.md).  He died on October 16, 1945 as a result of gunfight.  He is buried in the Seldovia City Cemetery in plot 156.  
 
 Review of Appeal of Defendant:
 ORR, Circuit Judge.

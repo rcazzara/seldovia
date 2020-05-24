@@ -19,7 +19,7 @@ married Karl Konig and in 1920 Hettie and her sister Freida were living
 with their stepfather and Helen’s Konig children in McGrath. Since
 Hettie and Freida are listed with the last name Conrad, their mother may
 have been married to a Conrad before Carl Konig. In McGrath Hettie met
-**Leroy Crawford** and they married and had three children: John, Helen
+[**Leroy Crawford**](../_families/Crawford_Family.md) and they married and had three children: John, Helen
 (Nagy) and Diane. The family moved from McGrath to Anchorage, Fairbanks,
 and eventually Seldovia in about 1948. Leroy worked on fishing tenders
 boats and later had his own machine shop. He died in Seward in 1973.

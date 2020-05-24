@@ -11,7 +11,7 @@ cemetery_plot: 187
 source_file: Cemetery Directory
 ---
 
-**WILLIAM A. CARLOUGH, "Bill.** was the son of [**James Howard Carlough**](./Carlough_James_Howard.md) and Jessie Moonin. When
+**WILLIAM A. CARLOUGH, "Bill.** was the son of [**James Howard Carlough**](./Carlough_James_Howard.md) and [**Jessie Moonin**](./Barnhardt_Jessie_Moonin.md). When
 William A Carlough and his twin brother Patrick Mike were born on
 November 22, 1918, in Port Graham, Alaska, their father, James, was 25,
 and their mother, Aphanasia – "Jessie"- was 20. He married [Emamarie

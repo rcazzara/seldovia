@@ -9,11 +9,11 @@ cemetery_plot:
 ---
 # Berestoff (Berestov) Family
 
-**Alex Berestoff** d. June 1, 1960.
+[**Alex Berestoff**](../_people/Berestoff_Alex_Sr.md) d. June 1, 1960.
 
-**Alex Berestoff, Jr.** d. August 22, 1953
+[**Alex Berestoff, Jr.**](../_people/Berestoff_Alex_Jr.md) d. August 22, 1953
 
-**Anesiem Berestoff** d. February 1, 1951. Anesiem **Berestoff**, son of
+[**Anesiem Berestoff**](../_people/Berestoff_Anesiem_Jr.md) d. February 1, 1951. Anesiem **Berestoff**, son of
 Phillip and grandson of Chief Feodor **Berestoff** was born February 28,
 1910 in Seldovia to Phillip and Liubov Chainyi **Berestoff** .
 
