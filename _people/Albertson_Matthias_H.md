@@ -18,4 +18,5 @@ living in Seattle, Washington, where he had married Thelma WARRICK
 with a son Gene Allen Albertson, born in 1931. Matt died on January 10,
 1954 and has the distinction of having been buried in the Seldovia City
 Cemetery Plot \#1, even though his was not the first burial.
+
 ![](../assets/images/Matt%20Alberton/media/image1.jpeg)
