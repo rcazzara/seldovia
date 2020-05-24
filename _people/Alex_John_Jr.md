@@ -18,5 +18,6 @@ identified in the Seldovia City Records as John Alex Reese because he
 was living with the Reese family at the time of his death.
 
 
+
 ![](../assets/images/Edelman/media/image1.jpeg)
 
