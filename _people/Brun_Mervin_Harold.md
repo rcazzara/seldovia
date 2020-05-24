@@ -12,6 +12,8 @@ cemetery_plot: 566
 family: Brun
 ---
 
+![](../assets/images/BRUN%20FAMILY/media/image1.jpeg)
+
 **MERVIN HOWARD [BRUN**](../_families/Brun_Family.md) was born November 16, 1921, in Chignik. As a child, he
 attended school from April to September. Many times his was one of only
 two families to stay in Chignik the entire winter, while the rest of the
@@ -28,5 +30,5 @@ Seldovia. In several of the canneries, he worked his way up to being
 superintendent. He also worked as a store manager in Seldovia and
 Seward.
 
-![](../assets/images/BRUN%20FAMILY/media/image1.jpeg)
+
 
