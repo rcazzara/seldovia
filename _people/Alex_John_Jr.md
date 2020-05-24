@@ -16,3 +16,8 @@ takeoff from Seldovia. He is buried in Seldovia City Cemetery Plot \#2.
 His gravestone was erected by his friend and teacher Francis. He is
 identified in the Seldovia City Records as John Alex Reese because he
 was living with the Reese family at the time of his death.
+
+
+
+![](../assets/images/Edelman/media/image1.jpeg)
+

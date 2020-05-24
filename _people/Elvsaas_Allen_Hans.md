@@ -8,9 +8,9 @@ birth_location: Seldovia, Alaska
 death_date: 1970
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
-family:Elvsaas
+family: Elvsaas
 cemetery_plot: 236
 ---
 
-**ALLEN HANS ELVSAAS** was born in 1953 to **Fred and Gladys SIMEONOFF [Elvsaas**](../_families/Elvsaas_Family.md). He drowned in Seldovia July 1970.  He is buried in the Seldovia City Cemetery in Plot #236.
+**ALLEN HANS ELVSAAS** was born in 1953 to **Fred and Gladys SIMEONOFF [Elvsaas](../_families/Elvsaas_Family.md)**. He drowned in Seldovia July 1970.  He is buried in the Seldovia City Cemetery in Plot #236.
 

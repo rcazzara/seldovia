@@ -6,10 +6,9 @@ source_file: "Edelman FAMILY"
 
 The **Edelman** family in Alaska begins with (Edvin Jacobsen) **“Edwin” Edelman** who was born in Porvoo ,Uusimaa, Finland on February 11, 1856.  At that time Finland was under the authority of Russia, so he may have come to Alaska as part of a Russian connection. He declared his loyalty to the US in 1883 and became a naturalized US citizen in 1915.  In 1900 he was living in “Fort Kenai” Alaska and already married to **Demnina Oskolkoff**, (b. Alaska 1879-d. 1949) the daughter of Zakharii and Elizaveta KNAGIN Oskolkoff. They had two children, Nina and Zacharias.  He was listed as a miner and his mailing address was San Francisco, California. By 1910 there were five more children.
 
-
 ![](../assets/images/Edvin%20and%20Demnina%20Oskolkoff%20Edelman/media/image1.jpeg)
 
-
+CHILDREN:
 - [**NINA EDELMAN LUND**](../_people/Lund_Nina_E_Edelman.md) was born on March 10, 1896, in Kenai, Alaska.  She married Carl John Lund and they had three sons John, Carl, and Albert and five daughters, Agnes, Virginia, Mathilde, Dolly, and Jean between 1915 and 1926. She died in December 1977 in Seldovia, Alaska, at the age of 81.
 
 - JACOB “JACK” EDELMAN, born July 26, 1900 in Kenai, married PAULINE JULIUSSEN ON April 25, 1937. Pauline was the daughter of James Juliussen who had immigrated to the US from Norway, and his wife, Anna. They lived in Kenai as well.  Jack and Pauline moved to Seldovia where they had three children, Richard, Jacqueline and Shirley.  On August 27, 1951 Pauline and Jackie were killed in Seldovia when the small plane they were in crashed upon takeoff.  Also killed was Seldovia resident John Alex. Pauline and Jacqueline are buried in adjacent graves in Seldovia City Cemetery.

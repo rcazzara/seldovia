@@ -38,7 +38,7 @@ Norway November 11,1895. He came to the US in 1924 and was naturalized
 in 1934. In 1940 he was listed in the US Census in Seattle, WA as a
 fisherman. He died in Seldovia, Alaska on September 23, 1946
 
-**\* Julius Christiansen** married Annie Bloch, daughter of Adam Bloch
+**Julius Christiansen** married Annie Bloch, daughter of Adam Bloch
 and his first wife, Anny-Anna (Malakoff) Bloch in about 1894 in Alaska.
 He was born between Nov 1855 and Nov 1859 in Norway. A notice in the 2
 Aug 1930 edition of The Fairbanks Daily News Miner reads, "DOING WELL IN
@@ -111,8 +111,8 @@ Tanka in 1933. They had two sons, Nick and Harry Hogenson. He died Aug.
 Anchorage August 1920. He died in Seldovia January 29, 1965. There is no
 record of a marriage or children.
 
-**Peter Jackson (**father of **Peter Jackson** born in Valdez August 13,
-1898. Pete, Jr. was a life-long fisherman throughout Southcentral
+**Peter Jackson (**father of **Peter Jackson** born in Valdez
+August 13, 1898. Pete, Jr. was a life-long fisherman throughout Southcentral
 Alaska, but in 1942 he was registered for WWII draft while living in
 Seldovia. He died in Seldovia in 1962**.**
 
@@ -313,8 +313,8 @@ Andy married **Harriett Susanna Bowen** in Kodiak, Alaska. She was born
 They had 8 daughters; five died young and the survivors were Susan
 (Mrs. Leo Haskin), Hattie (Mrs. Tom Fox), and Elsie.
 
-**Matt Yuth** was born in Finland Nov. 1871 and immigrated to the US in
-1888. He was granted citizenship in Wisconsin in 1901 and naturalized
+**Matt Yuth** was born in Finland Nov. 1871 and immigrated to the US
+in 1888. He was granted citizenship in Wisconsin in 1901 and naturalized
 there in 1919. He migrated to Seldovia in 1934 and died there in 1952.
 
 He was the husband of **Eugenia Virginia Oskolkoff Yuth** who was born
