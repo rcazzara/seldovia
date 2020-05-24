@@ -15,6 +15,9 @@ cemetery_plot:
 
 ## 1945– June 19, 2016 Seldovia, Alaska
 
+
+![](../assets/images/Craig%20Higman/media/image1.jpeg)
+
 **CRAIG HIGMAN, "Higgy"** passed away on June 19 in Homer, by the side of
 his son, Bretwood "Hig" Higman. He had been out for a walk in Seldovia,
 his home for 39 years, when he fell and hit his head. By the time he
