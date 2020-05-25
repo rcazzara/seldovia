@@ -52,12 +52,14 @@ Territorial Government was responsible for the education of white
 children: the U.S. Bureau of Education supported schools for Natives.
 Territorial statutes required a minimum of 10 white children for
 establishment of a school district. The proposed Wiseman district had
-only 8, but with the Minano offspring (Japanese/Native mix) there were
-12. When Ben Moses, the teacher at Koyukuk Station heard that Jim and
+only eight, but with the Minano offspring (Japanese/Native mix) there were
+twelve. When Ben Moses, the teacher at Koyukuk Station heard that Jim and
 Walter were not going to school, he arranged to have them sent from
 Coldfoot to Eklutna on the Teddy H. Soon after, James Sr. grew homesick
 for his sons and, taking Buddy with him, left the rest of the family in
-Coldfoot and moved to Eklutna in 1927.
+Coldfoot and moved to Eklutna.
+
+
 ![](../assets/images/James%20Grafton%20Minano/media/image1.jpeg)
 
 By the 1930 US Census, Jim and Walter had finished school but they were

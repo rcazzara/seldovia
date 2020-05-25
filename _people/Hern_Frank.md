@@ -147,38 +147,21 @@ scene last night. Jense
 **Aviation Safety Network**:
 <https://aviation-safety.net/wikibase/wiki.php?id=5932>
 
-Date: 28-APR-1966
-
-Time: 19:41
-
-Type: Silhouette image of generic C150 model; specific model in this
-crash may look slightly different
-
-Cessna 150F
-
-Owner/operator: Private
-
-Registration: N6934F
-
-C/n / msn: 150-63564
-
-Fatalities: Fatalities: 1 / Occupants: 1
-
-Other fatalities: 0
-
-Aircraft damage: Substantial
-
-Category: Accident
-
-Location: near Aishihik,Yukon Territories - Canada
-
-Phase: En route
-
-Nature: Private
-
-Departure airport: Fairbanks, Alaska, USA
-
-Destination airport: Tallahassee, Florida, USA
+  Date: 28-APR-1966
+  Time: 19:41
+  Type: Silhouette image of generic C150 model; specific model in this crash may look slightly different Cessna 150F
+  Owner/operator: Private
+  Registration: N6934F
+  C/n / msn: 150-63564
+  Fatalities: Fatalities: 1 / Occupants: 1
+  Other fatalities: 0
+  Aircraft damage: Substantial
+  Category: Accident
+  Location: near Aishihik,Yukon Territories - Canada
+  Phase: En route
+  Nature: Private
+  Departure airport: Fairbanks, Alaska, USA
+  Destination airport: Tallahassee, Florida, USA
 
 Narrative:
 
