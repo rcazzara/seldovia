@@ -10,7 +10,7 @@ death_location: Seldovia, Alaska
 cemetery: not in cemetery
 
 ---
-**JACK THOMAS** was born in California February 2, 1931. He came to Seldovia in 1968.
+![](../assets/images/Jack%20Thomas%20scrapbook/media/image1.jpeg)**JACK THOMAS** was born in California February 2, 1931. He came to Seldovia in 1968.
 
 Jack had worked for Jack Hopkins and Lloyd Wheeler on logging operations
 in California. In the mid-1960s logging operations in California got

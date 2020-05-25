@@ -11,7 +11,7 @@ cemetery_plot: 344
 family: Giles
 source_file: Cemetery Directory
 ---
-**ELAINE MERLE *STEURER* GILES** was born in Wisconsin on July 29, 1922.  She married [**Larry George Giles**](./Giles_Larry_George.md) one of two [Giles](../_families/Giles_Family.md) brothers who settled in Seldovia. December 21, 1944 in Chelan, Washington.  They raised five children.  Over the years, Elaine held numerous civic and
+![](../assets/images/Giles%20Family/media/image2.jpeg)**ELAINE MERLE *STEURER* GILES** was born in Wisconsin on July 29, 1922.  She married [**Larry George Giles**](./Giles_Larry_George.md) one of two [Giles](../_families/Giles_Family.md) brothers who settled in Seldovia. December 21, 1944 in Chelan, Washington.  They raised five children.  Over the years, Elaine held numerous civic and
 city positions. She was an active volunteer in many school and civic
 activities in the town she loved. Her daughter, Marillyn preceded her in
 death, and they are buried in the Seldovia City Cemetery, facing each
