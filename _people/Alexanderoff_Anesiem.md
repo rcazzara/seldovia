@@ -1,7 +1,7 @@
 ---
 last_name: Alexanderoff
 first_name: Anesiem
-birth_date: 1872
+birth_date: "1872"
 birth_location: Kodiak, Alaska
 death_date: 1945-06-27
 death_location: Seldovia, Alaska
