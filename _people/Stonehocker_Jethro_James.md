@@ -11,9 +11,6 @@ death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 148
 ---
-# Jethro James Stonehocker
-
-## Jan. 18, 1864, Montezuma, Iowa – May 10, 1939, Seldovia, Alaska
 
 **Jethro James "Jim" Stonehocker** was born January 18, 1874 in Montezuma, Iowa to Perry Stonehocker and Sarah Ann Sargood Stonehocker.  By 1900 the family had moved to Fulton, Missouri. There Jim met and married Ella Amanda Newland on June 6, 1902. They were living in Missouri in 1910 but his family says that James left for Alaska in 1919 and they never heard from him again!
 
