@@ -11,8 +11,7 @@ cemetery_plot: 314
 source_file: Cemetery Directory
 ---
 
-**DANIEL RICHARD BAINES, "Danny"**, was born in Ketchikan December 29, 1954. He grew up in Sitka but worked all over the state of Alaska.
-He worked on the Alaska Pipeline, at the Sitka Pulp Mill and in various
+**DANIEL RICHARD BAINES, "Danny"**, was born in Ketchikan December 29, 1954. He grew up in Sitka but worked all over the state of Alaska.  He worked on the Alaska Pipeline, at the Sitka Pulp Mill and in various
 locations within the fishing industry in Alaska. He held a master’s
 license from the U.S. Coast Guard. He was a truck driver at Red Dog Mine
 near Kotzebue at the time of his death. He enjoyed outdoor activities
