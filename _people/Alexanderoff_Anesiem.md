@@ -10,7 +10,7 @@ cemetery_plot: 25
 source_file: Cemetery Directory
 ---
 
-**ANESIEM ALEXANDEROFF** was born in Kodiak on March 1872. He lived on
+**ANESIEM ALEXANDEROFF** was born in Kodiak in March 1872. He lived on
 Woody Island, Kodiak in 1900 and had Otto Anderson, from Sweden as a
 lodger. In 1910 he lived with his parents, John and Leuboff (?)
 Alexandroff in Seldovia. In 1920 he and his wife Catherine were living
