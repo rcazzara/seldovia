@@ -25,6 +25,9 @@ In 1929, Alyce became the first woman to visit the “Valley of 10,000 Smokes”
 
 Alyce Erickson Anderson and Oscar William Anderson, who both died in 1940, are buried in adjacent graves in the Seldovia City Cemetery, Plots #53 and #54.
 
+![](../assets/images/Oscar%20and%20Alyce%20Erickson%20Anderson/media/image2.jpeg)
+![](../assets/images/Oscar%20and%20Alyce%20Erickson%20Anderson/media/image3.jpeg)
+
 
  
  
