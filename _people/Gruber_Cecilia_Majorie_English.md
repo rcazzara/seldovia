@@ -5,7 +5,7 @@ first_name: "Cecilia Majorie English"
 source_file: "Adam Bloch and English"
 birth_date: 1929-04-29
 birth_location: Seldovia, Alaska
-death_date: April 26, 1983
+death_date: 1983-04-26
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 592
