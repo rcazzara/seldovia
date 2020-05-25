@@ -18,7 +18,7 @@ source_file: Cemetery Directory
 
 Konste and his wife **Anna BERESTOFF Sorokovikoff** had 8 children:
 
-[**ANNA SOROKOVIKOFF WATERBERRY**](./Waterbury_Anna_Sorokovikoff.md)]:  Feb 24, 1910 in Ninilchik, d. Nov. 19, 2004 in Seldovia, buried in Seldovia City Cemetery
+[**ANNA SOROKOVIKOFF WATERBERRY**](./Waterbury_Anna_Sorokovikoff.md):  Feb 24, 1910 in Ninilchik, d. Nov. 19, 2004 in Seldovia, buried in Seldovia City Cemetery
 
 JIM SOROKOVIKOFF: b. Aug. 14, 1913 in Kenai, d. 1966 in Seldovia
 PETER SOROKOVIKOFF: b. July 15, 1915 in Kenai, d. 1966 in Seldovia
