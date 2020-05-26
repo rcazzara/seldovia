@@ -1,7 +1,7 @@
 ---
-full_name: "THE SALVATOR"
+full_name: "SALVATOR"
 last_name: "Salvator"
-first_name: "The"
+first_name:
 source_file: "Salvator"
 birth_location:
 death_location:
@@ -11,9 +11,9 @@ cemetery_plot:
 
 ![](../assets/images/Salvator/media/image1.jpeg)
 
-The Salvator, a four-masted, 160 foot schooner of 467 tons and 550 M
+The ***Salvator***, a four-masted, 160 foot schooner of 467 tons and 550 M
 capacity, was built at Eureka in 1890 for C. A. Hooper, San Francisco.
-She was named for J. B. Haggin's great race horse.
+She was named for J. B. Haggin's great race horse, "Salvator".
 
 Later owned by the Pacific Shipping Co., the schooner was sold in 1912
 to Libby, McNeil & Libby and operated out of Seattle as a salmon packer.
@@ -23,14 +23,20 @@ was converted into a one-line floating cannery. It was stripped of all
 unnecessary gear and masts and rearranged to accommodate canning
 machinery.
 
+**Carl Gosta Lindstedt** came to Seldovia in the mid-1920's at the age
+of 19. He arrived from Seattle on the 4-masted schooner Alice Cook. He
+remembered 52 seine boats tied up at the saltry where he worked and 4-5
+thousand people flowing into town during summer herring run. The herring
+saltry was a floating processor in Seldovia Bay called the **Salvator**. It
+was actually an old 4-masted schooner owned by Libby, McNeil and Libby
+and had been retrofitted from a sailing ship to a herring saltry.
+Mr. Lindstedt earned $80/month with fifty cents an hour overtime and
+room and board as well. These were considered big wages.
+
 The Salvator was stranded and lost in Seldovia Bay in 1935. It had
-operated as a fishing and salmon packing vessel with 8 crewmen out of
+been operating as a fishing and salmon packing vessel with 8 crewmen out of
 Seward and Seldovia.
 
-The 467 ton 160 foot four-masted schooner ***Salvator*** was stranded
-and was lost in Seldovia Bay in 1935.  The ***Salvator*** operated as a
-fishing and salmon packing vessel with 8 crewmen out of Seward and
-Seldovia.
 
 **Information:** Tonnage 467 Gross 385 Net, Length 160, Breadth 36,
 Depth 11, Built 1890 at Eureka CA, SL KNXL, Owner Axel Anderson of
@@ -46,8 +52,8 @@ Seldovia, Registered Seward, ON 116364
 
 *4. Fairbanks News Miner September 13, 1930*
 
-Fairbanks News Miner September 13, 1930: WILL CONVERT SCHOONER INTO
-FLOATING CANNERY
+(Fairbanks News Miner September 13, 1930): 
+WILL CONVERT SCHOONER INTO FLOATING CANNERY
 
 ![](../assets/images/Salvator/media/image2.JPG) Axel Anderson and Peter
 Belmont of Seldovia have purchased the schooner Salvatore from Libby,
@@ -83,7 +89,7 @@ connections were extensive in the horse racing realm, owning several
 prominent and world champion racers, both in California and Kentucky. He
 had mansions in California, Kentucky, Rhode Island, and New York City.
 
-Haggin's world famous racing horse, Salvator, dated 1890, who set the
+Haggin's world famous racing horse, **Salvator**, dated 1890, who set the
 world’s record at the time in his set distance; original printed poem by
 Ella Wheeler Wilcox entitled, "How Salvator Won"; and a photograph of a
 cartoon image of W.C. Whitney and J.B. Haggin scheming about horse
@@ -102,15 +108,6 @@ handsome chestnut with a blaze and four white stockings, the colt was
 originally named "Effendi," but was later renamed Salvator, after
 Haggin’s valet.
 
-**Carl Gosta Lindstedt** came to Seldovia in the mid-1920's at the age
-of 19. He arrived from Seattle on the 4-masted schooner Alice Cook. He
-remembered 52 seine boats tied up at the saltry where he worked and 4-5
-thousand people flowing into town during summer herring run. The herring
-saltry was a floating processor in Seldovia Bay called the Salvator. It
-was actually an old 4-masted schooner owned by Libby, McNeil and Libby
-and had been retrofitted from a sailing ship to a herring saltry.
-Mr. Lindstedt earned $80/month with fifty cents an hour overtime and
-room and board as well. These were considered big wages.
 
 ### Background
 
