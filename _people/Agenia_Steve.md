@@ -2,7 +2,7 @@
 last_name: Agenia
 first_name: Steve
 birth_date:
-birth_location: English Bay
+birth_location: English Bay, Alaska
 death_date: 1938-06-08
 death_location: Seldovia, Alaska
 cemetery_plot:
