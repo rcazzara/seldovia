@@ -36,7 +36,14 @@
       </nav>
       <section>
         <h1> {{ page_title }} </h1>
-        <h3> {{ page.birth_date | date: '%s' | default: 'Date Unknown' }}, {{ page.birth_location | default: 'Location Unknown' }} &mdash; {{ page.death_date | date: '%B %d, %Y'  | default: 'Date Unknown' }}, {{ page.death_location | default: 'Location Unknown' }}</h3>
+        
+        {% if page.birth_date | date: '%s' < 2500 %}
+          {% assign birth_date = page.birth_date %}
+        {% else %}
+          {% assign birth_date = page.birth_date | date: '%B %d, %Y' %}
+        {% endif %}                                         
+                                       
+        <h3> {{ birth_date | default: 'Date Unknown' }}, {{ page.birth_location | default: 'Location Unknown' }} &mdash; {{ page.death_date | date: '%B %d, %Y'  | default: 'Date Unknown' }}, {{ page.death_location | default: 'Location Unknown' }}</h3>
         <hr width="50%" align="center">
         
         {{ content }}
