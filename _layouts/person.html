@@ -36,8 +36,9 @@
       </nav>
       <section>
         <h1> {{ page_title }} </h1>
-        
-        {% if page.birth_date | date: '%s' < 2500 %}
+        {% assign birth_date = page.birth_date | date: '%s' | plus: 0 %}
+        <h2> {{ birth_date }} </h2>
+        {% if birth_date < 2500 %}
           {% assign birth_date = page.birth_date %}
         {% else %}
           {% assign birth_date = page.birth_date | date: '%B %d, %Y' %}
