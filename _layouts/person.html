@@ -40,13 +40,14 @@
         {% assign birth_date = page.birth_date | date: '%s' | abs %}
         <h2> {{ birth_date }} </h2>
         
-        {% if page.birth_date | date: '%s' | abs < 2500 %}
+        {% if birth_date < 2500 %}
           {% assign birth_date = page.birth_date %}
         {% else %}
           {% assign birth_date = page.birth_date | date: '%B %d, %Y' %}
         {% endif %}
-                                                       
-        {% if page.death_date | date: '%s' | abs < 2500 %}
+        
+        {% assign death_date = page.death_date | date: '%s' | abs %}
+        {% if death_date < 2500 %}
           {% assign death_date = page.death_date %}
         {% else %}
           {% assign death_date = page.death_date | date: '%B %d, %Y' %}
