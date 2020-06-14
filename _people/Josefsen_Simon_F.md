@@ -8,6 +8,7 @@ death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 251
 source_file: Cemetery Directory
+family: Josefsen
 ---
 
 **SIMON FREDERICK JOSEFSEN**, son of [**Simon and Emma Josefsen**](./Josefsen_Simon_Andreas.md), was born on October 23, 1930, in
