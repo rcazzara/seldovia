@@ -11,11 +11,10 @@ cemetery_plot: 240
 source_file: Cemetery Directory
 ---
 
-When **VIRGINIA *YUTH* (Cochrane) BAILEY** was born on August 16, 1924,
-in Seldovia, Alaska, her father, [**Matt Yuth**](../_families/Yuth_Family.md), was 54, and her mother, Eugenia,
-was 26. She married Ira S. "Stan" Bailey in 1954 and they lived in
+**VIRGINIA *YUTH* (Cochrane) BAILEY** was born on August 16, 1924,
+in Seldovia, Alaska. to [**Matt Yuth**](../_families/Yuth_Family.md), and [**Eugenia Virginia OSKOLKOF Yuth**](./Yuth_Eugenia_Oskolkoff.md). She married Ira S. "Stan" Bailey in 1954 and they lived in
 Washington State, where she died of breast cancer on April 4, 1973, at
-the age of 48. She is buried in the Seldovia City Cemetery, Plot \#240.
+the age of 48. She is buried in the Seldovia City Cemetery, Plot #240.
 Her headstone reads: Virginia Bailey August 16, 1924 - April 4, 1973 A
 beautiful person among beautiful people.
 
