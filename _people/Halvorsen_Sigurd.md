@@ -10,13 +10,13 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 16
 source_file: Cemetery Directory
 ---
+![](../assets/images/Sigurd%20Halversen%20family/media/image1.jpeg)
+
 **SIGURD HALVORSEN, "Sig"** was born on September 27, 1892, in Haugesund,
 Norway and naturalized on 26 May, 1947. He married [**Marie Anderson**](./Anderson_Marie.md) on
 December 27, 1920, in Unalaska, Alaska. They had twelve children during
 their marriage. He died on March 1, 1951, in Seldovia, Alaska, at the
 age of 58.
-![](../assets/images/Sigurd%20Halversen%20family/media/image1.jpeg)
-
 
 Children:
 
@@ -24,7 +24,7 @@ Children:
 
 2.  **Andrew Halvorsen** (1922-1922 Unalaska)
 
-3.  [**Ann Halvorsen** **Smith**](./Smith_Ann_Halvorsen) (1923 - 1969)\* married Josef M. Smith
+3.  [**Ann HALVORSEN Smith**](./Smith_Ann_Halvorsen.md) (1923 - 1969)\* married Josef M. Smith
     (1928-1990 - Juneau)
 
 4.  [**Theodore Halvorsen**](./Halvorsen_Theodore.md) (1925 - 1953)\* married Flora Christofferson
