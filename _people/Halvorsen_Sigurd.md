@@ -36,7 +36,7 @@ Children:
 6.  [**Edith Halvorsen Hollman**](./Hollman_Edith_Halvorsen.md) (1927 - 1982)\* married Richard Hollman
     (1924-1974-Seward)
 
-7.  **Marie Khristine Halvorsen Bickford** (1930-2015, California)
+7.  **Marie Christine Halvorsen Bickford** (1930-2015, California)
     married **Phillip Joseph Bickford** (1926-2015)
     
     1.  [**Richard Halvorsen**](./Halvorsen_Richard.md) ( -1965)\*
