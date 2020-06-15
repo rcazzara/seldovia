@@ -12,7 +12,9 @@ source_file: Cemetery Directory
 ---
 **VIRGINIA *SOROKOVIKOFF* BALASHOFF**, wife of [**Mike Balashoff, Jr.**](./Balashoff_Mikkel_Jr.md) was the daughter of [**Konstantine and Anna BERESTOFF Sorokovikoff**](./Sorokovikoff_Konstantine.md), born about 1918 in Kenai. 
 
-Virginia and Mike had four children:
+Virginia and Mike had five children:
+
+- Baby Balashoff: (1937-1937) Seldovia City Cemetery
 
 - Mikkel "Mike" Robert BALASHOFF: (1938-2012)
 
