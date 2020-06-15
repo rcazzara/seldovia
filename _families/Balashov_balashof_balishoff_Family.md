@@ -20,7 +20,7 @@ through 1940, the most recently made public.
 
 There are 8 individuals interred in the Seldovia City Cemetery with the Balashof surname. Three of
 them are infants. Adam Bloch’s 2<sup>nd</sup> wife [Elizabeth Balashoff
-Bloch Markle](Adam%20Bloch%20and%20English.md) is buried in the Seldovia
+Bloch Markle](../_people/Markle_Elizabeth_Bloch.md) is buried in the Seldovia
 Hill Cemetery in the town. See more information about her in the Bloch
 Family section.
 
