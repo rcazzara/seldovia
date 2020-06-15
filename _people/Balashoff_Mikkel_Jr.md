@@ -10,7 +10,19 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 578
 source_file: Cemetery Directory
 ---
-**MIKKEL BALASHOFF, JR., "Mike** was born in Seldovia November 10, 1910 to Mikkel and Anisiia Balashoff. He married [**Virginia SOROKOVIKOFF**](./Balashoff_Virginia_Sorokovikoff.md) and had four children. Mike is buried in the Seldovia City Cemetery in Plot #578.  
+**MIKKEL BALASHOFF, JR., "Mike** was born in Seldovia November 10, 1910 to Mikkel and Anisiia Balashoff. He married [**Virginia SOROKOVIKOFF**](./Balashoff_Virginia_Sorokovikoff.md). 
+
+Virginia and Mike had four children:
+
+- Mikkel "Mike" Robert BALASHOFF: (1938-2012)
+
+- Doris BALASHOFF Mueller
+
+- Steve BALASHOFF: (1941-1941) Seldovia City Cemetery
+
+- Ralph BALASHOFF: (1942-1942) Seldovia City Cemetery
+
+Mike is buried in the Seldovia City Cemetery in Plot #578.  
 
 
 
