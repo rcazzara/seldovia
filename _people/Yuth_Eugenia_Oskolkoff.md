@@ -20,7 +20,8 @@ century.
 
 Eugenia married [**Matt Yuth**](../_families/Yuth_Family.md) in Seldovia in 1921. Matt and Eugenia raised eight children in Seldovia before his health failed and he went off to Sitka's Pioneer Home until his death in 1952.
 
-Their daughter [**Virginia YUTH Bailey**](./Bailey_Virginia_Yuth.md) is buried in the Seldovia City Cemetery, Plot #
+Their daughter [**Virginia YUTH Bailey**](./Bailey_Virginia_Yuth.md) is buried in the Seldovia City Cemetery, Plot #240.
+
 Their son [**Hartley Hedwick Yuth**](./Yuth_Hartley_Hedwick.md) is buried in the Seldovia City Cemetery, Plot #268
 
 Eugenia died Nov. 23, 1970 in Seldovia, Alaska and is buried in the
