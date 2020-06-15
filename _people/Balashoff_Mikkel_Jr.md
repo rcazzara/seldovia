@@ -12,7 +12,9 @@ source_file: Cemetery Directory
 ---
 **MIKKEL BALASHOFF, JR., "Mike** was born in Seldovia November 10, 1910 to Mikkel and Anisiia Balashoff. He married [**Virginia SOROKOVIKOFF**](./Balashoff_Virginia_Sorokovikoff.md). 
 
-Virginia and Mike had four children:
+Virginia and Mike had five children:
+
+- Baby Balashoff: (1937-1937) Seldovia City Cemetery
 
 - Mikkel "Mike" Robert BALASHOFF: (1938-2012)
 
