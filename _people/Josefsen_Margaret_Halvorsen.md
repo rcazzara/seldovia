@@ -17,6 +17,6 @@ She married **Robert Falconer** December 4, 1944.
 
 She married **Frank Anderson** October 24, 1953.
 
-She married [**Simon F.Josefsen**](./Josefsen_Simon_F.md) December 12, 1955 in Seldovia.
+She married [**Simon F. Josefsen**](./Josefsen_Simon_F.md) December 12, 1955 in Seldovia.
 
 Peggy died on January 23, 1969 and is buried in the Seldovia City Cemetery in plot 253.  
