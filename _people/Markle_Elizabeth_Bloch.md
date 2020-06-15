@@ -9,7 +9,7 @@ cemetery: Hillside Cemetery
 family: Balashoff, Bloch, Markle
 source_file: Cemetery Directory
 ---
-[**ELISAVETA *BALASHOFF* BLOCH MARKLE**](../_families/_Balashov_balashof_balishoff_Family.md) was born about in 1884 or 1885 on the
+[**ELISAVETA BALASHOFF BLOCH MARKLE**](../_families/_Balashov_balashof_balishoff_Family.md) was born about in 1884 or 1885 on the
 Kenai Peninsula. She married [**Adam Bloch**](./Bloch_Adam.md) on September 9, 1900 at Saint Nicholas Chapel (aka Russian Orthodox
 Church) in Seldovia, Alaska by Reverend Ivan E. Bartnovsky. They had 4
 children, daughters Susan BLOCH English (1904-1986), Mary BLOCH,
