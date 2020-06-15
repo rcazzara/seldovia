@@ -14,7 +14,7 @@ source_file: Cemetery Directory
 **CALVIN LAVERNE COLBERG** was born on May 9, 1933, in Seward, Alaska, to [**John**](./Colberg_John.md) and [**Elizabeth CLEHORN Colberg**](./Colberg_Elizabeth_Cleghorn.md), was 29. He had one
 brother and one sister. 
 
-He married May Joyce YUTH in Seldovia in 1960. 
+He married [**May Joyce YUTH**](../_families/Yuth_Family.md) in Seldovia in 1960. 
 
-He died on January 14, 2004, at the age of 70. He is buried in the Seldovia City Cemetery, Plot #267.5.
+He died on January 14, 2004, at the age of 70. He is buried in the Seldovia City Cemetery, Plot #267A.
 
