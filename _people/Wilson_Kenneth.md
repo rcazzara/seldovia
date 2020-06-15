@@ -9,6 +9,6 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 198
 source_file: Cemetery Directory
 ---
-**Kenneth Wilson** was born on the Kenai Peninsula on July 10, 1947 to [Abraham and Tania SOROKOVIKOFF Wilson](../_families/Wilson_Family.md).  He died on August 28, 1961 in Seldovia, Alaska.  He is buried in the Seldovia City Cemetery Plot # 198.
+**Kenneth Wilson** was born on the Kenai Peninsula on July 10, 1947 to [**Abraham and Tania SOROKOVIKOFF Wilson**](../_families/Wilson_Family.md).  He died on August 28, 1961 in Seldovia, Alaska.  He is buried in the Seldovia City Cemetery Plot # 198.
 
 s
