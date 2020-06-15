@@ -27,5 +27,7 @@ loved, not only by her family, but by an entire community. Through her
 long illness she remained positive and tended to be concerned aout those
 close to her even more than her own problems."
 
-_Seldovia City Cemetery: Section 4-199_
+Ann died in Seldovia on January 19, 2014. She is buried in Seldovia City Cemetery, Plot #199
+
+
 
