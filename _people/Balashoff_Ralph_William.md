@@ -9,4 +9,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 107
 source_file: Cemetery Directory
 ---
-**RALPH WILLIAM BALASHOFF** an infant son of [**Mike and Virginia Balashoff**](./Balashoff_Mikkel_jr.md) was born April 5, 1942 and died June 30, 1942 in Seldovia. He is interred in the Seldovia City Cemetery, Plot #107.
+**RALPH WILLIAM BALASHOFF** an infant son of [**Mike and Virginia Balashoff**](./Balashoff_Mikkel_Jr.md) was born April 5, 1942 and died June 30, 1942 in Seldovia. He is interred in the Seldovia City Cemetery, Plot #107.
