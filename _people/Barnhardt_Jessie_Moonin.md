@@ -11,7 +11,7 @@ cemetery_plot: 53
 family: Moonin
 source_file: Cemetery Directory
 ---
-[**APHANESIA MOONIN, "Jessie"](../_families/Moonin_Family.md) was born on November 22, 1898, on the Kenai Peninsula, Alaska to Demetrie and Annisea Moonin. She married [**James Carlough**](./Carlough_James_Howard.md) September 26, 1921
+[**APHANESIA MOONIN, "Jessie"**](../_families/Moonin_Family.md) was born on November 22, 1898, on the Kenai Peninsula, Alaska to Demetrie and Annisea Moonin. She married [**James Carlough**](./Carlough_James_Howard.md) September 26, 1921
 and they had seven children together. The family was living in Seldovia
 in 1930. He died in Washington in 1935 and Jessie subsequently married
 [**Harry David Barnhardt**](./Barnhardt_Harry.md) (1882-1953) on August 17, 1943 in
