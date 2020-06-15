@@ -1,5 +1,5 @@
 ---
-last_name: Alexanderoff
+last_name: Alexandroff
 first_name: Anesiem
 birth_date: "1872"
 birth_location: Kodiak, Alaska
