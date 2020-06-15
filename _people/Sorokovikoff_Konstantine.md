@@ -24,7 +24,7 @@ Konste and his wife **Anna BERESTOFF Sorokovikoff** had 8 children:
 [**Peter SOROKOVIKOFF**](./Sorokovikoff_Peter.md): b. July 15, 1915 in Kenai, d. 1966 in Seldovia
     Three die in Seldovia home fire SELDOVIA AP) - State Police said today three men died in a fire which destroyed a twa-story house here Monday afternoon. Investigators earlier had been unable to determine how many perished in the blaze. The victims were listed as Gene Sarakovikoff, 52, and his brother, Peter, 49, and William Hunter, 65, all of Seldovia. The fire was in a home owned by Jimmie Sarakovikoff, another brother of two of the victims. All four men apparently lived at the house. Troopers said the fire apparently was caused by a cigarette which fell on a mattress. The flames apparently spread rapidly throughout the frame building.
 
-[**Virginia SOROKOVIKOFF Balashoff**](./Balashoff_Virginia_Sorokovikof.md): b. 1918, married Mikkel Balashoff
+[**Virginia SOROKOVIKOFF Balashoff**](./Balashoff_Virginia_Sorokovikoff.md): b. 1918, married Mikkel Balashoff
 
 Steve K. SOROKOVIKOFF: b. Dec. 12, 1920, died June 30, 1995
 
