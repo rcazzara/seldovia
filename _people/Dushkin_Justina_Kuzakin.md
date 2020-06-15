@@ -27,6 +27,6 @@ Alice Balamoutoff of Anchorage, Annie Barnard of Portland, Ore. and
 Agnes J. Dushkin of Seldovia; and many grandchildren,
 great-grandchildren, and nieces and nephews.
 
-Justina's daughter, Agnes later married [**John Abelard Ardenia**](./Ardenia_John_Abelard.md) and their granddaughter, [**Adrianna Rose Ardenia**](./Ardenia_Andrianna_Rose.md)
+Justina's daughter, Agnes later married [**John Abelard Ardenia**](./Ardenia_John_Abelard.md) and their granddaughter, [**Adrianna Rose Ardenia**](./Ardenia_Adrianna_Rose.md)
 
 
