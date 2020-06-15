@@ -24,7 +24,7 @@ Children:
 
 2.  **Andrew Halvorsen** (1922-1922 Unalaska)
 
-3.  **Ann Halvorsen** **Smith** (1923 - 1969)\* married Josef M. Smith
+3.  [**Ann Halvorsen** **Smith**](./Smith_Ann_Halvorsen) (1923 - 1969)\* married Josef M. Smith
     (1928-1990 - Juneau)
 
 4.  [**Theodore Halvorsen**](./Halvorsen_Theodore.md) (1925 - 1953)\* married Flora Christofferson
@@ -39,9 +39,9 @@ Children:
 7.  **Marie Khristine Halvorsen Bickford** (1930-2015, California)
     married **Phillip Joseph Bickford** (1926-2015)
     
-    1.  **Richard Halvorsen** ( -1965)\*
+    1.  [**Richard Halvorsen**](./Halvorsen_Richard.md) ( -1965)\*
 
-8.  **Harry Halvorsen** (1932 – 1967)\*
+8.  [**Harry Halvorsen**](./Halvorsen_Harry.md) (1932 – 1967)\*
 
 9.  **Helen Elaine Halvorsen Slater** (1935 – 1972, Palmer)
 
