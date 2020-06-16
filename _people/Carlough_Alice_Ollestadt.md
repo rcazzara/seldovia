@@ -11,7 +11,7 @@ cemetery_plot:
 ---
 
 **ALYCE *OLLESTAD* CARLOUGH** was born on May 16, 1920, in Seldovia, Alaska.
-Her father was [Tollak Ollestad](../_families/Ollestad_Family.md), and her
+Her father was [**Tollak Ollestad**](./Ollestad_Tollak_Bowitz.md), and her
 mother [**Lucille Cleghorn**](./Ollestad_Lucille_Cleghorn.md). She married **\[Fredrick Oscar Monson\]** and
 they had three children together. She then married **Howard P
 Carlough,** son of [**James and Aphanasia "Jessie" Carlough**](./Carlough_James_Howard.md), on December
