@@ -1,6 +1,6 @@
 ---
 last_name: Larsen
-first_name: 
+first_name: Gus
 birth_date: 1862
 birth_location: Sweden
 death_date: 1940-04-21
