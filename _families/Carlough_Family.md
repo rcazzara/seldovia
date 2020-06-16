@@ -21,19 +21,19 @@ demolished the original Russian Orthodox graveyard.
 
 Children of James Howard Carlough and Jessie MOONIN Carlough include:
 
-James Brook Carlough, "Jim" - b. Jan. 31, 1914, AK; m. Minnie YAKNAK; d. Aug. 1966
+- **James Brook Carlough, "Jim"** - b. Jan. 31, 1914, AK; m. Minnie YAKNAK; d. Aug. 1966
 
-Patrick Mike Carlough -  b. Nov. 22, 1917, Port Graham, Kenai Peninsula Borough, AK; occupation best man for a salmon tanker, 1940, and probably continued to work on ships arecords include numerous ship passenger records for Patrick; residences Seldovia, Third Judicial District, AK, 1930; Portlock Village, Seldovia Recording District, Alaska Territory, 1940; Snohomish Co., WA, 1966; and King Co., WA; m. Betty L. DAVIES (b. ca. 1925, MN), Jan. 9, 1966, Seattle, King Co., WA; d. Jan. 14, 1991.
+- **Patrick Mike Carlough** -  b. Nov. 22, 1917, Port Graham, Kenai Peninsula Borough, AK; occupation best man for a salmon tanker, 1940, and probably continued to work on ships arecords include numerous ship passenger records for Patrick; residences Seldovia, Third Judicial District, AK, 1930; Portlock Village, Seldovia Recording District, Alaska Territory, 1940; Snohomish Co., WA, 1966; and King Co., WA; m. Betty L. DAVIES (b. ca. 1925, MN), Jan. 9, 1966, Seattle, King Co., WA; d. Jan. 14, 1991.
 
-[**William Carlough**](../_people/Carlough_William_A.md)
+- [**William Carlough**](../_people/Carlough_William_A.md)
 
-[**Elsie Catherine CARLOUGH Marrs**](../_people/Marrs_Elsie_Catherine_Carlough.md)
+- [**Elsie Catherine CARLOUGH Marrs**](../_people/Marrs_Elsie_Catherine_Carlough.md)
 
-Louise Carlough
+- **Louise Carlough**
 
-Joseph Carlough
+- **Joseph Carlough**
 
-Howard Carlough, b. 1930 - 1931, AK; occupation crab fisher; residences Portlock Village, Alaska Territory, 1940; Tumwater, Thurston Co., WA, 2004; married [**Alyce Ollestad**](../_people/Carlough_Alice_Ollestadt.md)
+- **Howard Carlough**, b. 1930 - 1931, AK; occupation crab fisher; residences Portlock Village, Alaska Territory, 1940; Tumwater, Thurston Co., WA, 2004; married [**Alyce Ollestad**](../_people/Carlough_Alice_Ollestadt.md)
 
 
 
