@@ -29,7 +29,7 @@ Children of James Howard Carlough and Jessie MOONIN Carlough include:
 
  - **Patrick Mike Carlough** b. November 22, 1917, Port Graham, AK; occupation best man for a salmon tanker in 1940 and continued to work on ships; residences Seldovia (1930) Portlock, AK (1940), Washington. He married Betty L. Davies (1966-1991).
  
- - [**William CARLOUGH**](./Carlough_William.md)
+ - [**William CARLOUGH**](./Carlough_William_A.md)
    
  - [**Elsie Catherine CARLOUGH Marrs**](./Marrs_Elsie_Catherine_Carlough.md)
  
