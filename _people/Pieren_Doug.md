@@ -3,9 +3,9 @@ last_name: Pieren
 first_name: Doug 
 maiden_name: 
 aka: 
-birth_date: 9/29/1943
+birth_date: 1943-09-29
 birth_location: Palmer, Alaska
-death_date: August 2019
+death_date: 2019-08
 death_location: Seldovia, Alaska
 cemetery: 
 cemetery_plot: 
