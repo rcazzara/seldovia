@@ -13,8 +13,8 @@ cemetery_plot:
 ---
 
 **ELSIE CATHERINE *CARLOUGH* MARRS** was born on October 19, 1924, in Port
-Graham, Alaska. Her father was [**James Carlough**](./Carlough_James_Howard) and her mother was Aphanasia
-"Jessie" Moonin. She married [**Rollen "Ronnie" Charles Marrs**](./Marrs_Rollen_Charles.md) on August
+Graham, Alaska. Her father was [**James Carlough**](./Carlough_James_Howard.md) and her mother was [**Aphanasia
+"Jessie" Moonin**](./Barnhardt_Jessie_Moonin.md). She married [**Rollen "Ronnie" Charles Marrs**](./Marrs_Rollen_Charles.md) on August
 6, 1946, in Seldovia, Alaska. She died in October 1990 in Kenai, Alaska,
 at the age of 66.
 
