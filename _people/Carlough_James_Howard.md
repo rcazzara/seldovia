@@ -13,7 +13,7 @@ family: Carlough, Moonin
 cemetery_plot: 1001
 ---
 
-[**JAMES HOWARD CARLOUH "Josie"**](../_families/Carlough_Family.md) was born on May 23, 1893, in Paterson,
+[**JAMES HOWARD CARLOUGH "Josie"**](../_families/Carlough_Family.md) was born on May 23, 1893, in Paterson,
 New Jersey to James and Mary Carlough. He arrived in Alaska sometime
 between He married [**Aphanasia "Jessie" Moonin**](./Barnhardt_Jessie_Moonin.md) on September 26,
 1921, in Seldovia, Alaska. They had seven children in 16 years. He was a
@@ -25,18 +25,20 @@ demolished the original Russian Orthodox graveyard.
 
 Children of James Howard Carlough and Jessie MOONIN Carlough include:
 
-    **James Brook Carlough, "Jim"** - b. Jan. 31, 1914, AK; m. Minnie YAKNAK; d. Aug. 1966
+ - **James Brook CARLOUGH, "Jim** b. January 31, 1914; married Minnie YAKNAK; d. August 1966
 
-    **Patrick Mike Carlough** - b. Nov. 22, 1917, Port Graham, Kenai Peninsula Borough, AK; occupation best man for a salmon tanker, 1940, and probably continued to work on ships arecords include numerous ship passenger records for Patrick; residences Seldovia, Third Judicial District, AK, 1930; Portlock Village, Seldovia Recording District, Alaska Territory, 1940; Snohomish Co., WA, 1966; and King Co., WA; m. Betty L. DAVIES (b. ca. 1925, MN), Jan. 9, 1966, Seattle, King Co., WA; d. Jan. 14, 1991.
+ - **Patrick Mike Carlough** b. November 22, 1917, Port Graham, AK; occupation best man for a salmon tanker in 1940 and continued to work on ships; residences Seldovia (1930) Portlock, AK (1940), Washington. He married Betty L. Davies (1966-1991).
+ 
+ - [**William CARLOUGH**](./Carlough_William.md)
+   
+ - [**Elsie Catherine CARLOUGH Marrs**](./Marrs_Elsie_Catherine_Carlough.md)
+ 
+ - **Louise CARLOUGH**
+  
+ - **Joseph CARLOUGH**
+  
+ - **Howard CARLOUGH**, b. 1930, Alaska; occupation crab fisherman, residences Portlock (1940), Tumwater, WA (2004); married [**Alyce Ollestad**](./Carlough_Alice_Ollestadt.md)
 
-    [**William Carlough**](./Carlough_William.md)
 
-    [**Elsie Catherine CARLOUGH Marrs**](./Marrs_Elsie_Catherine_Carlough.md) 
-
-    **Louise Carlough**
-
-    **Joseph Carlough**
-
-    **Howard Carlough**, b. 1930 - 1931, AK; occupation crab fisher; residences Portlock Village, Alaska Territory, 1940; Tumwater, Thurston Co., WA, 2004; married Alyce Ollestad
 
 
