@@ -9,7 +9,7 @@ cemetery_plot:
 ---
 # Carlough Family
 
-The first member of the Carlough family in Seldovia was [**JAMES HOWARD CARLOUGH "Josie"**](../_people/Carlough_James_Howard, Sr.md) , who was born on May 23, 1893, in Paterson,
+The first member of the Carlough family in Seldovia was [**JAMES HOWARD CARLOUGH "Josie"**](../_people/Carlough_James_Howard.md) , who was born on May 23, 1893, in Paterson,
 New Jersey to James and Mary Carlough. He arrived in Alaska sometime
 between 1910 and 1920. He married [**Aphanasia "Jessie" Moonin**](../_people/Barnhardt_Jessie_Moonin.md) on September 26,
 1921, in Seldovia, Alaska. They had seven children in 16 years. He was a
