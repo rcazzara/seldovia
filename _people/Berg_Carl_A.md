@@ -10,5 +10,4 @@ source_file: Cemetery Directory
 ---
 **CARL A. BERG** was born on Nov. 13, 1874 in Norway. He was a fisherman all of his life. He died, unmarried, on March 23, 1955 in Seldovia, Alaska. He is buried in the Seldovia City Cemetery in Plot #183.  
 
-
-![](../assets/images/Hannah_Valentine_Carl_Berg_1954.jpeg)
+![](../assets/images/Hannah%Valentine%Carl%Berg%1954.jpeg)
