@@ -33,6 +33,8 @@ Children of James Howard Carlough and Jessie MOONIN Carlough include:
 
 - **Joseph Carlough**
 
+ - **Joseph Carlough, "Little Joe"**, son of Joseph Carlough, Sr. and Mae VINBERG Carlough Bergstrum, was born in Seldovia, Alaska on Nov. 14, 1957. He died Aug. 17, 2000 when his car struck a moose on the Sterling Highway, according to Alaska State Troopers. The moose came through the windshield, killing him. Carlough hit the adult cow moose at about 12:20 a.m. as he was trying to pass another vehicle in Anchor Point, troopers said. He was dead at the scene.Mr. He is survived by his wife Janine; daughters Jessica and Kristi; son Owen Gruber, stepsons Jason and Luke Carlough and Josh and Travis Werba; father and stepmother, Joseph S. and Barbara Carlough Sr.; mother Mae Bergstrum; brothers Scott and Billy Carlough and many other family members. 
+
 - **Howard Carlough**, b. 1930 - 1931, AK; occupation crab fisher; residences Portlock Village, Alaska Territory, 1940; Tumwater, Thurston Co., WA, 2004; married [**Alyce Ollestad**](../_people/Carlough_Alice_Ollestadt.md)
 
 
