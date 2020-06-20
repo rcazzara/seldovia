@@ -17,39 +17,47 @@
 
     .heading {
       font-size: 100px;
-      margin-top: 50px;
+      margin-left: 10px;
+      margin-top: 40px;
+      line-height: 100%;
     }
 
     .sub-heading {
       font-size: 35px;
+      margin-left: 10px;
       margin-bottom: 50px;
+      margin-top: 20px;
+      line-height: 100%;
     }
 
     .content-area {
-      border: 2px solid black;
-      border-radius: 25px;
+      display: inline-block;
+      border: 3px solid black;
+      border-radius: 10px;
       padding: 15px;
-      margin: auto;
+      margin-left: 25px;
       margin-top: 15px;
-      max-width: 500px;
-      min-height: 50px;
       position: relative;
       background: linear-gradient(to right, #CDDC39, #03A9F4);
     }
 
     .content-area img {
-      height: 80px;
+      height: 300px;
       border: 2px solid black;
     }
 
     .content-area div {
-      display: inline-block;
       position: absolute;
       top: 50%;
-      height: 50px;
       margin-top: -25px;
+      margin-left: 10px;
       padding: 10px;
       font-size: x-large;
+      background: rgba(255, 255, 255, .65);
+    }
+
+    .content-area a {
+      font-weight: bolder;
     }
   </style>
 </head>
@@ -57,28 +65,27 @@
 <body>
   <div class="heading">Seldovia Scrapbook</div>
   <div class="sub-heading">A place to share our stories, pictures and memories</div>
-  <div class="content-area">
+  <div class="content-area" style="transform: rotate(5deg);">
     <img src="./assets/images/ANISEM ALEXANDROFF/media/image1.jpeg"></img>
-    <div>
+    <div style="margin-top: 50px;">
       <a href="people.html">People</a>
       ...
       <a href="families.html">Families</a>
-      ...
-      Cemeteries
+
     </div>
   </div>
-  <div class="content-area">
+  <div class="content-area" style="transform: rotate(-7deg);">
     <img src="./assets/images/US Osprey/media/image1.jpeg"></img>
-    <div>
-      Ships &amp Boats
+    <div style="margin-top: -70px;">
+      <a href="#">Ships &amp Boats</a>
       ...
-      Enterprises
+      <a href="#">Enterprises</a>
     </div>
   </div>
-  <div class="content-area">
+  <div class="content-area" style="transform: rotate(2deg);">
     <img src="./assets/images/Jack Hopkins story by his son Bill/media/image4.jpeg"></img>
-    <div>
-      Seldovia Tidbits to Remember
+    <div style="margin-top: -120px;">
+      <a href="#">Seldovia Tidbits to Remember</a>
     </div>
   </div>
 </body>
