@@ -1,0 +1,44 @@
+---
+layout: default
+title: Seldovia People
+---
+
+<link rel="stylesheet" type="text/css"
+    href="https://cdn.datatables.net/v/dt/dt-1.10.20/r-2.2.3/rg-1.1.1/datatables.min.css" />
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.20/r-2.2.3/rg-1.1.1/datatables.min.js">
+</script>
+<script>
+    $(document).ready(function () {
+        $('#People').DataTable({
+            stateSave: true,
+            "paging": false
+        });
+    });
+</script>
+
+<table id="People" class="display">
+    <thead>
+        <tr>
+            <th>Family Name</th>
+            <th>Given Names</th>
+            <th>Born</th>
+            <th>Died</th>
+            <th>Plot</th>
+            <th>Words</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for people in site.people %}
+        <tr>
+            <td><a href="{{ people.url | prepend: site.baseurl }}">{{ people.last_name }}</a></td>
+            <td><a href="{{ people.url | prepend: site.baseurl }}">{{ people.first_name }}</a></td>
+            <td>{{ people.birth_date }}</td>
+            <td>{{ people.death_date }}</td>
+            <td>{{ people.cemetery_plot }}</td>
+            <td>{{ people.content | number_of_words }}</td>
+            <td><a href="{{ site.github.repository_url }}/edit/master/{{ people.relative_path }}" target="_blank">Edit...</a></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
