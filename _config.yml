@@ -33,3 +33,13 @@ defaults:
       type: families
     values:
       layout: default
+  - scope:
+      path: "_boats"
+      type: boats
+    values:
+      layout: default
+  - scope:
+      path: "_enterprises"
+      type: enterprises
+    values:
+      layout: default
