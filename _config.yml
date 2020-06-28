@@ -28,3 +28,8 @@ defaults:
       type: people
     values:
       layout: person
+  - scope:
+      path: "_families"
+      type: families
+    values:
+      layout: default
