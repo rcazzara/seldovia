@@ -10,17 +10,19 @@
     -->
   <link href="./assets/css/seldovia-remembers.css" rel="stylesheet" type="text/css" />
   <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
-
+  <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
 </head>
 
 <body>
   <header>
-    <div class="heading">
+    <div class="heading" style="font-size: 3rem;">
       <div class="heading-shadow">
-        {{ page.title | default: site.title | default: site.github.repository_name }}</div>
-      {{ page.title | default: site.title | default: site.github.repository_name }}
+        {{ site.title | default: site.github.repository_name }}
+      </div>
+      {{ site.title | default: site.github.repository_name }}
     </div>
-    <div class="sub-heading">{{ page.description | default: site.description | default: site.github.project_tagline }}
+    <div class="sub-heading" style="font-size: 4rem; font-weight: bold;">
+      {{ page.title | default: page.description | default: site.description | default: site.github.project_tagline }}
     </div>
   </header>
   <div class="wrapper">
