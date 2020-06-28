@@ -1,6 +1,6 @@
 ---
 full_name: "MV Tustamina"
-Owners: Alaska Marine Highway
+owners: Alaska Marine Highway
 
 ---
 # MV Tustumena

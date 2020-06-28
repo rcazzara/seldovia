@@ -1,7 +1,6 @@
 ---
 full_name: "Duna"
-Owners: Walt Sonen and Sachiko Scott
-
+owners: Walt Sonen and Sachiko Scott
 ---
 # F/V Duna
 

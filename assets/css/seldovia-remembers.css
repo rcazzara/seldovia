@@ -1,7 +1,6 @@
 body {
     margin: auto;
     max-width: 1000px;
-    font-family: cursive;
     background: repeating-linear-gradient(45deg, #cbeafe 0%, #40aaba 20%, #cbeafe 40%);
     font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
 }

@@ -1,7 +1,6 @@
 ---
 full_name: "Alliance"
-Owner: Gordon Giles
-
+owners: Gordon Giles
 ---
 # F/V Alliance
 

@@ -1,7 +1,6 @@
 ---
 full_name: "Independence"
-Owner: Mike Miller
-
+owmers: Mike Miller
 ---
 # F/V Independence
 

@@ -1,6 +1,6 @@
 ---
 full_name: "Northern Passage"
-Owners: Jen Gordon and Bruce Rein
+owners: Jen Gordon and Bruce Rein
 
 ---
 # Northern Passage

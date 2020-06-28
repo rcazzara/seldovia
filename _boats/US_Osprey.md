@@ -1,11 +1,5 @@
 ---
 full_name: "US Osprey"
-last_name: "US Osprey"
-first_name: "Patrol Boat"
-source_file: "US Osprey"
-birth_location:
-death_location:
-cemetery_plot: 
 ---
 # US Osprey
 

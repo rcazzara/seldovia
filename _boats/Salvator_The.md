@@ -1,11 +1,5 @@
 ---
 full_name: "SALVATOR"
-last_name: "Salvator"
-first_name:
-source_file: "Salvator"
-birth_location:
-death_location:
-cemetery_plot: 
 ---
 # THE SALVATOR
 

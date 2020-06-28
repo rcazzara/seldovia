@@ -1,7 +1,6 @@
 ---
 full_name: "Laura S"
-Owner: Ken Swick
-
+owners: Ken Swick
 ---
 # F/V Laura S
 

@@ -18,7 +18,7 @@ collections:
   boats:
     output: true
     permalink: /:collection/:name
-  tidbits:
+  enterprises:
     output: true
     permalink: /:collection/:name
 
