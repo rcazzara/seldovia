@@ -1,6 +1,6 @@
 ---
 full_name: "MV Garland"
-owners: Heimie Burer
+owners: Heinie Burger
 ---
 # The MV Garland
 
