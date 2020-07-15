@@ -1,5 +1,5 @@
 ---
-full_name: FV Amatuli
+full_name: F/V Amatuli
 owners: "Joe Kurtz (original owner)"
 ---
 # The FV Amatuli
