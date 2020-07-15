@@ -1,7 +1,7 @@
 ---
 full_name: "Salvator"
 ---
-# THE SALVATOR
+# SALVATOR
 
 ![](../assets/images/Salvator/media/image1.jpeg)
 
