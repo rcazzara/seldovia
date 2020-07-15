@@ -1,5 +1,5 @@
 ---
-full_name: "SALVATOR"
+full_name: "Salvator"
 ---
 # THE SALVATOR
 
