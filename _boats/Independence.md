@@ -1,5 +1,5 @@
 ---
-full_name: "Independence"
+full_name: "F/V Independence"
 owmers: Mike Miller
 ---
 # F/V Independence
