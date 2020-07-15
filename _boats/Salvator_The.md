@@ -153,13 +153,9 @@ Stud\]](https://en.wikipedia.org/wiki/Greentree_Stable), and others.)
 In the fall of 1887, Haggin's Eastern trainer, Matthew Byrnes, and
 jockey [\[George "Snapper"
 Garrison\]](https://en.wikipedia.org/w/index.php?title=George_%22Snapper%22_Garrison&action=edit&redlink=1)
-arrived at the ranch to choose the best young horses to take back to
-[\[New York\]](https://en.wikipedia.org/wiki/New_York_\(state\)).
-Salvator was one of their choices.
+arrived at the ranch to choose the best young horses to take back to New York. Salvator was one of their choices.
 
-At Monmouth Park, the [\[Grade
-III\]](https://en.wikipedia.org/wiki/Graded_stakes_race) [\[Salvator
-Mile Handicap\]](https://en.wikipedia.org/wiki/Salvator_Mile_Handicap)
+At Monmouth Park, the  [\[Salvator Mile Handicap\]](https://en.wikipedia.org/wiki/Salvator_Mile_Handicap)
 will be in its 69th running in 2016.
 
 Following the creation of the [\[National Museum of Racing and Hall of
