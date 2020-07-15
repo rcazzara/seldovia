@@ -17,7 +17,7 @@ was converted into a one-line floating cannery. It was stripped of all
 unnecessary gear and masts and rearranged to accommodate canning
 machinery.
 
-**Carl Gosta Lindstedt** came to Seldovia in the mid-1920's at the age
+Susan Springer reported "**Carl Gosta Lindstedt** came to Seldovia in the mid-1920's at the age
 of 19. He arrived from Seattle on the 4-masted schooner Alice Cook. He
 remembered 52 seine boats tied up at the saltry where he worked and 4-5
 thousand people flowing into town during summer herring run. The herring
@@ -29,7 +29,7 @@ room and board as well. These were considered big wages.
 
 The Salvator was stranded and lost in Seldovia Bay in 1935. It had
 been operating as a fishing and salmon packing vessel with 8 crewmen out of
-Seward and Seldovia.
+Seward and Seldovia."
 
 
 **Information:** Tonnage 467 Gross 385 Net, Length 160, Breadth 36,
@@ -45,6 +45,8 @@ Seldovia, Registered Seward, ON 116364
 *3. The Marine Digest. August 16, 1941, p. 2*
 
 *4. Fairbanks News Miner September 13, 1930*
+
+
 
 (Fairbanks News Miner September 13, 1930): 
 WILL CONVERT SCHOONER INTO FLOATING CANNERY
