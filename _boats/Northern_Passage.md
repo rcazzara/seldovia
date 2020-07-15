@@ -1,5 +1,5 @@
 ---
-full_name: "Northern Passage"
+full_name: "S/V Northern Passage"
 owners: Jen Gordon and Bruce Rein
 
 ---
