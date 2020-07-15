@@ -1,6 +1,6 @@
 ---
 full_name: "F/V Alliance"
-owners: Gordon Giles
+owners: Gordon Giles Family
 ---
 # F/V Alliance
 
