@@ -9,6 +9,10 @@ The ***Salvator***, a four-masted, 160 foot schooner of 467 tons and 550 M
 capacity, was built at Eureka in 1890 for C. A. Hooper, San Francisco.
 She was named for J. B. Haggin's great race horse, "Salvator".
 
+In 1905 the C.A. Hooper & Co. Pacific Shipping Company decided to
+convert its fleet of 8 vessels to auxillary powered schooners with twin
+screw gas engines.
+
 Later owned by the Pacific Shipping Co., the schooner was sold in 1912
 to Libby, McNeil & Libby and operated out of Seattle as a salmon packer.
 
@@ -55,16 +59,13 @@ WILL CONVERT SCHOONER INTO FLOATING CANNERY
 Belmont of Seldovia have purchased the schooner Salvatore from Libby,
 McNeil and Libby and plan to convert it into a one-line floating
 cannery. It will be stripped of all unnecessary gear and masts and
-rearranged to accommodate canning machinery. They expect to have C.the
+rearranged to accommodate canning machinery. They expect to have the
 boat in operation for next season’s operations.
 
-In 1905 the C.A. Hooper & Co. Pacific Shipping Company decided to
-convert its fleet of 8 vessels to auxillary powered schooners with twin
-Screw gas engines.
 
-C.A. Hooper
+**Background** (from Wikipidia articles)
 
-Charles A. Hooper, born in Bangor, Maine, in 1843, came to California in
+**Charles A. Hooper**, for whom ***Salvator*** was built, was born in Bangor, Maine, in 1843, and arrived in California in
 1863 to join his father, John Hooper, at a gold mine in Plymouth. In
 1865, Charles went to San Francisco to establish the C.A. Hooper &
 Company, supplying lumber to the growing city and surrounding region. He
@@ -77,25 +78,21 @@ Costa County. Here he established a lumberyard and other businesses,
 including a steel mill and rubber works. One of his ventures also
 included the Diamond brick manufacturing plant in Pittsburg.
 
-James Ben Ali Haggin, ca 1850-1920. Haggin (1822-1914) was once
+**James Ben Ali Haggin**, ca 1850-1920. Haggin (1822-1914) was once
 considered to be among the three wealthiest men in America who made his
-fortune in the mining industry (Comstock Lode, Homestake, Anaconda) with
-Hearst and Tevis based out of Sacramento and San Francisco. His
+fortune in the California Gold Rush mining industry (Comstock Lode, Homestake, Anaconda) with
+Hearst and Tevis based out of Sacramento and San Francisco. He used his
+new wealth to establish the biggest horse breeding operations in world
+history. Aside from the thousands of grazing acres he owned in Arizona, New Mexico and Southern California, he headuartered at the Rancho del Paso near present-day Sacramento. Eventually he bought Daniel Swigert's Elmendorf Farm and moved his headquarters there. Haggin added
+to the property until he held 8,700 acres of prime
+bluegrass. His
 connections were extensive in the horse racing realm, owning several
 prominent and world champion racers, both in California and Kentucky. He
 had mansions in California, Kentucky, Rhode Island, and New York City.
 
-Haggin's world famous racing horse, **Salvator**, dated 1890, who set the
-world’s record at the time in his set distance; original printed poem by
-Ella Wheeler Wilcox entitled, "How Salvator Won"; and a photograph of a
-cartoon image of W.C. Whitney and J.B. Haggin scheming about horse
-rearing in Kentucky.
 
-**Salvator** (1886–1909) was an
-[American](https://en.wikipedia.org/wiki/United_States)
-[thoroughbred](https://en.wikipedia.org/wiki/Thoroughbred) [race
-horse](https://en.wikipedia.org/wiki/Race_horse) considered by many to
-be one of the best racers during the latter half of the 19th century.
+**Salvator** (1886–1909) was an American thoroughbred race horse
+considered by many to be one of the best racers during the latter half of the 19th century.
 
 Bred by Daniel Swigert and foaled at his Elmendorf Stud April 30, 1886,
 Salvator was a splendid animal and sold for $4,500 as a yearling to
@@ -104,67 +101,30 @@ handsome chestnut with a blaze and four white stockings, the colt was
 originally named "Effendi," but was later renamed Salvator, after
 Haggin’s valet.
 
+In the fall of 1887, Haggin's Eastern trainer, Matthew Byrnes, and jockey George "Snapper" Garrison 
+arrived at the Swigert ranch to choose the best young horses to take back to New York. Salvator was one of their choices. 
 
-### Background
+He made his debut in the Junior Champion Stakes against a seasoned colt, Proctor Knott.  Proctor Knott, who'd already run six races (and who in the following year would lose the Kentucky Derby to Spokane in what seemed a dead heat), was the one horse Salvator could never beat. In his first start, Salvator finished off the board. Proctor Knott and Salvator met three weeks later in the new Futurity at Coney Island and again Proctor Knott won, but this time Salvator came second by only half a length. The Futurity had attracted a great of attention because at the time it was the richest race in America. Proctor Knott, winning it and thereby winning more money than most 19th century horses in a lifetime, did not race again that year. Salvator, meanwhile, went on to win four races in a row: the Flatbush Stakes, the Maple, the Tuckahoe and the Titan stakes.
 
-Bred by [\[Daniel
-Swigert\]](https://en.wikipedia.org/w/index.php?title=Daniel_Swigert&action=edit&redlink=1)
-of [\[Elmendorf Farm\]](https://en.wikipedia.org/wiki/Elmendorf_Farm) in
-[\[Lexington,
-Kentucky\]](https://en.wikipedia.org/wiki/Lexington,_Kentucky), Salvator
-was sired by Prince Charlie out of Salina (by
-[Lexington](https://en.wikipedia.org/wiki/Lexington_\(horse\))).
-(Salvator was the last great horse Swigart bred; his best stallions had
-grown old and died.) On his sire's side, he went back to the tremendous
-mare [Pocahontas](https://en.wikipedia.org/wiki/Pocahontas_\(horse\)) by
-[Glencoe](https://en.wikipedia.org/wiki/Glencoe_I). On his dam's side,
-through Lexington, he carried the blood of
-[Boston](https://en.wikipedia.org/wiki/Boston_\(horse\)) sired by
-Timoleon sired by Sir Archie sired by
-[Diomed](https://en.wikipedia.org/wiki/Diomed).
+Salvator met Proctor Knott only once as a three-year-old in the Omnibus Stakes. Neither of them won, but Proctor Knott beat Salvator by placing, while Salvator showed. It was a blanket finish in which a colt called Longstreet (a son of Longfellow, who was known as "King of the Turf") won. Salvator never lost again. Four days later, he won the Jersey Handicap. He also won all seven of his other races that year, while Proctor Knott won only twice in nine starts. In the Tidal Stakes at Sheepshead Bay, Salvator beat Eric, the winner of the Belmont Stakes.
+Salvator vs Tenny
 
-Unusual for the times, the dark chestnut with a large white blaze was
-born in 1886 in [California](https://en.wikipedia.org/wiki/California).
-[\[James Ben Ali
-Haggin\]](https://en.wikipedia.org/wiki/James_Ben_Ali_Haggin) had
-purchased his dam, Salina, and shipped her to his 44,000-acre
-(180 km<sup>2</sup>) [\[Rancho Del
-Paso\]](https://en.wikipedia.org/wiki/Rancho_Del_Paso) with Salvator *in
-utero*. Haggin had made his money in the [\[California Gold
-Rush\]](https://en.wikipedia.org/wiki/California_Gold_Rush) of 1849, so
-much of it he was suddenly one of the wealthiest men in
-[America](https://en.wikipedia.org/wiki/United_States), and he used his
-new wealth to establish the biggest horse breeding operations in world
-history. Aside from the thousands of grazing acres he owned in
-[Arizona](https://en.wikipedia.org/wiki/Arizona), [\[New
-Mexico\]](https://en.wikipedia.org/wiki/New_Mexico) and Southern
-California, he headquartered at the Rancho del Paso near the present-day
-city of [Sacramento](https://en.wikipedia.org/wiki/Sacramento). He
-bought breeding horses from every state that bred fine thoroughbreds, as
-well as shipping them in from
-[Ireland](https://en.wikipedia.org/wiki/Ireland),
-[Australia](https://en.wikipedia.org/wiki/Australia) and
-[England](https://en.wikipedia.org/wiki/England). Eventually he bought
-Swigert's Elmendorf Farm and moved his headquarters there. Haggin added
-to the property until he held 8,700 acres (35 km<sup>2</sup>) of prime
-bluegrass. (Over time, and through several owners, this property was
-broken up into stud farms like [\[Spendthrift
-Farm\]](https://en.wikipedia.org/wiki/Spendthrift_Farm), [\[Greentree
-Stud\]](https://en.wikipedia.org/wiki/Greentree_Stable), and others.)
+Tenny was Salvator's closest rival for three-year-old honors. They met in the inaugural running of the Realization Stakes, which Salvator won. Tenny placed. (This race is now called the Lawrence Realization Stakes.) In their fourth year, the rivalry became serious.
 
-In the fall of 1887, Haggin's Eastern trainer, Matthew Byrnes, and
-jockey [\[George "Snapper"
-Garrison\]](https://en.wikipedia.org/w/index.php?title=George_%22Snapper%22_Garrison&action=edit&redlink=1)
-arrived at the ranch to choose the best young horses to take back to New York. Salvator was one of their choices.
+Tenny had a low-slung back, causing him to be called "The Swayback". At the start of his four-year-old season, Tenny won four races in succession. Salvator had been sitting on the sidelines for the beginning of the year, but in his first race as a four-year-old, he faced Tenny in the 7th running of the Suburban Handicap, then taking place at Sheepshead Bay.
 
-At Monmouth Park, the  [\[Salvator Mile Handicap\]](https://en.wikipedia.org/wiki/Salvator_Mile_Handicap)
-will be in its 69th running in 2016.
+Salvator won the Suburban. Tenny's owner, David T. Pulsifer, was disgusted with the race and challenged Haggin to a match race. They went back and forth over the conditions of the match but finally came to an agreement. The race would be run at Sheepshead Bay on June 25, 1890.
+
+Ridden by Isaac Murphy, Salvator won by half a head. Walter S. Vosburgh, from "Racing in America, 1866-1921," (The Jockey Club, 1922) described the race like this: "The two horses ran side by side for three furlongs. Then Salvator led by two lengths. Once in the stretch, however, Tenny came very fast and was overhauling Salvator, but the latter 'lasted' to win by a nose in 2:05. Both jockeys thought they had won after they had pulled up, and walked their horses back, chatting as they did so. 'I think I beat you,' said Garrison.”
+
+Ella Wheeler Wilcox wrote a poem about the race called How Salvator Won. Its ending reads: “We are under the string now—the great race is done—And Salvator, Salvator, Salvator won!”
+
+Meanwhile, the new Monmouth Park Racetrack had opened, replacing the old Monmouth track It was enormous, the biggest track in America, and it raced clockwise in the European fashion. Salvator made his appearance in the Monmouth Cup. Not a horse showed up to face him, and he jogged around for the $1,800 prize. After that, only Tenny came out to face Salvator in the Champion Stakes at the same track. Salvator won by four lengths.
+
+Salvator then raced the clock, shattering the old record and setting a world record (1:35 1/2) for a mile. He never raced again. The Salvator Mile Handicap still commemorates that race record.
+
+The **Salvator Mile Stakes** (formerly the Salvator Mile Handicap) is an American Thoroughbred horse race held annually in June or July at Monmouth Park Racetrack in Oceanport, New Jersey. Open to horses age three and older, it is contested on dirt at a distance of one mile (8 furlongs). A Grade III event, it currently offers a purse of $100,000. 
 
 Following the creation of the [\[National Museum of Racing and Hall of
 Fame\]](https://en.wikipedia.org/wiki/National_Museum_of_Racing_and_Hall_of_Fame)
 in 1955, Salvator was one of the horses inducted.
-
-The race itself commemorates the great 19th century champion Salvator,
-who set a world record (1:35 1/2) for a mile in a time trial, on the
-straight mile course at old Monmouth Aug. 28, 1890. Hence the name of
-the race, the "Salvator Mile."
