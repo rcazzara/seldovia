@@ -1,5 +1,5 @@
 ---
-full_name: "Salvator"
+full_name: "M/V Salvator"
 owner: Schooner Beach
 ---
 # Salvator
@@ -8,7 +8,7 @@ owner: Schooner Beach
 
 ***Schooner Beach***, just up Seldovia Bay from Seldovia Village, is named for an old schooner that was wrecked there in 1935, few of the remains of which are still slightly visible at low tide. These century-old relics are intriguing reminders of the historic ship and the horse for whom it was named. 
 
-The ***Salvator***, a four-masted, 160 foot schooner of 467 tons and 550 M
+The M/V ***Salvator***, a four-masted, 160 foot schooner of 467 tons and 550 M
 capacity, was built at Eureka in 1890 for C. A. Hooper, San Francisco.
 She was named for J. B. Haggin's great race horse, "Salvator".
 
