@@ -2,7 +2,7 @@
 full_name: F/V Amatuli
 owners: "Joe Kurtz (original owner)"
 ---
-# The FV Amatuli
+# The F/V Amatuli
 
 The FV Amatuli is a 111’ fishing vessel, built in 1967 by Pacific Fisherman Shipyard in Ballard, Washington for [**Joe Kurtz**](../_people/Kurtz_Joseph_R.md) of Seldova, Alaska. It was sold to Bart Eaton in 1974, and became a part of Trident Seafoods later in the decade. As one of the top high liners in the Bering Sea, the Amatuli was “the boat to fish on”. In 1988 she was sold to Bill Widing, Dan Gunn, & Peter Liske… In 1999 Peter sold out to Bill and Dan. In 2009 Dan Mattsen bought Dan Gunn out. She is currently owned by Mattsen and Widing. Her captains are Bryce Buholm and Robert Pattison.
 
