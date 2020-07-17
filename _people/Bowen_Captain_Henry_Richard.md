@@ -13,11 +13,10 @@ family: Bowen
 ---
 
 **HENRY RICHARD BOWEN**, son of David [Bowen](../_families/Bowen_Family.md), was born in Massachusetts in
-1853. In 1880 a salting station of the Western Fur and Trading Company
-of San Francisco, operated at Karluk with Captain Bowen of Saint Paul
-(Kodiak) as the local superintendent. They also maintained a saltery at
-Kasilof.** At one time he was in charge of all the Northern Commercial
-Company stores from Yakatat to Dutch Harbor. **Bowen believed that the
+1853. He came to Alaska as a sea captain in the late 1800s and brought a load of salt and barrels for the canneries in Kodiak.  It was said that he was paid in shares in the Alaska Commercial Company.  In 1880 a salting station of the Western Fur and Trading Company of San Francisco, operated at Karluk with Captain Bowen of Saint Paul (Kodiak) as the local superintendent. They also maintained a saltery at Kasilof.
+
+At one time he was in charge of all the Northern Commercial
+Company stores from Yakatat to Dutch Harbor. *Bowen believed that the
 opportunities for fishing on Kodiak Island were exceptional. He told a
 government official that "fishermen with a limited amount of capital can
 establish themselves most readily in a lucrative business on Kodiak
@@ -30,7 +29,7 @@ Russian woman who showed Mother how to make those wonderful fish pies
 the Russians called"perog", and the Bowens were anxious for the
 schoolroom in St. Paul to be finished so they too could send their
 children to school, Rufus, Ollie and David had gone to school in
-Kodiak." *From Humboldt to Kodiak* by Fred Roscoe, 1992**
+Kodiak." *From Humboldt to Kodiak* by Fred Roscoe, 1992*
 
 The 38 ton 60 foot schooner ***Seventy-Six*** departed Woody Island
 December 11, 1895 with six crewmen and one passenger aboard. It was
