@@ -1,5 +1,5 @@
 ---
-full_name: "CLEGHORN FAMILY"
+full_name: "Cleghorn Family"
 last_name: "Cleghorn"
 first_name: "Family"
 source_file: "James Naismith Cleghorn family"
