@@ -9,7 +9,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 105.5
 source_file: Cemetery Directory
 ---
-**CLEMENT ANDERSON** was born in Norway in 1873 and immigrated to the US in 1895 and was naturalized in 1917.  He was already in Alaska by 1910 and perhaps earlier. There is a C. Anderson from Norway listed in 1900 Census for Bristol Bay as a fisherman. No age given. In 1910 he was in Circle, Alaska listed as single, in 1920 he was in Rampart and married; in 1930 he was in Rampart and widowed; in 1940 he was in Rampart and divorced and in 1951 he died in Homer.  He was a meteorological observer for the US Weather Service in Rampart, Alaska in 1920s, and listed his occupation variously as fisherman and prospector.  
+**CLEMENT ANDERSON** was born in Norway in 1873 and immigrated to the US in 1895 and was naturalized in 1917.  He was already in Alaska by 1910, and perhaps earlier. There is a C. Anderson from Norway listed in 1900 Census for Bristol Bay as a fisherman. No age was given. In 1910 he was in Circle, Alaska, listed as single; in 1920 he was in Rampart and married; in 1930 he was in Rampart and widowed; in 1940 he was in Rampart and divorced and in 1951 he died in Homer.  He was a meteorological observer for the US Weather Service in Rampart, Alaska in 1920s, and listed his occupation variously as fisherman and prospector.  
 
  Clement died October 1, 1951 and is buried in the Seldovia City Cemetery in plot 105.5. 
 
