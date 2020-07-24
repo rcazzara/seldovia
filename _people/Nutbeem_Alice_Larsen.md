@@ -19,7 +19,7 @@ sisters and five brothers. She attended the Unga Village school.
 ![](../assets/images/Ted%20and%20Alice%20Nutbeem/media/image2.jpeg)
 
 Peter Adolf Larsen was from Denmark, he left his Denmark home when he
-was 12, becoming a sailor at sea. The 1900 US federal census for Unga
+was 17, becoming a sailor at sea. The 1900 US federal census for Unga
 Village, Unga Island, Shumagin Islands, Alaska, record that Peter had
 been in America for 25 years and that his home post office box was San
 Francisco, California, where he was a sailor. Peter first came to Alaska
