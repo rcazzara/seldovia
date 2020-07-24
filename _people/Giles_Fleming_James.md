@@ -1,15 +1,15 @@
 ---
 last_name: Giles
 first_name: Fleming James 
+aka: Slim
 birth_date: 1910-05-12
-birth_location: Washington
+birth_location: Seattle, Washington
 death_date: 1971-02-08
-death_location: Alaska
+death_location: Dutch Harbor, Alaska
 cemetery: not in cemetery
 family: Giles
 ---
-**FLEMING JAMES GILES** was born in King County, Washington on May 12, 1910.  He married [**Helen Laizure**](./Giles_Helen_L_Laizure.md)  They had three children, Gordon, Peggy
-(Boscacci), and Carol. They are buried side-by-side in the Seldovia City
+**FLEMING JAMES GILES, "Slim** was born in King County, Washington on May 12, 1910.  He married [**Helen Winifred Laizure**](./Giles_Helen_L_Laizure.md) in Washington on December 12, 1934. They lived in rural Okanogan County, Washington in 1940 where he was an engineer working for Bonneville Power Administration on dam construction.  They had three children, Gordon, Peggy (Boscacci), and Carol. Slim died in Dutch Harbor, Alaska on February 8, 1971. He and Helen are buried side-by-side in the Seldovia City
 Cemetery, Plots \#258 and \#259.**
 
 **The Thundermug** – by Peggy Giles Boscacci reprinted from the Seldovia
