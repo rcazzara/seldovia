@@ -2,7 +2,7 @@
 last_name: Schwartz
 first_name: Jewel Helen
 maiden_name: Little
-birth_date:1923-07-02
+birth_date: 1923-07-02
 birth_location: Clarkrange, Tennessee
 death_date: 2013-02-24
 death_location: Phoenix, Arizona

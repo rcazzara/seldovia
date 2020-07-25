@@ -1,0 +1,16 @@
+[
+{% for people in site.people %}
+{% raw %}
+{
+{% endraw %}
+     "plot":"{{ people.cemetery_plot }}",
+     "last_name":"{{ people.last_name }}",
+     "first_name":"{{ people.first_name }}",
+     "birth_date":"{{ people.birth_date }}",
+     "death_date":"{{ people.death_date }}",
+     "url":"{{ people.url | prepend: site.baseurl }}"
+{% raw %}
+}
+{% endraw %},
+{% endfor %}
+]

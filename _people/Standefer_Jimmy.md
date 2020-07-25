@@ -1,7 +1,7 @@
 ---
 last_name: Standefer
 first_name: Jimmy Darrell
-birth_date:1944-11-08
+birth_date: 1944-11-08
 birth_location: Sardis, Oklahoma
 death_date: 2016-12-04
 death_location: Sierra County, New Mexico
