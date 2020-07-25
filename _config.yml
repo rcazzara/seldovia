@@ -21,6 +21,9 @@ collections:
   enterprises:
     output: true
     permalink: /:collection/:name
+  resources:
+    output: true
+    permalink: /:collection/:name
 
 defaults:
   - scope:
@@ -41,5 +44,10 @@ defaults:
   - scope:
       path: "_enterprises"
       type: enterprises
+    values:
+      layout: default
+  - scope:
+      path: "_resources"
+      type: resources
     values:
       layout: default
