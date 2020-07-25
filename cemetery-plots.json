@@ -3,7 +3,7 @@
 [
 {% assign cemetery_people = site.people | sort: "cemetery_plot" %}
 {% for people in cemetery_people %}
-{% if people.cemetery_plot == nil %}
+{% if people.cemetery_plot == blank %}
      {% continue %}
 {% endif %}
 {% raw %}{{% endraw %}
