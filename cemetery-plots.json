@@ -3,9 +3,7 @@
 [
 {% assign cemetery_people = site.people | sort: "cemetery_plot" %}
 {% for people in cemetery_people %}
-{% if people.cemetery_plot == blank %}
-     {% continue %}
-{% endif %}
+{% if people.cemetery_plot != nil %}
 {% raw %}{{% endraw %}
      "plot":"{{ people.cemetery_plot }}",
      "last_name":"{{ people.last_name }}",
@@ -14,5 +12,6 @@
      "death_date":"{{ people.death_date }}",
      "url":"{{ people.url | prepend: site.baseurl }}"
 {% raw %}}{% endraw %}{% unless forloop.last %},{% endunless %}
+{% endif %}
 {% endfor %}
 ]
