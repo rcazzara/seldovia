@@ -1,63 +1,58 @@
-<!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
-  <head>
-    {% capture page_title %}{{page.first_name}} {{page.last_name}}{% endcapture %}
-    <title> {{ page_title }} </title>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+{% capture page_title %}{{page.first_name}} {{page.last_name}}{% endcapture %}
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
 
-{% seo %}
-    <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    <script src="https://code.jquery.com/jquery-3.3.0.min.js" integrity="sha256-RTQy8VOmNlT6b2PIRur37p6JEBZUE7o8wPgMvu18MC4=" crossorigin="anonymous"></script>
-    <script src="{{ '/assets/js/main.js' | relative_url }}"></script>
-    <!--[if lt IE 9]>
-      <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js" integrity="sha256-3Jy/GbSLrg0o9y5Z5n1uw0qxZECH7C6OQpVBgNFYa0g=" crossorigin="anonymous"></script>
-    <![endif]-->
-    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+<head>
+  <title> {{ page_title }} </title>
+  <meta http-equiv="content-type" content="text/html; charset=utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <link href="{{ site.baseurl }}/assets/css/seldovia-remembers.css" rel="stylesheet" type="text/css" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <script type="text/javascript" language="javascript" src="https://code.jquery.com/jquery-3.5.1.js"></script>
+  {% seo %}
+</head>
 
-  </head>
-  <body>
-
-      <header>
-        <h1>{{ page_title | default: page.title | default: site.title | default: site.github.repository_name }}</h1>
-        <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
-      </header>
-
-      <div id="banner">
-        <span id="logo"></span>
-
-        <a href="{{ site.github.repository_url }}/edit/master/{{ page.relative_path }}" class="button fork" target="_blank"><strong>Edit On GitHub</strong></a>
-
-      </div><!-- end banner -->
-
-    <div class="wrapper">
-      <nav>
-        <ul></ul>
-      </nav>
-      <section>
-        <h1> {{ page_title }} </h1>
-        
-        {% assign birth_date = page.birth_date | date: '%s' | abs %}
-        {% if birth_date < 2500 %}
-          {% assign birth_date = page.birth_date %}
-        {% else %}
-          {% assign birth_date = page.birth_date | date: '%B %d, %Y' %}
-        {% endif %}
-        
-        {% assign death_date = page.death_date | date: '%s' | abs %}
-        {% if death_date < 2500 %}
-          {% assign death_date = page.death_date %}
-        {% else %}
-          {% assign death_date = page.death_date | date: '%B %d, %Y' %}
-        {% endif %}                                        
-        <h3> {{ birth_date | default: 'Date Unknown' }}, {{ page.birth_location | default: 'Location Unknown' }} &mdash; {{ death_date | default: 'Date Unknown' }}, {{ page.death_location | default: 'Location Unknown' }}</h3>
-        <hr width="50%" align="center">
-        
-        {{ content }}
-
-      </section>
-      <footer>
-      </footer>
+<body>
+  <header>
+    <div class="heading" style="font-size: 3rem;">
+      <div class="heading-shadow">
+        {{ site.title | default: site.github.repository_name }}
+      </div>
+      {{ site.title | default: site.github.repository_name }}
     </div>
-  </body>
+    <div class="sub-heading" style="font-size: 4rem; font-weight: bold;">
+      {{ page_title }}
+    </div>
+    <p>{{ page.description | default: site.description | default: site.github.project_tagline }}</p>
+  </header>
+
+  <div class="wrapper">
+    <section>
+      <h1> {{ page_title }} </h1>
+
+      {% assign birth_date = page.birth_date | date: '%s' | abs %}
+      {% if birth_date < 2500 %}
+      {% assign birth_date = page.birth_date %}
+      {% else %}
+      {% assign birth_date = page.birth_date | date: '%B %d, %Y' %}
+      {% endif %}
+
+      {% assign death_date = page.death_date | date: '%s' | abs %}
+      {% if death_date < 2500 %}
+      {% assign death_date = page.death_date %}
+      {% else %}
+      {% assign death_date = page.death_date | date: '%B %d, %Y' %}
+      {% endif %}
+      <h3> {{ birth_date | default: 'Date Unknown' }}, {{ page.birth_location | default: 'Location Unknown' }} &mdash;
+        {{ death_date | default: 'Date Unknown' }}, {{ page.death_location | default: 'Location Unknown' }}</h3>
+      <hr width="50%" align="center">
+
+      {{ content }}
+
+    </section>
+    <footer>
+    </footer>
+  </div>
+</body>
+
 </html>
