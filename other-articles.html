@@ -1,0 +1,36 @@
+---
+layout: default
+title: Other Articles
+---
+
+<link rel="stylesheet" type="text/css"
+    href="https://cdn.datatables.net/v/dt/dt-1.10.20/r-2.2.3/rg-1.1.1/datatables.min.css" />
+<script type="text/javascript" src="https://cdn.datatables.net/v/dt/dt-1.10.20/r-2.2.3/rg-1.1.1/datatables.min.js">
+</script>
+<script>
+    $(document).ready(function () {
+        $('#Articles').DataTable({
+            "paging": false
+        });
+    });
+</script>
+
+<table id="Articles" class="display">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Words</th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+        {% for resources in site.resources %}
+        <tr>
+            <td><a href="{{ resources.url | prepend: site.baseurl }}">{{ resources.full_name }}</a></td>
+            <td>{{ resources.content | number_of_words }}</td>
+            <td><a href="{{ site.github.repository_url }}/edit/master/{{ resources.relative_path }}"
+                    target="_blank">Edit...</a></td>
+        </tr>
+        {% endfor %}
+    </tbody>
+</table>
