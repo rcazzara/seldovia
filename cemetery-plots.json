@@ -1,7 +1,7 @@
 ---
 ---
 [
-{% assign cemetery_people = site.people | where: "cemetery_plot" | sort_natural: "cemetery_plot"%}
+{% assign cemetery_people = site.people | where: "cemetery_plot" | sort: "cemetery_plot" %}
 {% for people in cemetery_people %}
 {% raw %}{{% endraw %}
      "plot":"{{ people.cemetery_plot }}",
