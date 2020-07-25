@@ -7,7 +7,13 @@ dates: 1927-1947
 
 # **Joe Hill's Dance Hall**
 
-(from Elsa Pederson's "A Larger History of the Kenai Peninsula") 
+[**Joe Hill**](../_people/Hill_Joe.md) came to Seldovia in the 1920s and it wasn't long after that that he created **Joe Hill's Hall**. 
+
+![](../assets/images/Joe&Hill%ad&Seward&1927.jpeg)
+
+![](../assets/images/Joe&Hill%Tokens.jpeg)
+
+From Elsa Pederson's [**A Larger History of the Kenai Peninsula**](../_references/books.md) 
 
 "Joe Hill's dance hall was the social center of town. Built on the rocky point at the mouth of Seldovia Slough, it contained a bar and a barber shop and the dance hall. Joe cut hair, tended bar and kept order with deft efficiency. The only black man ever to make his home in Seldovia, he was known as the "whitest man" in town. 
 
