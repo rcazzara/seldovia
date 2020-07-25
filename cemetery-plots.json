@@ -3,6 +3,9 @@
 [
 {% assign cemetery_people = site.people | sort: "cemetery_plot" %}
 {% for people in cemetery_people %}
+{% if people.cemetery_plot == "" %}
+     {% continue %}
+{% endif %}
 {% raw %}{{% endraw %}
      "plot":"{{ people.cemetery_plot }}",
      "last_name":"{{ people.last_name }}",
