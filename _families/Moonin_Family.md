@@ -1,13 +1,8 @@
 ---
-full_name: "MOONIN FAMILY"
-last_name: "Moonin"
-first_name: "Family"
-source_file: "MOONIN FAMILY"
-birth_location:
-death_location:
-cemetery_plot: 
+full_name: "Moonin Family"
+
 ---
-# MOONIN FAMILY
+# MOONIN Family
 
 The **Moonin** name originates with the 1880s missionary **John
 Moonin**. In the 1830s John Moonin (Munin) was born in San Francisco. He

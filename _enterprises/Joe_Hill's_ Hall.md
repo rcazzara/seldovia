@@ -9,9 +9,9 @@ dates: 1927-1947
 
 [**Joe Hill**](../_people/Hill_Joe.md) came to Seldovia in the 1920s and it wasn't long after that that he created **Joe Hill's Hall**. 
 
-![Here is an ad from Seward newspaper in 1927.](../assets/images/Joe&Hill%ad&Seward&1927.jpeg)
+![Here is an ad from Seward newspaper in 1927.](../assets/images/Joe Hill ad Seward 1927.jpg)
 
-![Tokens were common forms of payment in Seldovia. This one for Joe Hill's Hall sells for more than $500 today.](../assets/images/Joe&Hill%Tokens.jpeg)
+![Tokens were common forms of payment in Seldovia. This one for Joe Hill's Hall sells for more than $500 today.](../assets/images/Joe Hill tokens.jpg)
 
 From Elsa Pederson's [**A Larger History of the Kenai Peninsula**](../_references/books.md) 
 

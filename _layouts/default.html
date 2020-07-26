@@ -14,12 +14,14 @@
 
 <body>
   <header>
-    <div class="heading" style="font-size: 3rem;">
-      <div class="heading-shadow">
+    <a href="{{ site.baseurl }}" style=" text-decoration: none;">
+      <div class="heading" style="font-size: 3rem;">
+        <div class="heading-shadow">
+          {{ site.title | default: site.github.repository_name }}
+        </div>
         {{ site.title | default: site.github.repository_name }}
       </div>
-      {{ site.title | default: site.github.repository_name }}
-    </div>
+    </a>
     <div class="sub-heading" style="font-size: 4rem; font-weight: bold;">
       {{ page_title }}
     </div>
@@ -29,6 +31,15 @@
       {{ content }}
     </section>
     <footer>
+      {% if page.previous.url %}
+      <a href="{{ page.previous.url | prepend: site.baseurl }}" style="margin-right: 1rem">&laquo;
+        {{page.previous.title}}</a>
+      {% endif %}
+      {% if page.next.url %}
+      <a href="{{ page.next.url | prepend: site.baseurl }}" style="margin-left: 1rem">{{page.next.title}} &raquo;</a>
+      {% endif %}
+      <a href="{{ site.github.repository_url }}/edit/master/{{ page.path }}" target="_blank" style="float: right;">Edit
+        this page...</a>
     </footer>
   </div>
 </body>

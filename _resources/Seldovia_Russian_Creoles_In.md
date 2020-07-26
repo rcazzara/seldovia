@@ -1,5 +1,5 @@
 ---
-title: "Russian Creoles in Alaska"
+title: "Russian Creoles in Seldovia"
 
 ---
 # RUSSIAN CREOLES in SELDOVIA

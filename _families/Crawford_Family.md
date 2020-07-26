@@ -1,13 +1,8 @@
 ---
-full_name: "Reynard Leroy Crawford"
-last_name: "Crawford"
-first_name: "Reynard Leroy"
-source_file: "CRAWFORD FAMILY"
-birth_location: 
-death_location: 
-cemetery_plot: 
+full_name: "Crawford Family"
+
 ---
-# CRAWFORD FAMILY
+# CRAWFORD Family
 
 **Reynard Leroy Crawford** was born in Washington in 1915. He came to
 Anchorage in 1919 with his parents on the S.S. Northwestern, which

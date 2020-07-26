@@ -1,13 +1,8 @@
 ---
-full_name: "SEVILLE FAMILY"
-last_name: "Seville"
-first_name: "Family"
-source_file: "Seville Family"
-birth_location:
-death_location:
-cemetery_plot: 
+full_name: "Seville Family"
+
 ---
-# SEVILLE FAMILY
+# SEVILLE Family
 
 The **Seville** family line in Seldovia begins with Keith Edward
 Seville.

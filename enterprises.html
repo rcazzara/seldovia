@@ -21,8 +21,6 @@ title: Enterprises
         <tr>
             <th>Business Name</th>
             <th>Owner</th>
-            <th>Words</th>
-            <th></th>
         </tr>
     </thead>
     <tbody>
@@ -30,9 +28,6 @@ title: Enterprises
         <tr>
             <td><a href="{{ enterprise.url | prepend: site.baseurl }}">{{ enterprise.business_name }}</a></td>
             <td>{{ enterprise.owner }}</td>
-            <td>{{ enterprise.content | number_of_words }}</td>
-            <td><a href="{{ site.github.repository_url }}/edit/master/{{ enterprise.relative_path }}"
-                    target="_blank">Edit...</a></td>
         </tr>
         {% endfor %}
     </tbody>

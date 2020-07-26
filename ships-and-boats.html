@@ -21,8 +21,6 @@ title: Ships and Boats
         <tr>
             <th>Name</th>
             <th>Owners</th>
-            <th>Words</th>
-            <th></th>
         </tr>
     </thead>
     <tbody>
@@ -30,9 +28,6 @@ title: Ships and Boats
         <tr>
             <td><a href="{{ boat.url | prepend: site.baseurl }}">{{ boat.full_name }}</a></td>
             <td>{{ boat.owners }}</td>
-            <td>{{ boat.content | number_of_words }}</td>
-            <td><a href="{{ site.github.repository_url }}/edit/master/{{ boat.relative_path }}"
-                    target="_blank">Edit...</a></td>
         </tr>
         {% endfor %}
     </tbody>

@@ -1,11 +1,5 @@
 ---
-full_name: "WHEELER FAMILY"
-last_name: "Wheeler"
-first_name: "Family"
-source_file: "Wheeler"
-birth_location:
-death_location:
-cemetery_plot: 
+full_name: "Wheeler Family"
 ---
 # WHEELER FAMILY
 

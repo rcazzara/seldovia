@@ -1,13 +1,8 @@
 ---
-full_name: "OLLESTAD FAMILY"
-last_name: "Ollestad"
-first_name: "Family"
-source_file: "OLLESTAD FAMILY"
-birth_location:
-death_location:
-cemetery_plot: 
+full_name: "Ollestad Family"
+
 ---
-# OLLESTAD FAMILY
+# OLLESTAD Family
 
 [**Tollak Bowitz Ollestad**](../_people/Ollestad_Tollak_Bowitz.md) was born on August 15, 1881 in Egersund, Norway. He died in 1967. He married [**Lucille Cleghorn**](./Cleghorn_Family.md) (1896-1969). He is buried in the Seldovia City Cemetery in the Ollestad Family Plot #195.
 

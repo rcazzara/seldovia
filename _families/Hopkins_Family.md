@@ -1,5 +1,4 @@
 ---
-last_name: Hopkins
-first_name: Family
+full_name: "Hopkins Family *"
 ---
 HOPKINS Family

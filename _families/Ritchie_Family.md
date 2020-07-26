@@ -1,13 +1,8 @@
 ---
-full_name: "RITCHIE FAMILY"
-last_name: "Ritchie"
-first_name: "Family"
-source_file: "Ritchie Family"
-birth_location:
-death_location:
-cemetery_plot: 
+full_name: "Ritchie Family"
+
 ---
-# RITCHIE FAMILY
+# RITCHIE Family
 
 
 [**ULYSSES S. “U.S.” RITCHIE**](../_people/Ritchie_Ulyses_Grant.md) was the first of the Ritchie family to come to Seldovia.  He was born into a Quaker family in Chester, Pennsylvania in October of 1868.  He is first listed in Alaska in 1910 census records where he is living on Yukon Island, with his wife Annie and sons, GEORGE, Sam, and Jim.  Annie was born in Alaska. In 1920, only son George is listed with them. 

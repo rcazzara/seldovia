@@ -1,6 +1,6 @@
 ---
 last_name: Anderson
-first_name: Carl Eric
+first_name: Carl Eric, "Squeaky"
 aka: Squeaky
 birth_date: 1887-10-16
 birth_location: Jansberg, Sweden
