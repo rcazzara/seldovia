@@ -1,5 +1,5 @@
 ---
-full_name: "HUNTER Family"
+full_name: "Hunter Family"
 last_name: "Hunter"
 first_name: "Family"
 source_file: "HUNTER FAMILY"
