@@ -20,8 +20,7 @@ source_file: "Frederick Walter Newmeyer not in cemetery"
 II](http://www.legacy.com/memorial-sites/ww2/?personid=160229166&affiliateID=1898)
 Veteran Fredrick Walter Newmeyer of Seldovia died at home on September
 18, 2012, with his wife and sister-in-law by his side. He was the former
-owner of Seldovia Lodge which he operated since 1972 selling it in
-1997.  
+owner of Seldovia Lodge which he operated since 1972 selling it in 1997.  
   
 He was a leap year baby born February 29, 1928 in San Francisco,
 California, the only child weighing in at 13 pounds in his day. His
