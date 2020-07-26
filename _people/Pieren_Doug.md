@@ -21,7 +21,7 @@ When Doug was almost 10 years old, in June of 1953, his mother married [**Harley
 Doug inherited his gardening skills from his grandmother Hurd. "She could plant a stick and it would sprout."  He began creating gardens in Seldovia in the 1980s and soon he was in charge of not only "Pieren Park" but the area around the Post Office and the Seldovia Village Tribal building and the City Harbor.
 
 Doug was honored as Seldovia's "Old Crab".
-![](../assets/images/Doug Pieren Old Crab.jpeg)
+![](../assets/images/Doug%20Pieren%20Old%20Crab.jpeg)
 
 Doug was also an inveterate rock collector. In later years he was never to be seen without several rocks in his pockets or hands. His apartment at the Seldovia House was full of rocks and other artifacts he scavanged from the beaches around Seldovia.
 
