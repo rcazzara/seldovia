@@ -1,13 +1,8 @@
 ---
-full_name: "SOROKOVIKOV/SOROKOVIKOFF FAMILY"
-last_name: "Sorokovikov/sorokovikoff"
-first_name: "Family"
-source_file: "SOROKOVIKOV"
-birth_location:
-death_location:
-cemetery_plot: 
+full_name: "Sorokovikov/sorokovikoff Family"
+
 ---
-# SOROKOVIKOV/SOROKOVIKOFF FAMILY
+# SOROKOVIKOV/SOROKOVIKOFF Family
 
 The **Sorokovikov** family name came to Alaska from Irkutsk Russia. Ivan
 (John) Sorokovikov, born in Irkutsk about 1766 was sent to the mouth of
