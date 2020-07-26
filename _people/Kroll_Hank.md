@@ -16,7 +16,7 @@ cemetery: not in cemetery
 
 Lois was born in Lodi New York in 1905.  She graduated NYU and received a scholarship to train in pediatrics at Eden Borough Castle, Scotland.  After interning in Harlem she worked for Frontier Nursing Service as a Kentucky Mountaineer delivering babies on horseback. One day she saw an ad for a Public Health Nurse that was needed in Seldovia. She wrote back and was accepted.  Upon arriving on Alaska Steamship Denali she met the outgoing nurse who willed her the cat and her boyfriend who happened to be Hank.  The year was 1936.  At the time it was unusual for a woman to travel by herself.  She traveled by fishing boat to the towns of Kenai, Homer, Anchor Point, Port Graham and English Bay to administer shots or diphtheria and tetanus.  Lois and Hank had two sons, Henry and Herbert (1946-1974).  She died in Seattle in 1987.  
 
-Lois wrote about her life in her autobiography “Alaska Frontier Nurse” published by her son Henry Kroll in 2014. Hank also wrote a biography of his father "Mad Trapper of Alaska". Both are available from Guard Dog Books: https://guarddogbooks.com/product.html
+Lois wrote about her life in her autobiography “Alaska Frontier Nurse” published by her son Henry Kroll in 2014. Hank also wrote a biography of his father "Mad Trapper of Alaska". Both are available from [Guard Dog Books](https://guarddogbooks.com/product.html).
 
 Here are a few tidbits from the many articles written about Hank:
 
@@ -78,7 +78,8 @@ I forgave him for everything after I heard him play the violin and then the pian
 
 
 
-WALTER McINNES: Henry Kroll, Sr. was known as the Mad Trapper. And he started out in the Cordova area. And he used to have a small plane and he'd fly over the city of Cordova and play a violin.  And then he didn't like one bartender so he went into his bar and shook a wolverine out of a bag loose in the bar.
+According to WALTER McINNES: 
+> Henry Kroll, Sr. was known as the Mad Trapper. And he started out in the Cordova area. And he used to have a small plane and he'd fly over the city of Cordova and play a violin.  And then he didn't like one bartender so he went into his bar and shook a wolverine out of a bag loose in the bar.
 And another time, when the Fourth of July or something, he had a wolverine on a line in front of him, and I think, though I don't know all the details, but I think he had a chain and rattled it.
 But any rate, the wolverine respected him and didn't turn around and attack him. And if you know anything about wolverines, for somebody to get ahold of and master one was really, really significant.
 He did anything and everything he wanted to and he was capable of doing anything and everything.  If he wanted a fish site, he'd go and get a fish site. And if he wanted a boat that would take more punishment and harder than anybody, he built it himself.  And he built it stronger. And if he wanted some lumber to build his boat or to build his house on the other side of the Inlet, he'd start up his own sawmill.
