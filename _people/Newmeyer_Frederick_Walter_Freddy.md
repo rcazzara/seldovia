@@ -45,4 +45,4 @@ and friends. Graveside services with military honors were held on Friday
 morning, Sept. 28, 2012, at Fort Richardson National Cemetery,
 Anchorage.
 
-![](..assets/images/061102_NewmeyersSeldoviaLodgeT350.jpg
+![](..assets/images/061102_NewmeyersSeldoviaLodgeT350.jpg)
