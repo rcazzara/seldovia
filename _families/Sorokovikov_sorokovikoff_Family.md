@@ -1,13 +1,8 @@
 ---
-full_name: "SOROKOVIKOV/SOROKOVIKOFF FAMILY"
-last_name: "Sorokovikov/sorokovikoff"
-first_name: "Family"
-source_file: "SOROKOVIKOV"
-birth_location:
-death_location:
-cemetery_plot: 
+full_name: "Sorokovikov/Sorokovikoff Family"
+
 ---
-# SOROKOVIKOV/SOROKOVIKOFF FAMILY
+# SOROKOVIKOV/SOROKOVIKOFF Family
 
 The **Sorokovikov** family name came to Alaska from Irkutsk Russia. Ivan
 (John) Sorokovikov, born in Irkutsk about 1766 was sent to the mouth of
@@ -50,7 +45,7 @@ including Nikolai 1847. Reader Nikolai Stefanov was the Kenai-born son
 of Deacon Stefan Ivanov Sorokovikov and Tatiana Ivanova Kompkova;
 educated in a theological seminary in Eastern Siberia. He worked as a
 song leader in Kenai from
-1875-188730.![](../assets/images/SOROKOVIKOV/media/image1.jpeg)
+1875-188730.
 
 **Konstantine (Conste) Sorokovikoff**, b. January 24, 1871 in Kodiak
 married Sarafina and had children Sarafina (1903), Nick (1905), and
@@ -64,8 +59,9 @@ Indian Affairs (BIA) could not figure out how to categorize him in their
 official rosters: on the one hand, Constantine was involved in local
 subsistence activities, and on the other hand, he was performing chapel
 services. As a result, in their 1934 roster of Seldovia residents, the
-BIA labeled him as a "second priest of Seldovia". Konste and his wife
-Anna Berestoff Sorokovikoff had 8 children:
+BIA labeled him as a "second priest of Seldovia". ![](../assets/images/SOROKOVIKOV/media/image1.jpeg)
+
+Konste and his wife Anna Berestoff Sorokovikoff had 8 children:
 
 **Nick Sorokovikoff**: Aug.12,1905- Feb.1968, buried in Seldovia City
 Cemetery
