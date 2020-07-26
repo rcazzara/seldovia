@@ -1,11 +1,6 @@
 ---
-full_name: "YUTH Family"
-last_name: "Yuth"
-first_name: "Family"
-source_file: "Yuth Family"
-birth_location:
-death_location:
-cemetery_plot: 
+full_name: "Yuth Family"
+l
 ---
 # YUTH Family
 
