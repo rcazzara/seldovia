@@ -1,11 +1,6 @@
 ---
-full_name: Jack Hopkins
-last_name: "Hopkins"
-first_name: "Jack"
-source_file: 
-birth_location:
-death_location:
-cemetery_plot: 
+full_name: Jack Hopkins Last Flight
+
 ---
 
 
