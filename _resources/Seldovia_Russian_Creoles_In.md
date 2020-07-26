@@ -1,11 +1,6 @@
 ---
-full_name: "RUSSIAN CREOLES in SELDOVIA"
-last_name: "Seldovia"
-first_name: "Russian Creoles In"
-source_file: "RUSSIAN CREOLES in SELDOVIA"
-birth_location:
-death_location:
-cemetery_plot: 
+title: "Russian Creoles in Seldovia"
+
 ---
 # RUSSIAN CREOLES in SELDOVIA
 
