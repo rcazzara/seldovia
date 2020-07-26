@@ -52,7 +52,12 @@
                 $.getJSON('cemetery-plot-info.json')
             ).done(function (plotPolygons, plotData) {
                 // Combine attributes with the GeoJSON
-                plotCombo = plotPolygons.map(x => Object.assign(x, plotData.find(y => y.id == x.id)));
+                //    feature = plotPolygons[0].features.find(x => x.properties.Plot == 101)
+                //    attributes = plotData[0].find(y => y.plot == 101)
+                //    Object.assign(feature.properties,attributes)
+                //plotFeatures = plotPolygons[0].features.map(x => Object.assign(x, plotData[0].find(y => y.id == x.id)));
+
+                plotFeatures = plotPolygons[0].features
 
                 // add the new layer to the map
                 map.addSource('plots', {
@@ -60,7 +65,7 @@
                     data: {
                         type: "FeatureCollection",
                         name: "Plots",
-                        features: plotPolygons.features
+                        features: plotFeatures
                     }
                 });
 
