@@ -1,11 +1,6 @@
 ---
-full_name: "Reynard Leroy Crawford"
-last_name: "Crawford"
-first_name: "Reynard Leroy"
-source_file: "CRAWFORD FAMILY"
-birth_location: 
-death_location: 
-cemetery_plot: 
+full_name: "Crawford Family"
+
 ---
 # CRAWFORD FAMILY
 
