@@ -20,17 +20,12 @@ title: Other Articles
     <thead>
         <tr>
             <th>Title</th>
-            <th>Words</th>
-            <th></th>
         </tr>
     </thead>
     <tbody>
         {% for resources in site.resources %}
         <tr>
             <td><a href="{{ resources.url | prepend: site.baseurl }}">{{ resources.full_name }}</a></td>
-            <td>{{ resources.content | number_of_words }}</td>
-            <td><a href="{{ site.github.repository_url }}/edit/master/{{ resources.relative_path }}"
-                    target="_blank">Edit...</a></td>
         </tr>
         {% endfor %}
     </tbody>

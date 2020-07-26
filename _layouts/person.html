@@ -14,15 +14,17 @@
 
 <body>
   <header>
-    <div class="heading" style="font-size: 3rem;">
-      <div class="heading-shadow">
+    <a href="{{ site.baseurl }}" style=" text-decoration: none;">
+      <div class="heading" style="font-size: 3rem;">
+        <div class="heading-shadow">
+          {{ site.title | default: site.github.repository_name }}
+        </div>
         {{ site.title | default: site.github.repository_name }}
       </div>
-      {{ site.title | default: site.github.repository_name }}
-    </div>
-    <div class="sub-heading" style="font-size: 4rem; font-weight: bold;">
-      {{ page_title }}
-    </div>
+      <div class="sub-heading" style="font-size: 4rem; font-weight: bold;">
+        {{ page_title }}
+      </div>
+    </a>
   </header>
 
   <div class="wrapper">
@@ -50,6 +52,8 @@
 
     </section>
     <footer>
+      <a href="{{ site.github.repository_url }}/edit/master/{{ page.path }}" target="_blank" style="float: right;">Edit
+        this page...</a>
     </footer>
   </div>
 </body>
