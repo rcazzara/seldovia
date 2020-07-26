@@ -7,7 +7,13 @@ dates: 1927-1947
 
 # **Joe Hill's Dance Hall**
 
-(from Elsa Pederson's "A Larger History of the Kenai Peninsula") 
+[**Joe Hill**](../_people/Hill_Joe.md) came to Seldovia in the 1920s and it wasn't long after that that he created **Joe Hill's Hall**. 
+
+![](../assets/images/Joe&Hill%ad&Seward&1927.jpeg)
+
+![](../assets/images/Joe&Hill%Tokens.jpeg)
+
+From Elsa Pederson's [**A Larger History of the Kenai Peninsula**](../_references/books.md) 
 
 "Joe Hill's dance hall was the social center of town. Built on the rocky point at the mouth of Seldovia Slough, it contained a bar and a barber shop and the dance hall. Joe cut hair, tended bar and kept order with deft efficiency. The only black man ever to make his home in Seldovia, he was known as the "whitest man" in town. 
 
@@ -17,7 +23,7 @@ He backed many a fisherman over a poor season, financed boats, helped many hard 
 
 Joe built the Polar Bar which he operated until retiring to Philadelphia where he ended his days involved in the Civil Rights movement." 
 
-From Susan Springer’s book:
+From Susan Springer’s book: [**Seldovia Alaska: An Historical Portrait of Life in Herring Bay**](../_references/books.md) 
 Perhaps the best-known, most well-liked business on the entire Waterfront was Joe Hill’s Hall.  “Joe Hill, a black man, was probably the finest man in town, and was a highly respected by everyone”  wrote Jim Busey.  In testimony to his pure heart and character, Joe carried the distinction of being known as “the whitest man in all Seldovia.”
 When Jim and his parents came to Seldovia in 1928, Joe ran a pool hall and barber shop.  After fire destroyed the business, Joe relocated to a larger building at the mouth of the Seldovia Slough.  Joe’s second location “included the same facilities as previously, plus a large dance hall that was used for a city auditorium, dance hall, school graduation, and other important public events.  Joe was especially liked because of his high standards of personal conduct.  Contrary to the more usual practice in Seldovia, he did not drink, and he was well informed, an interesting and literate person, who played an important role among numbers of admiring people, you and old.” (Busey). From the Russian Christmas masquerade dances to basked socials benefiting one cause or another to plays put on and performed by the Seldovia Women’s Club, Joe Hill’s Hall played host to most social events in town.
 Perhaps a more important role played by Joe was a quiet one: that of local philanthropist.  Stories still circulate about how Joe carried more than one fishing family through a hard winter, or financed a boat for others.  Seldovian Albert Wilson recalls being taken care of by Joe Hill.  Circumstances prevented his staying at home for a period as a child, and so he went to live with Joe, who fixed him breakfast each morning and bustled him off to school.
