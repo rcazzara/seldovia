@@ -48,33 +48,36 @@
 
         // load JSON data for the cemetery map and attributes
         $.when(
-            $.getJSON('./assets/Seldovia_Cemetery_Plots.geojson'),
-            $.getJSON('cemetery-plots.json')
-        ).done(function (plotPolygons, plotData) {
-            // Combine attributes with the GeoJSON
-            plotCombo = plotPolygons.map(x => Object.assign(x, plotData.find(y => y.id == x.id)));
+                $.getJSON('./assets/Seldovia_Cemetery_Plots.geojson'),
+                $.getJSON('cemetery-plot-info.json')
+            ).done(function (plotPolygons, plotData) {
+                // Combine attributes with the GeoJSON
+                plotCombo = plotPolygons.map(x => Object.assign(x, plotData.find(y => y.id == x.id)));
 
-            // add the new layer to the map
-            map.addSource('plots', {
-                type: 'geojson',
-                data: {
-                    type: "FeatureCollection",
-                    name: "Plots",
-                    features: plotPolygons.features
-                }
-            });
+                // add the new layer to the map
+                map.addSource('plots', {
+                    type: 'geojson',
+                    data: {
+                        type: "FeatureCollection",
+                        name: "Plots",
+                        features: plotPolygons.features
+                    }
+                });
 
-            map.addLayer({
-                id: 'plot-polys',
-                type: 'fill',
-                source: 'plots',
-                'layout': {},
-                'paint': {
-                    'fill-color': 'rgba(255, 255, 255, 0.25)',
-                    'fill-outline-color': 'white'
-                }
+                map.addLayer({
+                    id: 'plot-polys',
+                    type: 'fill',
+                    source: 'plots',
+                    'layout': {},
+                    'paint': {
+                        'fill-color': 'rgba(255, 255, 255, 0.25)',
+                        'fill-outline-color': 'white'
+                    }
+                });
+            })
+            .fail(function () {
+                alert("Failed to load cemetery JSON files");
             });
-        });
     </script>
 
 </body>
