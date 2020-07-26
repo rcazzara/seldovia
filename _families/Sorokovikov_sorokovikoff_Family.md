@@ -1,5 +1,5 @@
 ---
-full_name: "Sorokovikov/sorokovikoff Family"
+full_name: "Sorokovikov/Sorokovikoff Family"
 
 ---
 # SOROKOVIKOV/SOROKOVIKOFF Family
