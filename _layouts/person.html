@@ -53,10 +53,12 @@
     </section>
     <footer>
       {% if page.previous.url %}
-      <a class="prev" href="{{ page.previous.url | prepend: site.baseurl }}">&laquo; {{page.previous.first_name}}
-        {{page.previous.last_name}}<</a> {% endif %} {% if page.next.url %} <a class="next"
-          href="{{ page.next.url | prepend: site.baseurl }}">{{page.next.first_name}} {{page.next.last_name}}
-          &raquo;</a>
+      <a href="{{ page.previous.url | prepend: site.baseurl }}" style="margin-right: 1rem">&laquo;
+        {{page.previous.first_name}} {{page.previous.last_name}}</a>
+      {% endif %}
+      {% if page.next.url %}
+      <a href="{{ page.next.url | prepend: site.baseurl }}" style="margin-right: 1rem">{{page.next.first_name}}
+        {{page.next.last_name}} &raquo;</a>
       {% endif %}
       <a href="{{ site.github.repository_url }}/edit/master/{{ page.path }}" target="_blank" style="float: right;">Edit
         this page...</a>
