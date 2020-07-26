@@ -16,11 +16,7 @@ She married James Wilson, son of Phillip and Sophia Mishacoff Wilson. THey had t
 
 They divorced and she married Robert Mitchell on December 23, 1933. After his death in 1934, she married [**Michael George McDonough**](./McDonough_Michael_George.md)
 
-  
-
-She married [**Michael George McDonough**](./McDonough_Michael_George.md)
-
-Michael was born in Saganaw, Michigan March 28, 1903. He and Mary were married in Seldovia on October 29, 1939. was a fisherman and died from a "gunshot wound fired with murderous intent".
+Michael was born in Saganaw, Michigan March 28, 1903. He and Mary were married in Seldovia on October 29, 1939. He was a fisherman and died from a "gunshot wound fired with murderous intent".
 
 Mary died July 17, 1947 and she and Michael McDonough are buried in Seldovia City Cemetery, Plots #85 and \#156.
 
