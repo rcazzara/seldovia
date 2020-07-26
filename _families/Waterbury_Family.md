@@ -1,13 +1,8 @@
 ---
-full_name: "WATERBURY FAMILY"
-last_name: "Waterbury"
-first_name: "Family"
-source_file: "Waterbury Family"
-birth_location:
-death_location:
-cemetery_plot: 
+full_name: "Waterbury Family"
+
 ---
-# WATERBURY FAMILY
+# WATERBURY Family
 
 \_\_\_\_\_
 
