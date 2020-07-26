@@ -767,4 +767,3 @@ it, and gave it to me years later. I was astonished when I met up with
 the old saw again.
 
 
-[**Hopkins - Spotter Plane Crash Report**](../_tidbits/Jack_Hopkins_Plane_Crash_Report.md)
