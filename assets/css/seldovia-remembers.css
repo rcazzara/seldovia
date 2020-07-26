@@ -5,12 +5,16 @@ body {
     font-family: Calibri, Candara, Segoe, Segoe UI, Optima, Arial, sans-serif;
 }
 
-section {
+.wrapper section {
     width: unset;
     margin-top: 25px;
     padding: 10px;
     position: relative;
     background: hsl(0deg 0% 100% / 50%);
+}
+
+.wrapper img {
+    max-width: 100%;
 }
 
 .heading {
