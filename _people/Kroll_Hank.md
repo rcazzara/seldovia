@@ -1,7 +1,7 @@
 ---
 full_name: "Henry Kroll"
 last_name: "Kroll"
-first_name: Henry
+first_name: Henry Frederick
 aka: Hank
 source_file: "Hank Kroll"
 birth_date: 1904-04-09
@@ -12,7 +12,7 @@ cemetery: not in cemetery
 
 ---
 
-**HENRY KROLL, "Hank"** was born on April 9, 1904 in New London, Wisconsin to William and Ida THIMM Kroll. He married Lois Elenor Harris in Seldovia on January 3, 1941.  
+**HENRY FREDERICK KROLL, "Hank"** was born on April 9, 1904 in New London, Wisconsin to William and Ida THIMM Kroll. He married Lois Elenor Harris in Seldovia on January 3, 1941.  
 
 Lois was born in Lodi New York in 1905.  She graduated NYU and received a scholarship to train in pediatrics at Eden Borough Castle, Scotland.  After interning in Harlem she worked for Frontier Nursing Service as a Kentucky Mountaineer delivering babies on horseback. One day she saw an ad for a Public Health Nurse that was needed in Seldovia. She wrote back and was accepted.  Upon arriving on Alaska Steamship Denali she met the outgoing nurse who willed her the cat and her boyfriend who happened to be Hank.  The year was 1936.  At the time it was unusual for a woman to travel by herself.  She traveled by fishing boat to the towns of Kenai, Homer, Anchor Point, Port Graham and English Bay to administer shots or diphtheria and tetanus.  Lois and Hank had two sons, Henry and Herbert (1946-1974).  She died in Seattle in 1987.  
 
