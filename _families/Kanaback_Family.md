@@ -1,11 +1,6 @@
 ---
-full_name: "KANABACK Family"
-last_name: "Kanaback"
-first_name: "Family"
-source_file: "Kanaback Family"
-birth_location:
-death_location:
-cemetery_plot: 
+full_name: "Kanaback Family"
+
 ---
 # KANABACK Family
 
