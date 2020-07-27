@@ -33,7 +33,7 @@ Freddy was honored as Seldovia's Old Crab in 1999.
 
 ![](../assets/images/Fred%20Newmeyer%20Old%20Crab.jpeg)
 
-He loved cooking and baking and was He was the owner of Seldovia Lodge which he operated since 1972 selling it in 1997. 
+He loved cooking and baking and was the owner of Seldovia Lodge which he operated since 1972 selling it in 1997. 
 
 He and Milly later became snowbirds in Yuma AZ while still enjoying summers in Alaska. He
 had studied the mythology of football and baseball, and won most of his
