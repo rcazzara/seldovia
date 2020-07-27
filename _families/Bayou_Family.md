@@ -1,11 +1,6 @@
 ---
-full_name: "Bayou Family"
-last_name: "Bayou"
-first_name: "Family"
-source_file: "BAYOU FAMILY"
-birth_location:
-death_location:
-cemetery_plot: 90
+Family: "Bayou Family"
+
 ---
 # Bayou Family
 
