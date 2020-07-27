@@ -14,7 +14,7 @@ source_file: Cemetery Directory
 
 ![](../assets/images/Katherine%20Kasevarof%20and%20reat%20great%20grandson Scotty.jpg)
 
-Her father, [**Thomas Fox**](../families/Fox_Family.md), was from England. He married Emma
+Her father, [**Thomas Fox**](../_families/Fox_Family.md), was from England. He married Emma
 Gardner in Aleutians East, Alaska and they became the parents of nine
 children. Emma and the children moved to Unalaska in the early 1930s.
 
