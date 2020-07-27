@@ -10,6 +10,6 @@ He emigrated on the sailing ship SERVIA, from Sydney, Australia, arriving in Ame
 
 Thomas and Emma were the parents of nine children, including:
 
-- [**Katherine Ekatrina Fox**](../people/Kashevarof_Katherine_F_Fox.md), born May 6, 1906, married Ernest Ferdinand Vinberg and Andrew Kashevarof.
+- [**Katherine Ekatrina Fox**](../_people/Kashevarof_Katherine_F_Fox.md), born May 6, 1906, married Ernest Ferdinand Vinberg and Andrew Kashevarof.
 
 - Thomas Kerry Fox, born August 23, 1907, Unga Island, married Harriet Catherine Johnson, May 10, 1929 in Seldovia.; died May 29, 1943 in Seattle, Washington
