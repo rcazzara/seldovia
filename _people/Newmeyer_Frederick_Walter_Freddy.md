@@ -44,7 +44,7 @@ cooking and travel will be an inspiration to others to live life to the
 fullest wherever that will take you\! He leaves numerous family member
 and friends. 
 
-Freddydied at home on September 18, 2012, with his wife and sister-in-law by his side. Graveside services with military honors were held at Fort Richardson National Cemetery, Anchorage.
+Freddy died at home on September 18, 2012, with his wife and sister-in-law by his side. Graveside services with military honors were held at Fort Richardson National Cemetery, Anchorage.
 
 
 
