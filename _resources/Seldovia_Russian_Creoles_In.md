@@ -1,6 +1,5 @@
 ---
-title: "Russian Creoles in Seldovia"
-
+full_name: "Russian Creoles in Seldovia"
 ---
 # RUSSIAN CREOLES in SELDOVIA
 
