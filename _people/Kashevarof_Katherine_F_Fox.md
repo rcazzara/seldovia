@@ -10,16 +10,13 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 224
 source_file: Cemetery Directory
 ---
-**KATHERINE *FOX* VINBERG KASHEVAROF**, was born May 6, 1906, in Unga. Her father,
-Thomas Fox, was from England. Thomas was a member of the Roman Catholic
-Church and served in His Majesty's Navy in England. He emigrated on the
-sailing ship SERVIA, from Sydney, Australia, arriving in America on 1
-June 1901 in the port of San Francisco, California. He married Emma
+**KATHERINE *FOX* VINBERG KASHEVAROF**, was born May 6, 1906, in Unga. 
+
+![](../assets/images/Katherine%20Kasevarof%20and%20reat%20great%20grandson Scotty.jpg)
+
+Her father, [**Thomas Fox**](../_families/Fox_Family.md), was from England. He married Emma
 Gardner in Aleutians East, Alaska and they became the parents of nine
-children. Tom had a tattoo ring on left small finger. He was a fox fur
-trapper in the Shumagin Islands and a member of the Unga Unit of the
-Alaska Territorial Guard. Emma and the children moved to Unalaska in the
-early 1930s.
+children. Emma and the children moved to Unalaska in the early 1930s.
 
 Katherine married **Ernest VINBERG** in 1924 and had five children:
 Esther, Ernest, Hubert, Emil and Don Vinberg. In 1934, she married
