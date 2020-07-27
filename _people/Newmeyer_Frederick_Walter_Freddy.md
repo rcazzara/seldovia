@@ -16,9 +16,7 @@ source_file: "Frederick Walter Newmeyer not in cemetery"
 
 ![](../assets/images/Frederick%20Walter%20Newmeyer%20not%20in%20cemetery/media/image1.jpeg)
 
-85 year old [World War
-II](http://www.legacy.com/memorial-sites/ww2/?personid=160229166&affiliateID=1898)
-Veteran Fredrick Walter Newmeyer of Seldovia died at home on September
+85 year old World War II Veteran Fredrick Walter Newmeyer of Seldovia died at home on September
 18, 2012, with his wife and sister-in-law by his side. He was the former
 owner of Seldovia Lodge which he operated since 1972 selling it in 1997.  
   
@@ -33,8 +31,11 @@ Freddy met his wife in downtown Anchorage, and shortly thereafter they
 married. He loved traveling the world and together they traveled it
 twice; he especially loved Germany, France, Holland, Europe, Japan,
 Thailand, and China. He also enjoyed fishing, boating, camping and took
-the Alcan Highway passage many times with his motor home. They later
-became snowbirds in Yuma AZ while still enjoying summers in Alaska. He
+the Alcan Highway passage many times with his motor home. 
+
+![](../assets/images/Fred%20Newmeyer%20Old%20Crab.jpeg)
+
+They later became snowbirds in Yuma AZ while still enjoying summers in Alaska. He
 had studied the mythology of football and baseball, and won most of his
 bets, which led him to win the Super Bowl when the Dallas Cowboys, his
 favorite team won. Freddy and Milly were inseparable\! Friends say he
