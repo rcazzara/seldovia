@@ -57,7 +57,7 @@
         {{page.previous.first_name}} {{page.previous.last_name}}</a>
       {% endif %}
       {% if page.next.url %}
-      <a href="{{ page.next.url | prepend: site.baseurl }}" style="margin-right: 1rem">{{page.next.first_name}}
+      <a href="{{ page.next.url | prepend: site.baseurl }}">{{page.next.first_name}}
         {{page.next.last_name}} &raquo;</a>
       {% endif %}
       <a href="{{ site.github.repository_url }}/edit/master/{{ page.path }}" target="_blank" style="float: right;">Edit
