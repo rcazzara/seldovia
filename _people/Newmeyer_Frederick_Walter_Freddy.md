@@ -27,7 +27,7 @@ school and shortly after graduation he joined the Army and learned to
 cook and was an excellent baker. After his honorable discharge he took
 up on an ad for a camp cook for Chisnik Canneries (Snug Harbor).
 
-Freddy met his wife in downtown Anchorage, and shortly thereafter they
+Freddy met his wife, Milly (Mildred KAGAK) in downtown Anchorage, and shortly thereafter they
 married. He loved traveling the world and together they traveled it
 twice; he especially loved Germany, France, Holland, Europe, Japan,
 Thailand, and China. He also enjoyed fishing, boating, camping and took
@@ -37,7 +37,7 @@ Freddy was honored as Seldovia's Old Crab in 1999.
 
 ![](../assets/images/Fred%20Newmeyer%20Old%20Crab.jpeg)
 
-They later became snowbirds in Yuma AZ while still enjoying summers in Alaska. He
+He and Milly later became snowbirds in Yuma AZ while still enjoying summers in Alaska. He
 had studied the mythology of football and baseball, and won most of his
 bets, which led him to win the Super Bowl when the Dallas Cowboys, his
 favorite team won. Freddy and Milly were inseparable\! Friends say he
@@ -48,4 +48,4 @@ and friends. Graveside services with military honors were held on Friday
 morning, Sept. 28, 2012, at Fort Richardson National Cemetery,
 Anchorage.
 
-![](..assets/images/061102_NewmeyersSeldoviaLodgeT350.jpg)
+![](..assets/images/061102%20NewmeyersSeldoviaLodgeT350.jpg)
