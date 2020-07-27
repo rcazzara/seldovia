@@ -33,6 +33,8 @@ twice; he especially loved Germany, France, Holland, Europe, Japan,
 Thailand, and China. He also enjoyed fishing, boating, camping and took
 the Alcan Highway passage many times with his motor home. 
 
+Freddy was honored as Seldovia's Old Crab in 1999.
+
 ![](../assets/images/Fred%20Newmeyer%20Old%20Crab.jpeg)
 
 They later became snowbirds in Yuma AZ while still enjoying summers in Alaska. He
