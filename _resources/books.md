@@ -18,7 +18,7 @@ full_name: Books
 
 + Pedersen, Elsa. **_A Larger History of the Kenai Peninsula_**.  Chicago: Adams Press, 1983.
 
-+ Pedersen, Elsa. **_Kachemak Bay Years_**. Walnut Creek, California: Hardscratch Press, 2001
++ Pedersen, Elsa. **_Kachemak Bay Years: An Alaska Homesteader's Memoir_**, by Elsa Pedersen. Hardscratch Press, 2001. ISBN: 0-9678989-1-9
 
 + Reed, Carolyn E. **_Community Response to the Alaska Native Claims Settlement Act: Seldovia, Alaska_**. M.A. Thesis, Department of Anthropology, University of Calgary, Calgary. 1979.
 
