@@ -1,11 +1,6 @@
 ---
 full_name: "THE SCANDINAVIANS"
-last_name: "Scandinavians"
-first_name: "The"
-source_file: "THE SCANDANAVIANS"
-birth_location:
-death_location:
-cemetery_plot: 
+
 ---
 # THE SCANDINAVIANS
 
