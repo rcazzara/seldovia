@@ -31,8 +31,8 @@
         var map = new mapboxgl.Map({
                 container: 'map', // container id
                 style: 'mapbox://styles/mapbox/streets-v11', // stylesheet location
-                center: [-151.71, 59.445], // starting position [lng, lat]
-                zoom: 16, // starting zoom
+                center: [-151.7, 59.446], // starting position [lng, lat]
+                zoom: 17, // starting zoom
                 minZoom: 10,
                 maxBounds: [
                     [-152, 59], // Southwest coordinates
@@ -46,71 +46,74 @@
                 customAttribution: "Seldovia Remembers"
             }));
 
-        // load JSON data for the cemetery map and attributes
-        $.when(
-                $.getJSON('./assets/cemetery-plot-polygons.geojson'),
-                $.getJSON('cemetery-plot-info.json')
-            ).done(function (plotPolygons, plotData) {
-                // Combine attributes with the GeoJSON
-                plotFeatures = plotPolygons[0].features.map(x => Object.assign(x, Object.assign(x.properties,
-                    plotData[0].find(y => y.plot == x.properties.plot))));
+        map.on('load', function () {
+            // load JSON data for the cemetery map and attributes
+            $.when(
+                    $.getJSON('./assets/cemetery-plot-polygons.geojson'),
+                    $.getJSON('cemetery-plot-info.json')
+                ).done(function (plotPolygons, plotData) {
+                    // Combine attributes with the GeoJSON
+                    plotFeatures = plotPolygons[0].features.map(x => Object.assign(x, Object.assign(x
+                        .properties,
+                        plotData[0].find(y => y.plot == x.properties.plot))));
 
-                // add the new layer to the map
-                map.addSource('plots', {
-                    type: 'geojson',
-                    data: {
-                        type: "FeatureCollection",
-                        name: "Plots",
-                        features: plotFeatures
-                    }
+                    // add the new layer to the map
+                    map.addSource('plots', {
+                        type: 'geojson',
+                        data: {
+                            type: "FeatureCollection",
+                            name: "Plots",
+                            features: plotFeatures
+                        }
+                    });
+
+                    map.addLayer({
+                        id: 'plot-polys',
+                        type: 'fill',
+                        source: 'plots',
+                        generateId: true,
+                        layout: {},
+                        paint: {
+                            'fill-color': 'rgba(255, 255, 255, 0.25)',
+                            'fill-outline-color': 'white'
+                        }
+                    });
+
+                    // When a click event occurs on a feature in the places layer, open a popup at the
+                    // location of the feature, with description HTML from its properties.
+                    map.on('click', 'plot-polys', function (e) {
+                        var props = e.features[0].properties
+                        var description = 'Plot: ' + props.plot + '<br>'
+                        if (props.hasOwnProperty('first_name')) {
+                            description += 'First Name: ' + props.first_name + '<br>'
+                        }
+                        if (props.hasOwnProperty('last_name')) {
+                            description += 'Last Name: ' + props.last_name + '<br>'
+                        }
+                        if (props.hasOwnProperty('url')) {
+                            description += '<a href="' + props.url + '">More Details...</a>'
+                        }
+
+                        new mapboxgl.Popup()
+                            .setLngLat(e.lngLat)
+                            .setHTML(description)
+                            .addTo(map);
+                    });
+
+                    // Change the cursor to a pointer when the mouse is over the places layer.
+                    map.on('mouseenter', 'plot-polys', function () {
+                        map.getCanvas().style.cursor = 'pointer';
+                    });
+
+                    // Change it back to a pointer when it leaves.
+                    map.on('mouseleave', 'plot-polys', function () {
+                        map.getCanvas().style.cursor = '';
+                    });
+                })
+                .fail(function () {
+                    alert("Failed to load cemetery JSON files");
                 });
-
-                map.addLayer({
-                    id: 'plot-polys',
-                    type: 'fill',
-                    source: 'plots',
-                    generateId: true,
-                    layout: {},
-                    paint: {
-                        'fill-color': 'rgba(255, 255, 255, 0.25)',
-                        'fill-outline-color': 'white'
-                    }
-                });
-
-                // When a click event occurs on a feature in the places layer, open a popup at the
-                // location of the feature, with description HTML from its properties.
-                map.on('click', 'plot-polys', function (e) {
-                    var props = e.features[0].properties
-                    var description = 'Plot: ' + props.plot + '<br>'
-                    if (props.hasOwnProperty('first_name')) {
-                        description += 'First Name: ' + props.first_name + '<br>'
-                    }
-                    if (props.hasOwnProperty('last_name')) {
-                        description += 'Last Name: ' + props.last_name + '<br>'
-                    }
-                    if (props.hasOwnProperty('url')) {
-                        description += '<a href="' + props.url + '">More Details...</a>'
-                    }
-
-                    new mapboxgl.Popup()
-                        .setLngLat(e.lngLat)
-                        .setHTML(description)
-                        .addTo(map);
-                });
-
-                // Change the cursor to a pointer when the mouse is over the places layer.
-                map.on('mouseenter', 'plot-polys', function () {
-                    map.getCanvas().style.cursor = 'pointer';
-                });
-
-                // Change it back to a pointer when it leaves.
-                map.on('mouseleave', 'plot-polys', function () {
-                    map.getCanvas().style.cursor = '';
-                });
-            })
-            .fail(function () {
-                alert("Failed to load cemetery JSON files");
-            });
+        });
     </script>
 
 </body>
