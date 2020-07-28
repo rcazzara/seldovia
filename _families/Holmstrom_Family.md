@@ -3,7 +3,8 @@ full_name: "Holstrom Family *"
 ---
 # HOLMSTROM Family
 
-**Gustave Edvard Holmstrom** was born in Finland in 1881.  By 1910 he was living in Kenai, Alaska.  The census record lists his parents as both being born in Sweden. IN 1920 Gus was in Seldovia and married to [**Anna Walnussen**](../_people/Holmstrom_Anna_Walmussen.md, daughter of Stephen Walnussen. In 1920 he also received his US Naturalization papers. 
+**Gustave Edvard Holmstrom** was born in Finland in 1881.  By 1910 he was living in Kenai, Alaska.  The census record lists his parents as both being born in Sweden. IN 1920 Gus was in Seldovia and married to [**Anna
+Walnusson**](./Holmstrom_Anna_Walmusson.md), daughter of Stephen Walnussen. In 1920 he also received his US Naturalization papers. 
 
 When Gus died in Seldovia in 1934, the Juneau Empire published the news, calling him "Contrary Gus". The story of "Contrary Gus" comes from the shipwreck of the Alaska codfish schooner "John F. Miller" in 1908. The story of the rescue was printed in the San Francisco Call on May 16, 1908.
 
