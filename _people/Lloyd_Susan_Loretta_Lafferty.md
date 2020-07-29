@@ -50,7 +50,7 @@ Seldovia. Grace died April 17, 1961 in Seldovia, and Carl died January
 8, 1968 in Seldovia. They are both buried in the Seldovia City Cemetery,
 Plots \#73 and \#233.
 
-- [**Georgia Charlotte LLOYD Peck**](./Peck_Georgia_Charlotte.md) was born 1915 in Jackson,
+- [**Georgia Charlotte LLOYD Peck**](./Peck_Charlotte_Lloyd.md) was born 1915 in Jackson,
 Wyoming. She was living with her parents in Seldovia in 1930 and married
 **William Edward Peck** August 4, 1935 in Seldovia. She died in November
 27, 1939 in Seattle at the age of 35. Her husband and daughter Susan
