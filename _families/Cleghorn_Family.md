@@ -18,7 +18,7 @@ By 1920, the family was operating a fox farm on Yukon Island. James Cleghorn and
 James and Mary had 12 children:
 1.	Kate Ballou, born 1892, was actually a step-daughter of James, so 
 2.	Jennie  1894-1959
-3.	Lucille CLEGHORN Ollestad b. 1895, d. 1985; buried in Seldovia City Cemetery – see OLLESTAD FAMILY page.  Memorial in Seldovia City Cemetery , plot #195. See [**OLLESTAD FAMILY**](../_families/Ollestad_Family.md).
+3.	[**Lucille CLEGHORN Ollestad**](../_people/Ollestad_Lucille_Cleghorn.md) b. 1895, d. 1985; buried in Seldovia City Cemetery.  Memorial in Seldovia City Cemetery , plot #195. See [**OLLESTAD FAMILY**](../_families/Ollestad_Family.md).
 4.	James CLEGHORN b. December 2, 1898 - d. July, 1971 Seldovia, Alaska, Seldovia City Cemetery , plot #195.
 5.	Marie Xenia CLEGHORN Fondahn, Born in Old Tyonek on Jan. 14, 1900, she married Edmund A. Fondahn, Sr. an early Alaska Pioneer. She had served as a volunteer at the Alaska Medical Center. During WWII she served as a translator for the Soviet vessels that docked in Seward.
 
@@ -29,7 +29,7 @@ James and Mary had 12 children:
 9.	Walter Howard CLEGHORN b. September 15, 1907- d. August 22,1975. Walter became a professional middleweight boxer (known as the "Kodiak Bear") and competed in 91 professional fights in the lower 48 between 1925 and 1934.
 10.	Bertha Stella CLEGHORN 1908-1927
 11.	Maxine CLEGHORN 1913-1982 
-12.	[**ADAM “CROW” CALVIN CLEGHORN**](../_people/Cleghorn_Adam_Calvin.md) 1915-1978 died in Seldovia and is buried in the Seldovia City Cemetery Plot #209
+12.	[**Adam Calvin Cleghorn, "Crow"**](../_people/Cleghorn_Adam_Calvin.md) 1915-1978 died in Seldovia and is buried in the Seldovia City Cemetery Plot #209
 
 
 
