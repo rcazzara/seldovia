@@ -91,7 +91,7 @@ her Social Security papers.
 
 11. **Maxine Cleghorn** 1913-1982
 
-12. [**Adam "Crow" Calvin Cleghorn**](./Cleghorn_Calvin.md) 1915-1978 died in Seldovia and is
+12. [**Adam "Crow" Calvin Cleghorn**](./Cleghorn_Adam_Calvin.md) 1915-1978 died in Seldovia and is
     buried in the Seldovia City Cemetery.
     
     
