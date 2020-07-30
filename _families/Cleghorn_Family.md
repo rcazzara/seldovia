@@ -29,7 +29,7 @@ James and Mary had 12 children:
 9.	Walter Howard CLEGHORN b. September 15, 1907- d. August 22,1975. Walter became a professional middleweight boxer (known as the "Kodiak Bear") and competed in 91 professional fights in the lower 48 between 1925 and 1934.
 10.	Bertha Stella CLEGHORN 1908-1927
 11.	Maxine CLEGHORN 1913-1982 
-12.	[**Adam Calvin Cleghorn, "Crow"**](../_people/Cleghorn_Adam_Calvin.md) 1915-1978 died in Seldovia and is buried in the Seldovia City Cemetery Plot #209
+12.	[**Adam Calvin CLEGHORN, "Crow"**](../_people/Cleghorn_Adam_Calvin.md) 1915-1978 died in Seldovia and is buried in the Seldovia City Cemetery Plot #209
 
 
 
