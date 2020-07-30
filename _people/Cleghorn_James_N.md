@@ -20,8 +20,7 @@ Pre Gold Rush Prospectors in Alaska***](http://freepages.rootsweb.com/~coleen/ge
 
 James came to Alaska in 1886. He and his partner, Harry Mellish
 crossed the Yukon River near the Russian Mission Portae and went up the
-Kuskokwim River in search of gold in 1890, long before the gold rush of
-1897. Finding very little gold, the men spent the winter of 1890-91 in
+Kuskokwim River in search of gold in 1890, long before the gold rush of 1897. Finding very little gold, the men spent the winter of 1890-91 in
 the village of Kolmakov near the confluence of the Kuskokwim River and
 the Holitna River.  
   
@@ -54,7 +53,7 @@ below the Russian Orthodox Church.  (James 1852-1928) (Mary
 
 2.  **Jennie Cleghorn**  1894-1959
 
-3.  [**Lucille Cleghorn Ollestad**](./Ollestad-Lucille_Cleghorn.md) b. 1895, d. 1985; buried in Seldovia
+3.  [**Lucille Cleghorn Ollestad**](./Ollestad_Lucille_Cleghorn.md) b. 1895, d. 1985; buried in Seldovia
     City Cemetery – see Ollestad Family page. Memorial in Seldovia City
     Cemetery , plot \#195. See OLLESTAD FAMILY.**
 
