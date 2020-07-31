@@ -15,16 +15,8 @@ Adam married Alice Poole on December 29, 1916 in Alemada, California.
 
 ![](../assets/images/Adam Lipke reunited with wife.jpg)
 
-Adam and Alice Lipke left Seattle by steamship for Alaska in 1921 and, upon arrival,  travelled by dogsled to their first posting, the village of McGrath in Alaska's interior. 
 
-![](../assets/images/Lipke_Rescue.jpg)
-
-When McGrath was inundated by heavy flooding from adjacent rivers, they pulled stakes and moved to Seldovia in the early 1920s. Adam was a ham radio operator and established a telegraph office in Seldovia.  
-
-(Rollins Sandspur WinterPark, Florida: MAY 15, 1935)  **Radio Phones Help Alaska Seldovia, Alaska** (UP)—Installation of a radio telephone by Adam Lipke has given the Seldovia district direct communication with the outside world. On first tests Lipke talked to Kuskokwin and Fairbanks. Radio phones of smaller radius will be installed at Homer and other communities.
-
-
-In 1947, after John Groothof had established a community telephone service, Adam installed a radio telephone transmitter which enabled Seldovians to speak directly with people in Anchorage for the first time. 
+Adam and Alice Lipke left Seattle by steamship for Alaska sometime and, upon arrival,  travelled by dogsled to their first posting, the village of McGrath in Alaska's interior. When McGrath was inundated by heavy flooding from adjacent rivers, they pulled stakes and moved to Seldovia in the early 1920s. Adam was a ham radio operator and established a telegraph office in Seldovia.  In 1947, after John Groothof had established a community telephone service, Adam installed a radio telephone transmitter which enabled Seldovians to speak directly with people in Anchorage for the first time. 
 
 Alice started her own clothing store, Lipke's Clothing Store on Main Street next to her husband's telegraph office.  In 1938, Alice wrote "Under The Aurora", a book about her life in Alaska in the era of the 1920's - 1930's. While she and Adam are given fake names, most of the other characters and the events are true to her memory.
 
