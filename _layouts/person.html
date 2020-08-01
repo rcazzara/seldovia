@@ -47,7 +47,7 @@
       <h3> {{ birth_date | default: 'Date Unknown' }}, {{ page.birth_location | default: 'Location Unknown' }} &mdash;
         {{ death_date | default: 'Date Unknown' }}, {{ page.death_location | default: 'Location Unknown' }}</h3>
       {% if page.cemetery_plot %}
-      <a href='{{ site.baseurl }}/cemetery-map.html?plot={{ page.cemetery_plot }}'>Buried in {{ page.cemetery }} Plot
+      Buried in <a href='{{ site.baseurl }}/cemetery-map.html?plot={{ page.cemetery_plot }}'>{{ page.cemetery }} Plot
         #{{ page.cemetery_plot }}</a>
       {% endif %}
       <hr width="50%" align="center">
