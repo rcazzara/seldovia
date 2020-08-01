@@ -2,6 +2,7 @@
 ---
 [
 {% assign cemetery_people = site.people | sort: "cemetery_plot" %}{% for people in cemetery_people %}{% raw %}{{% endraw %}
+     "cemetery": "{{ people.cemetery }}",
      "plot": "{{ people.cemetery_plot }}",
      "last_name": "{{ people.last_name | escape }}",
      "first_name": "{{ people.first_name | escape }}",

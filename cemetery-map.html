@@ -37,7 +37,8 @@ title: Cemetery Map
                 // Combine attributes with the GeoJSON
                 plotFeatures = plotPolygons[0].features.map(x => Object.assign(x, Object.assign(x
                     .properties,
-                    plotData[0].find(y => y.plot == x.properties.plot))));
+                    plotData[0].find(y => y.cemetery == 'Seldovia City Cemetery' && y.plot == x
+                        .properties.plot))));
 
                 // add the new layer to the map
                 map.addSource('plots', {
@@ -144,9 +145,11 @@ title: Cemetery Map
 
                 // If there were url parameters, zoom to the plot
                 var params = new URLSearchParams(location.search);
+                var paramCemetery = params.get('cemetery');
                 var paramPlot = params.get('plot');
-                if (paramPlot) {
-                    var selectedFeature = plotFeatures.find(x => x.properties.plot == paramPlot);
+                if (paramPlot && paramCemetery) {
+                    var selectedFeature = plotFeatures.find(x => x.properties.plot == paramPlot &&
+                        paramCemetery == 'Seldovia City Cemetery');
                     if (selectedFeature) {
                         map.setFilter('plot-highlighted', ['==', 'plot', paramPlot]);
                         var coordinates = selectedFeature.geometry.coordinates[0];
