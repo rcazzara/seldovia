@@ -6,7 +6,7 @@ title: Cemetery Map
 <script src="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.js"></script>
 <link href="https://api.mapbox.com/mapbox-gl-js/v1.11.1/mapbox-gl.css" rel="stylesheet" />
 <script src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
-<div id="map" style="width: 100%; height: 100%"></div>
+<div id="map" style="width: 100%; height: 85%"></div>
 <script>
     mapboxgl.accessToken =
         'pk.eyJ1IjoiYWxhc2thbWFwc2NpZW5jZSIsImEiOiJjazN6NDUxM3AxcjhzM2txbHh0dzU1amc2In0.3wiFYoMh5YVTU48tiLy2EA';
@@ -46,14 +46,15 @@ title: Cemetery Map
                         type: "FeatureCollection",
                         name: "Plots",
                         features: plotFeatures
-                    }
+                    },
+                    generateId: true
                 });
 
                 map.addLayer({
                     id: 'plot-polys',
                     type: 'fill',
                     source: 'plots',
-                    generateId: true,
+                    minzoom: 16,
                     layout: {},
                     paint: {
                         'fill-color': 'rgba(255, 255, 255, 0.25)',
@@ -61,36 +62,110 @@ title: Cemetery Map
                     }
                 });
 
-                // When a click event occurs on a feature in the places layer, open a popup at the
-                // location of the feature, with description HTML from its properties.
+                map.addLayer({
+                    id: 'plot-highlighted',
+                    type: 'fill',
+                    source: 'plots',
+                    layout: {},
+                    paint: {
+                        'fill-color': 'rgba(255, 36, 255, 0.5)',
+                        'fill-outline-color': 'rgba(255, 36, 255, 1)'
+                    },
+                    filter: ['==', 'plot', -1]
+                });
+
+                map.addLayer({
+                    id: 'plot-labels',
+                    type: 'symbol',
+                    source: 'plots',
+                    minzoom: 18,
+                    layout: {
+                        'text-field': ['get', 'plot'],
+                        'text-size': [
+                            'interpolate',
+                            ['exponential', 2],
+                            ['zoom'],
+                            18, 7,
+                            22, 32
+                        ],
+                        'text-rotate': 25,
+                        'text-rotation-alignment': 'map'
+                    }
+                });
+
                 map.on('click', 'plot-polys', function (e) {
                     var props = e.features[0].properties
-                    var description = 'Plot: ' + props.plot + '<br>'
-                    if (props.hasOwnProperty('first_name')) {
-                        description += 'First Name: ' + props.first_name + '<br>'
-                    }
-                    if (props.hasOwnProperty('last_name')) {
-                        description += 'Last Name: ' + props.last_name + '<br>'
-                    }
+
                     if (props.hasOwnProperty('url')) {
-                        description += '<a href="' + props.url + '">More Details...</a>'
+                        window.location.href = props.url;
                     }
 
-                    new mapboxgl.Popup()
+                });
+
+                // Create a popup, but don't add it to the map yet.
+                var hoverPopup = new mapboxgl.Popup({
+                    closeButton: false,
+                    closeOnClick: false
+                });
+
+                function getPopupInfo(props) {
+                    var description = 'Plot: ' + props.plot + '<br>'
+                    if (props.hasOwnProperty('first_name')) {
+                        description += props.first_name + ' '
+                    }
+                    if (props.hasOwnProperty('last_name')) {
+                        description += props.last_name
+                    }
+                    return description
+                }
+
+                map.on('mouseenter', 'plot-polys', function (e) {
+                    // Change the cursor style as a UI indicator.
+                    map.getCanvas().style.cursor = 'pointer';
+
+                    var props = e.features[0].properties
+                    var description = getPopupInfo(props)
+                    if (props.hasOwnProperty('url')) {
+                        description += '<br><a href="' + props.url + '">Click for details...</a>'
+                    }
+
+                    // Populate the popup and set its coordinates
+                    // based on the feature found.
+                    hoverPopup
                         .setLngLat(e.lngLat)
                         .setHTML(description)
                         .addTo(map);
                 });
 
-                // Change the cursor to a pointer when the mouse is over the places layer.
-                map.on('mouseenter', 'plot-polys', function () {
-                    map.getCanvas().style.cursor = 'pointer';
-                });
-
-                // Change it back to a pointer when it leaves.
                 map.on('mouseleave', 'plot-polys', function () {
                     map.getCanvas().style.cursor = '';
+                    hoverPopup.remove();
                 });
+
+                // If there were url parameters, zoom to the plot
+                var params = new URLSearchParams(location.search);
+                var paramPlot = params.get('plot');
+                if (paramPlot) {
+                    var selectedFeature = plotFeatures.find(x => x.properties.plot == paramPlot);
+                    if (selectedFeature) {
+                        map.setFilter('plot-highlighted', ['==', 'plot', paramPlot]);
+                        var coordinates = selectedFeature.geometry.coordinates[0];
+                        var bounds = coordinates.reduce(function (bounds, coord) {
+                            return bounds.extend(coord);
+                        }, new mapboxgl.LngLatBounds(coordinates[0], coordinates[0]));
+
+                        map.fitBounds(bounds, {
+                            padding: 50,
+                            maxZoom: 20
+                        });
+
+                        new mapboxgl.Popup()
+                            .setLngLat(bounds.getCenter())
+                            .setHTML(getPopupInfo(selectedFeature.properties))
+                            .addTo(map);
+                    }
+                }
+
             })
             .fail(function () {
                 alert("Failed to load cemetery JSON files");
