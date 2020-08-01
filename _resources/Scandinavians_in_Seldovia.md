@@ -1,13 +1,7 @@
 ---
-full_name: "THE SCANDINAVIANS"
-last_name: "Scandinavians"
-first_name: "The"
-source_file: "THE SCANDANAVIANS"
-birth_location:
-death_location:
-cemetery_plot: 
+full_name: "Scandinavians in Seldovia"
 ---
-# THE SCANDINAVIANS
+A significant number of people who settled in Seldovia or parented people who did originated in the Scandinavian countries of Norway, Sweden and Finland.  Here's a summary of somme:
 
 ### FROM NORWAY
 

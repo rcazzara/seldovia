@@ -1,9 +1,6 @@
 ---
-Family: "Bayou Family"
-
+full_name: "Bayou Family"
 ---
-# Bayou Family
-
 There were **Bayou** families living in Seldovia as early as 1900. It is
 likely that the original Russian Bayou came to Kodiak in the
 19<sup>th</sup> century and married an Alaska Native women, as they
@@ -16,12 +13,12 @@ were living in Seldovia with 3 children and he was listed as a laborer.
 In 1910, the family was in Ninilchik with 4 children and he was listed
 as a shop keeper. In 1920 they were back in Kachemak Bay where he was a
 logger at a pile camp. Christina died not long after that and Wassilii
-married 2<sup>nd</sup> Eva Odoyiah Hunter September 22, 1925. Wassilii
+married Eva Odoyiah Hunter on September 22, 1925. Wassilii
 was a trapper in Seldovia at the time of the 1930 census. He died May
 10, 1937 and is buried in Seldovia City Cemetery, Plot \# 91.
 
-[**EVA Backoff](../_people/Bayou_Eva_Hunter.md) b. 1882, d. 1937, married 1st
-[William Hunter](../_families/Hunter_Family.md), and after his death she Wassilii
+[**EVA Backoff**](../_people/Bayou_Eva_Hunter.md) b. 1882, d. 1937, first married 
+[William Hunter](../_families/Hunter_Family.md). After Hunter's death she married Wassilii
 Bayou and they were living in Seldovia with her children in 1930. She is
 buried in Seldovia City Cemetery, next to Wassilii in Plot \#90.
 

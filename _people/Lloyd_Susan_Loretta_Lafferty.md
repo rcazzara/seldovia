@@ -38,11 +38,11 @@ Job and her mother. When Job enlisted in 1942 he gave his mother’s name
 as Laura Diehl of Seldovia. She died in Anchorage June 30, 1987 and is
 buried in Anchorage.
 
-- **Bessie E. LLOYD** was born November 7, 1903, Jackson Wyoming. She died
+- [**Bessie E. LLOYD**](./Lloyd_Bessie_E.md) was born November 7, 1903, Jackson Wyoming. She died
 on December 4, 1926, Seldovia, Alaska. She is buried in the Seldovia
 Hillside Cemetery.
 
-- **Grace Mary** **Lloyd** **Duffy Nordenson** was born August 16, 1906 in
+- [**Grace Mary Lloyd Duffy Nordenson**](./Nordenson_Grace_Mary_Lloyd.md) was born August 16, 1906 in
 Jackson, Wyoming. She married Robert **Leroy** **Duffy** in Aberdeen,
 Washington March 24, 1928, and they lived in Washington until he died in 1940. Later she came to Seldovia to visit her parents and met [**Carl
 Harry Nordenson**](Nordenson_Carl.md). They were married April 16, 1942 in
@@ -50,7 +50,7 @@ Seldovia. Grace died April 17, 1961 in Seldovia, and Carl died January
 8, 1968 in Seldovia. They are both buried in the Seldovia City Cemetery,
 Plots \#73 and \#233.
 
-- **Georgia** **Charlotte** **LLOYD** **Peck** was born 1915 in Jackson,
+- [**Georgia Charlotte LLOYD Peck**](./Peck_Charlotte_Lloyd.md) was born 1915 in Jackson,
 Wyoming. She was living with her parents in Seldovia in 1930 and married
 **William Edward Peck** August 4, 1935 in Seldovia. She died in November
 27, 1939 in Seattle at the age of 35. Her husband and daughter Susan

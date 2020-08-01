@@ -10,7 +10,7 @@ cemetery_plot: 127
 source_file: Cemetery Directory
 ---
 
-**Paul (Slater) Holmstrom**, son of [**Gus and Anna WALMUSSON Holmstrom](./Holmstrom_Gustave_Edvard.md) was born in Alaska September 14, 1897. He was the biological son of Anna's first husband, Slater but took her second husband's last name when she married. He married Agrifina
+**Paul (Slater) Holmstrom**, son of [**Gus and Anna WALMUSSON Holmstrom**](./Holmstrom_Gustave_Edvard.md) was born in Alaska September 14, 1897. He was the biological son of Anna's first husband, Slater but took her second husband's last name when she married. He married Agrifina
 Socoloff in 1925 and they had two children. Agrifina later married Peter
 Kalifonsky.**
 
