@@ -1,9 +1,6 @@
 ---
-full_name: "THE SCANDINAVIANS WHO CAME TO SELDOVIA"
-
+full_name: "Scandinavians in Seldovia"
 ---
-# THE SCANDINAVIANS in Seldovia
-
 A significant number of people who settled in Seldovia or parented people who did originated in the Scandinavian countries of Norway, Sweden and Finland.  Here's a summary of somme:
 
 ### FROM NORWAY
