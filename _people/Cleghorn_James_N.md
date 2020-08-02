@@ -4,10 +4,10 @@ first_name: James Naismith
 aka: Jim
 birth_date: 1852-11-22
 birth_location: New York
-death_date: 1971-07-01
+death_date: 1928-1-27
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
-cemetery_plot: 234
+cemetery_plot: 
 family: Cleghorn
 source_file: Cemetery Directory
 ---
