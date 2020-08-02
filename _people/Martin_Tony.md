@@ -23,6 +23,9 @@ fisherman. In 1928 the Pacific Fisherman’s Yearbook reported that he had
 produced 80 barrels and 25 half barrels of pickled herring in that
 season.
 
+By the time fox farming became unprofitable in the Great Depression, fox on the Kenai Peninsula had already become rare. On March 26, 1932, the Seldovia Herald reported that Tony Martin had returned from his trap line along Fox River, at the head of Kachemak bay. "He made small catch, the usual thing it appears, this season, but the few pieces are of fine size and excellently shaded. A lynx, six black male mink, a collection of ermine and then there is the fox, golden red and brown ... T. Martin in all his trapping and woods experience had never seen anything like it. The fur has caused a sensation in Seldovia ... the scarcity of fur-bearing animals, T. Martin maintains, is due to depletion of the rabbit crop ... as with the fur bearers though, the veteran trapper regards the next few years as an adjustment period, and believes that with proper supervision return to normal conditions will be accomplished ... ."
+
+
 Hank Kroll relates a story that involved Tony:
 
 *Tony Martin was one of my father's friends. He lived directly across
