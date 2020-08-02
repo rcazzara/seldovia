@@ -1,6 +1,7 @@
 ---
 last_name: Saracoff
 first_name: John
+cemetery: Seldovia City Cemetery
 cemetery_plot: 245
 source_file: Cemetery Directory
 ---
