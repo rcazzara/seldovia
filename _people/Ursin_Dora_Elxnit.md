@@ -8,8 +8,6 @@ birth_date: 1905-11-02
 birth_location: at sea on steamship Dora
 death_date: 1996-05-10
 death_location: Seattle, Washington
-cemetery: Seldovia City Cemetery
-cemetery_plot: 226
 source_file: Cemetery Directory
 ---
 **DORA GRENIEFF *ELXNIT* URSIN was born to [**Alexandria Potorochin**](./Elxnit_Alexandria_Potorochin.md) and Harry Rufus Grenieff  on the Steamship DORA on November 2, 1905, while the ship
