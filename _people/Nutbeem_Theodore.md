@@ -6,7 +6,7 @@ birth_date: 1894-05-02
 birth_location: Unalaska, Alaska
 death_date: 1944-11-28
 death_location: Seldovia, Alaska
-cemeery: Seldovia City Cemetery
+cemetery: Seldovia City Cemetery
 cemetery_plot: 115
 source_file: Cemetery Directory
 ---
