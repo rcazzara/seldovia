@@ -6,6 +6,7 @@ birth_date: 1874-10-14
 birth_location: Bergen, Norway
 death_date: 1939-11-11
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 50
 source_file: Cemetery Directory
 ---
