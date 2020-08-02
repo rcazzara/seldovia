@@ -1,6 +1,7 @@
 ---
 last_name: Unknown
 first_name: Japanese
+cemetery: Seldovia City Cemetery
 cemetery_plot: 141
 source_file: Cemetery Directory
 ---
