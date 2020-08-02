@@ -7,6 +7,7 @@ birth_date: 1916-09-28
 birth_location: Washington
 death_date: 1998-08-05
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 311
 source_file: Cemetery Directory
 ---
