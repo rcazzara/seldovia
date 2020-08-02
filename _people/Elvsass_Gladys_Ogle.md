@@ -4,6 +4,7 @@ maiden_name: Simeonoff
 first_name: Gladys
 birth_date: 1917-05-01
 death_date: 1996-02-17
+cemetery: Seldovia City Cemetery
 cemetery_plot: 238
 source_file: Cemetery Directory
 ---
