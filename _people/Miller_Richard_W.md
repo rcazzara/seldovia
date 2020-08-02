@@ -6,6 +6,7 @@ birth_date: 1908-05-02
 birth_location: San Francisco, California
 death_date: 1956-06-15
 death_location: San Rafael, California
+cemetery: Seldovia City Cemetery
 cemetery_plot: 71
 source_file: Cemetery Directory
 ---
