@@ -58,7 +58,7 @@ below the Russian Orthodox Church.  (James 1852-1928) (Mary
     Cemetery , plot \#195. See OLLESTAD FAMILY.**
 
 4.  **James Cleghorn** b. December 2, 1898 - d. July, 1971 Seldovia,
-    Alaska, Seldovia City Cemetery , plot \#195.**
+    Alaska, Seldovia City Cemetery , plot \#234.
 
 5.  **Marie Xenia Cleghorn Fondahn** Born in Old Tyonek on Jan. 14,
     1900, she married Edmund A. Fondahn, Sr. an early Alaska Pioneer.
