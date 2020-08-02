@@ -66,7 +66,7 @@ below the Russian Orthodox Church.  (James 1852-1928) (Mary
     WWII she served as a translator for the Soviet vessels that docked
     in Seward.
 
-- She and Edmund had 3 children, a son, Edmund A. Fondahn, Jr. and two
+- Maria and Edmund had 3 children, a son, Edmund A. Fondahn, Jr. and two
 daughters, Karen Fondahn Swartz and Margaret Fondahn Ollestad. Marie
 Xenia Cleghorn Fondahn listed her mother’s maiden name as Panfiloff in
 her Social Security papers.
