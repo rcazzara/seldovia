@@ -5,6 +5,7 @@ aka: Ron
 birth_date: 1942-08-18
 birth_location: California
 death_date: 1979-11-01
+cemetery: Seldovia City Cemetery
 cemetery_plot: 261
 source_file: Cemetery Directory
 ---
