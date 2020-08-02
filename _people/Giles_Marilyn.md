@@ -3,6 +3,7 @@ last_name: Giles
 first_name: Marillyn
 birth_date: 1947-04-14
 death_date: 2006-10-24
+cemetery: Seldovia City Cemetery
 cemetery_plot: 343
 source_file: Cemetery Directory
 ---
