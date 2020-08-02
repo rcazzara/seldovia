@@ -6,6 +6,7 @@ birth_date: 1879
 birth_location: Missouri
 death_date: 1938-06-11
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 97
 source_file: Cemetery Directory
 ---
