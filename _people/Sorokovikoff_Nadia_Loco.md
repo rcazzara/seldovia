@@ -2,6 +2,7 @@
 last_name: Sorokovikoff
 maiden_name: Loco
 first_name: Nadia
+cemetery: Seldovia City Cemetery
 cemetery_plot: 47
 source_file: Cemetery Directory
 ---
