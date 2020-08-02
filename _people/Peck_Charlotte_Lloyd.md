@@ -6,6 +6,7 @@ birth_date: 1914-09-30
 birth_location: Wyoming
 death_date: 1939-11-27
 death_location: Seattle, WA
+cemetery: Seldovia City Cemetery
 cemetery_plot: 74
 source_file: Cemetery Directory
 ---
