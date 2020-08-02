@@ -3,6 +3,7 @@ last_name: Bowen
 first_name: Robert "Bulla"
 aka: Bulla
 death_date: 1964-08-29
+cemetery: Seldovia City Cemetery
 cemetery_plot: 202
 source_file: Cemetery Directory
 ---
