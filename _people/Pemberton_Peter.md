@@ -6,6 +6,7 @@ birth_date: 1860
 birth_location: Massachusetts
 death_date: 1940-12-26
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 123
 source_file: Cemetery Directory
 ---
