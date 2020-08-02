@@ -5,6 +5,7 @@ birth_date: 1932-10-09
 birth_location: Seldovia, Alaska
 death_date: 1967-09-03
 death_location: Anchorage, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 33
 source_file: Cemetery Directory
 ---
