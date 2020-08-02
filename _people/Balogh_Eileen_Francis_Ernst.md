@@ -7,7 +7,7 @@ birth_location: Ohio
 death_date: 1993-04-27
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
-cemetery_plot: 538
+cemetery_plot: 538.5
 source_file: Cemetery Directory
 ---
 
