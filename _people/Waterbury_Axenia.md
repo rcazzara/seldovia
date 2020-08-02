@@ -5,6 +5,7 @@ maiden_name: Quijance
 birth_date: 1953-08-03
 death_date: 1975-01-01
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 243
 source_file: Cemetery Directory
 ---
