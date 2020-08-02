@@ -6,6 +6,7 @@ birth_date: 1916-01-16
 birth_location: Port Graham, Alaska
 death_date: 1983-05-02
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 211
 source_file: Cemetery Directory
 ---
