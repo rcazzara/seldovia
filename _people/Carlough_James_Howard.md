@@ -9,6 +9,7 @@ birth_location: Patterson, New Jersey
 death_date: 1935-02-11
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
+cemetery plot: 1253
 family: Carlough, Moonin
 cemetery_plot: 1001
 ---
