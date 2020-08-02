@@ -6,6 +6,7 @@ birth_date: 1909-10-31
 birth_location: Wisconsin
 death_date: 2003-08-29
 death_location: Anchorage, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 371
 source_file: Cemetery Directory
 ---
