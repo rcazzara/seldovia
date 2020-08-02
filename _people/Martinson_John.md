@@ -5,7 +5,7 @@ birth_date: 1889-01-26
 birth_location: Sweden
 death_date: 1946-11-14
 death_location: Seldovia, Alaska
-cemetery: Seldoia City Cemetery
+cemetery: Seldovia City Cemetery
 cemetery_plot: 181
 source_file: Cemetery Directory
 ---
