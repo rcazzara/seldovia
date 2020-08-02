@@ -3,6 +3,7 @@ last_name: Elvsass
 first_name: Allen Marius
 birth_date: 1931-10-24
 death_date: 1984-02-22
+cemetery: Seldovia City Cemetery
 cemetery_plot: 213
 source_file: Cemetery Directory
 ---
