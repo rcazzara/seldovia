@@ -5,6 +5,7 @@ first_name: Justina
 birth_date: 1912-10-12
 birth_location: Long John, Alaska
 death_date: 2003-03-18
+cemetery: Seldovia City Cemetery
 cemetery_plot: 569
 source_file: Cemetery Directory
 ---
