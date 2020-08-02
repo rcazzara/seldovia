@@ -3,6 +3,7 @@ last_name: MacKenzie
 first_name: Elizabeth May
 death_date: 1954-11-11
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 84.5
 source_file: Cemetery Directory
 ---
