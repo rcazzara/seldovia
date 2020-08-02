@@ -6,6 +6,7 @@ birth_date: 1910-02-24
 birth_location: Ninilchik, Alaska
 death_date: 2004-11-19
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 564
 source_file: Cemetery Directory
 ---
