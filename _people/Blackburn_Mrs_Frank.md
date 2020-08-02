@@ -5,6 +5,7 @@ birth_date:
 birth_location:
 death_date: 1965
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 194
 source_file: Cemetery Directory
 ---
