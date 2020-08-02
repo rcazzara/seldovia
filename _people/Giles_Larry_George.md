@@ -6,6 +6,7 @@ birth_date: 1920-04-07
 birth_location: British Columbia, Canada
 death_date: 1975-12-23
 death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 260
 source_file: Cemetery Directory
 ---
