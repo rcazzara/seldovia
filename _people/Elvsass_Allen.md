@@ -1,6 +1,7 @@
 ---
 last_name: Elvsass
 first_name: Allen
+cemetery: Seldovia City Cemetery
 cemetery_plot: 210
 source_file: Cemetery Directory
 ---
