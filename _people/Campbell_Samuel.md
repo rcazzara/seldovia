@@ -6,7 +6,7 @@ birth_date: 1878-03-12
 birth_location: Newfoundland, Canada
 death_date: 1946-10-22
 death_location: Seldovia, Alaska
-cemetery: Seldovia Sity Cemetery
+cemetery: Seldovia City Cemetery
 cemetery_plot: 35
 source_file: Cemetery Directory
 ---
