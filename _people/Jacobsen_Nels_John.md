@@ -14,7 +14,7 @@ source_file: Cemetery Directory
 In pre-gold rush 1897, increased prospecting activity by cannery personnel from Orca led to first claims in areas that would later be important: Nels Jacobsen and Louis Thorstensen filed claims at Landlocked Bay (Copper Mt.). Then Nels gave power of attorney to M. L. Washburn to deal with those laims, sold his house, woodshed, etc. to George Donaldson for $2,000, and joined a group of prospectors crossing Valdez Glacier, May 29, 1898. He located Quartz claims on Latouche Island with A. Lawson, W. J. Shepard.  He entered an agreement for development rights with Alaska Commercial Company, 3/7/1898, ML, BK. 2, p. 97; Jacobsen sold White Eagle Claim to F. C. Lawrence for $1.00. In 1901 he was part of an “exciting trip down the Copper River” with Albert Dowling and others (trip described in Pathfinder, IV:10. 8/1923). 
 
 
-Nels married IRINIA ULN, an Aleut native (buried in row 6 of relocated graves) and they were the parents of at least 4 children including:
+Nels married **Irinia Uln**, an Aleut native (buried in row 6 of relocated graves) and they were the parents of at least 4 children including:
 
 [**Mary Jacobsen Borovena**](./Borovena_Mary_Jacobsen.md) (1904-1958) married 
 - 1.	[**John Nels Jensen**](./Jensen_John_Nels.md) in Kenai in 1919. They had at least 3 children, including:

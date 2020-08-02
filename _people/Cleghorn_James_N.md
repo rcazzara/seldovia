@@ -4,10 +4,10 @@ first_name: James Naismith
 aka: Jim
 birth_date: 1852-11-22
 birth_location: New York
-death_date: 1971-07-01
+death_date: 1928-1-27
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
-cemetery_plot: 234
+cemetery_plot: 1607
 family: Cleghorn
 source_file: Cemetery Directory
 ---
@@ -57,8 +57,8 @@ below the Russian Orthodox Church.  (James 1852-1928) (Mary
     City Cemetery – see Ollestad Family page. Memorial in Seldovia City
     Cemetery , plot \#195. See OLLESTAD FAMILY.**
 
-4.  **James Cleghorn** b. December 2, 1898 - d. July, 1971 Seldovia,
-    Alaska, Seldovia City Cemetery , plot \#195.**
+4.  [**James Cleghorn**](./Cleghorn_James.md) b. December 2, 1898 - d. July, 1971 Seldovia,
+    Alaska, Seldovia City Cemetery , plot \#234.
 
 5.  **Marie Xenia Cleghorn Fondahn** Born in Old Tyonek on Jan. 14,
     1900, she married Edmund A. Fondahn, Sr. an early Alaska Pioneer.
@@ -66,7 +66,7 @@ below the Russian Orthodox Church.  (James 1852-1928) (Mary
     WWII she served as a translator for the Soviet vessels that docked
     in Seward.
 
-- She and Edmund had 3 children, a son, Edmund A. Fondahn, Jr. and two
+- Maria and Edmund had 3 children, a son, Edmund A. Fondahn, Jr. and two
 daughters, Karen Fondahn Swartz and Margaret Fondahn Ollestad. Marie
 Xenia Cleghorn Fondahn listed her mother’s maiden name as Panfiloff in
 her Social Security papers.
@@ -91,10 +91,10 @@ her Social Security papers.
 11. **Maxine Cleghorn** 1913-1982
 
 12. [**Adam "Crow" Calvin Cleghorn**](./Cleghorn_Adam_Calvin.md) 1915-1978 died in Seldovia and is
-    buried in the Seldovia City Cemetery.
+    buried in the Seldovia City Cemetery plot # 209.
     
     
-    \#209**![](../assets/images/James%20Naismith%20Cleghorn%20family/media/image1.jpeg)
+   ![](../assets/images/James%20Naismith%20Cleghorn%20family/media/image1.jpeg)
 
 
   

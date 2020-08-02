@@ -1,5 +1,5 @@
 ---
-full_name: "Lloyd Family *"
+full_name: "Lloyd Family"
 ---
 # LLOYD Family
 

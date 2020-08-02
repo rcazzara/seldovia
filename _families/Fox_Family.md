@@ -1,5 +1,5 @@
 ---
-Family: "Fox Family"
+full_name: "Fox Family"
 
 ---
 # Fox Family

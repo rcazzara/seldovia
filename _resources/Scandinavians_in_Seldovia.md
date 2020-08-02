@@ -1,8 +1,7 @@
 ---
-full_name: "THE SCANDINAVIANS WHO CAME TO SELDOVIA"
-
+full_name: "Scandinavians in Seldovia"
 ---
-# THE SCANDINAVIANS in Seldovia
+By the time Russian fur traders and other settlers had been living in Kenai for over fifty years, intermarriage had become an established practice. In the 1880s, Scandinavian men began to arrive and develop the Cook Inlet commercial fisheries. These Scandinavian fishermen represented the second wave of European bachelor immigrants.
 
 A significant number of people who settled in Seldovia or parented people who did originated in the Scandinavian countries of Norway, Sweden and Finland.  Here's a summary of somme:
 
