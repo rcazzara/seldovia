@@ -9,7 +9,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 193
 ---
 **TOLLAK BOWITZ OLLESTAD** was born on 1881 in Egersund, Norway. He died in 1967.
-He married [**Lucille Cleghorn**](./Ollestad_Lucille_Cleghorn.md) (1896-1969). He is buried in the Seldovia City Cemetery in the Ollestad Family Plot \#195.
+He married [**Lucille Cleghorn**](./Ollestad_Lucille_Cleghorn.md) (1896-1969). He is buried in the Seldovia City Cemetery in the Ollestad Family Plot \#193.
 
 Children of Tollak Bowitz Ollestad and Lucille Cleghorn are:
 
