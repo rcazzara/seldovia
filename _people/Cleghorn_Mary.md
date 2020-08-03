@@ -8,7 +8,7 @@ birth_location: Seldovia, Alaska
 death_date: 1932-01-16
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
-cemetery_plot: 1611
+cemetery_plot: 1610
 family: Cleghorn
 source_file: Cemetery Directory
 ---
