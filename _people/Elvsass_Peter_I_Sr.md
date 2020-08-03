@@ -3,8 +3,8 @@ last_name: Elvsaas
 first_name: Peter I. Sr
 birth_date: 1930-10-15
 death_date: 2003-06-03
+cemetery: Seldovia City Cemetery
 cemetery_plot: 214
-source_file: Cemetery Directory
 ---
 **PETER IVOR ELVSAAS**, the son of **Herman and Agnes PONCHENE [Elvsaas**](../_families/Elvsaas_Family.md), was born in Sedovia, Alaska October 15, 1930. 
 

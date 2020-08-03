@@ -3,6 +3,7 @@ last_name: Holmstrom
 maiden_name: Walnusson
 first_name: Anna
 death_date: 1941-10-28
+cemetery: Seldovia City Cemetery
 cemetery_plot: 86
 source_file: Cemetery Directory
 ---

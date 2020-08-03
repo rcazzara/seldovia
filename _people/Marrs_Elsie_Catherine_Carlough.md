@@ -7,8 +7,8 @@ source_file: "James Howard Carlough"
 birth_date: 1923-10-19
 birth_location: Port Graham, Alaska
 death_date: 1956
-death_location: 1956, Seldovia, Alaska
-cemetery: Seldovia CIty Cemetery
+death_location: Seldovia, Alaska
+cemetery: Seldovia City Cemetery
 cemetery_plot: 1253
 ---
 
