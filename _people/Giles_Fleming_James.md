@@ -1,6 +1,6 @@
 ---
 last_name: Giles
-first_name: Fleming James 
+first_name: Fleming J. 
 aka: Slim
 birth_date: 1910-05-12
 birth_location: Seattle, Washington
