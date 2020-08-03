@@ -10,4 +10,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 1253
 source_file: Cemetery Directory
 ---
-**Rollen Charles  Ronnie Marrs**, born May 24, 1916 in Pendleton, Oregon married [**Elsie Kathrine Carlough**](./Marrs_Elsie_Catherine_Carlough.md) August 6, 1946 in Seldovia.  He is buried in the Seldovia City Cemetery in plot 1251, the first grave in the Russian Orthodox section that was added in 1967.  
+**Rollen Charles  Ronnie Marrs**, born May 24, 1916 in Pendleton, Oregon married [**Elsie Kathrine Carlough**](./Marrs_Elsie_Catherine_Carlough.md) August 6, 1946 in Seldovia.  Ron and Elsie's plot is nestled in the trees of the Seldovia City Cemetery in plot #1253, next to the Russian Orthodox section that was added in 1967.  
