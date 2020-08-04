@@ -12,7 +12,7 @@ source_file: Cemetery Directory
 ---
 # Alice LARSEN Nutbeem
 
-**Alice LARSEN** was the daughter of Peter and Mary (Hubley) Larsen. Her
+**Alice LARSEN** was the daughter of [**Peter and Mary (Hubley) Larsen**](../_family.Larsen_Family.md). Her
 father was from Denmark and her mother was Alaskan. Alice was raised in
 Unga Village, Unga Island, Shumagin Islands, Alaska along with her six
 sisters and five brothers. She attended the Unga Village school.
