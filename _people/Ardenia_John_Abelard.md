@@ -16,7 +16,7 @@ source_file: Cemetery Directory
 (Alaska Native) **John Abelard Ardenia Sr**. died Friday, Nov. 12, 2008,
 from a massive heart attack at his home at Lakeside Terrace in Seldovia.
 He was 70. Note: John Ardenia’s father was born in the Philippines. His
-mother was an Alaska Tlinket Indian.
+mother was an Alaska Tlinget Indian.
 
 Funeral services were held Nov. 14, at St. Nicholas Russian Orthodox
 Church in Seldovia. He was buried in the Seldovia Cemetery. Father
