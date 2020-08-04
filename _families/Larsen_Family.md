@@ -7,7 +7,7 @@ LARSEN Family
 **Peter Adolf Larsen**
 **Mary HUBLEY Larsen**
 
-Two of the women buried in the Seldovia City Cemetery, [**Alice LARSEN Nutbeem**](../_people/Nutbeem_Alice_Larsen.md) and [**Elizabeth LARSEN McIntire**](../_people./McIntire_Elizabeth_Marie_Larsen.md), are sisters who are daughters of **Peter and Mary Hubley Larsen** of Unga Island, Alaska.
+Two of the women buried in the Seldovia City Cemetery, [**Alice LARSEN Nutbeem**](../_people/Nutbeem_Alice_Larsen.md) and [**Elizabeth LARSEN McIntire**](../_people/McIntire_Elizabeth_Marie_Larsen.md), are sisters who are daughters of **Peter and Mary Hubley Larsen** of Unga Island, Alaska.
 
 **Peter Adolf Larsen** was from Denmark.  He left his home when he was 12, to go to sea. Peter first came to Alaska in 1886. He went south in the fall and returned in the spring of 1887 to become a sea otter hunter. The 1900 US census for Unga Village, Unga Island, Shumagin Islands, Alaska, records that Peter had been in America for 25 years and that his home post office box was San Francisco, California, where he was a sailor. He went south again and came back to Alaska on the sailing ship Argo in 1908 to mine gold on Unga Island. Peter tried an independent mining venture before becoming an employee of Unga Apollo Gold Mine.
 
