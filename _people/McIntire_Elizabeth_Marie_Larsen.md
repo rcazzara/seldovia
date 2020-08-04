@@ -15,7 +15,7 @@ source_file: Cemetery Directory
 
 Betty was the daughter of [**Peter and Mary (Hubley) Larsen**](../_families/Larsen_Family.md). Her father was from Denmark and her mother was Alaskan. Betty and her siblings were raised in Unga Village, where they attended the local school. She left Unga to live in Bellingham, Washington, where she attended St. Joseph's Hospital School of Nursing, receiving her Graduate Nursing Certificate 20 May 1936. Betty married **Rolland McIntire** and they had a son, **James McIntire**.
 
-In her later years Betty lived in Seldovia, Kenai Peninsula, Alaska, to be near her sisters [**Alice Nutbeem**](./Nutbeem_Alice.md) and Clara Oaks. She died October 10, 1948 in Homer.
+In her later years Betty lived in Seldovia, Kenai Peninsula, Alaska, to be near her sisters [**Alice Nutbeem**](./Nutbeem_Alice_Larsen.md) and Clara Oaks. She died October 10, 1948 in Homer.
 
 Betty is interred in the Seldovia City Cemetery Plot #593.
 
