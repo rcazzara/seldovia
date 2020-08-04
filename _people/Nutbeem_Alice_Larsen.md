@@ -13,20 +13,18 @@ source_file: Cemetery Directory
 # Alice LARSEN Nutbeem
 
 ![](../assets/images/Ted%20and%20Alice%20Nutbeem/media/image2.jpeg)
-**Alice LARSEN** was the daughter of [**Peter and Mary (Hubley) Larsen**](../_family.Larsen_Family.md). Her
-father was from Denmark, and first mined gold and then was a bear hunting guide in Unga.  Her mother, Mary, was Alaskan native and midwife. 
+**Alice LARSEN** was the daughter of [**Peter and Mary (Hubley) Larsen**](../_family.Larsen_Family.md). She was born on Unga Island on September 15, 1899. Her
+father, from Denmark, was first a gold miner and later a bear hunting guide in Unga.  Her mother, Mary, was a Native Alaskan and a midwife. 
 
-Alice was raised in Unga Village on Unga Island in the Shumagin Islands, Alaska, along with her six
-sisters and five brothers. She attended the Unga Village school.
+Alice was raised in Unga Village on Unga Island in the Shumagin Islands, Alaska, along with her six sisters and five brothers. She attended the Unga Village school.
 
 Alice and [**Ted Nutbeem**](./Nutbeem_Theodore.md) were married on February 12, 1920, in Unga. They later moved to the
-Kenai Peninsula where they homesteaded in Halibut Cove before moving to
-Seldovia to make it a permanent home. 
+Kenai Peninsula where they homesteaded in Halibut Cove before moving to Seldovia, making it their permanent home. 
 
-Alice spent much of her life in the food industry.  She and Ted held the positions of cook and baker on ships that traveled the Alaska coast from
-southcentral Alaska to the Aleutian Islands. Later they had a restaurant in Seldovia called Ted's Cafe, and Ted was known as a great baker. 
+Alice spent much of her life in the food industry.  She and Ted had held the positions of cook and baker on ships that traveled the Alaska coast from
+southcentral Alaska to the Aleutian Islands. Later they had a restaurant in Seldovia called Ted's Cafe, where Ted was known as a great baker. 
 
-Alice worked in canneries much of her life. She was at Libby's Cannery in Kenai until it closed and then she worked in the cookhouse at the AYR cannery. 
+Alice also worked in canneries much of her life. She was at Libby's Cannery in Kenai until it closed and then she worked in the cookhouse at the AYR cannery in Seldovia. 
 
 Alice and Ted had no children, but she was a wonderful "godmother" to many local children, babysitting and teaching them to sew and cook. 
 
