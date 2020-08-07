@@ -9,7 +9,7 @@ death_location: Cook Inlet, Alaska
 ---
 **Francois Guinot** , 'the crazy Frenchman", was born in Maiche, France about 1979. He first appeared in Seldovia in late 2012. He told people he had walked, canoed and bicycled across Canada and through Alaska, and planned to reach Russia's Kamchatka Peninsula. 
 
-In January 2012 he turned up in Mayo, Yukon after getting lost on a solo trek that became a harrowing adventure: https://www.yukon-news.com/life/close-call-for-lost-adventurer/
+In January 2012 he turned up in Mayo, Yukon after getting lost on a solo trek that became [a harrowing adventure](https://www.yukon-news.com/life/close-call-for-lost-adventurer/).
 
 After wintering in the Yukon, he crossed into Alaska and made it to Fairbanks. Then he found a bicycle at a Fairbanks dump, pedaled to Homer and made his way to Seldovia. 
 
@@ -49,5 +49,5 @@ Everyone who knew Francois agreed that he seemed to be doing exactly what he wan
 
 "His philosophy was 'I'd rather die in the ocean than die chained to a desk like a dog.'"
 
-Outside Magazine published a very lengthy, full-color article about Francois: https://www.outsideonline.com/1972806/incredible-french-adventurer-who-lost-his-way-alaska
+Outside Magazine published a very lengthy, full-color [article about Francois](https://www.outsideonline.com/1972806/incredible-french-adventurer-who-lost-his-way-alaska)
 

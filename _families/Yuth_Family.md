@@ -1,6 +1,5 @@
 ---
 full_name: "Yuth Family"
-l
 ---
 # YUTH Family
 
