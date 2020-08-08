@@ -89,8 +89,7 @@ In 1918 the *Osprey* participated in two notable rescues in Alaska. Late
 in the spring, she towed the boat *Good Tidings* – in danger after
 breaking down during a storm – 10 miles to Ketchikan. Then in late
 October and most of November, the *Osprey* joined the BOF vessels
-[*Auklet* and
-*Murre*](https://www.afsc.noaa.gov/history/vessels/boats/auklet-murre.htm)
+[*Auklet* and *Murre*](https://www.afsc.noaa.gov/history/vessels/boats/auklet-murre.htm)
 in Alaska to search for bodies from the Canadian Pacific steamship
 *Princess Sophia*, which struck Vanderbilt Reef on 25 October, losing
 343 lives with no survivors.  
