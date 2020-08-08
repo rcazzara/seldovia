@@ -23,7 +23,7 @@ buried in Ninilchik, there are quite a few here in Seldovia.
 The Edelman family lived in Kenai and had 8 children including:
 
   - **Nina Edelman** (March 10, 1896- Dec. 8, 1977 -1951: Plot \# 51)
-    married [Carl Lund](Carl%20John%20LUND%20and%20Edelman%20Family.md)
+    married [Carl Lund](./Lund_Carl_John.md)
     (Oct. 14, 1874 – Nov. 11, 1939: Plot \#51)
 
   - **Zacharias "Carl" Edelman** (1898 – 1972) married **Emma Larsen**
