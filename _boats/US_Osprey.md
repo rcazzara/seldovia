@@ -191,13 +191,6 @@ Publishing, Seattle.
 </tbody>
 </table>
 
-### Additional reading:
-
-|                                                                                                                |                                                                                                                                                                                       |
-| -------------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| ![](../assets/images/US%20Osprey/media/image5.png) Evermann, B. W. 1914. "New Steamer for Patrol Work". Alas   | ka Fisheries and Fur Industries in 1913, p.8-9. U.S. Dep. Commer., Bur. Fish. Doc. 782.  ( [.pdf, 29.6 MB. - NOAA Central Library](http://docs.lib.noaa.gov/rescue/cof/COF_1913.PDF)) |
-| ![](../assets/images/US%20Osprey/media/image6.png) "Scuttle Butt Pete". 1947. Scutt Reviews the *Foss 19* –    | from Yacht to Modern Tugboat. Pacific Motor Boat, Dec. 1947. p.53 (photo on p.51)                                                                                                     |
-| ![](../assets/images/US%20Osprey/media/image7.png) Kiffer, D. 2005. The Grounding of the *Princess Sophia*. \[ | SitNews (Ketchikan) website\](http://www.sitnews.us/Kiffer/PrincessSophia/120505\_princess\_sophia.html)  (last accessed 4-10-13)                                                     |
 
 <table style="width:100%;">
 <colgroup>
