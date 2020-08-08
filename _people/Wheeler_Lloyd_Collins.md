@@ -10,7 +10,7 @@ cemetery_plot: 606
 source_file: Cemetery Directory
 ---
 
-[**Lloyd Collins Wheeler**](./Wheeler_Family.md) was born on January 7, 1927, in Petaluma,
+[**Lloyd Collins Wheeler**](../families/Wheeler_Family.md) was born on January 7, 1927, in Petaluma,
 California. He grew up on the family dairy farm and then served two
 years in the U S Navy. He returned to Greenville and married Juanita Van
 Ronk on November 2, 1947, in Minden, Nevada.
