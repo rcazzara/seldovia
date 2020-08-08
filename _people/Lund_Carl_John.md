@@ -19,12 +19,12 @@ source_file: Cemetery Directory
 
  - **Virginia Ann Valentine Lund** (1918-2007) married Boone
 
-Mathilde N Lund (1920-1995) married David Murphy
+- **Mathilde N Lund** (1920-1995) married David Murphy
 
-Carl E Lund (1922-1993) married Eleanor Anderson
+- **Carl E Lund** (1922-1993) married Eleanor Anderson
 
-Mildred Josephine Lund (1924-1975) married Bernard Bodewig
+- **Mildred Josephine Lund** (1924-1975) married Bernard Bodewig
 
-Jean V Lund (1925-2016)
+- **Jean V Lund** (1925-2016)
 
-Alf L Lund (1927-1999) married Helen Halvorsen
+- **Alf L Lund** (1927-1999) married Helen Halvorsen
