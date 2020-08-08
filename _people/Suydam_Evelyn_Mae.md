@@ -13,5 +13,5 @@ source_file: Cemetery Directory
 
 **October 21, 1956, Seldovia, Alaska – February 1957, Seldovia, Alaska**
 
-Evelyn Mae Suydam was the twin sister of [**Marilyn Suydam**](./Fisk_Marilyn_Suydam), born to [**Floyd and Stella BRUN Suydam**](./Suydam_Stella_Alexandria_Brun). She had a very short life of only four months. She is buried in the Seldovia City
+Evelyn Mae Suydam was the twin sister of [**Marilyn Suydam**](./Fisk_Marilyn_Suydam.md), born to [**Floyd and Stella BRUN Suydam**](./Suydam_Stella_Alexandria_Brun.md). She had a very short life of only four months. She is buried in the Seldovia City
 Cemetery Plot \#188.
