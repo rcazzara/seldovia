@@ -29,7 +29,7 @@ The Edelman family lived in Kenai and had 8 children including:
   - **Zacharias "Carl" Edelman** (1898 – 1972) married **Emma Larsen**
     and lived in Washington**.**
 
-  - **Jacob "Jack" Edelman** married [Pauline Juliussen](Edelman.md);
+  - **Jacob "Jack" Edelman** married [Pauline Juliussen](Edelman_Pauline_Juliussen.md);
     Pauline (Plot \#20) and her daughter Jacqueline (Plot \#21) died in
     an airplane crash in Seldovia in 1951.
 
