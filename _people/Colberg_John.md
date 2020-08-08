@@ -20,7 +20,7 @@ his farm. He was living in Seward Alaska in 1917 when he registered for
 WWI draft. He received US citizenship in 1924 after he was in Alaska. He
 married **Eliza CLEGHORN** (1903-1978) on December 25, 1927, in Seldovia,
 Alaska. In 1930 their address was "Kachemak Bay" and their daughter
-**Selma** had just been born. Sons [**John**](./Colberg_John_Naismith) and [**Calvin**](./Colberg_Calvin_Laverne.md) had been born
+**Selma** had just been born. Sons [**John**](./Colberg_John_Naismith.md) and [**Calvin**](./Colberg_Calvin_Laverne.md) had been born
 by the 1940 census, when they were living in Seward where John was a
 salmon fisherman. He died in November 1969 in Seldovia, Alaska, at the
 age of 82. He is buried in the Seldovia City Cemetery in Plot #230.
