@@ -77,7 +77,7 @@ her Social Security papers.
 
 7.  **Eliza Cleghorn Colberg** b. February 24, 1904-d. 1980; married [John
     Colberg](./Colberg_John.md), b. March 28, 1887, died November 15, 1969, Seldovia,
-    Alaska. See [**COLBERG FAMILY**](./Colberg_Family.md)
+    Alaska. See [**COLBERG FAMILY**](../_families/Colberg_Family.md)
 
 8.  **Annie Cleghorn** 1905-?
 
