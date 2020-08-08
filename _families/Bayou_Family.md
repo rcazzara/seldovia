@@ -7,7 +7,7 @@ likely that the original Russian Bayou came to Kodiak in the
 descendants are sometimes listed as
 [Creoles](../_tidbits/Seldovia_Russian_Creoles_In.md)in census records.
 
-[**Wassilii Bayou**](./Bayou_Wassilie.md) was born in 1873 in Alaska. Most census records claim
+[**Wassilii Bayou**](../_people/Bayou_Wassilie.md) was born in 1873 in Alaska. Most census records claim
 that both of his parents were born in Alaska. He and his wife, Christina
 were living in Seldovia with 3 children and he was listed as a laborer.
 In 1910, the family was in Ninilchik with 4 children and he was listed
