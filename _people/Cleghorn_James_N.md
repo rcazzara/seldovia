@@ -55,7 +55,7 @@ below the Russian Orthodox Church.  (James 1852-1928) (Mary
 
 3.  [**Lucille Cleghorn Ollestad**](./Ollestad_Lucille_Cleghorn.md) b. 1895, d. 1985; buried in Seldovia
     City Cemetery – see Ollestad Family page. Memorial in Seldovia City
-    Cemetery , plot \#195. See OLLESTAD FAMILY.**
+    Cemetery , plot \#195. 
 
 4.  [**James Cleghorn**](./Cleghorn_James.md) b. December 2, 1898 - d. July, 1971 Seldovia,
     Alaska, Seldovia City Cemetery , plot \#234.
@@ -77,7 +77,7 @@ her Social Security papers.
 
 7.  **Eliza Cleghorn Colberg** b. February 24, 1904-d. 1980; married [John
     Colberg](./Colberg_John.md), b. March 28, 1887, died November 15, 1969, Seldovia,
-    Alaska. See [**COLBERG FAMILY**](./Colberg_Family)
+    Alaska. See [**COLBERG FAMILY**](./Colberg_Family.md)
 
 8.  **Annie Cleghorn** 1905-?
 
