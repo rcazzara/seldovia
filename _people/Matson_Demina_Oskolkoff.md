@@ -34,7 +34,7 @@ The Edelman family lived in Kenai and had 8 children including:
     an airplane crash in Seldovia in 1951.
 
   - **Emma Edelman** (June 23, 1902- May 11, 1993: Plot \#41) married
-    Norwegians [Martin Haakonsen](Haakonsen_hogensen_Martin)
+    Norwegians [Martin Haakonsen](Haakonsen_hogens0n_Martin)
 (1884 -1964)and
     2<sup>nd</sup>, [Simon Andreas Josephson](../_families/Josefson-Family.md)
     (1880-1968), and is the mother of **Simon F. Josephson** (1930-1986:
