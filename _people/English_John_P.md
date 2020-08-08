@@ -15,7 +15,7 @@ source_file: Cemetery Directory
 Seldovia in 1923 to work for Snug Harbor Packing Company. When it closed
 down for the winter, he decided he didn’t want to be a winter watchman
 at Tuxedni Bay as he had the previous winter, so he ended up staying in
-Seldovia during the winter of ’23, ’24. He met [**Susan Bloch**](./English_Susan_Bloch) and they were
+Seldovia during the winter of ’23, ’24. He met [**Susan Bloch**](./English_Susan_Bloch.md) and they were
 married in December of 1925.
 
 From Larry Reynolds: "Anyway, some fun stories about Jack. Cheryl went over to visit him one
