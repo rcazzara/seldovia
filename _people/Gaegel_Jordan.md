@@ -7,7 +7,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 368
 source_file: Cemetery Directory
 ---
-![](assets/images//Jordan%20Gaegel.jpg)**JORDAN GAEGEL** was born October 11, 1990.  
+![](assets/images/Jordan_Gaegel.jpg)**JORDAN GAEGEL** was born October 11, 1990.  
 
 
 
