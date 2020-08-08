@@ -12,7 +12,7 @@ source_file: Cemetery Directory
 ---
 
 **SUSAN *BLOCH* ENLISH was born February 26, 1904 in Seldovia, Alaska to [**Adam Bloch**](./Bloch_Adam.md)
-and [**Elizabeth BALASHOFF Bloch**](./Markle_Elizabeth_Bloch). When her mother died, Susan, at sixteen,
+and [**Elizabeth BALASHOFF Bloch**](./Markle_Elizabeth_Bloch.md). When her mother died, Susan, at sixteen,
 was left in Seldovia with three other younger siblings to care for. They
 were taken in at some point by some relatives in Cordova that were from
 the Adam Bloch’s first marriage - the Johansson and the Simmons
