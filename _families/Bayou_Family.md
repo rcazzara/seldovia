@@ -5,7 +5,7 @@ There were **Bayou** families living in Seldovia as early as 1900. It is
 likely that the original Russian Bayou came to Kodiak in the
 19<sup>th</sup> century and married an Alaska Native women, as they
 descendants are sometimes listed as
-[Creoles](../_tidbits/Seldovia_Russian_Creoles_In.md)in census records.
+[Creoles](../_resources/Seldovia_Russian_Creoles_In.md) in census records.
 
 [**Wassilii Bayou**](../_people/Bayou_Wassilie.md) was born in 1873 in Alaska. Most census records claim
 that both of his parents were born in Alaska. He and his wife, Christina
