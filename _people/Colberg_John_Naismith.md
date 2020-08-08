@@ -11,7 +11,7 @@ cemetery: not in cemetery
 ---
 
 When **JOHN NAISMITH COLBERG** was born on April 30, 1931, in Seldovia,
-Alaska, his father, [**John**](./Colberg_John.md), was 44 and his mother, [**Eliza Cleghorn Colberg**](./Colberg_Eliza_Cleghorn.md), was 27. He
+Alaska, his father, [**John**](./Colberg_John.md), was 44 and his mother, [**Eliza Cleghorn Colberg**](./Colberg_Elizabeth_Cleghorn.md), was 27. He
 married [**Alta Crete ROSENBUSH Peterson**](./Colberg_Alta_Rosenbush.md), "Patty" on October 9, 1955, in his hometown.  He died on December 23, 2002, in
 Anchorage, Alaska, at the age of 71.
 
