@@ -39,5 +39,5 @@ Regional Association. He lived in Anchorage, Alaska after 1981 but was
 buried in Seldovia, next to his wife, Plot \# 222.
 
 Daughter Sandi Hansen, who died in Anchorage in 2018, was the mother of
-[**"Baby Groothof"**](./Groothof_Baby_Boy) (1975-1975) who is buried in the Seldovia City
+[**"Baby Groothof"**](./Groothof_Baby_Boy.md) (1975-1975) who is buried in the Seldovia City
 Cemetery.
