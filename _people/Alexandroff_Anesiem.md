@@ -27,7 +27,7 @@ Aleksandrov, which can also be seen as Alexandroff. Early Russians at
 Kodiak and at Fort Ross had some version of this name and the
 Alexandroffs were sometimes listed in US Census records as "Creole",
 meaning of a Russian father and Alaska native woman. All of the men in
-the photo below were considered [**"Creoles"**](../_tidbits/./Seldovia_Russian_Creoles_In.md)
+the photo below were considered [**"Creoles"**](../_resources/Seldovia_Russian_Creoles_In.md)
 
 ![](../assets/images/ANISEM%20ALEXANDROFF/media/image1.jpeg)
 
