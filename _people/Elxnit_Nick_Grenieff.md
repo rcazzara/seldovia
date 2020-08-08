@@ -11,7 +11,7 @@ source_file: Cemetery Directory
 ---
 
 **NICKOLAS GRENIEFF ELXNIT, "Nick"** was born in Kodiak on Nov. 3, 1903, to
-[**Alexandra Fomin Potorochin**](./Elxnit_Alexandria_Potorochin), of Aleut and Russian descent, and Harry Grienoff of
+[**Alexandra Fomin Potorochin**](./Elxnit_Alexandria_Potorochin.md), of Aleut and Russian descent, and Harry Grienoff of
 Finland.  His stepfather was [**Alex Elxnit**](../_families/Elxnit_Family.md) of Seldovia.
 
 Following the Mount Katmai eruption in 1913, the family left Kodiak on
