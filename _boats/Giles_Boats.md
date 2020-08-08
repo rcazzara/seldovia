@@ -14,4 +14,4 @@ Now we have the ***Alliance***, a 100 foot boat.  Fishing is not like it was in 
 
 
 
-![](../assets/images/boats/media/Alliance.jpeg)
+![](../assets/images/boats/media/Alliance.jpg)
