@@ -13,4 +13,4 @@ family: Cleghorn
 source_file: Cemetery Directory
 ---
 
-**Mary SHITACHKA Cleghorn**, daughter of [**James Naismith Cleghorn**](./Cleghorn_James N.md)  was born in Alaska April 14, 1866 and died in Seldovia January 16, 1932.  She was first buried in the old Russian Orthodox Cemetery near the beach, but her grave was part of the re-burial in the City Cemetery as part of the urban renewal project after the 1964 earthquake. She is buried in Seldovia City Cemetery plot #1610, next to her daughter, Bertha, and near her husband, James.
+**Mary SHITACHKA Cleghorn**, daughter of [**James Naismith Cleghorn**](./Cleghorn_James_N.md)  was born in Alaska April 14, 1866 and died in Seldovia January 16, 1932.  She was first buried in the old Russian Orthodox Cemetery near the beach, but her grave was part of the re-burial in the City Cemetery as part of the urban renewal project after the 1964 earthquake. She is buried in Seldovia City Cemetery plot #1610, next to her daughter, Bertha, and near her husband, James.
