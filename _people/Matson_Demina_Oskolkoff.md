@@ -33,8 +33,8 @@ The Edelman family lived in Kenai and had 8 children including:
     Pauline (Plot \#20) and her daughter Jacqueline (Plot \#21) died in
     an airplane crash in Seldovia in 1951.
 
-  - **Emma Edelman** (June 23, 1902- May 11, 1993: Plot \#41) married Norwegians [Martin Haakonsen](Haakonsen_hogenson_Martin)
-(1884 -1964)and [Simon Andreas Josephson](../_families/Josefson-Family.md)
+  - **Emma Edelman** (June 23, 1902- May 11, 1993: Plot \#41) married Norwegians [Martin Haakonsen](Haakonsen_hogenson_Martin.md)
+(1884 -1964)and [Simon Andreas Josephson](../_families/Josefsen_Family.md)
     (1880-1968), and is the mother of **Simon F. Josephson** (1930-1986:
     Plot \#251)
 
