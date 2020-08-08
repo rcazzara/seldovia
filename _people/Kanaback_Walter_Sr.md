@@ -11,10 +11,10 @@ source_file: Cemetery Directory
 ---
 
 **WALTER KANABACK, Sr.**, son of **John and Eugenia Kanaback** was born in Seldovia in 1892, and was a lifelong
-resident. He came from a long line of the [**Kanaback**](../_families/Kanaback_Family) Family in Alaska.He married [**Olympia Maguila**](./Kanaback_Olympia_Maquila.md), April 26, 1923 in Seldovia. At
+resident. He came from a long line of the [**Kanaback**](../_families/Kanaback_Family.md) Family in Alaska.He married [**Olympia Maguila**](./Kanaback_Olympia_Maquila.md), April 26, 1923 in Seldovia. At
 that time Walter was a logger. 
 
-They had at least five children, only two of them, John and [**Walter, Jr.**](./Kanaback, Walter Jr..md), surviving to adulthood.
+They had at least five children, only two of them, John and [**Walter, Jr.**](./Kanaback, Walter Jr.md), surviving to adulthood.
 
 [**John F.Kanaback**](./Kanaback_John.md) 1923-1999
 
