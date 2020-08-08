@@ -41,5 +41,5 @@ Hartley and Winnie had no children.
 Hartley Scott Young died in Seldovia on February 10, 1945. He is buried
 in Seattle, Washington.
 
-Winnie remarried to [**Frank Raby**](Frank%20Raby.docx) one year after
+Winnie remarried to [**Frank Raby**](Raby_Frank_J.md) one year after
 Hartley’s death.
