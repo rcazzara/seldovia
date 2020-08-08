@@ -9,6 +9,6 @@ death_location: Seldovia, Alaska
 
 ---
 
-**Michael John Balogh, "Mike"**  was born on August 10, 1936 in Willoughby, Ohio to [**Frank and Eileen Ernst Balogh**](../Balogh_Frank_Joseph.md).  He married [**Phyllis June Tobey**](../Balogh_Phyllis_Tobey.md) on January 31, 1961, in Newport News, Virginia where they were both stationed in the U.S. Army. They lived across Seldovia Bay from Powder Island and Mike was a fine wooden boat builder. A number of the dories in Seldovia today were built by him. 
+**Michael John Balogh, "Mike"**  was born on August 10, 1936 in Willoughby, Ohio to [**Frank and Eileen Ernst Balogh**](./Balogh_Frank_Joseph.md).  He married [**Phyllis June Tobey**](./Balogh_Phyllis_Tobey.md) on January 31, 1961, in Newport News, Virginia where they were both stationed in the U.S. Army. They lived across Seldovia Bay from Powder Island and Mike was a fine wooden boat builder. A number of the dories in Seldovia today were built by him. 
 
 Mike and Phyllis died at their home in February 1999. 
