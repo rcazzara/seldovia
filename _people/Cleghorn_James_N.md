@@ -54,7 +54,7 @@ below the Russian Orthodox Church.  (James 1852-1928) (Mary
 2.  **Jennie Cleghorn**  1894-1959
 
 3.  [**Lucille Cleghorn Ollestad**](./Ollestad_Lucille_Cleghorn.md) b. 1895, d. 1985; buried in Seldovia
-    City Cemetery – see Ollestad Family page. Memorial in Seldovia City
+    City Cemetery – see [**Ollestad Family**](../_families/Ollestad_Family.md). Memorial in Seldovia City
     Cemetery , plot \#195. 
 
 4.  [**James Cleghorn**](./Cleghorn_James.md) b. December 2, 1898 - d. July, 1971 Seldovia,
