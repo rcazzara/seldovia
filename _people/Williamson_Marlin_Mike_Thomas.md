@@ -124,7 +124,4 @@ accomplishments, his good name and the love and respect showered upon
 him by friends and family, Heaven surely has acquired a new resident
 Mountain Man.
 
-*To contact or send condolences to Mike’s family:  Tsuri and Batsheva
-Williamson at 5720 Munhall Rd, Pittsburgh, PA. 15217-2010   
-[412-480-4913](tel:412-480-4913)*
 
