@@ -13,7 +13,7 @@ cemetery_plot:
 longshoreman in Vancouver, B.C. in 1917. He had families in Washington
 and Alaska. In 1930 he was a storekeeper in Chignik with his
 3<sup>rd</sup> wife **Nellie Anderson** (Norwegian/Alaskan) and their
-children, **Floyd Lowell Suydam** and [**Marilyn Suydam**](./Fisk_Marilyn_Suydam.md). In 1932,
+children, **Floyd Lowell Suydam** and [**Marilyn Suydam**](../_people/Fisk_Marilyn_Suydam.md). In 1932,
 another son, Antril, was born there. The **Suydam** family has a deep
 presence in the Seldovia community.
 
