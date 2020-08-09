@@ -8,7 +8,7 @@ death_location: Seattle, Washington
 
 ---
 
-Born March 15, 1923, in Seattle, **Jack Conrad Anderson II**  spent his early years growing up in Seward and Seldovia, assisting his father, [**Jack Sr.**](./Anderson_Jack_Sr.md), with Anderson & Sons Transportation. The business carried passengers, freight and mail between Seldovia, Seward, the Aleutian chain and Anchorage. He was skipper on board the Princess Pat. He received his captain's license at the age of 15, an accomplishment that put him in Robert Ripley's Book of Records, according to his family. The family moved to Anchorage in 1938.
+Born March 15, 1923, in Seattle, **Jack Conrad Anderson II**  spent his early years growing up in Seward and Seldovia, assisting his father, [**Jack Sr.**](./Anderson_Jack_Conrad_Sr.md), with Anderson & Sons Transportation. The business carried passengers, freight and mail between Seldovia, Seward, the Aleutian chain and Anchorage. He was skipper on board the Princess Pat. He received his captain's license at the age of 15, an accomplishment that put him in Robert Ripley's Book of Records, according to his family. The family moved to Anchorage in 1938.
 
 Jack married Lois Erickson in 1943. They had three children, John “Jack” C. Anderson III, Annalee, and Carl “Andy.”  In their youth, the third-generation Anderson boys were rapidly indoctrinated into the tugboat business, and they also became licensed tugboat captains. Their sister, Annalee, married James Hill and also remained in Alaska.
 
