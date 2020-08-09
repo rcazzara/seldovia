@@ -26,7 +26,7 @@ up on an ad for a camp cook for Chisnik Canneries (Snug Harbor).
 Freddy met his wife, Milly (Mildred KAGAK) in downtown Anchorage, and shortly thereafter they
 married. 
 
-![](../assets/images/061102_NewmeyersNewsPhotoT350.jpg)
+![](../assets/images/061102_NewmeyersNewsPhotoT350.jpg) ![](../assets/images/061102_NewmeyersT350.jpg)
 
 He loved traveling the world and together they traveled it
 twice; he especially loved Germany, France, Holland, Europe, Japan,
