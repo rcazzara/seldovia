@@ -11,5 +11,5 @@ source_file: Cemetery Directory
 ---
 **CALVIN MATT COLBERG" was born December 17, 1963.  He died On May 25, 1983 and is buried in the Seldovia City Cemetery in Plot #267. 
 
-![](../assets/images/Calvin%20Colberg%20slain.jpg)
+![](../assets/images/CalvinColbergSlain.jpg)
 
