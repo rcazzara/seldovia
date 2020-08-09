@@ -16,7 +16,7 @@ source_file: "Frederick Walter Newmeyer not in cemetery"
 
 ![](../assets/images/Frederick%20Walter%20Newmeyer%20not%20in%20cemetery/media/image1.jpeg) 
   
-**Frederick Walter Newmeyer, "Fredy** was a leap year baby, born February 29, 1928 in San Francisco,
+**FREDERICK WALTER NEWMEYER, "FREDDY** was a leap year baby, born February 29, 1928 in San Francisco,
 California, the only child weighing in at 13 pounds in his day. His
 parents were Emma and Fredrick Walter Newmeyer. He graduated from high
 school and shortly after graduation he joined the Army and learned to
