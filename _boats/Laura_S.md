@@ -8,4 +8,4 @@ The F/V ***Laura S***, owned by Ken Swick, was built in Seattle in 1977. She is 
 In 1995 the IFQ (Individual Fishing Quota) system was put into effect for halibut and black cod. Under this plan each boat was given a certain number of pounds based on prior years of fishing. His limited the number of boats and lengthened the season.  Quality therefore increased with more of the fish going straight to fresh markets.   _ Alvin Swick, Captain
 
 
-![](../assets/images/boats/media/Laura_S.jpeg)
+![](../assets/images/Boats/Laura_S.JPG)
