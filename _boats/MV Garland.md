@@ -10,6 +10,8 @@ Sometime after WWII, the ***Garland*** was bought by Heinie Berger, owner of  Be
 
 Many of Alaska’s best seamen got their start aboard the M/V ***Garland***. Captain Richard Hofstad, who pioneered routes for the Alaska Marine Highway in its earlier years, learned those routes from his Chief Mate Jack V. Johnson who had sailed mail boat routes on the ***Garland***.
 
+![](MV%Garland.jpg)
+
  
 
  

@@ -10,5 +10,5 @@ Greg and Amy Grondin bought the ***Duna*** from Walt and Sachiko and continued t
 
 In 2020 F/V Duna is based in Sitka and is owned and operated by Lance Preston, who serves on the board of directors for Seafood Producer's Cooperative.
 
-![](../assets/images/boats/duna-from-walt-021.jpg)
+![](../assets/images/Boats/duna-from-walt-021.jpg)
 

@@ -6,4 +6,4 @@ owmers: Mike Miller
 
 The F/V ***Independence***, owned by Mike Miller, was built in Seattle in 1977. 
 
-![](../assets/images/boats/Independence.jpg)
+![](../assets/images/Boats/Independence.jpg)
