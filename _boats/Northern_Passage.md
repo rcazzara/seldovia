@@ -5,6 +5,8 @@ owners: Jen Gordon and Bruce Rein
 ---
 # S/V Northern Passage
 
+![](../assets/images/Boats/Northern_Passage_1.jpg)
+
 by Jenny Chissus, Seldovia Gazette  
 
 I happened to be down at the docks when Jen Gordon and Bruce Rein, along with their two children, Richard and Carmen (and their cat, Tiger) were taking off for sunnier seas from our own Seldovia harbor!
