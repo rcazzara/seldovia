@@ -18,5 +18,5 @@ Mr. Vinal was a member of an old and prominent family of Massachusetts who trace
 Fairbanks News Miner: August 6, 1940
 Death came to William A. Vinal, former United States commissioner at Seldovia and resident of lower Cook Inlet community for the past 12 years.  Judge Vinal was born 80 years ago in the state of Maine and was graduated from the state university.  He took pride in his adherence to New England traditions, was a staunch Republican in his politics and always said that his party would come back into power and be stronger than ever in the administration of national affairs.  In his early life he was a school teacher, later he and Mrs. Vinal came west and finally to Alaska.  They lived at Nome and also on the Kuskokwim, where their mines, operated on royalty basis, are still profitably producing. He went to Seldovia as commissioner, later investing in the Alaska Year Round cannery, an interest that he disposed of a year or two ago.  The past few years Judge Vinal spent his winters at a home he purchased on the shores of Lake Washington.  Perhaps it was a year ago that he was married the second time to a neighbor of the Lake Washington home-place.  Mrs. Vinal was present at the last sad leave taking. 
 
-![](../assets/images/Vinal Fall Anchorage Times July 1936.jpg)
+![](../assets/images/Vinal_Fall_Anchorage_Times_July_1936.jpg)
 
