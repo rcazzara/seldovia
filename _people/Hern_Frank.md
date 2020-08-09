@@ -144,8 +144,7 @@ team might have to land some distance from the wreckage and walk in.
 Jensen, who alerted the News-Miner and Miller returned to the wreckage
 scene last night. Jense
 
-**Aviation Safety Network**:
-<https://aviation-safety.net/wikibase/wiki.php?id=5932>
+[**Aviation Safety Network**](https://aviation-safety.net/wikibase/wiki.php?id=5932):
 
   Date: 28-APR-1966
   Time: 19:41
