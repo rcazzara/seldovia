@@ -16,15 +16,19 @@ source_file: "Frederick Walter Newmeyer not in cemetery"
 
 ![](../assets/images/Frederick%20Walter%20Newmeyer%20not%20in%20cemetery/media/image1.jpeg) 
   
-**Frederick Walter Newmeyer, "Fredy** was a leap year baby born February 29, 1928 in San Francisco,
+**Frederick Walter Newmeyer, "Fredy** was a leap year baby, born February 29, 1928 in San Francisco,
 California, the only child weighing in at 13 pounds in his day. His
 parents were Emma and Fredrick Walter Newmeyer. He graduated from high
 school and shortly after graduation he joined the Army and learned to
-cook and was an excellent baker. After his honorable discharge he took
+cook and became an excellent baker. After his honorable discharge he took
 up on an ad for a camp cook for Chisnik Canneries (Snug Harbor).
 
 Freddy met his wife, Milly (Mildred KAGAK) in downtown Anchorage, and shortly thereafter they
-married. He loved traveling the world and together they traveled it
+married. 
+
+![](../assets/images/061102_NewmeyersNewsPhotoT350.jpg)
+
+He loved traveling the world and together they traveled it
 twice; he especially loved Germany, France, Holland, Europe, Japan,
 Thailand, and China. He also enjoyed fishing, boating, camping and took
 the Alcan Highway passage many times with his motor home. 
@@ -33,7 +37,7 @@ Freddy was honored as Seldovia's Old Crab in 1999.
 
 ![](../assets/images/Fred%20Newmeyer%20Old%20Crab.jpeg)
 
-He loved cooking and baking and was the owner of Seldovia Lodge which he operated since 1972 selling it in 1997. 
+He loved cooking and baking and was the owner of Seldovia Lodge which he had operated since 1972, selling it in 1997. 
 
 He and Milly later became snowbirds in Yuma AZ while still enjoying summers in Alaska. He
 had studied the mythology of football and baseball, and won most of his
