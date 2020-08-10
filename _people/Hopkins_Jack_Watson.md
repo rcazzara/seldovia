@@ -12,7 +12,7 @@ source_file: Cemetery Directory
 
 **JOHN WATSON HOPKINS, "Jack"** was born in Sonoma, California on January 1, 1929. He died in Kachemak Bay in December 1977 and is buried in the Seldovia City Cemetery in Plot #171. 
 
-Jack married Evelyn Wheeler and they raised three sons, William, James, and Tom.
+Jack married [**Evelyn Wheeler**](./Hopkins_Evelyn_Wheeler.md) and they raised three sons, William, James, and Tom.
 
 JUNEAU (AP)—The Coast Guard suspended searches today for a missing Wrangell trapper and a lost Homer helicopter pilot, A Coast Guard spokesman said the search for pilot Gary Terry was called off after debris from his helicopter was found floating in lower Cook Inlet off Anchor Point near Homer Tuesday. A body found aboard a raft floating amid the debris was identified as that of Jack Hopkins, a freighter pilot Terry was trying to fly to a vessel bound for Anchorage.
 
