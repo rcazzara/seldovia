@@ -26,4 +26,5 @@ Old-timers sometimes confuse this cemetery name with "**Jimminy
 Cricket**" another Seldovia character, but Jimminy Cricket was an older
 black man and locals have many colorful stories about him.
 
+![](../assets/images/Cricket%20Forrest%20death%20certificate.jpg)
 

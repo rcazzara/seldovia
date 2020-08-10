@@ -16,7 +16,7 @@ The next season, Mellish and Cleghorn searched the Mulchatna River area but foun
 By 1896, James Cleghorn was the Alaska Commercial Company agent at Susitna Station. In 1902 the original Postmaster ceded his position as well as his trading company position to James Cleghorn.  In 1910, the family was living in Ouzinkie on Spruce Island near Kodiak and times were tough. An article written in the San Francisco Call (newspaper) in 1912, said they had received word that the Cleghorns and their 12 children were trying to live on $25 a month. U.S. Treasury Secretary Wayne McVeagh was so concerned that he offered the Cleghorns free passage out of the area on a U.S. Revenue Cutter. 
 By 1920, the family was operating a fox farm on Yukon Island. James Cleghorn and his wife are both buried in Seldovia’s Hillside Cemetery below the Russian Orthodox Church.  (James 1852-1928) (Mary 1866-1932).
 James and Mary had 12 children:
-1.	Kate Ballou, born 1892, was actually a step-daughter of James, so 
+1.	Kate Ballou, born 1892, was actually a step-daughter of James 
 2.	Jennie  1894-1959
 3.	[**Lucille CLEGHORN Ollestad**](../_people/Ollestad_Lucille_Cleghorn.md) b. 1895, d. 1985; buried in Seldovia City Cemetery.  Memorial in Seldovia City Cemetery , plot #195. See [**OLLESTAD FAMILY**](../_families/Ollestad_Family.md).
 4.	James CLEGHORN b. December 2, 1898 - d. July, 1971 Seldovia, Alaska, Seldovia City Cemetery , plot #195.

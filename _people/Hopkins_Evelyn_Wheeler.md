@@ -20,3 +20,5 @@ died in 1977, and Evelyn married Rawlins Apperson on May 25, 1985, in
 Seldovia, Alaska. She died on September 29, 2007, in Bend, Oregon, at
 the age of 79. She is buried in the Seldovia City Cemetery next to her
 husband Jack Hopkins, Plot \#172 [**SEE JACK HOPKINS FAMILY**](../_families/Hopkins_Family.md)
+
+![](../assets/images/Evelyn%20Wheeler%20Hopkins.jpg)

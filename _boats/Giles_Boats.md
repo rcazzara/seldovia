@@ -12,6 +12,3 @@ Our family went from a 32 foot boat to a 130 foot boat.  It was an old Western T
 
 Now we have the ***Alliance***, a 100 foot boat.  Fishing is not like it was in earlier times. However, fishing has provided a good living for this family."
 
-
-
-![](../assets/images/boats/Alliance.jpg)

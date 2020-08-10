@@ -11,7 +11,7 @@ family: Bowen
 cemetery_plot: 43
 ---
 
-**RUFUS [BOWEN**](../_families/Bowen_Family.md), the oldest son of Henry Richard and Barbara Naumoff Bowen was born in Kodiak October 22, 1879. His father died in a ship disaster in 1895 and his mother was left to raise ten children.  The family moved to Seldovia
+**RUFUS BOWEN**, the oldest son of [**Henry Richard and Barbara NAUMOFF Bowen**](../_families/Bowen_Family.md) was born in Kodiak October 22, 1879. His father died in a ship disaster in 1895 and his mother was left to raise ten children.  The family moved to Seldovia
 after the Novarupta eruption in 1912. He built a cabin near the current harbor and grazed horses in a pasture located where
 the current SVT building stands. Later he lived in a cabin on the edge of the Russian Orthodox Church Cemetery.
 

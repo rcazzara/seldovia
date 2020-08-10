@@ -54,5 +54,4 @@ the family in King County, Washington where Frank was again practicing
 dentistry.
 
 Frank died in Seldovia June 11, 1938. He is buried in the Seldovia City
-Cemetery, Plot \#97. Mary and the children were still living there in
-1940. She died in Costa Mesa, California in 1992.
+Cemetery, Plot \#97. Mary and the children were still living there in 1940. She died in Costa Mesa, California in 1992.

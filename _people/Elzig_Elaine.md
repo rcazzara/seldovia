@@ -6,7 +6,6 @@ birth_date: 1934-07-19
 birth_location: Wisconsin
 death_date: 2011-09-07
 death_location: Seldovia, Alaska
-
 ---
 
 **Elaine Frances KIEKHOEFER Elzig** was born on July 19, 1934 in St. Croix, Wisconsin to Ed and Doris Kiekhofer. She grew up a farm girl in Wisconsin and was the sixth of seven children who is survived by three of her siblings. 

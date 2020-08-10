@@ -14,7 +14,7 @@ source_file: Cemetery Directory
 Norway. He emigrated from Norway and was a citizen of Canada in 1910
 when he applied for a homestead in Edmonton, Alberta. He had previously
 been a laborer in Minnesota. H proved up on the land and applied for a
-patent in 1914 He again immigrated to the US in March 1916. He left
+patent in 1914. He again immigrated to the US in March 1916. He left
 Canada in 1916 to work on the railroad and returned in 1920 to work on
 his farm. He was living in Seward Alaska in 1917 when he registered for
 WWI draft. He received US citizenship in 1924 after he was in Alaska. He

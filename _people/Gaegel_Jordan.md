@@ -7,7 +7,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 368
 source_file: Cemetery Directory
 ---
-![](assets/images/Jordan_Gaegel.jpg)
+![](../assets/images/Jordan Gaegel.jpg)
 
 **JORDAN GAEGEL** was born October 11, 1990.  
 He is buried in the Seldovia City Cemetery in plot 368. 
