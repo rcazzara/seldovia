@@ -27,6 +27,6 @@ squirrel-shooting rifle to his head and pulled the trigger. His neighbor
 found Hilmer in his woodshed the next morning, still sitting upright,
 his life ebbed."
 
-![](assets/images/Hilmer%20Olsen%20 house.jpg)
+![](assets/images/Hilmer%20Olsen%20house.jpg)
 
 Pete died on August 11, 1959 and is buried in the Seldovia City Cemetery, Plot #164.
