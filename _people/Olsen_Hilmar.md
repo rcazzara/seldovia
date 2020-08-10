@@ -17,8 +17,6 @@ fur farmer then and in 1930 census as well. He was not married until
 1943 when he married Hanna Hansen Pedersen, widow of [**Peder Pedersen**](./Pederson_Peter_Emanuel.md) in
 Seldovia on January 20, 1943.
 
-![](..assets/images/Hilmer%20Olsen%20house.jpeg)
-
 From Elsa Pedersen's book "Kachemak Bay Years": Hilmer Olsen of Bradley
 River, our first upper-bay friend after he had moved to Seldovia and
 before we moved to Bear Cove, came to a tragic end. His wife grew
@@ -28,5 +26,7 @@ and would soon be helpless to care for himself. One day he put his old
 squirrel-shooting rifle to his head and pulled the trigger. His neighbor
 found Hilmer in his woodshed the next morning, still sitting upright,
 his life ebbed."
+
+![](assets/images/Hilmer%20Olsen%20 house.jpg)
 
 Pete died on August 11, 1959 and is buried in the Seldovia City Cemetery, Plot #164.
