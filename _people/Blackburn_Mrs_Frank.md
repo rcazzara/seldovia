@@ -9,7 +9,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 194
 source_file: Cemetery Directory
 ---
-**Mrs. Frank   Blackburn** was buried in the Seldovia City Cemetery in Plot #194 in 1965.  
+**Mrs. Frank   Blackburn** was buried in the Seldovia City Cemetery in Plot #194 in 1965.  We are not sure who she was but there is a lot of information for Frank Blackburn and perhaps we'll someday find out her real name.
 
 Frank BLACKBURN Family
 
