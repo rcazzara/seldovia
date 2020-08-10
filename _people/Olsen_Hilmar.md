@@ -29,4 +29,4 @@ his life ebbed."
 
 ![](assets/images/Hilmer%20Olsen%20house.jpg)
 
-Pete died on August 11, 1959 and is buried in the Seldovia City Cemetery, Plot #164.
+Hilmar died on August 11, 1959 and is buried in the Seldovia City Cemetery, Plot #164.
