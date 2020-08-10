@@ -26,3 +26,5 @@ CHILDREN:
 - EDWIN EDELMAN: Lifetime Alaskan Ed Edelman, 84, died Friday, 13 Nov 1992, in Homer after a short illness. Mr. Edelman was born Aug. 13, 1908 in Kenai, Alaska, to Domnina Oskolkoff Edelman, of Kenaitze (Athabaskan) Indian and Russian decent, and Edvin (Edwin) Edelman, a Finn explorer from Porvoo. Edelman attended high school at the Chemewa Indian School near Salem, Oregon, traveling by steamboat. Prior to that, he attended a school ran by the Russian Orthodox Church in Kenai. In 1934, he met and married Lottie Van Horn in Portland, Ore. They made their home in Seldovia, Anchorage and Kenai for the past 58 years. Mr. Edelman was a retired commercial fisherman and member of the Local 367 of the Plumbers and Steamfitters in Anchorage. He was also a member of the Benevolent and Protective Order of the Elks for 47 years, as well as a member of the Kenaitze Indian Tribe and CIRI. According to his family, Mr. Edelman left a legacy of love for the Alaska outdoors and commercial fishing. 
 
 ![](../assets/images/Demnina%20Oskolkoff%20Edelmann%20and%20sons%20Edwin%20and%20Jack.jpg)
+
+Demnina and sons Edwin and Jack
