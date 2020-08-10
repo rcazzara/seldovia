@@ -12,3 +12,10 @@ He was married to Phyllis Kay Williams and had daughters Kathleen Louise and Chr
 In 1975 he married **Shirley Negre Jones** and they had one son Sean Anders Hurley born in 1978. 
 
 Gerald loved the outdoors and especially fishing. His life-long dream was to live in Alaska and they moved to Seldovia in 2006. His health declined the next several years and he died from a ruptured heart in Anchorage in 2013. He wished to be cremated and in November 2014 his ashes were spread in the Seldovia Slough where he wanted to be. He enjoyed writing his monthly letters about God's Gracious Character and published them on a website and mailed them to friends and relatives. Friends of Seldovia Bible Church and Seldovia Village Tribe assisted with his Memorial Service on May 12, 2014 in Seldovia.
+
+![](../assets?imaes/GerryHurley1.png)
+![](../assets?imaes/GerryHurley2.jpg)
+![](../assets?imaes/GerryHurley3.jpg)
+![](../assets?imaes/GerryHurley4.jpg)
+![](../assets?imaes/GerryHurley5.jpg)
+
