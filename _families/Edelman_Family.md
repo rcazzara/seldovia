@@ -4,7 +4,15 @@ source_file: "Edelman FAMILY"
 ---
 # Edelman Family
 
-The **Edelman** family in Alaska begins with (Edvin Jacobsen) **“Edwin” Edelman** who was born in Porvoo ,Uusimaa, Finland on February 11, 1856.  At that time Finland was under the authority of Russia, so he may have come to Alaska as part of a Russian connection. He declared his loyalty to the US in 1883 and became a naturalized US citizen in 1915.  In 1900 he was living in “Fort Kenai” Alaska and already married to **Demnina Oskolkoff**, (b. Alaska 1879-d. 1949) the daughter of Zakharii and Elizaveta KNAGIN Oskolkoff. They had two children, Nina and Zacharias.  He was listed as a miner and his mailing address was San Francisco, California. By 1910 there were five more children.
+The **Edelman** family in Alaska begins with (Edvin Jacobsen) **“Edwin” Edelman** who was born in Porvoo ,Uusimaa, Finland on February 11, 1856.  At that time Finland was under the authority of Russia.   
+
+Ed first came to Juneau in 1885 and mined in Southeast Alaska. In June of 1897 he located a gold claim, "The Edelman" on Rainbow Creek, on the north side of Turnagain Arm. On May 1, 1888, he and four others left Juneau in a whaleboat to join a gold stampede to Yakutat Bay.  Later he prospected in Prince William Sound.  
+
+He went to Iliamna Lake in 1889 and located petroleum near Oil Bay and Iniskin Bay.  He staked oil claims there, but later abandoned them. This is the earliest known effort to develop the petroleum resources of Alaska.  During his first two years at Iliamna he said he met only one other white man - Frank Lowell, the original settler of Rseurrection Bay who came to Iliamna on his schooner, Maria, taking census during he autumn of 1890. Edelan came to Kenai in 1896 and sailed a sloop for about fifteen years around Cook Inlet and Turnagain Arm.
+
+In 1900 he was living in “Fort Kenai” Alaska and already married to **Demnina Oskolkoff**, (b. Alaska 1879-d. 1949) the daughter of Zakharii and Elizaveta KNAGIN Oskolkoff. They had two children, Nina and Zacharias.  He was listed as a miner and his mailing address was San Francisco, California. By 1910 there were five more children.
+
+Ed declared his loyalty to the US in 1883 and became a naturalized US citizen in 1915.
 
 ![](../assets/images/Edvin%20and%20Demnina%20Oskolkoff%20Edelman/media/image1.jpeg)
 
