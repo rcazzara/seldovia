@@ -31,6 +31,9 @@ old. He attended school in Cordova and was in the US Army during WW II.
 Roy married [**Lucille OLLESTAD**](./Hansen_Lucille_Ollestad.md) in Seldovia
 in 1953 and they had 3 sons and 5 daughters.
 
+
+![](../assets/images/Roy%20L%20Hansen%20with%20children%20Anne%20Marie%20and%20Roy%20H%20about%201982.peg)
+
 Roy was a commercial fisherman. He and his son Roy survived the sinking
 of the vessel Glacier King in Bristol Bay in 1977.
 
