@@ -24,6 +24,8 @@ full_name: Books
 
 + Stanek, Ronald T., R. Miraglia, and L. Tomrdle. **_Subsistence Harvest of Wild Resources at Port Graham, Nanwalek and Seldovia_**. Paper Delivered at the 20th Annual Meeting of the Alaska Anthropological Association. 1993.
 
-+ Springer, Susan Woodward. **_Seldovia Alaska: An Historical Portrait of Life in Herring Bay_**. Littleton, Colorado: Blue Willow, Inc., 1997.
+#### _Seldovia Alaska_ by Susan Springer
+> Springer, Susan Woodward. _Seldovia Alaska: An Historical Portrait of Life in Herring Bay_. Littleton, Colorado: Blue Willow, Inc., 1997.
 
-+ Sharpe, Mae Annette Fox. **_My Seldovia - My Life_**. Self-published document on file, Seldovia Public Library 1997
+#### _My Seldovia - My Life_ by Mae Sharpe
+> Sharpe, Mae Annette Fox. _My Seldovia - My Life_. Self-published document on file, Seldovia Public Library 1997
