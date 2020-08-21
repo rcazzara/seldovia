@@ -35,8 +35,8 @@ That winter when the cannery closed, Frank moved into Seldovia. It
 didn’t take long before he was trying his hand at every money-making
 operation going on in the area. In 1925 ten companies were listed in the
 Pacific Fisherman’s Yearbook as packing herring in Seldovia, including
-Frank Raby, with 27 barrels. Susan Springer in her book "Seldovia,
-Alaska’ suggests that Frank Raby was probably the first person in
+Frank Raby, with 27 barrels. Susan Springer in her book [_Seldovia, Alaska_](../_resources/books.md#seldovia-alaska-by-susan-springer)
+suggests that Frank Raby was probably the first person in
 Seldovia to attempt the raising of mink, which he did from 1923-1926. He
 was also included in the long list of Kachemak Bay fox farmers. In the
 1930 US Census, Frank was listed as a Seldovian salmon fisherman.
