@@ -25,5 +25,5 @@ and brother, John Colberg (Han); sisters, Liza (Michel) Bieri, Arlise
 "Arkie" Borup (Bob) and Alexis Nelissen (Frank); and many other family
 members and friends.
 
-Nute was preceded in death by his father, [**Albert "Coogan" Peterson**](./Peterson_Albert_Martin.md);
+Nute was preceded in death by his father, [**Albert "Coogan" Peterson**](./Peterson_Albert_Martin_Coogan.md);
 stepfather, John N. Colberg; and wife, Linda Peterson.
