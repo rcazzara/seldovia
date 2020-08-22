@@ -44,7 +44,7 @@ Lottie moved back to Kodiak after the 1964 earthquake and died there in
 > 
 > **Albert Martin "Coogan" PETERSON (1933-1989)** married [**Alta ROSENBUSH**](./Colberg_Alta_Rosenbush.md)
 > 
-> **\[Freda PETERSON Robinson (1934, Seldovia – 2015, Anchorage)\]**
+> **Freda PETERSON Robinson (1934, Seldovia – 2015, Anchorage)**
 > 
 > **Teddy PETERSON** was born in 1938 in Seldovia and died in Seldovia
 > in 1941. He is buried in the Seldovia City Cemetery, Plot \#49, next
