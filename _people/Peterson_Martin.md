@@ -42,7 +42,7 @@ Lottie moved back to Kodiak after the 1964 earthquake and died there in
 > Plot \# 49 next to his brother Teddy Peterson who died only a few
 > months earlier.
 > 
-> **Albert Martin "Coogan" PETERSON (1933-1989)** married [**Alta ROSENBUSH**](./Colberg_Alta_Rosenbush.md)
+> [**Albert Martin "Coogan" PETERSON**](./Peterson_Albert_Martin_Coogan.md) married [**Alta ROSENBUSH**](./Colberg_Alta_Rosenbush.md)
 > 
 > **Freda PETERSON Robinson (1934, Seldovia – 2015, Anchorage)**
 > 
