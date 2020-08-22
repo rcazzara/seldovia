@@ -23,7 +23,7 @@ Nyman.
 > [**Fred (Rapin) NYMAN,**](./Nyman_Fred.md) born in Kodiak, December 11, 1907, died
 > December 27, 1943 in Seldovia, as a result of drowning. He is buried
 > in Seldovia City Cemetery, Plot 48, next to his half- brothers,
-> **Martin** and \[**Teddy** **Peterson**\].
+> **Martin** and **Teddy Peterson**.
 > 
 > Ellen, Ethel, Nick and Florence Nyman were all children living in the
 > Jessie Lee Home in Seward, Alaska in 1930.
