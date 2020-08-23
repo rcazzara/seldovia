@@ -4,6 +4,7 @@ first_name: Richard Ceirog
 birth_date: 1873-05-08
 birth_location: Wales
 death_date: 1955-10-27
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 82
 family: Morris
