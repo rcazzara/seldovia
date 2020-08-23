@@ -13,15 +13,14 @@ source_file: Cemetery Directory
 ---
 
 **HARRIET SUSANNAH *BOWEN* JOHNSON**, born December 13, 1888 in Kodiak, was the
-daughter of Captain Henry and Barbara Bowen. She married [** Andrew Johnson](./Johnson_Andrew.md)
+daughter of Captain Henry and Barbara Bowen. She married [** Andrew Johnson](./Johnson_Andrew.md) in Kodiak and they later moved to Seldovia, where their youngest daughter, Elsie, was born.
 
-Their children included Harriet, Susan, Mary, Florence and Elsie. Andy was listed as a salmon fisherman
-in Seldovia census records by 1910. In 1934 he was a 70 year old
-widower, living with his 16 year old daughter Elsie and working at a
-salmon cannery. They lived in a cabin with 4 rooms and a well nearby.
+Their eight daughters included Harriet, Susan, Mary, Florence and Elsie. Five of the girls died young, one of a bee sting, two as infamts, and two of the flu. Only Susan, Harriet, and Elsie survived to adulthood.
+
 Their daughter Harriet Kathrine Johnson married Thomas K. Fox, brother
-of [**Katherine Fox Vinberg Kashavarov**](./Kashevarof_Katherine_F_Fox.md). Hattie died March 3, 1931 and Andy
-died July 13, 1940. They are buried beside each other in the Seldovia
+of [**Katherine Fox Vinberg Kashavarov**](./Kashevarof_Katherine_F_Fox.md). 
+
+Hattie died March 3, 1931 and Andy died July 13, 1940. They are buried beside each other in the Seldovia
 Cemetery, Plots \#36 and \#37.**
 
 **Baby Bowen** died 1937 *Seldovia City Cemetery: Plot \#70*
