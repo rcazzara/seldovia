@@ -13,7 +13,7 @@ source_file: Cemetery Directory
 ---
 
 **HARRIET SUSANNAH *BOWEN* JOHNSON**, born December 13, 1888 in Kodiak, was the
-daughter of Captain Henry and Barbara Bowen. She married [** Andrew Johnson](./Johnson_Andrew.md) in Kodiak and they later moved to Seldovia, where their youngest daughter, Elsie, was born.
+daughter of Captain Henry and Barbara Bowen. She married [** Andrew Johnson**](./Johnson_Andrew.md) in Kodiak and they later moved to Seldovia, where their youngest daughter, Elsie, was born.
 
 Their eight daughters included Harriet, Susan, Mary, Florence and Elsie. Five of the girls died young, one of a bee sting, two as infamts, and two of the flu. Only Susan, Harriet, and Elsie survived to adulthood.
 
