@@ -2,7 +2,7 @@
 last_name: Morris
 first_name: Richard Ceirog
 birth_date: 1873-05-08
-birth_location: Wales
+birth_location: Lancashire, England
 death_date: 1955-10-27
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
@@ -10,7 +10,7 @@ cemetery_plot: 82
 family: Morris
 source_file: Cemetery Directory
 ---
-**RICHARD CEIROG MORRIS** was born in Lancashire, England and came to Alaska at the turn of the 20th century to mine for gold.  In 1907 he invested his savings in a small general store in Tofty, Alaska, becoming half owner.  A few years later he moved the store to the more economically sound village o Nenana and did well.  In 1918 he returned to Wales and married [**LUNED LEWIS**](./Morris_Luned_Lewis.md), with whom he had corresponded for ten years.  They returned to Nenana in the spring of 1919.  In 1922 their son, Berwyn was born, but their happiness was short-lived when they lost him in the 1923 flu epidemic.
+**RICHARD CEIROG MORRIS** was born in Lancashire, England and came to Alaska at the turn of the 20th century to mine for gold.  In 1907 he invested his savings in a small general store in Tofty, Alaska, becoming half owner.  A few years later he moved the store to the more economically sound village of Nenana and did well.  In 1918 he returned to Wales and married [**LUNED LEWIS**](./Morris_Luned_Lewis.md), with whom he had corresponded for ten years.  They returned to Nenana in the spring of 1919.  In 1922 their son, Berwyn was born, but their happiness was short-lived when they lost him in the 1923 flu epidemic.
 
 Richard was President of the Nenana Pioneers when President Harding came to Nenana and was made an honorary member. Richard handed the President the golden spike when the railroad officially opened that section. In 1924 he was Vice President of the Grand Igloo in Fairbanks and later became President.
 
