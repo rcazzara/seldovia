@@ -32,7 +32,8 @@ The Seldovia Project Jukebox contains recordings of oral histories collected by 
 + Jack Thomas 
 
 **University of Alaska Fairbanks UAF Oral History Collection** http://oralhistory.library.uaf.edu/
-+ Fred H. Elvsaas http://oralhistory.library.uaf.edu/2008/2008-21_PT._1_SIDE_A.mp3  http://oralhistory.library.uaf.edu/2008/2008-21_PT._1_SIDE_B.mp3
++ Fred H. Elvsaas http://oralhistory.library.uaf.edu/2008/2008-21_PT._1_SIDE_A.mp3  
+                  http://oralhistory.library.uaf.edu/2008/2008-21_PT._1_SIDE_B.mp3
 + Walter McInnes  http://oralhistory.library.uaf.edu/2008/2008-20_SIDE_A.mp3
 + Jetret Petersen
 
