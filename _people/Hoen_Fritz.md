@@ -21,4 +21,5 @@ Fritz married Katrina Malchoff in Seldovia on September 13, 1944. They divorced 
 He died while visiting his hometown in Norway in January 1975.  
 
 **Hoen’s Lagoon** is located on the west side of Seldovia Bay across from Watch Point. The entrance is narrow, with strong current, and navigable only by skiffs.
+
 **Hoen’s Spit** is the piece of land that encompasses Hoen’s Lagoon.
