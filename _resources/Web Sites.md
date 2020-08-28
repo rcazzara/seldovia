@@ -48,6 +48,6 @@ The Seldovia Project Jukebox contains recordings of oral histories collected by 
 
  - [**Seldovia Military Draft**](https://sites.rootsweb.com/%7Ecoleen/seldovia_draft.html)
 
- - [**Harry Mellish and James Cleghorn, Pre old Rush Prospectors**](https://freepages.rootsweb.com/%7Ecoleen/genealogy/mellish.html)
+ - [**Harry Mellish and James Cleghorn, Pre Gold Rush Prospectors**](https://freepages.rootsweb.com/%7Ecoleen/genealogy/mellish.html)
 
 - [**History of the SS Dora**](https://freepages.rootsweb.com/%7Ecoleen/genealogy/dora.html)
