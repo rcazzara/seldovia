@@ -31,10 +31,10 @@ The Seldovia Project Jukebox contains recordings of oral histories collected by 
 + Hugh Q. Smith 
 + Jack Thomas 
 
-**University of Alaska Fairbanks UAF Oral History Collection** http://oralhistory.library.uaf.edu/
+[**University of Alaska Fairbanks UAF Oral History Collection**](http://oralhistory.library.uaf.edu/)
 + [Fred H. Elvsaas](http://oralhistory.library.uaf.edu/2008/2008-21_PT._1_SIDE_A.mp3)  
 + [Walter McInnes](http://oralhistory.library.uaf.edu/2008/2008-20_SIDE_A.mp3)
-+ Jetret Petersen
++ [Jetret Petersen](https://jlc-web.uaa.alaska.edu/client/en_US/uaf/search/detailnonmodal/ent:$002f$002fSD_ILS$002f0$002fSD_ILS:3841555/one?qu=Petersen%2C+Jetret+Stryker%2C+1895-1992.&lm=UAF-ORAL&rt=false%7C%7C%7CSUBJECT%7C%7C%7CSubject)
 
 [**Report on operations of Red Mountain Chromite, Inc.**](https://dggs.alaska.gov/pubs/id/881). 1943 Alaska Territorial Department of Mines  
 
