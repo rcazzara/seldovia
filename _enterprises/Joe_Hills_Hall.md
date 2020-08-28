@@ -38,4 +38,4 @@ When Jim and his parents came to Seldovia in 1928, Joe ran a pool hall and barbe
 > On December 3, 1940 Joe Hill faced a second fire and his famous dancehall/pool hall/movie theatre/tavern/barbershop burned to the ground.  Joe later rebuilt and operated the Polar Bar until retiring to Philadelphia.  There he spent the last years of his life involved in the Civil Rights movement.
 Several years ago, a friend of mine was mucking about in the slough below where Joe Hills used to stand.  To his delight he found a china barber pole, about 6’ high and still bearing its red and white striping.  It was hollow, and with a good sized slot in the top.  We realized he had found the receptacle for Joe’s used razor blades!  An insignificant treasure to be sure, but still somehow proof for us 1990s folk that this great man did indeed exist.
 
-> “Seldovia, Alaska: An Historical Portrait of Life in Herring Bay” by Susan Woodward Springer is a larger paperbound book, 240 pages. 
+
