@@ -58,7 +58,7 @@ Fred Elvsaas, who was married to "Dad Ritchie's" stepdaughter, Gladys Simeonoff,
 
 The family is listed in the 1910 Alaska census records where he is living on Yukon Island, with his wife Annie and sons, [**GEORGE**](./Ritchie_George.md), Sam, and Jim.  Annie was born in Alaska. In 1920, only son George is listed with them. The other children may have succumbed to the influenza in 1918.
 
-In 1921 U.S. applied for a post as US Postmaster in Seldovia, but failed to qualify.  U.S. married Mary Toco in 1925.   In 1930 U.S. is listed in Seldovia as a widower living with son George, also a widower; he is a carpenter and George is a fisherman.   In 1940 both U.S. and George are living together in Seldovia, and both are listed as widowers but I haven’t found a record of a marriage for George.U.S.is buried in the Seldovia City Cemetery in plot 14.5.  
+In 1921 U.S. applied for a post as US Postmaster in Seldovia, but failed to qualify.  U.S. married Mary Toco in 1925.   In 1930 U.S. is listed in Seldovia as a widower living with son George, also a widower; he is a carpenter and George is a fisherman.   In 1940 both U.S. and George are living together in Seldovia, and both are listed as widowers.  U.S.is buried in the Seldovia City Cemetery in plot 14.5.  
 
 
 
