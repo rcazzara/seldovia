@@ -10,11 +10,9 @@ full_name: Books
 
 + Klein, Janet. **_A History of Kachemak Bay, the County, the Communities_**. Homer Society of Natural History, Homer, Alaska (1981)
 
-+ Kroll, Henry, Jr. **_Alaska Frontier Nurse_**. Self Published 2014.  Henry Kroll, 513 Peninsula Avenue, Kenai, Alaska   99611. 
-+ + Memoirs of Lois HARRIS Kroll, author's mother. 
++ Kroll, Henry, Jr.  **_Alaska Frontier Nurse_**. Self Published 2014.  Henry Kroll, 513 Peninsula Avenue, Kenai, Alaska   99611. Memoirs of Lois HARRIS Kroll, author's mother. 
 
-+ Kroll, Henry, Jr. **_Mad Trapper of Alaska_**. elf Published 2014.  Henry Kroll, 513 Peninsula Avenue, Kenai, Alaska   99611. 
-+ + Life of Henry Kroll, Sr., author's father.
++ Kroll, Henry, Jr.  **_Mad Trapper of Alaska_**. Self Published 2014.  Henry Kroll, 513 Peninsula Avenue, Kenai, Alaska   99611. Life of Henry Kroll, Sr., author's father.
 
 + Madden, Bette and Bob. **_Memoirs: Strange - Odd How Things Worked Out_**. 2007 Self-published Clarkston, Michigan; 2007. On file at Seldovia Public Library, Seldovia.
 
