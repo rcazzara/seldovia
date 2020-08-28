@@ -14,13 +14,13 @@ full_name: Books
 + + Memoirs of Lois HARRIS Kroll, author's mother. 
 
 + Kroll, Henry, Jr. **_Mad Trapper of Alaska_**. elf Published 2014.  Henry Kroll, 513 Peninsula Avenue, Kenai, Alaska   99611. 
-+ + Life of Henry Kroll, Sr., author's mother.
++ + Life of Henry Kroll, Sr., author's father.
 
 + Madden, Bette and Bob. **_Memoirs: Strange - Odd How Things Worked Out_**. 2007 Self-published Clarkston, Michigan; 2007. On file at Seldovia Public Library, Seldovia.
 
 + McClanahan, Alexandra J. **_Our Stories, Our Lives: 23 Elders of Cook Inlet Talk About their Lives_**. CIRI Foundation, Anchorage, Alaska ; 2002.
 
-+ Oskolkoff, Mary. recorded by James Kari. ANLC TI972K1976k. 12 pp. 1. Stories of Seldovia People;  2. Tyonek Potlatch in ca.1910; 3.Re Foods; 4.Raven story; 5. Story fragment, Bear story; 6.Food Gathering. 1976
++ Oskolkoff, Mary. recorded by James Kari. ANLC TI972K1976k. 12 pp. **1. Stories of Seldovia People**;  2. Tyonek Potlatch in ca.1910; 3.Re Foods; 4.Raven story; 5. Story fragment, Bear story; 6.Food Gathering. 1976
 
 + Pedersen, Elsa. **_A Larger History of the Kenai Peninsula_**.  Chicago: Adams Press, 1983.
 
