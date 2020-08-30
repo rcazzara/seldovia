@@ -7,7 +7,7 @@ death_date: 1964-03-23
 death_location: Port Angeles, Washington
 ---
 
-**Andreas Anderson** was born June 27, 1893 in Bergen, Norway.  He married Inga Johansen in Seldovia on October 3, 1919. 
+**ANDREAS ANDERSON, "ANDY** was born June 27, 1893 in Bergen, Norway.  He married Inga Johansen in Seldovia on October 3, 1919. 
 They had two children, **Agnes** (1920-2000) and **Anthony "Tony"** (1929-1952).
 
 In the 1930's, Andy built a house for Inga.  She was a short woman, and the cupboards are low, the stove is low, he trimmed the legs on the stove and built everything for her size.  Agnes and Tony were both big like Andy - Andy was a six footer - and they'd look so funny in that
