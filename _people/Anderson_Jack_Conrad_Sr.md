@@ -8,7 +8,7 @@ death_date: 1994-09-24
 death_location: Seattle, Washington
 
 ---
-**Captain John "Jack" Anderson Sr.**, known as "Cap'n Jack," was born on August 11, 1899 in Bergen, Norway, the eldest son of Henry Anderson and Hannah Anderson. He grew up in Grays Harbor, Washington, where his father worked as a logger. He was nine years old when he served before the mast on a voyage to Australia on his father's square-rigger.
+**JOHN CONRAD ANDERSON, Sr.**, known as "Cap'n Jack," was born on August 11, 1899 in Bergen, Norway, the eldest son of **Henry Anderson and Hannah Anderson**. He grew up in Grays Harbor, Washington, where his father worked as a logger. He was nine years old when he served before the mast on a voyage to Australia on his father's square-rigger.
 
 In 1924, after service in the U.S. Navy during World War I and, later, in the Merchant Marine, Jack arrived at Seldovia. He came to Alaska to fish, but fishing was not paying well. He noticed the need for a shipping service and starting an operation in Seward. He operated a mail, freight, and passenger service from Cook Inlet and Prince William Sound ports to Kodiak, Dutch Harbor and other outposts on the Aleutian Chain, and from Seward and Seldovia to various Cook Inlet communities. In 1934, he acquired the mail boat Princess Pat, a yacht formerly used to convey wealthy hunting parties to Alaska, and operated up and down Cook Inlet carrying mail and passengers. In July 1938, the Seward Gateway advertised that Anderson & Sons Transportation was running between Seward and Anchorage. The family moved to Anchorage in 1938.
 
