@@ -7,7 +7,6 @@ Prior to  the 2008 sewer and water project, the only Seldovia properties listed 
 SEL-023 [**Russian Orthodox Church**](../resources/st-nicholas-church.md)
 
 SEL-331 **Seldovia Bible Chapel**
-
 ![](../assets/Seldovia_Bible_Chapel.jpeg)
 
 SEL-332 **Ralph and Juanita Anderson Home** built by Baishoff brothers from Kenai
