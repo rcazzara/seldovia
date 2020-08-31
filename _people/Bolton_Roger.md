@@ -9,9 +9,9 @@ death_location: Palmer, Alaska
 
 ---
 
- **Roger William Bolton**, 82, passed away peacefully at the home of his daughter, surrounded by three generations of his family and his faithful companion, Cindy Dog, on December 15th, 2018. Formal services will not be held. Family and close friends will gather on the beach near “his little piece of heaven” and spread his ashes next summer. 
+ **ROGER WILLIAM BOLTON**, 82, passed away peacefully at the home of his daughter, surrounded by three generations of his family and his faithful companion, Cindy Dog, on December 15th, 2018. Formal services will not be held. Family and close friends will gather on the beach near “his little piece of heaven” and spread his ashes next summer. 
 
-Roger was born to Willie O Bolton and Electa O Sparks, on June 1, 1936 in Weed, California. He married Marcia D Powers on May 25, 1957 and together they raised four children. Although later they divorced, they remained very close friends. On February 14th, 1993 He married Betty Lichtner and had twenty-two happy years together until her passing in 2015.
+Roger was born to **Willie O Bolton** and **Electa O Sparks**, on June 1, 1936 in Weed, California. He married **Marcia D Powers** on May 25, 1957 and together they raised four children. Although later they divorced, they remained very close friends. On February 14th, 1993 He married **Betty Lichtner** and had twenty-two happy years together until her passing in 2015.
 
 Roger proudly served in the U.S. Navy from 1956 to 1960, he retired from the Federal Government as a Computer Programmer in 1994. Since retirement he enjoyed life to his fullest with all generations of his family and friends at his home in Homer, and his cabin at MacDonald Spit. He was a self-taught hard worker and was willing to work beside you as he taught you how to get the job done. 
 
