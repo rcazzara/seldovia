@@ -21,7 +21,7 @@ SEL-335 **Hospital**
 ![](../assets/images/Hospital_Willard_Home.jpg)
 
 SEL-336 **Winfree Home**  
-![](../assets/images/Not_Sears_House.jpeg)
+![](../assets/images/Not_Sears_House.jpg)
 
 SEL-337 **Walter Liponcott Home** built in 1930s for fisherman Walter Liponcott; on boardwalk extending into Seldovia Slough  
 ![](../assets/images/Walt_Sachiko_House1.jpg)
