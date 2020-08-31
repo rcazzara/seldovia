@@ -8,19 +8,25 @@ SEL-023 [**Russian Orthodox Church**](st-nicholas-church.md)
 SEL-331 **Seldovia Bible Chapel**  
 ![](../assets/images/Seldovia_Bible_Chapel.jpg)
 
+
 SEL-332 **Ralph and Juanita Anderson Home** built by Baishoff brothers from Kenai  
 ![](../assets/images/Ralph_Anderson_House.jpg)
+
 
 SEL-333 **Gruber Home** "was originally the cook shack at the chrome mine on Chrome Bay in Port Chatham"  
 ![](../assets/images/Gruber_Home.jpg)
 
+
 SEL-334 **Jack English Office**  
 ![](../assets/images/Jack_English_Office.jpg)
+
 
 SEL-335 **Hospital**  
 ![](../assets/images/Hospital_Willard_Home.jpg)
 
-SEL-336 **Winfree Home**  
+
+SEL-336 **Winfree Home**
+THis home has often been called a Sears mail order house, but there is no verification of that claim. The story is that the assebly instructions were in Danish, but with the number of Scandinavian ishermen in Seldovia translation was readily available. It was built for Winnie Zawistowski and her husband Robert Simpson. 
 ![](../assets/images/Not_Sears_House.jpg)
 
 SEL-337 **Walter Liponcott Home** built in 1930s for fisherman Walter Liponcott; on boardwalk extending into Seldovia Slough  
