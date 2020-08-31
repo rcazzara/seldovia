@@ -11,7 +11,7 @@ source_file: Cemetery Directory
 ---
 
 **KENNETH BERGER, "Kenny**, was born in Anchorage, Alaska on June 5,
-1957 to Merle Berger and Lillian Hojnacke. Merle and Lillian came to
+1957 to **Merle Berger** and **Lillian HOJNACKE Berger**. Merle and Lillian came to
 Alaska from South Dakota in 1955, with the US Army. The family moved to
 Seldovia in 1959 and left in 1968.
 
