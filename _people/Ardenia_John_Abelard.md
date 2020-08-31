@@ -13,7 +13,7 @@ source_file: Cemetery Directory
 
 ![](../assets/images/JOHN%20ABELARD%20ARDENIA/media/image1.jpeg)
 
-(Alaska Native) **John Abelard Ardenia Sr**. died Friday, Nov. 12, 2008,
+(Alaska Native) **JOHN ABELARD ARDENIA, SR.**. died Friday, Nov. 12, 2008,
 from a massive heart attack at his home at Lakeside Terrace in Seldovia.
 He was 70. Note: John Ardenia’s father was born in the Philippines. His
 mother was an Alaska Tlinget Indian.
