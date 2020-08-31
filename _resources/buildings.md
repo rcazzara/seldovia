@@ -29,7 +29,7 @@ SEL-337 **Walter Liponcott Home** built in 1930s for fisherman Walter Liponcott;
 SEL-338 **Ed Feldahl Home** built in 1930s; now Dancing Eales Bed & Breakfast  
 ![](../assets/images/Dancing_Eagles.jpg)
 
-SEL-339 **Josefson Home** located on south side of seldovia Slough was built around 1917 and was the home of [**Simon and Emma Josefson**](../_people/Josefsen_Simon_F.md). Traditionally it was painted robin's egg blue, and current owners have maintained that.  
+SEL-339 **Josefson Home** located on south side of Seldovia Slough was built around 1917 and was the home of [**Simon and Emma Josefson**](../_people/Josefsen_Simon_F.md). Traditionally it was painted robin's egg blue, and current owners have maintained that.  
 ![](../assets/images/Simon_Josefson_House.jpg)
 
 SEL-340 **Hilmer Olsen Home** built in the early 1930s by [**Hilmer Olsen**](../_people/Olsen_Hilmar.md)  
