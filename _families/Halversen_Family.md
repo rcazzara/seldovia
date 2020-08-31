@@ -1,5 +1,5 @@
 ---
-full_name: "Halversen Family"
+full_name: "Halvorsen Family"
 last_name: "Halversen"
 first_name: "Family"
 source_file: "Sigurd Halversen family"
