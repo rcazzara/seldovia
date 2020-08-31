@@ -10,6 +10,6 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 550
 source_file: Cemetery Directory
 ---
-**WALTER BOWERS, "Wally"** was born in Pennsylvania February 2, 1920. He had a boat and a trailer behind Wheelers' store and he took care of Louis Loudas in his reclining years. He died on October 8, 1977 and is buried in the Seldovia City Cemetery in Plot "550. 
+**WALTER BOWERS, "Wally"** was born in Pennsylvania February 2, 1920. He had a boat and a trailer behind Wheelers' store and he took care of Louis Loudas in his reclining years. He died on October 8, 1977 and is buried in the Seldovia City Cemetery in Plot #550. 
 
 
