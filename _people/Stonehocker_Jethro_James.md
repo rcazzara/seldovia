@@ -18,7 +18,7 @@ cemetery_plot: 148
 
  He probably lived in a cabin on the creek that bears his name near China Poot Bay in Kachemak Bay.
  
-![](../assets/images/Stonehocker%20cabin.jpg)
+![](../assets/images/Stonehocker%20Cabin.jpg)
 
 ![](../assets/images/Jethro%20James%20Stonehocker/media/image2.jpeg)
 
