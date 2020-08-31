@@ -26,7 +26,7 @@ SEL-335 **Hospital**
 
 
 SEL-336 **Winfree Home**
-THis home has often been called a Sears mail order house, but there is no verification of that claim. The story is that the assebly instructions were in Danish, but with the number of Scandinavian ishermen in Seldovia translation was readily available. It was built for Winnie Zawistowski and her husband Robert Simpson. 
+THis home has often been called a Sears mail order house, but there is no verification of that claim. The story is that the assebly instructions were in Danish, but with the number of Scandinavian ishermen in Seldovia translation was readily available. It was built for Winnie Zawistowski and her husband [**Robert Simpson**](../_people/Simpson_Robert_D.md). 
 ![](../assets/images/Not_Sears_House.jpg)
 
 SEL-337 **Walter Liponcott Home** built in 1930s for fisherman Walter Liponcott; on boardwalk extending into Seldovia Slough  
