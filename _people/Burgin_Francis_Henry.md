@@ -15,19 +15,19 @@ source_file: Cemetery Directory
 
 **FRANCIS HENRY BURGIN, "Frank"** was the first of Seldovia’s many
 celebrated dentists\! He was born in Harrison, Missouri on February 7,
-1879 to Fleming and Mary Burgin. His father was a physician and Frank as
+1879 to **Fleming and Mary Burgin**. His father was a physician and Frank as
 well as two of his brothers entered the field of medicine. Frank
 graduated from the Western Dental College in Kansas, Missouri in 1903.
-In 1902 he married Georgia Travis in Harrison. In 1910 they were living
+In 1902 he married **Georgia Travis** in Harrison. In 1910 they were living
 in Long Beach, California, where he was practicing as a dentist. During
 WWI he was a private in the Marine Corps, based in Puget Sound
 Washington.
 
-Frank then married Mary Johanson in Seldovia in 1917. Mary was born in
-Karluk, Alaska to Anton and Alexandria Chichenoff Johanson. Their
-daughter Virginia Lee Burgin was born in Seldovia in 1918. Soon after
+Frank then married **Mary Johanson** in Seldovia in 1917. Mary was born in
+Karluk, Alaska to **Anton and Alexandria CHICHENOFF Johanson**. Their
+daughter **Virginia** was born in Seldovia in 1918. Soon after
 that they moved to Grand Junction, Colorado and their second daughter
-Leona was born there in 1920. Sons Herschel (1922) and George (1925)
+**Leona** was born there in 1920. Sons **Herschel** (1922) and **George** (1925)
 were born in Seldovia.
 
 There was a burgeoning Burgin enclave in Delta. Frank’s brother, Charles
@@ -42,8 +42,8 @@ Seldovia, and in 1934 the Ninilchik schools raised enough money to hire
 children. Doctor Burgin and his equipment came in by dogsled from Homer
 in late January."
 
-In 1921, Frank acted as the administrator for the estate of Albert
-Filmore.
+In 1921, Frank acted as the administrator for the estate of [**Albert
+Filmore**](./Filmore_Albert.md).
 
 In 1923, Frank, his brother Isam and Lawrence Dunning shared a salmon
 fishing permit in Kachemak Bay.
