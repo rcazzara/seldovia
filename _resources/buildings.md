@@ -9,7 +9,7 @@ SEL-331 **Seldovia Bible Chapel**
 ![](../assets/images/Seldovia_Bible_Chapel.jpg)
 
 SEL-332 **Ralph and Juanita Anderson Home** built by Baishoff brothers from Kenai  
-![](../assets/images/Andy_Anderson_Home_1930.jpg)
+![](../assets/images/Ralpha_Anderson_House.jpg)
 
 SEL-333 **Gruber Home** "was originally the cook shack at the chrome mine on Chrome Bay in Port Chatham"  
 ![](../assets/images/Gruber_Home.jpg)
