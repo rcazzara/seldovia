@@ -8,6 +8,6 @@ death_date: 1999-02-08
 death_location: Seldovia, Alaska
 ---
 
-**Phyllis June TOBEY Balogh** was born on April 20, 1941 to Jesse Fay “Harold” and Hazel WILTSHIRE Tobey on April 20 1941 in Brown City Michigan.  She married [**Michael John Balogh**](./Balogh_Mike.md) in Newport News, Virginia where they were both stationed in the U.S. Army.
+**PHYLLIS JUNE *TOBEY* BALOGH** was born on April 20, 1941 to **Jesse Fay “Harold” and Hazel WILTSHIRE Tobey** on April 20 1941 in Brown City Michigan.  She married [**Michael John Balogh**](./Balogh_Mike.md) in Newport News, Virginia where they were both stationed in the U.S. Army.
 
 Mike and Phyllis died at their home in February 1999.
