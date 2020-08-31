@@ -9,4 +9,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 125
 source_file: Cemetery Directory
 ---
-**Storm William   Anderson**  was born April 7, 1879 in Kristiana, Norway and died in his cabin near Seldovia on April 28, 1941. He is buried in the Seldovia City Cemetery in plot 125.  
+**STORM WILLIAM ANDERSON** was born April 7, 1879 in Kristiana, Norway and died in his cabin near Seldovia on April 28, 1941. He is buried in the Seldovia City Cemetery in plot #125.  
