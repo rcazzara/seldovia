@@ -16,6 +16,5 @@ Gerald loved the outdoors and especially fishing. His life-long dream was to liv
 ![](../assets/images/GerryHurley1.png)
 ![](../assets/images/GerryHurley2.jpg)
 ![](../assets/images/GerryHurley3.jpg)
-![](../assets/images/JerryHurley4.jpg)
 ![](../assets/images/GerryHurley5.jpg)
 
