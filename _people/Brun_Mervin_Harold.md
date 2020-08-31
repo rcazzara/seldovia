@@ -29,12 +29,16 @@ family and working in the cannery.
 
 In 1941, he left Chignik for
 Anchorage where he worked on the railroad during the World War II era.
+
 He was married to **Florence Nyman**, **Linda Thomason** and **Honeybee Wallin** and
-fathered five children. Throughout his life, he worked in many fishing
+fathered five children. 
+
+Throughout his life, he worked in many fishing
 canneries in Port Lions, Ouzinkie, Old Harbor, Woody Island, Kodiak and
 Seldovia. In several of the canneries, he worked his way up to being
 superintendent. He also worked as a store manager in Seldovia and
 Seward.
 
+He died February 2, 1993 and is buried in the Seldovia City Cemetery, Plo #566.
 
 
