@@ -10,7 +10,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 578
 source_file: Cemetery Directory
 ---
-[**MIKKEL BALASHOFF, JR., "Mike"**](../_families/Balashov_balashof_balishoff_Family.md) was born in Seldovia November 10, 1910 to Mikkel and Anisiia Balashoff. 
+[**MIKKEL BALASHOFF, JR., "Mike"**](../_families/Balashov_balashof_balishoff_Family.md) was born in Seldovia November 10, 1910 to [**Mikkel and Anisiia Balashoff**](./Balashoff_Mikkel_Sr.md). 
 
 He married [**Virginia SOROKOVIKOFF**](./Balashoff_Virginia_Sorokovikoff.md). 
 
