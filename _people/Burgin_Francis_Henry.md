@@ -43,7 +43,7 @@ children. Doctor Burgin and his equipment came in by dogsled from Homer
 in late January."
 
 In 1921, Frank acted as the administrator for the estate of [**Albert
-Filmore**](./Filmore_fillmore_Fulmor_Albert.md).
+Filmore**](./Filmore_fillmore_fulmor_Albert.md).
 
 In 1923, Frank, his brother Isam and Lawrence Dunning shared a salmon
 fishing permit in Kachemak Bay.
