@@ -14,6 +14,12 @@ source_file: Cemetery Directory
 
 Jack married [**Evelyn Wheeler**](./Hopkins_Evelyn_Wheeler.md) and they raised three sons, William, James, and Tom.
 
+Letter from Jim Kincaid: 
+>Captain Jack Hopkins was one heck of a person, built the most beautiful log home in downtown Seldovia. He sailed the world in the Merchant Marine, and from Seldovia was the pilot who meet all oil tankers headed for Nikiski, at Kachemak Bay and then piloted them up Cook Inlet to Nikiski and back. 
+
+>Tragically, back in the mid-70's he was picked up by the helicopter in Homer to head out to meet the tanker, and the helicopter (a Bell-206) went down in the middle of Kachemak Bay in a blinding snowstorm.  Jack made it to a raft that was aboard the chopper, but died of hypothermia before the Seldovia fishing boat fleet was able to locate the raft.  It was a very tragic time for all of Seldovia and the Hopkins family. 
+
+
 JUNEAU (AP)—The Coast Guard suspended searches today for a missing Wrangell trapper and a lost Homer helicopter pilot, A Coast Guard spokesman said the search for pilot Gary Terry was called off after debris from his helicopter was found floating in lower Cook Inlet off Anchor Point near Homer Tuesday. A body found aboard a raft floating amid the debris was identified as that of Jack Hopkins, a freighter pilot Terry was trying to fly to a vessel bound for Anchorage.
 
 **NTSB Report on Flight**
