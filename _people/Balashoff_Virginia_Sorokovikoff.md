@@ -1,7 +1,7 @@
 ---
 last_name: Balashoff
 maiden_name: Sorokovikoff
-first_name: Virginia
+first_name: Virginia SOROKOVIKOFF
 birth_date: 1918
 birth_location: Alaska
 death_date: 1946-07-07
