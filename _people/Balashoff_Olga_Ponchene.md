@@ -1,7 +1,7 @@
 ---
 last_name: Balashoff
 maiden_name: Ponchene
-first_name: Olga
+first_name: Olga PONCHENE
 birth_date: 1883
 birth_location: Alaska
 death_date: 1962-05-04
