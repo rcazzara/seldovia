@@ -1,7 +1,7 @@
 ---
 last_name: Bowden
 maiden_name: Hansen
-first_name: Pattilu
+first_name: Pattilu HANSEN
 birth_date: 1952-09-11
 birth_location: Alaska
 death_date: 2010-03-12
