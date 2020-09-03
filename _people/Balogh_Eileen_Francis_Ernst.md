@@ -1,7 +1,7 @@
 ---
 last_name: Balogh
 maiden_name: Ernst
-first_name: Eileen Francis
+first_name: Eileen Francis ERNST
 birth_date: 1914-02-07
 birth_location: Ohio
 death_date: 1993-04-27
