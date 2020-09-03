@@ -1,6 +1,6 @@
 ---
 last_name: Ballogh
-first_name: Phyllis June
+first_name: Phyllis June TOBEY
 maiden_name: TOBEY
 birth_date: 1941-04-20
 birth_location: Brown City, Michigan
