@@ -1,7 +1,7 @@
 ---
 last_name: Anderson
 maiden_name: Erickson
-first_name: Alyce Laura
+first_name: Alyce Laura ERICKSON
 birth_date: 1868-08
 birth_location: Bishop Hill, Illinois
 death_date: 1940-08-11
