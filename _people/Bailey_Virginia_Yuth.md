@@ -1,7 +1,7 @@
 ---
 last_name: Bailey
 maiden_name: Yuth
-first_name: Virginia
+first_name: Virginia YUTH
 birth_date: 1924-08-16
 birth_location: Seldovia, Alaska
 death_date: 1973-04-04
