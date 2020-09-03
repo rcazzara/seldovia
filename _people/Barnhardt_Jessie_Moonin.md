@@ -1,7 +1,7 @@
 ---
 last_name: Barnhardt
 maiden_name: Moonin
-first_name: Jessie
+first_name: Jessie MOONIN
 birth_date: 1898-11-22
 birth_location: Port Graham, Alaska
 death_date: 1979-06-01
