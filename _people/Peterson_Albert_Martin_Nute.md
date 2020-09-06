@@ -4,9 +4,9 @@ last_name: "Peterson"
 first_name: "Albert Martin \"Nute\""
 aka: Nute
 source_file: "Albert Martin Peterson"
-birth_date: "March 25, 1952 "
+birth_date: 1952-03-25
 birth_location: Seldovia, Alaska
-death_date: " March 18, 2018"
+death_date: 2018-03-18
 death_location: Soldotna, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 
