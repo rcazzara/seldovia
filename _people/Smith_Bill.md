@@ -2,7 +2,7 @@
 last_name: Smith
 first_name: William Howard
 aka: Bill
-birth_date: 1895/07/19
+birth_date: 1895-07-19
 birth_location: Yankton, South Dakota
 death_date: 1963-11-09
 death_location: Seldovia, Alaska
