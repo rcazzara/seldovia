@@ -1,6 +1,7 @@
 ---
 last_name: Dunning
 first_name: Lawrence Albert
+birth_date: 1868-09-18
 birth_location: Fremont, Ohio
 death_date: 1940-03-01
 cemetery: Seldovia City Cemetery
