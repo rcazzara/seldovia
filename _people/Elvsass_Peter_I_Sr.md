@@ -1,12 +1,12 @@
 ---
 last_name: Elvsaas
 first_name: Peter I. Sr
-birth_date: 1930-10-15
+birth_date: 1930-08-15
 death_date: 2003-06-03
 cemetery: Seldovia City Cemetery
 cemetery_plot: 214
 ---
-**PETER IVOR ELVSAAS**, the son of **Herman and Agnes PONCHENE [Elvsaas**](../_families/Elvsaas_Family.md), was born in Sedovia, Alaska October 15, 1930. 
+**PETER IVOR ELVSAAS**, the son of **Herman and Agnes PONCHENE [Elvsaas**](../_families/Elvsaas_Family.md), was born in Sedovia, Alaska on August 15, 1930. 
 
 Peter was a lifelong Alaskan and spent most of that life in Seldovia. He attended high school in Ballard, Wash. He also lived and fished out of Kodiak for 10 years. He worked as a commercial fisherman from the age of 16 and retired due to illness.  He was a lifetime fisherman, which he loved whether commercial or for subsistence. His life was being out at sea, on his boats in rough or calm waters. He also was a very hard worker at whatever was his goal to accomplish. He enjoyed building boats, skiffs and fishing. He was a member of the St. Nicholas Russian Orthodox Church in Seldovia.
 
