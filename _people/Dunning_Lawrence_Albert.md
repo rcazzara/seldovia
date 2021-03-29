@@ -4,6 +4,7 @@ first_name: Lawrence Albert
 birth_date: 1868-09-18
 birth_location: Fremont, Ohio
 death_date: 1940-03-01
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 57
 source_file: Cemetery Directory
