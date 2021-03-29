@@ -2,6 +2,7 @@
 last_name: Graewe
 maiden_name: Nolan
 first_name: Agnes Lillian
+birth_date: 1882-11-13
 birth_location: Chicago, Illinois
 death_date: 1947-09-20
 death_location: Seldovia, Alaska
