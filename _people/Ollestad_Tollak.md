@@ -2,7 +2,9 @@
 last_name: Ollestad
 first_name: Tollak
 birth_date: 1922-12-03
+birth_location: Seldovia, Alaska
 death_date: 1944-11-21
+death_location: Walla Walla, Washington
 cemetery: Seldovia City Cemetery
 cemetery_plot: 193
 source_file: Cemetery Directory
