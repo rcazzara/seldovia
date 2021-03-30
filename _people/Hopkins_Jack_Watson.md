@@ -2,7 +2,7 @@
 last_name: Hopkins
 first_name: Jack Watson
 birth_date: 1929-01-01
-birth_lcation: Sonoma County, California
+birth_location: Sonoma County, California
 death_date: 1977-12-01
 death_location: Kachemak Bay, Alaska
 cemetery: Seldovia City Cemetery
