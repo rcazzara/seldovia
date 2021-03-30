@@ -5,6 +5,7 @@ aka: Freddie
 birth_date: 1907-01-11
 birth_location: Kodiak, Alaska
 death_date: 1943-12-29
+death_location:At sea
 cemetery: Seldovia City Cemetery
 cemetery_plot: 48
 source_file: Cemetery Directory
