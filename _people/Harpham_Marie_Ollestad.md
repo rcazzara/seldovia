@@ -3,7 +3,7 @@ last_name: Harpham
 maiden_name: Ollestad
 first_name: Marie
 birth_date: 1917-04-01
-birth_location:
+birth_location: Seldovia, Alaska
 death_date: 2002-07-14
 death_location: Portland, Oregon
 cemetery: Seldovia City Cemetery
