@@ -4,6 +4,7 @@ first_name: Jerry
 birth_date: 1932
 birth_location: Seldovia, Alaska
 death_date: 1936
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 133
 source_file: Cemetery Directory
