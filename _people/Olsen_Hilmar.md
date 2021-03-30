@@ -1,6 +1,7 @@
 ---
 last_name: Olsen
 first_name: Hilmar
+birth_date: 1879
 birth_location: Norway
 death_date: 1959-08-11
 cemetery: Seldovia City Cemetery
