@@ -1,6 +1,5 @@
 ---
 ---
-{% capture newline %}
-{% endcapture %}
 Cemetery,Plot,LastName,FirstName,BirthDate,BirthLocation,DeathDate,DeathLocation,url
-{% assign cemetery_people = site.people | sort: "cemetery_plot" %}{% for people in cemetery_people %}"{{ people.cemetery }}",{{ people.cemetery_plot }},"{{ people.last_name | escape }}","{{ people.first_name | escape }}","{{ people.birth_date }}","{{ people.birth_location }}","{{ people.death_date }}","{{ people.death_location }}",{{ people.url | prepend: site.baseurl }}{{ newline }}{% endfor %}
+{% assign cemetery_people = site.people | sort: "cemetery_plot" %}{% for people in cemetery_people %}"{{ people.cemetery }}",{{ people.cemetery_plot }},"{{ people.last_name | escape }}","{{ people.first_name | escape }}","{{ people.birth_date }}","{{ people.birth_location }}","{{ people.death_date }}","{{ people.death_location }}",{{ people.url | prepend: site.baseurl }}
+{% endfor %}
