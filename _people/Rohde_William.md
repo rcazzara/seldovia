@@ -3,7 +3,7 @@ last_name: Rohde
 first_name: William
 aka: Bill
 birth_date: 1859
-birh_location: Germany
+birth_location: Germany
 death_date:
 death_location: Seldovia, Alaska
 cemetery: Seldovia Hill Cemetery
