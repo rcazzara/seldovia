@@ -2,6 +2,7 @@
 last_name: Ollestad
 first_name: Wesley
 birth_date: 1926-03-26
+birth_location: Seldovia, Alaska
 death_date: 1965
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
