@@ -3,7 +3,7 @@ last_name: Hendrickson
 first_name: Arthur Emil
 aka: Art
 birth_date: 1896-08-22
-birth_location: Norway
+birth_location: Christiansund, Norway
 death_date: 1937-08-30
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
