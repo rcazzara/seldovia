@@ -2,7 +2,9 @@
 last_name: Elvsass
 first_name: Allen Marius
 birth_date: 1931-10-24
+birth_location: Seldovia, Alaska
 death_date: 1984-02-22
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 213
 source_file: Cemetery Directory
