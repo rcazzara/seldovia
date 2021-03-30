@@ -4,7 +4,7 @@ first_name: Crickett
 birth_date: 1936-03-12
 birth_location: Sand Point, Alaska
 death_date: 1948-07-03
-death_location: Seldovia
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 119
 source_file: Cemetery Directory
