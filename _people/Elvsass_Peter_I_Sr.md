@@ -2,7 +2,9 @@
 last_name: Elvsaas
 first_name: Peter I. Sr
 birth_date: 1930-08-15
+birth_location: Seldovia, Alaska
 death_date: 2003-06-03
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 214
 ---
