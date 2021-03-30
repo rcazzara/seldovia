@@ -5,6 +5,7 @@ first_name: Grace Mary
 birth_date: 1906-08-16
 birth_location: Wyoming
 death_date: 1961-04-17
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 73
 source_file: Cemetery Directory
