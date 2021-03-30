@@ -4,6 +4,7 @@ first_name: Terry
 birth_date: 1924
 birth_location: Seldovia, Alaska
 death_date: 1936-02-24
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 118
 source_file: Cemetery Directory
