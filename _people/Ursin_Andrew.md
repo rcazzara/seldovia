@@ -1,6 +1,7 @@
 ---
 last_name: Ursin
 first_name: Andrew
+birth_date: 1861-06-17
 birth_location: Harstad, Norway
 death_date: 1950-08-15
 death_location: Seldovia, Alaska
