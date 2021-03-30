@@ -4,6 +4,7 @@ first_name: Alfred Henry
 birth_date: 1919-01-13
 birth_location: Kodiak, Alaska
 death_date: 1944-05-23
+death_location: Seldovia, AK
 cemetery: Seldovia City Cemetery
 cemetery_plot: 7
 source_file: Cemetery Directory
