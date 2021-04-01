@@ -3,7 +3,7 @@ last_name: Crawford
 maiden_name: Conrad
 first_name: Hettie M.
 birth_date: 1908
-birth_location: Bether, Alaska
+birth_location: Bethel, Alaska
 death_date: 1981-06-16
 cemetery: Seldovia City Cemetery
 cemetery_plot: 531
