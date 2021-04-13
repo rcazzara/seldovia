@@ -14,7 +14,7 @@ cemetery_plot: 62
 
 **ANDREW MATSON, "Andy",** was born in Kotka, Finland on July 10, 1882. He arrived
 in New York City as a sailor on a ship coming from Buenos Aires,
-Argentina. He declared his US citizenship in Washington State in
+Argentina. He declared his US citizenship in Washington State.
 
 He married [**Demnina "Nina" OSKOLKOFF Edelman,**](./Matson_Demina_Oskolkoff.md) born in Ninilchik March
 27, 1880.
