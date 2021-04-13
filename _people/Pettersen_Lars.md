@@ -2,7 +2,7 @@
 last_name: Pettersen
 first_name: Lars Mandius
 birth_date: 1899-10-19
-birth_location: Vikedal,Norway
+birth_location: Vikedal, Norway
 death_date: 1958-03-23
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
