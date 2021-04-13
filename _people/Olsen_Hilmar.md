@@ -4,6 +4,7 @@ first_name: Hilmar
 birth_date: 1879
 birth_location: Norway
 death_date: 1959-08-11
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 164
 source_file: Cemetery Directory
