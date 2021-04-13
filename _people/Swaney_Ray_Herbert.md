@@ -2,14 +2,14 @@
 last_name: Swaney
 first_name: Ray Herbert
 birth_date: 1903-01-06
-birth_location: Washington
+birth_location: Snohomish, Washington
 death_date: 1957-03-13
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 11
 source_file: Cemetery Directory
 ---
-**RAY HERBERT SWANEY** was born January 6, 1903 in Washington. He first married **May Burnett** in Oregon in 1942. He later married [**Marie Anderson**](./Anderson_Marie.md), the widow of [**Sigurd Halvorsen**](./Halvorsen_Sigurd.md). 
+**RAY HERBERT SWANEY** was born January 6, 1903 in Snohomish, Washington. He first married **May Burnett** in Oregon in 1942. He later married [**Marie Anderson**](./Anderson_Marie.md), the widow of [**Sigurd Halvorsen**](./Halvorsen_Sigurd.md). 
 
 The family says "In the long absences of Sigard leading up to the time of his death it is possible that a secret affair developed between the two. Ray Herbert Sweney appears to be for all intents and purposes, the biological father of Patricia Lee, but because it was not proper to make this known, a possible plot may have developed to invent a story about the nature of her real father.
 
