@@ -9,7 +9,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 27
 source_file: Cemetery Directory
 ---
-**Steve Saracoff** was identified in the Seldovia City records as the son of Nick and Olga Saracoff so perhaps the Jr. attached to his name is because there was an older Steve Saracoff living there at the time. 
+**Steve Saracoff** was identified in the Seldovia City records as the son of [**Nick and Olga Saracoff**](Saracoff_Nicholas_Sr_Nick.md) so perhaps the Jr. attached to his name is because there was an older Steve Saracoff living there at the time. 
 
 Steve was only 14 years old when he died on July 1, 1943 of chronic valvular heart disease and Tuberculosis.
 
