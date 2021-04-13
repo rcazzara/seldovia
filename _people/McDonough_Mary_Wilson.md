@@ -3,7 +3,7 @@ last_name: McDonough
 maiden_name: Hunter
 first_name: Mary
 birth_date: 1903
-birth_location: Alaska
+birth_location: King Cove, Alaska
 death_date: 1947-07-17
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
