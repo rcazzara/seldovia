@@ -5,7 +5,7 @@ first_name: Evelyn
 birth_date: 1928-07-05
 birth_location: Greenville, California
 death_date: 2007-09-29
-death_location: Oregon
+death_location: Bend, Oregon
 cemetery: Seldovia City Cemetery
 cemetery_plot: 172
 source_file: Cemetery Directory
