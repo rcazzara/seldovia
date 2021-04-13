@@ -23,7 +23,7 @@ Alexander Saracoff (1917-1941)
 
 **Irene Saracoff** (1924-2007)
 
-[**Steve Saracoff**](Saracoff_Steve.md) (1929-1943)
+[**Steve Saracoff**](Saracoff_Steve_Jr.md) (1929-1943)
 
 **Frank Saracoff** 
     
