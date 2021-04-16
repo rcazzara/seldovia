@@ -3,7 +3,7 @@ last_name: Saracoff
 first_name: John
 birth_date: 1915-09-06
 birth_location: Seldovia, Alaska
-death_date:1986-12-09
+death_date: 1986-12-09
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 245
