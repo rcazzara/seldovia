@@ -2,7 +2,7 @@
 last_name: Steward
 first_name: Selma
 birth_date: 1938
-birth_location:Seldovia, Alaska
+birth_location: Seldovia, Alaska
 death_date: 1938-11-19
 cemetery: Seldovia City Cemetery
 cemetery_plot: 161
