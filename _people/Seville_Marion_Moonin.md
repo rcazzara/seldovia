@@ -1,7 +1,7 @@
 ---
 last_name: Seville
 maiden_name: Moonin
-first_name: Marion
+first_name: Marian
 birth_date: 1932-10-29
 birth_location: Alaska
 death_date: 1978-12-18
