@@ -9,9 +9,11 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 31
 source_file: Cemetery Directory
 ---
-**Nels Rasmussen Pilskog** was born in Pilskog, Norway on June 17, 1897, and died in Seldovia January 21, 1991. Nels was the 3rd son of Rasmus and Johana Pilskog. 
+**Nels Rasmussen Pilskog** was born in Pilskog, Norway on June 17, 1897, and died in Seldovia January 21, 1991. 
 
-He went to sea at the age of 16, on a sailing ship hunting seal and whales off the coast of Greenland.  He immigrated to the US in 1923, first to Boston, Massachusetts, and then traveled to Washington State to work for his uncle as a logger and fishtrap watchman.  
+Nels was the 3rd son of Rasmus and Johanna Pilskog. He went to sea at the age of 16, on a sailing ship hunting seal and whales off the coast of Greenland.  
+
+He immigrated to the US in 1923, from Southhampton, England, on the vessel Majestic, arriving in Boston, Massachusetts. He then traveled to Washington State to work for his uncle as a logger and fishtrap watchman. While there, in 1926, He applied for US citizenship. 
 
 He lived in Wrangell, Alaska for many years and then moved to Spenard when it was still "out in the woods".   
 
