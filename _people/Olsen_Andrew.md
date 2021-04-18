@@ -4,8 +4,8 @@ first_name: Andrew
 aka: Andy
 birth_date: 1882-07-17
 birth_location: Bergen, Norway
-death_date: 1947-08-13
-death_location: Kodiak, Alaska
+death_date: 1943-7-01
+death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 173
 source_file: Cemetery Directory
