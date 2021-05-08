@@ -9,9 +9,8 @@ cemetery: Seldovia Hillside Cemetery
 source_file: Cemetery Directory
 ---
 
-**ADAM BLOCH, SR.** was born in Bavaria, Germany sometime between 1840 and 1843.
-He came to the USA with his parents and at least one grandmother. He
-claimed that his parents, who died months apart from one another, told
+**ADAM BLOCH, SR.** was born in Virginia sometime between 1840 and 1843.
+He claimed that his parents, who died months apart from one another, told
 him that he was born 2 Jul 1840 in Bavaria, Germany, though he may
 actually have been born as late as 1843, perhaps fudging his birth year
 to appear a few years older in his application for a war pension. After
