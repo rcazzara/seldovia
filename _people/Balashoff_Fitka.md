@@ -26,7 +26,7 @@ the latter born in a village farther up Kachemak Bay and the former at
 Kenai. The only grandparent he could remember was his mother's father
 who came from the country to the south of Tustumena Lake. At the time of
 his childhood there were no Europeans in Seldovia, and one of his
-earliest memories wat that of a ship anchoring outside the harbor. The
+earliest memories was that of a ship anchoring outside the harbor. The
 natives fled to the woods, overlooking Fitka, who being too young to
 run, hid in a corner of the house. When the white men came ashore, they
 found him very frightened and let him sit with them to share their meal.
