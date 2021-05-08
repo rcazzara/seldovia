@@ -12,7 +12,7 @@ source_file: Cemetery Directory
 ---
 
 **NINA EDELMAN** born in Kenai, Alaska on March 10, 1896 to Domnina Oskolkoff Edelman, of Kenaitze (Athabaskan)
-Indian and Russian decent, and Edvin (Edwin) [Edelman](../_families/Edelman_Family.md), a Finn explorer from Porvoo, married [**Carl John Lund**](./Lund_Carl_John.md) who was born October 14, 1874 in Bergen, Norway, and he
+Indian and Russian descent, and Edvin (Edwin) [Edelman](../_families/Edelman_Family.md), a Finn explorer from Porvoo, married [**Carl John Lund**](./Lund_Carl_John.md) who was born October 14, 1874 in Bergen, Norway, and he
 immigrated to the US in 1893.   Carl and Nina had three sons and five daughters. He died on November 11,
 1939, at the age of 65.
 
