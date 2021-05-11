@@ -11,7 +11,7 @@ cemetery_plot: 552
 
 **William J. Hunter** was born in 1853 in Illinois to David and Sarah Hunter. By 1900 he was
 already living at "Ft. Kenai" with his wife "Eve" Odoyiah Backof. At the time he listed his  home address as Baker City, Oregon. He was working as a miner in Alaska but
-was a farmer in Oregon. They were still in Kenai in 1910, with children
+was a farmer in Oregon. In 1905 he was appointed US Postmaster in Kenai. They were still in Kenai in 1910, with children
 William, Mary, Theodore, Alice, and Lizzie. He died in 1917 in Kenai,
 leaving his wife with seven young children. She married Wassilie Bayou
 in 1925.
@@ -22,7 +22,7 @@ buried beside each other in Seldovia City Cemetery, Plots \#90 and \#91.
 
 > Children of Eva and William Hunter include:
 > 
-> [**Mary Hunter McDonough**](../_people/McDonough_Mary_Wilson.md) married [**James (Jimmy) Wilson**](../families/Wilson_family.md), and had two
+> [**Mary Hunter**](../_people/McDonough_Mary_Wilson.md) married [**James (Jimmy) Wilson**](../families/Wilson_family.md), and had two
 > children, Anna and Albert. They divorced and she married Robert
 > Mitchell in 1933. After his death in 1934, she married **Michael
 > George McDonough**. Michael was born in Saganaw, Michigan March 28,
