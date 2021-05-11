@@ -12,7 +12,7 @@ source_file: Cemetery Directory
 ---
 **MARY *HUNTER* McDONOUGH**, daughter of [**William and Eva BACKOFF Hunter**](../_families/Hunter_Family.md), was born December 1903  in King Cove Alaska. 
 
-She married James Wilson, son of Phillip and Sophia Mishacoff Wilson. THey had two children: Anna WILSON Ollestad, wife of [**Gilbert Ollestad**](./Ollestad_Gilbert.md) and Albert Wilson. 
+She married James Wilson, son of Phillip and Sophia Mishacoff Wilson. They had two children: Anna WILSON Ollestad, wife of [**Gilbert Ollestad**](./Ollestad_Gilbert.md) and Albert Wilson. 
 
 They divorced and she married Robert Mitchell on December 23, 1933. After his death in 1934, she married [**Michael George McDonough**](./McDonough_Michael_George.md)
 
