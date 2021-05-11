@@ -22,7 +22,7 @@ buried beside each other in Seldovia City Cemetery, Plots \#90 and \#91.
 
 > Children of Eva and William Hunter include:
 > 
-> [**Mary Hunter**](../_people/McDonough_Mary_Wilson.md) married, first, [**James (Jimmy) Wilson**](../families/Wilson_family.md), and had two
+> [**Mary Hunter**](../_people/McDonough_Mary_Wilson.md) married, first, [**James (Jimmy) Wilson**](./Wilson_family.md), and had two
 > children, Anna and Albert. They divorced and she then married Robert
 > Mitchell in 1933. After his death in 1934, she married [**Michael
 > George McDonough**](../_people/McDonough_Michael_George.md). Michael was born in Saganaw, Michigan March 28,
