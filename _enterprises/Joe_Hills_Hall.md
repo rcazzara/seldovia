@@ -8,7 +8,11 @@ dates: 1927-1947
 
 [**Joe Hill**](../_people/Hill_Joe.md) came to Seldovia in the 1920s and it wasn't long after that that he established **Joe Hill's Hall**. When Prohibition ended he could legally include a bar and eventually even showed movies there.
 
+Here is an ad from Seward newspaper in 1927.
+
 ![Here is an ad from Seward newspaper in 1927.](../assets/images/Joe Hill ad Seward 1927.jpg)
+
+Tokens were common forms of payment in Seldovia. This one for Joe Hill's Hall sells for more than $500 today.
 
 ![Tokens were common forms of payment in Seldovia. This one for Joe Hill's Hall sells for more than $500 today.](../assets/images/Joe Hill tokens.jpg)
 
