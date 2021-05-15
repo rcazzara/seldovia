@@ -9,4 +9,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 65
 source_file: Cemetery Directory
 ---
-**Asiente   Romanoff** is buried in the Seldovia City Cemetery in Plot #65. He was the father of [**Musik_Romanoff**](./Romanoff_Music.md), born about 1882. The Romanoff family originated in Kodiak and expanded to nearby locations, including Port Graham and Seldovia.  It is not known when Arsiente arruved in Seldovia
+**Arsiente   Romanoff** is buried in the Seldovia City Cemetery in Plot #65. The father of Arsiente [**Musik_Romanoff**](./Romanoff_Music.md), and Barbara Romanoff, he was born about 1882. The Romanoff family in Alaska originated in Kodiak and expanded to nearby locations, including Port Graham and Seldovia.  It is not known when Arsiente arruved in Seldovia. 
