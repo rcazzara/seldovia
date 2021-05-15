@@ -1,5 +1,5 @@
 ---
-full_name: "Holstrom Family"
+full_name: "Holmstrom Family"
 ---
 # HOLMSTROM Family
 
@@ -19,7 +19,7 @@ A kindly, jovial man, he was hailed by the good-natured title of "Contrary Gus" 
 Valdez Daily Prospector March 2, 1916
 SEDDOVIA MAN ARESTED
 FOR ASSAULT ON NATIVE
-Gus Holstrom, one of the men who went west with H. H. Waller in his race for the $36,000 cannery site on Bering Sea, was taken into custody by the U. S. Deputy Marshal at Seward when he returned from the trip. The charge against him was disorderly conduct but it is under stood that a more serious charge will be pressed by the authorities. Holstrom is alleged to have shot a native in the head while on a rampage at Seldovia several months ago.
+Gus Holstrom, one of the men who went west with H. H. Waller in his race for the $36,000 cannery site on Bering Sea, was taken into custody by the U. S. Deputy Marshal at Seward when he returned from the trip. The charge against him was disorderly conduct but it is understood that a more serious charge will be pressed by the authorities. Holstrom is alleged to have shot a native in the head while on a rampage at Seldovia several months ago.
 
 Seward Gateway March 3, 1916
 HOLSTROM BOUND OVER TO GRAND JURY
