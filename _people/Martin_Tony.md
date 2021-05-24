@@ -34,7 +34,7 @@ hundreds of cases of dynamite in a shed next to where he was living. My
 father and I went across the bay with his little Diesel Boat. It didn’t
 have a name except Diesel Boat. He let it go dry at half-tide below were
 the dynamite was stored and we proceeded to carry cases of dynamite down
-and load it in the boat.. *
+and load it in the boat..*
 
 *Tony was glad to get some of the dynamite out of his front yard and
 helped us carry the stuff. A week later the authorities burned up all
@@ -49,4 +49,4 @@ on scrap lumber and covered it with the remains of a surplus army tent
 left over from WWII. Those old olive drab canvas tents were
 good camouflage. Over the years we used the dynamite to remove stumps,
 build roads, and blast boulders into pieces so that we could remove them
-off the sand spit. Steve Kroll*
+off the sand spit.* 
