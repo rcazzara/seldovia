@@ -36,12 +36,10 @@ have a name except Diesel Boat. He let it go dry at half-tide below were
 the dynamite was stored and we proceeded to carry cases of dynamite down
 and load it in the boat.. *
 
-*  
-Tony was glad to get some of the dynamite out of his front yard and
+*Tony was glad to get some of the dynamite out of his front yard and
 helped us carry the stuff. A week later the authorities burned up all
 the rest of the rest of the dynamite. It was good that we got our share
-first. As any homesteader can tell you dynamite is a very useful tool.  
-  *
+first. As any homesteader can tell you dynamite is a very useful tool.*
 
 *We had the boat loaded in a couple hours and had to wait for the tide
 to float it. After eleven hours of zigzagging and pounding we entered
