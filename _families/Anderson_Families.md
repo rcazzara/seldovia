@@ -28,4 +28,4 @@ Hannah and Henry divorced in Seattle Washington and she then married [**Peder Pe
 
 
 
-[**Storm William Anderson**](_people/Anderson_Storm_William.md)was born April 7, 1879 in Kristiana, Norway and died in his cabin near Seldovia on April 28, 1941.
+[**Storm William Anderson**](_people/Anderson_Storm_William.md) was born April 7, 1879 in Kristiana, Norway and died in his cabin near Seldovia on April 28, 1941.
