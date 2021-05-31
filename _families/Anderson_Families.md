@@ -20,12 +20,10 @@ When the **Anderson Dock** was built in 1926, it became possible for ocean-going
 
 [**Clement Anderson**](../_people/Anderson_Clement.md) b. 1874, Oslo,Norway, d. 1951, Homer) is buried in the Seldovia Cemetery. 
 
-**Hanna Hansen** married **Henry Anderson** in Norway.  Their children included **John “Jack” Conrad Anderson** who had children: **Jack Conrad Anderson, Jr.** and [**Dorothy Anderson]**(../_people/Warren_Dorothy.md) who married **Jack Warren**. 
+**Hanna Hansen** married **Henry Anderson** in Norway.  Their children included [**John “Jack” Conrad Anderson**](../_people/Anderson_Jack_Conrad_Sr.md) who had children: **Jack Conrad Anderson, Jr.** and [**Dorothy Anderson]**(../_people/Warren_Dorothy.md) who married **Jack Warren**. 
 
 Hannah and Henry divorced in Seattle Washington and she then married [**Peder Pederson**](../_people/Pederson_Peter_Emanuel.md) and after his death, [**Hjlmar Olsen**](../_people/Olsen_Hilmar.md). 
 
-**John Anderson**, born in Wisconsin in 1864 married **Olga Ponchene** and died in Seldovia in 1933. Their daughter **Ann** married **Wendell Sinclair Thurston**.
+**John Anderson**, born in Wisconsin in 1864 married [**Olga Ponchene**](../_people/Balashoff_Olga_Ponchene.md) and died in Seldovia in 1933. Olga then married Mike Balashoff. John and Olga's daughter, **Ann Anderson** married **Wendell Sinclair Thurston**.
 
-
-
-[**Storm William Anderson**](_people/Anderson_Storm_William.md) was born April 7, 1879 in Kristiana, Norway and died in his cabin near Seldovia on April 28, 1941.
+[**Storm William Anderson**](../_people/Anderson_Storm_William.md) was born April 7, 1879 in Kristiana, Norway and died in his cabin near Seldovia on April 28, 1941.
