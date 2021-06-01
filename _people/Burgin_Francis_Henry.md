@@ -24,7 +24,7 @@ WWI he was a private in the Marine Corps, based in Puget Sound
 Washington.
 
 Frank then married **Mary Johanson** in Seldovia in 1917. Mary was born in
-Karluk, Alaska to [**Anton and Alexandria CHICHENOFF Johanson**](../_families/Johansen_Family). Their
+Karluk, Alaska to [**Anton and Alexandria CHICHENOFF Johanson**](../_families/Johansen_Family.md). Their
 daughter **Virginia** was born in Seldovia in 1918. Soon after
 that they moved to Grand Junction, Colorado and their second daughter
 **Leona** was born there in 1920. Sons **Herschel** (1922) and **George** (1925)
