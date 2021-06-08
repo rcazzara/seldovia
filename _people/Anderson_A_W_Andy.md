@@ -9,12 +9,15 @@ cemetery_plot:
 source_file: Cemetery Directory
 ---
 
-A.W. “Andy” Anderson was born on a farm in Southern Illinois, the youngest of six boys.  His father was a building contractor and built many bowling alleys.  In 1960 the family moved to Canton, Missouri and soon thereafter Andy quit school and left home at 16 years of age. He made his way to Alaska and arrived in Seldovia where his brother was already living in May 1964. 
+A.W. “Andy” Anderson, the youngest of six boys was born onSeptember 24, 1946 on a farm in Carrollton, Illinois to Emert and Gladys (Rider Anderson. His father was a building contractor and built many bowling alleys.  In 1960 the family moved to Canton, Missouri and soon thereafter Andy quit school and left home at 16 years of age. He made his way to Alaska and arrived in Seldovia where his brother was already living in May 1964. 
 
 When he flew into Seldovia that day with Bob Gruber, who owned Cook Inlet Aviation, he was offered a job before the plane landed. He worked at John’s Sport Shop and booked flights and drove Jack’s courtesy car, an old Volkswagen van.  At the time, there were only three vehicles in Seldovia and there weren’t really any roads to drive on. Even more exciting for the teenaged boy from Illinois was jumping in the airplane with Bob to spot goats, moose and fish.
+
 He worked in the canneries those first few years, and then as a commercial fisherman, fishing King crab and later tanner (snow)crab. He moved on to bigger fishing boats and started going to the Bering Islands, Kodiak, and Portlock Banks. 
 
-In 1967, Andy married Ann Marie Wilson in Seldovia. and in 1968 their daughter was born there.  They moved to Anchorage in 1974 and Andy worked fishing jobs in Cook Inlet and construction jobs on the North Slope for five years. 
+In 1967, Andy married [**Ann Marie Wilson**](./Wilson_Ann_Marie.md) in Seldovia. They were married neary 47 years when Ann passed from a rare disease. Their daughter Donica Anderson was born in 1968.
+
+They moved to Anchorage in 1974 and Andy worked fishing jobs in Cook Inlet and construction jobs on the North Slope for five years. 
 
 The family returned to Seldovia in 1979 and Andy fished halibut until he was offered the job of Chief of Police in Seldovia.  What started as a six week temporary job ran on for almost 32 years.   
 
@@ -30,7 +33,7 @@ But, so things -- things kind of rolled along and time kind of went, you know, a
 It’s hard, it really is. ‘Cause a lot of things I wouldn’t even tell the wife and -- and, you know, I mean, the mental thing that you go through with all this laying awake at night and thinking about, I certainly couldn’t put her through that, but it took its toll, as well.
 But then my daughter, while she was coming up and living here, she had to stay at home. Either her or her mom had to be at home at night to dispatch, because this was where the police phone was and we had a radio system.  And so she just hated the police effort. But she now has been 11 years with the Tulalip Police Department as a dispatcher and an evidence officer.  So maybe it's all is worth it in the end, but it’s been quite a ride.
 
-Andy retired from his job as Seldovia’s policeman in 2012 and his wife died in 2014.  He spent much of his later life writing about his life’s expriences, and published 4 books that can be purchased from booksellers large and small.
+Andy retired from his job as Seldovia’s policeman in 2012 and his wife died in 2014.  He always wrote songs, poetry and short stories, but he wanted to become a published author.  He followed that dream and ended up publishing 4 books between 2017 and 2020.  **Ramblings of an Alaskan Bush Poet** was his first book because he liked to tell stories in rhyme. Then came a book of short stories and the first two books of **Alaska Bush Cop**, a series about his time wearing "the badge" in Seldovia.  He had completed about 3/4 of the third book in the series before passing and it may be published at a future time. His books are available in bookstores large and small.
 
 **Ramblings of an Alaska Bush Poet – A Common Man’s Stories Through Rhyme**
 
