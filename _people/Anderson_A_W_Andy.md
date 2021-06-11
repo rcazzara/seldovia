@@ -1,6 +1,6 @@
 ---
 last_name: Anderson
-first_name: A. W. Andy
+first_name: Arnold W. Andy
 birth_date: 1946-09-24
 birth_location: Illinois
 death_date: 2020-12-14
@@ -9,9 +9,9 @@ cemetery_plot:
 source_file: Cemetery Directory
 ---
 
-A.W. “Andy” Anderson, the youngest of six boys was born onSeptember 24, 1946 on a farm in Carrollton, Illinois to Emert and Gladys (Rider Anderson. His father was a building contractor and built many bowling alleys.  In 1960 the family moved to Canton, Missouri and soon thereafter Andy quit school and left home at 16 years of age. He made his way to Alaska and arrived in Seldovia where his brother was already living in May 1964. 
+**Arnold W. “Andy” Anderson**, the youngest of six boys was born on September 24, 1946 on a farm in Carrollton, Illinois to Emert and Gladys (Rider Anderson. His father was a building contractor and built many bowling alleys.  In 1960 the family moved to Canton, Missouri and soon thereafter Andy quit school and left home at 16 years of age. He made his way to Alaska and arrived in Seldovia where his brother was already living in May 1964. 
 
-When he flew into Seldovia that day with Bob Gruber, who owned Cook Inlet Aviation, he was offered a job before the plane landed. He worked at John’s Sport Shop and booked flights and drove Jack’s courtesy car, an old Volkswagen van.  At the time, there were only three vehicles in Seldovia and there weren’t really any roads to drive on. Even more exciting for the teenaged boy from Illinois was jumping in the airplane with Bob to spot goats, moose and fish.
+When he flew into Seldovia that day with [**Bob Gruber**](./Gruber_Robert.md), who owned **Cook Inlet Aviation**, he was offered a job before the plane landed. He worked at John’s Sport Shop and booked flights and drove Jack’s courtesy car, an old Volkswagen van.  At the time, there were only three vehicles in Seldovia and there weren’t really any roads to drive on. Even more exciting for the teenaged boy from Illinois was jumping in the airplane with Bob to spot goats, moose and fish.
 
 He worked in the canneries those first few years, and then as a commercial fisherman, fishing King crab and later tanner (snow)crab. He moved on to bigger fishing boats and started going to the Bering Islands, Kodiak, and Portlock Banks. 
 
