@@ -10,4 +10,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 173
 source_file: Cemetery Directory
 ---
-**ANDREW OLSEN, "Andy"** was born in Bergen, Norway on July 17, 1882.  He lived in Bristol Bay in 1920 and in Seldovia in 1940. There is no record of his ever having a wife or children. He died in Kodiak on August 13, 1947.is buried in the Seldovia City Cemetery in plot 173.  
+**ANDREW OLSEN, "Andy"** was born in Bergen, Norway on July 17, 1882.  He seems to have been a fisherman all of his life in Alaska. He lived in Bristol Bay in 1920 and in Seldovia in 1940. There is no record of his ever having a wife or children. He died in Kodiak on August 13, 1947, and is buried in the Seldovia City Cemetery in plot 173.  
