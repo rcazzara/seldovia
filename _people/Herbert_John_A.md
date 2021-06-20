@@ -1,11 +1,10 @@
-
 ---
 last_name: Herbert
 first_name: John A
 birth_date: July 1869
 birth_location: Illinois
 death_date: 1928
-death_location: Seldovia,Alaska 
+death_location: Seldovia, Alaska
 
 ---
 **John A. Herbert** was born in Illinois in July 1869.  His parents were both born in Canada and spoke French.  
