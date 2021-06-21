@@ -31,7 +31,10 @@ Trade tokens continued to be used right up into the 1950s and could be found eve
 There are a number of reference books that are available at the Loussac Library as reference material. 
 
 Among the reference materials are:
-•	“Alaska’s Coinage Through the Years” by Maurice Gold, Kenneth Bressett, Kaye & Nancy Dethridge. C. 1960,1965.
-•	“Rubles to Statehood- A Catalog of Alaskan Numismatics” by Kay Fernald & Kay McDowell c. 1965.
-•	“Alaska and Yukon Tokens- 3rd Edition” by Ronald J. Bernice c. 2010.
+
+•	**Alaska’s Coinage Through the Years** by Maurice Gold, Kenneth Bressett, Kaye & Nancy Dethridge. C. 1960,1965.
+
+•	**Rubles to Statehood- A Catalog of Alaskan Numismatics** by Kay Fernald & Kay McDowell c. 1965.
+
+•	**Alaska and Yukon Tokens- 3rd Edition** by Ronald J. Bernice c. 2010.
 
