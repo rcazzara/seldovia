@@ -8,7 +8,7 @@ dates: 1920-1950
 
 A common practice for early remote merchants in remote areas of Alaska, including Seldovia, was the use of privately minted tokens which they used in place of coins which were hard to keep on hand. These old “coins” are collectors’ items today and may sell for hundreds of dollars each.
 
-Some Seldovia Trade Tokens Available on the Internet
+Some Seldovia Trade Tokens Available on the Internet:
 
 ![Some Seldovia Trade Tokens Available on the Internet](../assets/images/enterprises/Seldovia tokens_NEW (2).jpg)
 
