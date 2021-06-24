@@ -24,7 +24,7 @@ When the **Anderson Dock** was built in 1926, it became possible for ocean-going
 
 Frank Anderson: Unknown; married and divorced [**Margaret Halvorson**](../_people/Halvorson_Margaret.md)
 
-**Henry Anderson** (1866, Norway-1938, Washington): married **Hanna Hansen** in Norway.  Their children included [**John “Jack” Conrad Anderson**](../_people/Anderson_Jack_Conrad_Sr.md) who had children: **Jack Conrad Anderson, Jr.** and [**Dorothy Anderson**](../_people/Warren_Dorothy.md) who married **Jack Warren**.He was the great grandfather of Robert Emanuel Anderson, infant son of Jack Conrad Anderson, Jr. and his wife, Lois. 
+**Henry Anderson** (1866, Norway-1938, Washington): married **Hanna Hansen** in Norway.  Their children included [**John “Jack” Conrad Anderson**](../_people/Anderson_Jack_Conrad_Sr.md) who had children: **Jack Conrad Anderson, Jr.** and [**Dorothy Anderson**](../_people/Warren_Dorothy_Anderson.md) who married **Jack Warren**.He was the great grandfather of Robert Emanuel Anderson, infant son of Jack Conrad Anderson, Jr. and his wife, Lois. 
 
 Hannah and Henry divorced in Seattle Washington and she then married [**Peder Pederson**](../_people/Pederson_Peter_Emanuel.md) and after his death, [**Hjlmar Olsen**](../_people/Olsen_Hilmar.md).
 
