@@ -12,7 +12,9 @@ Their daughter, **Juanita Anderson**, married **Ralph Anderson**, whose parents 
 		THeir daughter [**Marie Anderson**](../_people/Anderson_Marie.md)  married [**Sigurd Halvorsen**](../_people/Halvorsen_Sigurd.md)  and [**Ray Herbert Swaney**](../_people/Swaney_Ray_Herbert.md).  
 		Their son **Andrew Anderson, Jr.**, (1902-1978) was a fisherman and trapper
 
-**Andrew Anderson** b. 1893, Bergen Norway, married **Inga Johansen**, daughter of **Anton and Alexandra CHICHENOFF Johansen**, d. 1964, Port Angeles WA; children: Agnes, Anton
+[**Andrew Anderson**](../_people/Anderson_Andrew.md) b. 1893, Bergen Norway, married **Inga Johansen**, daughter of **Anton and Alexandra CHICHENOFF Johansen**, d. 1964, Port Angeles WA; children: Agnes, Anton.  Andy was a U.S. Marshall in Seldovia in the 1940s.
+
+[**A.W. “Andy” Anderson**](../_people/Anderson_ A_W_Andy.md) (1946, Illinois-2020, Seldovia): Seldovia Police Chief ; wife [**Ann Marie Wilson**](../_people/Anderson_Ann_Marie_Wilson.md); 
 
 [**Carl Eric Anderson**](../_people/Anderson_Carl_Eric_Squeaky.md), **“Squeaky”**, b. October 16, 1887, Jansberg, Sweden, d. February 18, 1960, Seattle, Washinton. Cannery operator. US Navy active duty entire Aleutian campaign, later acted senior beach master in landings on Gilbert Islands. Marshall Islands, Marianas, Carolinas, Iwo Jima, Okinawa; received numerous Navy Dept. decorations; Commodore, U. S. N. R.; Owner Seldovia Packers, Seldovia. 
 
