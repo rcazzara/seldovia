@@ -22,9 +22,11 @@ When the **Anderson Dock** was built in 1926, it became possible for ocean-going
 
 [**Clement Anderson**](../_people/Anderson_Clement.md) b. 1874, Oslo,Norway, d. 1951, Homer) is buried in the Seldovia Cemetery. 
 
-**Hanna Hansen** married **Henry Anderson** in Norway.  Their children included [**John “Jack” Conrad Anderson**](../_people/Anderson_Jack_Conrad_Sr.md) who had children: **Jack Conrad Anderson, Jr.** and [**Dorothy Anderson]**(../_people/Warren_Dorothy.md) who married **Jack Warren**. 
+Frank Anderson: Unknown; married and divorced [**Margaret Halvorson**](../_people/Halvorson_Margaret.md)
 
-Hannah and Henry divorced in Seattle Washington and she then married [**Peder Pederson**](../_people/Pederson_Peter_Emanuel.md) and after his death, [**Hjlmar Olsen**](../_people/Olsen_Hilmar.md). 
+**Henry Anderson** (1866, Norway-1938, Washington): married **Hanna Hansen** in Norway.  Their children included [**John “Jack” Conrad Anderson**](../_people/Anderson_Jack_Conrad_Sr.md) who had children: **Jack Conrad Anderson, Jr.** and [**Dorothy Anderson**](../_people/Warren_Dorothy.md) who married **Jack Warren**.He was the great grandfather of Robert Emanuel Anderson, infant son of Jack Conrad Anderson, Jr. and his wife, Lois. 
+
+Hannah and Henry divorced in Seattle Washington and she then married [**Peder Pederson**](../_people/Pederson_Peter_Emanuel.md) and after his death, [**Hjlmar Olsen**](../_people/Olsen_Hilmar.md).
 
 **John Anderson**, born in Wisconsin in 1864 married [**Olga Ponchene**](../_people/Balashoff_Olga_Ponchene.md) and died in Seldovia in 1933. Olga then married Mike Balashoff. John and Olga's daughter, **Ann Anderson** married **Wendell Sinclair Thurston**.
 
