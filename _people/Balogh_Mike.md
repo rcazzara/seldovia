@@ -1,5 +1,5 @@
 ---
-last_name: Ballogh
+last_name: Balogh
 first_name: Michael John
 aka: Mike
 birth_date: 1936-08-10
