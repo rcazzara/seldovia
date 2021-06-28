@@ -13,9 +13,9 @@ source_file: Cemetery Directory
 23, 1909 to James **Minano** and Susie **SHUKSHALIK (**various
 spellings).
 
-James **Minano**, Sr. was a Japanese trader and whaler who spent 67 of
+James **Minano**, Sr. was a Japanese immigrant who was shipwrecked near Point Barrow and spent 67 of
 his life in Alaska and the United States. He left Japan for the first
-and last time in 1864 at the age of 11 as a mess boy on a ship. When his
+and last time in 1869 at the age of 11 as a mess boy on a ship. When his
 boat was wrecked in Siberia in 1880 he managed to walk the coast to a
 spot where he eventually boarded a ship bound for the United States. He
 first set foot on American soil at Boston. In 1886 he arrived in
