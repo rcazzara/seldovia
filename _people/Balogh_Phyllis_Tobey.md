@@ -1,5 +1,5 @@
 ---
-last_name: Ballogh
+last_name: Balogh
 first_name: Phyllis June TOBEY
 maiden_name: TOBEY
 birth_date: 1941-04-20
