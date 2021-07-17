@@ -12,11 +12,9 @@ source_file: Cemetery Directory
 **FRANK LYN HERN** was born on April 25, 1926 in Santa Cruz, California
 to Royal Franklin and Ruby Alice (Powell) Hern. He attended Mission Hill
 school and later moved with his family to Seattle where he continued his
-schooling. Later his family returned to Santa Cruz where they again made
-their home.
+schooling. Later his family returned to Santa Cruz.
 
-Prior to entering the AAF, Cpl. Hern was a merchant mariner, present
-when Dutch Harbor was bombed, being only 16 at the time. While with the
+In his mid-teens, Frank joined the United States Army Transport Service as a merchant mariner. ATS operated Army transport ships for both troop transport and cargo service between United States ports and overseas posts. He was present when Dutch Harbor was bombed, being only 16 at the time. While with the
 ATS Hern's travels included Kiska, Hawaii and Attu.
 
 He enlisted in the army air corps in December, 1943, before he was 18,
@@ -35,7 +33,7 @@ motorcycles and sports cars and was a certified aviation ground school
 instructor.
 
 His final adventure was to be an attempt at setting a new world record
-in light plane straight line distance flight. He planned to fly at least
+in light plane straight line distance flight. He planned to fly, non-stop, at least
 3,600 miles in his Cessna 150 from Fairbanks Alaska to Tallahassee,
 Florida, to crack the existing 2,647-mile record in the 1,102 to
 2,204-pound weight category set in 1956 by a Czechoslovakian.
