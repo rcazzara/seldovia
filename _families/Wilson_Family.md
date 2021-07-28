@@ -17,10 +17,12 @@ Ekatrina had previously been married to **Paul Panfin** in Kenai and they had tw
 Paul. When Ekatrina married James Wilson the children took the Wilson
 last name. 
 
-**Philip Panshin Wilson** was born 1874 in Kenai and died 1941.  He married Sofia Myshiakov and they had 11 children including 
+**Philip Panfin Wilson** was born 1874 in Kenai and died 1941.  He married **Sofia Myshiakov** and they had 11 children including 
 
-- **Abraham Wilson** (1915-1974). Abe married [**Tania Sorokovikoff**](../_people/Wilson_Tania_Sorokovikoff.md). 
+- **James "Jimmy" Wilson** (1903-1973) married [**Mary Hunter**](../people/McDonough_Mary_Wilson.md) and their children included Anna and Albert Wilson before they separated and Mary moved to Seldovia. She later married Robert Mitchell and Michael McDonough.
 
-- - Their children include [**Kenneth Wilson**](../_people/Wilson_Kenneth.md), [**Anne Marie WILSON Anderson**](../_people/Anderson_Ann_Marie_Wilson.md), Gladys ANDERSON Yuth, and Helen Anderson Quijance. Tania died September 24, 1987 and is buried in the Seldovia City Cemetery in Plot # 561.  
+- **Abraham "Abe" Wilson** (1915-1974) married [**Tania Sorokovikoff**](../_people/Wilson_Tania_Sorokovikoff.md). 
 
-- *James "Jimmy" Wilson (1903-1973).  Jimmy married [**Mary Hunter**](../people/McDonough_Mary_Wilson.md) and their children included Anna and Albert (Sundberg) before they separated and Mary moved to Seldovia. She later married Robert Mitchell and Michael McDonough.
+   - Their children include [**Kenneth Wilson**](../_people/Wilson_Kenneth.md), [**Anne Marie WILSON Anderson**](../_people/Anderson_Ann_Marie_Wilson.md), **Gladys WILSON Yuth**, and **Helen WILSON Quijance**. Tania died September 24, 1987 and is buried in the Seldovia City Cemetery in Plot # 561.  
+
+
