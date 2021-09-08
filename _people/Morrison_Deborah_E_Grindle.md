@@ -10,7 +10,7 @@ cemetery_plot: 276
 source_file: Cemetery Directory
 ---
 **DEBORAH E. *GRINDLE* MORRISON** was born on June 10, 1953 in Maine to Wendell and Marlene
-Grindle. She married Pearly Morrison and had a son Laramie Morrison.
+Grindle. She married Pearly Morrison and had a son [**Laramie Morrison**](./Morrison_Laramie.md.)
 They came to Seldovia in 2007. Debbie died of breast cancer in November 26, 2010. She is buried in the Seldovia City Cemetery in Plot #276.
 
 
