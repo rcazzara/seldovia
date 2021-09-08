@@ -1,4 +1,4 @@
-
+![Diane Kashavarof photo](https://user-images.githubusercontent.com/64621145/132595790-f15441af-2473-4220-a52f-9a985ee6a8f9.jpg)
 ---
 last_name: Kashevarof
 first_name: Diane Helena
@@ -14,4 +14,3 @@ source_file: Cemetery Directory
 
 Her family lived in Unalaska during World War II. On June 3,1942, the Japanese bombed their home there. The family, along with the other villagers, was evacuated to White Salmon, Wash., until 1944.  Diane was born during that time.  When they returned to Unalaska, they found their home in a shambles. Her father died in 1945. From 1948-50, her mother owned and operated Kate's Kozy Kitchen, a restaurant and bakery in Unalaska. The family moved to Seldovia in 1951.  Diane died in Anchorage on October 20, 1959, when she was only 16 years old. She is buried in the Seldovia City Cemetery next to her mother, in Plot #223.
 
-![Diane Kashavarof photo](https://user-images.githubusercontent.com/64621145/132596317-2eebe4fc-87ca-4350-8349-640824395324.jpg)
