@@ -18,7 +18,7 @@ On December 12, 1955, he married Margaret HALVORSEN Anderson.
 
 He married Grace GRIGGS Dunham on September 1, 1970 in Chelan, Washington.
 
-He married, lastly, Helen May Crawford, daughter of John and [**Hetty Crawford**](./Crawford_Helen.md).
+He married, lastly, Helen May Crawford, daughter of John and [**Hetty Crawford**](./Crawford_Hettie_M_Conrad.md).
 
 ![](../assets/images/Hogensons%20rescued%20in%20Kachemak%20Bay%20with%20Simon%20Josefson.jpg)
 
