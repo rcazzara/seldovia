@@ -1,5 +1,5 @@
 ---
-full_name: "M/V Tustamina"
+full_name: "M/V Tustumina"
 owners: Alaska Marine Highway
 date_built: 1964
 
