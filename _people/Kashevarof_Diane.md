@@ -1,4 +1,4 @@
-![Diane Kashavarof photo](https://user-images.githubusercontent.com/64621145/132596978-56eefb1f-370a-417f-aef2-e4f2876be7b8.jpg)
+
 ---
 last_name: Kashevarof
 first_name: Diane Helena
