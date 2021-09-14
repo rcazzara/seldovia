@@ -3,7 +3,7 @@ last_name: Hurley
 first_name: Gerald Phillip
 birth_date: 1937-02-11
 birth_location: Portland, Oregon
-death_date: 2013_04-24
+death_date: 2013-04-24
 death_location: Seldovia, Alaska
 ---
 **GERALD PHILLIP HURLEY** was born on February 11, 1937 to Walter W and Elizabeth McConnell Hurley.   His parents owned the Bungalow on Orcas Island in the 1950's. 
