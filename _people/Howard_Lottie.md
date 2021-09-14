@@ -2,7 +2,7 @@
 last_name: Howard
 first_name: Alexandria
 aka: Lottie
-birth_date: 1992
+birth_date: 1892
 birth_location: Alaska
 death_date: 1968
 death_location: Kodiak, Alaska
