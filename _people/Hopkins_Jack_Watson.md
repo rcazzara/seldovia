@@ -60,8 +60,7 @@ them," adds Nansi (Wattenburg) Bohne (KQNY).
 
 ![L-R: jack on far right sets up the drag saw for the back cut while
 Lloyd and another logger work on the undercut of a Genesee Valley
-Ponderosa pine.
-c. 1949.](../assets/images/Jack%20Hopkins%20story%20by%20his%20son%20Bill/media/image2.jpeg)
+Ponderosa pine. c. 1949.](../assets/images/Jack%20Hopkins%20story%20by%20his%20son%20Bill/media/image2.jpeg)
 
 L-R: jack on far right sets up the drag saw for the back cut while Lloyd
 and another logger work on the undercut of a Genesee Valley Ponderosa

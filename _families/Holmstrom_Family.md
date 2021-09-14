@@ -3,8 +3,7 @@ full_name: "Holmstrom Family"
 ---
 # HOLMSTROM Family
 
-**Gustave Edvard Holmstrom** was born in Finland in 1881.  By 1910 he was living in Kenai, Alaska.  The census record lists his parents as both being born in Sweden. IN 1920 Gus was in Seldovia and married to [**Anna
-Walnusson**](../_people/Holmstrom_Anna_Walmusson.md), daughter of Stephen Walnussen. In 1920 he also received his US Naturalization papers. 
+**Gustave Edvard Holmstrom** was born in Finland in 1881.  By 1910 he was living in Kenai, Alaska.  The census record lists his parents as both being born in Sweden. IN 1920 Gus was in Seldovia and married to [**Anna Walnusson**](../_people/Holmstrom_Anna_Walmusson.md), daughter of Stephen Walnussen. In 1920 he also received his US Naturalization papers. 
 
 When Gus died in Seldovia on November 7, 1934, the Juneau Empire published the news, calling him "Contrary Gus". 
 "Gustav Holstrom for 30 years a resident of Seldovia passed away on the 7th from sudden attack of heart failure.  He was a native of Finland and about 54 years of age.

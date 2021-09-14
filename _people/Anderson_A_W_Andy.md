@@ -15,7 +15,7 @@ When he flew into Seldovia that day with [**Bob Gruber**](./Gruber_Cecilia_Major
 
 He worked in the canneries those first few years, and then as a commercial fisherman, fishing King crab and later tanner (snow)crab. He moved on to bigger fishing boats and started going to the Bering Islands, Kodiak, and Portlock Banks. 
 
-In 1967, Andy married [**Ann Marie Wilson**](./Wilson_Ann_Marie.md) in Seldovia. They were married neary 47 years when Ann passed from a rare disease. Their daughter Donica Anderson was born in 1968.
+In 1967, Andy married [**Ann Marie Wilson**](./Anderson_Ann_Marie_Wilson.md) in Seldovia. They were married neary 47 years when Ann passed from a rare disease. Their daughter Donica Anderson was born in 1968.
 
 They moved to Anchorage in 1974 and Andy worked fishing jobs in Cook Inlet and construction jobs on the North Slope for five years. 
 

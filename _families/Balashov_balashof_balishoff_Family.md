@@ -20,8 +20,7 @@ Vasilii Ksenofon't'ev Balashev or Balyshev, born about 1778 in the Tobol'sh Prov
 Ivan's son, **Zakharii Balashoff** and his wife **Mariia** lived in Seldovia and the two Balashoff families that are listed in Seldovia in the 1900 census are from their family. Known children were Mikhail/Mikkel, b. 1875, Ioann (1877-1879), Deonisii (b. 1880), Semion (1883-1884), Elisaveta (married Adam Bloch) and Timofei (1889-1925)
 
 There are 8 individuals interred in the Seldovia City Cemetery with the Balashof surname. Three of
-them are infants. Adam Bloch’s 2<sup>nd</sup> wife [Elizabeth Balashoff
-Bloch Markle](../_people/Markle_Elizabeth_Bloch.md) is buried in the Seldovia
+them are infants. Adam Bloch’s 2<sup>nd</sup> wife [Elizabeth Balashoff Bloch Markle](../_people/Markle_Elizabeth_Bloch.md) is buried in the Seldovia
 Hill Cemetery in the town. See more information about her in the Bloch
 Family section.
 

@@ -31,12 +31,10 @@ the church arranged the marriage between Rufus and Alexandra. The
 Grenieff’s had two children, [**Nicholas**](./Elxnit_Nick_Grenieff.md) born November 3, 1903 in Kodiak,
 and Dora, born on the Steamship DORA on November 2, 1905, while the ship
 traveled between Seldovia and Kodiak. Rufus died in Kodiak from
-pneumonia at an early age and Alexandra later married [**Aleksander
-Elxnit**](../_families/Elxnit_Family.md) who was born in 1867.
+pneumonia at an early age and Alexandra later married [**Aleksander Elxnit**](../_families/Elxnit_Family.md) who was born in 1867.
 
 Her daughter Dora lived in Kodiak until 1913 when she moved to Seldovia
-and attended the Seldovia Territorial School. She married [**Axel
-Ursin**](./Ursin_Axel.md) of Seldovia and the couple had four children: Rayder, Laura,
-Norman and Eleanor.
+and attended the Seldovia Territorial School. She married [**Axel Ursin**](./Ursin_Axel.md) 
+of Seldovia and the couple had four children: Rayder, Laura, Norman and Eleanor.
 
 

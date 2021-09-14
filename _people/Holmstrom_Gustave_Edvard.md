@@ -13,8 +13,8 @@ cemetery_plot:
 ---
 
 **GUSTAVE EDVARD HOLMSTROM** was born in Finland about 1881. Gus was known
-as "Contrary Gus". In 1930 he was married to a 2<sup>nd</sup> wife [**Anna
-Walnusson**](./Holmstrom_Anna_Walmusson.md). Her five children from her previous marriage to a Slater,
+as "Contrary Gus". In 1930 he was married to a 2<sup>nd</sup> wife [**Anna Walnusson**](./Holmstrom_Anna_Walmusson.md). 
+Her five children from her previous marriage to a Slater,
 [**Paul**](Holmstrom_Paul.md)**, Peter, [**Sergei**](./Holmstrom_Sergei.md), Fina and Fevronia. Anna, took the Holmstrom last name. Gus was included in the 1934 Seldovia B.I.A. census and the Juneau Empire lists his death in November 1934, calling him "Contrary Gus".
 
 When Gus died in Seldovia in 1934, the Juneau Empire published the news, calling him "Contrary Gus". The story of "Contrary Gus" comes from the shipwreck of the Alaska codfish schooner "John F. Miller" in 1908. The story of the rescue was printed in the San Francisco Call on May 16, 1908.

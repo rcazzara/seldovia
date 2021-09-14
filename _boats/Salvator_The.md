@@ -128,6 +128,5 @@ Salvator then raced the clock, shattering the old record and setting a world rec
 
 The **Salvator Mile Stakes** (formerly the Salvator Mile Handicap) is an American Thoroughbred horse race held annually in June or July at Monmouth Park Racetrack in Oceanport, New Jersey. Open to horses age three and older, it is contested on dirt at a distance of one mile (8 furlongs). A Grade III event, it currently offers a purse of $100,000. 
 
-Following the creation of the [\[National Museum of Racing and Hall of
-Fame\]](https://en.wikipedia.org/wiki/National_Museum_of_Racing_and_Hall_of_Fame)
+Following the creation of the [\[National Museum of Racing and Hall of Fame\]](https://en.wikipedia.org/wiki/National_Museum_of_Racing_and_Hall_of_Fame)
 in 1955, Salvator was one of the horses inducted.

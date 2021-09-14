@@ -19,7 +19,7 @@ last name.
 
 **Philip Panfin Wilson** was born 1874 in Kenai and died 1941.  He married **Sofia Myshiakov** and they had 11 children including 
 
-- **James "Jimmy" Wilson** (1903-1973) married [**Mary Hunter**](../people/McDonough_Mary_Wilson.md) and their children included Anna and Albert Wilson before they separated and Mary moved to Seldovia. She later married Robert Mitchell and Michael McDonough.
+- **James "Jimmy" Wilson** (1903-1973) married [**Mary Hunter**](../_people/McDonough_Mary_Wilson.md) and their children included Anna and Albert Wilson before they separated and Mary moved to Seldovia. She later married Robert Mitchell and Michael McDonough.
 
 - **Abraham "Abe" Wilson** (1915-1974) married [**Tania Sorokovikoff**](../_people/Wilson_Tania_Sorokovikoff.md). 
 

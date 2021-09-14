@@ -11,8 +11,9 @@ cemetery_plot: 233
 source_file: Cemetery Directory
 ---
 **CARL NORDENSON, "Sleep Carl"** was born October 30, 1905 in Mustadfors,
-Sweden. He was a fisherman living in Seldovia when he met [**Grace LLOYD
-Duffy**](./Nordenson_Grace_Mary_Lloyd.md), who had recently lost her first husband. They were married April 16, 1942 in Seldovia. Their children were **Eric
+Sweden. He was a fisherman living in Seldovia when he met 
+[**Grace LLOYD Duffy**](./Nordenson_Grace_Mary_Lloyd.md), who had recently 
+lost her first husband. They were married April 16, 1942 in Seldovia. Their children were **Eric
 Lloyd Nordenson**, born March 23, 1944, died March 30, 2009, **Bruce
 Nordenson**, and **Ingrid Nordenson Bachman**. 
 

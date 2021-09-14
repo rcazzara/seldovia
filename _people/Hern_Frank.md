@@ -120,8 +120,7 @@ can choose either to climb over the peaks or fly through their passes.
 Nourishment during the flight will consist of a high protein chocolate
 drink, water, and malted milk tablets.
 
-**\[Winnipeg Free Press Newspaper Archives, May 2, 1966, p.
-3\]**![](../assets/images/FRANK%20LYN%20HERN/media/image2.jpeg)
+**\[Winnipeg Free Press Newspaper Archives, May 2, 1966, p.3\]**![](../assets/images/FRANK%20LYN%20HERN/media/image2.jpeg)
 
 **Fairbanks News Miner**: Sept. 26, 1966 - Wreckage believed to be that
 of a plane piloted by long-distance flier Frank Hern, of Seldovia,

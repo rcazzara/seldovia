@@ -15,8 +15,8 @@ source_file: Cemetery Directory
 New York to Naismith and Elizabeth Cleghorn. His father was born in
 Scotland and his mother in Ireland.**
 
-Information about James' earliest times in Alaska comes from Alaskan researcher, Colleen Mielke, in an online article [***Harry Mellish and James Cleghorn
-Pre Gold Rush Prospectors in Alaska***](http://freepages.rootsweb.com/~coleen/genealogy/mellish.html). The map below, hand-drawn by O.G. Herning and updated by Colleen, is also part of that article.
+Information about James' earliest times in Alaska comes from Alaskan researcher, Colleen Mielke, in an online article 
+[***Harry Mellish and James Cleghorn Pre Gold Rush Prospectors in Alaska***](http://freepages.rootsweb.com/~coleen/genealogy/mellish.html). The map below, hand-drawn by O.G. Herning and updated by Colleen, is also part of that article.
 
 James came to Alaska in 1886. He and his partner, Harry Mellish
 crossed the Yukon River near the Russian Mission Portae and went up the
@@ -75,8 +75,7 @@ her Social Security papers.
     Seldovia, Alaska. His death certificate says his father's name was
     James Cleghorn and his mother's was Mary Paul (not Shitachka).
 
-7.  **Eliza Cleghorn Colberg** b. February 24, 1904-d. 1980; married [John
-    Colberg](./Colberg_John.md), b. March 28, 1887, died November 15, 1969, Seldovia,
+7.  **Eliza Cleghorn Colberg** b. February 24, 1904-d. 1980; married [John Colberg](./Colberg_John.md), b. March 28, 1887, died November 15, 1969, Seldovia,
     Alaska. See [**COLBERG FAMILY**](../_families/Colberg_Family.md)
 
 8.  **Annie Cleghorn** 1905-?

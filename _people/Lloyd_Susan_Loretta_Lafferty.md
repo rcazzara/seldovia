@@ -44,8 +44,9 @@ Hillside Cemetery.
 
 - [**Grace Mary Lloyd Duffy Nordenson**](./Nordenson_Grace_Mary_Lloyd.md) was born August 16, 1906 in
 Jackson, Wyoming. She married Robert **Leroy** **Duffy** in Aberdeen,
-Washington March 24, 1928, and they lived in Washington until he died in 1940. Later she came to Seldovia to visit her parents and met [**Carl
-Harry Nordenson**](Nordenson_Carl.md). They were married April 16, 1942 in
+Washington March 24, 1928, and they lived in Washington until he died in 1940. Later she came to 
+Seldovia to visit her parents and met [**Carl Harry Nordenson**](Nordenson_Carl.md). 
+They were married April 16, 1942 in
 Seldovia. Grace died April 17, 1961 in Seldovia, and Carl died January
 8, 1968 in Seldovia. They are both buried in the Seldovia City Cemetery,
 Plots \#73 and \#233.
