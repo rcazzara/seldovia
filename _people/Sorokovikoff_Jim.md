@@ -1,7 +1,7 @@
 ---
 last_name: Sorokovikoff
 first_name: Jim
-birth_date: August 14, 1913
+birth_date: 1913-08-14
 birth_location: Kenai, Alaska
 death_date: 1966
 death_location: Seldovia, Alaska
