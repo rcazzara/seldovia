@@ -24,8 +24,7 @@ buried beside each other in Seldovia City Cemetery, Plots \#90 and \#91.
 > 
 > [**Mary Hunter**](../_people/McDonough_Mary_Wilson.md) married, first, [**James (Jimmy) Wilson**](./Wilson_Family.md), and had two
 > children, Anna and Albert. They divorced and she then married Robert
-> Mitchell in 1933. After his death in 1934, she married [**Michael
-> George McDonough**](../_people/McDonough_Michael_George.md). Michael was born in Saganaw, Michigan March 28,
+> Mitchell in 1933. After his death in 1934, she married [**Michael George McDonough**](../_people/McDonough_Michael_George.md). Michael was born in Saganaw, Michigan March 28,
 > 1903. He and Mary were married in Seldovia on October 29, 1939. He was a
 > fisherman and died from a wound from a gunshot "fired with murderous intent".
 > Mary and Michael McDonough are both buried in Seldovia City Cemetery, Plots
