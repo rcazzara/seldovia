@@ -1,7 +1,7 @@
 ---
 last_name: Herbert
 first_name: John A
-birth_date: July 1869
+birth_date: 1869-07
 birth_location: Illinois
 death_date: 1928
 death_location: Seldovia, Alaska
