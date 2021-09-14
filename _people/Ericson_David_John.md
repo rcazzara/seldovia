@@ -5,7 +5,7 @@ first_name: "David John \"Eric\""
 source_file: "David John Ericson"
 birth_date: 1943-08-14
 birth_location: Cheyenne, Wyoming
-death_date: 2015_10-06
+death_date: 2015-10-06
 death_location: Oro Valley, Arizona
 cemetery: not in cemetery
 cemetery_plot: 
