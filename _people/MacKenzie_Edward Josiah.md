@@ -15,7 +15,7 @@ in Leicester, Massachusetts to Gladys MacKenzie and Chauncey Dixon. His
 birth certificate listed him as Chauncey Josiah MacKenzie but he was
 known as Chauncey Dixon after his parents married. He entered the US
 Army during WWII and fought in the Philippines Division. At some point
-he changed his name back to Edward Josiah He met [**Elizabeth May MACKENZIE**](./Mackenzie_Elizabeth_May.md) at some time
+he changed his name back to Edward Josiah He met [**Elizabeth May MACKENZIE**](./MacKenzie_Elizabeth_May.md) at some time
 during his time in Asia and they were married. 
 
 Elizabeth was born in Hong Kong, China on

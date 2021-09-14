@@ -22,7 +22,7 @@ When the **Anderson Dock** was built in 1926, it became possible for ocean-going
 
 [**Clement Anderson**](../_people/Anderson_Clement.md) b. 1874, Oslo,Norway, d. 1951, Homer) is buried in the Seldovia Cemetery. 
 
-Frank Anderson: Unknown; married and divorced [**Margaret Halvorson**](../_people/Halvorson_Margaret.md)
+Frank Anderson: Unknown; married and divorced [**Margaret Halvorson**](../_people/Josefsen_Margaret_Halvorsen.md)
 
 **Henry Anderson** (1866, Norway-1938, Washington): married **Hanna Hansen** in Norway.  Their children included [**John “Jack” Conrad Anderson**](../_people/Anderson_Jack_Conrad_Sr.md) who had children: **Jack Conrad Anderson, Jr.** and [**Dorothy Anderson**](../_people/Warren_Dorothy_Anderson.md) who married **Jack Warren**. Henry was the great grandfather of **Robert Emanuel Anderson**, infant son of Jack Conrad Anderson, Jr. and his wife, Lois. 
 
