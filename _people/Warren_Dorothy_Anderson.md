@@ -2,9 +2,9 @@
 last_name: Warren
 maiden_name: Anderson
 first_name: Dorothy
-birth_date: July 7, 1927
+birth_date: 1927-07-07
 birth_location: Seattle, Washington
-death_date: November 7, 1945
+death_date: 1945-11-07
 cemetery: Seldovia City Cemetery
 cemetery_plot: 39
 source_file: Cemetery Directory
