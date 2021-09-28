@@ -13,9 +13,9 @@ cemetery_plot:
 
 While born in Lander, WY, Nora spent most of her life in Alaska and Arizona. Nora adored the Alaska life — hunting, fishing, living remotely — and has declared the City of Seldovia, AK her favorite place on earth.
 
-She married, first, Russell Howard Geagel and they lived in Colorado Springs, Colorado for many years. Their children include Russell, Lynn, Pam and Michael.
+She married, first, **Russell Howard Geagel** and they lived in Colorado Springs, Colorado for many years. Their children include Russell, Lynn, Pam and Michael.
 
-In 1991, Nora married Jack Sautter and they moved to Sun City West, Arizona and built a full life together enjoying their families; contributing to their community through dance club, golf leagues, neighborhood parties, church involvement; and loving one another. 
+In 1991, Nora married **Jack Sautter** and they moved to Sun City West, Arizona and built a full life together enjoying their families; contributing to their community through dance club, golf leagues, neighborhood parties, church involvement; and loving one another. 
 
 Nora went to heaven on February 28, 2020. She was 82 years old. Nora is survived by a large motley crew of a family who adored her. 
 
