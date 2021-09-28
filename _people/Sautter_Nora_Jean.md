@@ -21,4 +21,4 @@ Nora went to heaven on February 28, 2020. She was 82 years old. Nora is survived
 
 Nora shared her love of Jesus Christ, her family, books, and travel with her husband and her children. We know she “woke up with Jesus” that Friday, and we look forward to seeing her again in heaven. 
 
-Nora is buried in the Seldovia City Cemetery next to her grandson, Jordan Geagel. 
+Nora is buried in the Seldovia City Cemetery next to her grandson, [**Jordan Geagel**](/Geagel_Jordan.md). 
