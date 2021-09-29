@@ -3,7 +3,9 @@ full_name: "David Hilts"
 last_name: "Hilts"
 first_name: "David"
 source_file: "Hilts FAMILY"
+birth_date: 
 birth_location:
+death_date: 1987-02-22
 death_location: at sea Cook Inlet, Alaska
 cemetery: "Outside Beach, Seldovia, Alaska"
 ---
