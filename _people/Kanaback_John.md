@@ -10,14 +10,13 @@ cemetery_plot: 52
 source_file: Cemetery Directory
 ---
 **JOHN F. KANABACK** was born Sept. 29, 1923, in Seldovia, to [**Walter and Olympia Kanaback**](./Kanaback_Walter_Sr.md). 
-He attended school in Seldovia until 10th
-grade. 
+He attended school in Seldovia until 10th grade. Later, he and his brother, Walter, Jr., lived with Martin Hogensen and his family near Eldred Passage.
 
-Mr. Kanaback worked in the cannery at Snug Harbor for 25 years.
+By the time he was 18, John was already working for the Snug Harbor Packing Company in Snug Harbor, and he continued to work there for 25 years.
 
-He served in the Territorial Guard. 
+He also served in the Alaska Territorial Guard. 
 
-He died in Palmer, Alaska on May 10, 1999 and is buried in the Seldovia City Cemetery, Plot #52.
+John died in Palmer, Alaska on May 10, 1999 and is buried in the Seldovia City Cemetery, Plot #52.
 
 
 
