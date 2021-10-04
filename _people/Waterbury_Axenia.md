@@ -9,4 +9,4 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 243
 source_file: Cemetery Directory
 ---
-**Axenia Lulu QUIJANCE Waterbury**, born August 3, 1953 in Seattle, Washington, was the daughter of Alfred and Margaret Shugak Quijance and the wife of Raymond Leo Waterbury, daughter-in-law of [**Russell and Anna Waterbury**](Waterbury_Russell_Sr.md). She died in Seldovia on January 1, 1975.
+**Axenia Lulu QUIJANCE Waterbury**, born August 3, 1953 in Seattle, Washington, was the daughter of Alfred and Margaret Shugak Quijance and the wife of Raymond Leo Waterbury, daughter-in-law of [**Russell and Anna Waterbury**](Waterbury_Russell_Sr.md). She had 4 children. She died on January 1, 1975, in Seldovia, Alaska, at the age of 21. 
