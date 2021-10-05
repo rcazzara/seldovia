@@ -14,6 +14,6 @@ source_file: Cemetery Directory
 
 He married 4 times. He and his first wife Eugenia had 3 children before she died in 1900.  Mike then married Annisia and they had Zachar, Mikkel, and Simeon before she died in 1916. His third wife was Mary who had previously been married to Samuel Miacury (sp).  
 
-Mike was married to [**Olga Rysev/Ponchene**](./Ponchene_Olga.md) at the time of his death in Seldovia on April 8 1946. He is buried in the Seldovia City Cemetery in Plot #46. 
+Mike was married to [**Olga Rysev/Ponchene**](./Balashoff_Olga_Ponchene.md) at the time of his death in Seldovia on April 8 1946. He is buried in the Seldovia City Cemetery in Plot #46. 
 
 
