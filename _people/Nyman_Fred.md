@@ -12,6 +12,6 @@ source_file: Cemetery Directory
 ---
 **FRED NYMAN, "Freddie"**, the son of **Alexandria Lottie HOWARD** and Nicholai Rapin, was born in Kodiak, Alaska on January 11, 1907. His father died and his mother then married **Nicholas Nyman**. Fred became known as Fred Nyman for the rest of his life. 
 
-He died on December 29, 1943 as a result of a boating accident on Cook Inlet. They were hauling fuel to an Army base over there and the boatsank and and Freddy Chimyonoff and Freddy Neiman both swam to shore, but they both froze on the beach. 
+He died on December 29, 1943 as a result of a boating accident on Cook Inlet. Fred Elvsaas explained that "they were hauling fuel to an Army base over there and the boatsank and and Freddy Chimyonoff and Freddy Neiman both swam to shore, but they both froze on the beach." The death certificate from Seldovia lists the cause as "Drowning".  
 
 Freddy is buried in the Seldovia City Cemetery in Plot #48.  
