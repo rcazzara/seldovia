@@ -11,5 +11,13 @@ death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 41
 ---
-**EMMA *EDELMAN* HOGENSON JOSEFSEN** was born June 23, 1902, in Kenai, Alaska, to Domnina Oskolkoff Edelman, of Kenaitze (Athabaskan) Indian and Russian decent, and [**Edvin (Edwin) Edelman**](../_families/Edelman_Family.md), a Finn explorer from Porvoo. She attended a school run by the Russian Orthodox Church in Kenai.   She was the wife of [**Martin Hogenson**](./Haakonsen_hogenson_Martin.md) and [**Simon Josefsen**](./Josefsen_Simon_Andreas.md), both of Seldovia. She died May 11, 1993, Seldovia, Alaska and is buried in Plot #41.
+**EMMA *EDELMAN* HOGENSON JOSEFSEN** was born June 23, 1902, in Kenai, Alaska, to **Domnina Oskolkoff Edelman**, of Kenaitze (Athabaskan) Indian and Russian decent, and [**Edvin (Edwin) Edelman**](../_families/Edelman_Family.md), a Finn explorer from Porvoo. She was the sister of [**NINA EDELMAN LUND**](../_people/Lund_Nina_E_Edelman.md) and sister-in-law of [**ARTHUR KVARNESS**](../_people/Kvarness_Arthur.md).  Her brother, Jack's wife, Pauline Juliussen Edelman, died in a plane crash with her daughter [**JACQUELINE EDELMAN**](../_people/Edelman_Jacqueline.md) in 1951.
+
+Emma grew up in Kenai and attended a school run by the Russian Orthodox Church there, but she lived in Seldovia most of her adult life.   
+
+She married [**Martin Hogenson**](./Haakonsen_hogenson_Martin.md) on August 3, 1919 in Seldovia. They had no children.
+
+About 1921, she married [**Simon Josefsen**](./Josefsen_Simon_Andreas.md), and they were the parents of Gina, Cleopatra, Emma, [**Simon**](./Josefsen_Simon_F.md), and Lillian. 
+
+Emma died May 11, 1993 in Seldovia, and is buried in Plot #41.
 
