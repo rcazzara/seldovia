@@ -1,6 +1,6 @@
 ---
 last_name: Pond
-first_name: Orient Nathan
+first_name: Orient Nathaniel
 aka: Ent
 birth_date: 1862-10-10
 birth_location: Faribault, Minnesota
@@ -10,4 +10,14 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 124
 source_file: Cemetery Directory
 ---
-**Orient Nathan   Pond**  was born October 10, 1862 in Faribault, Minnesota to Orient Nathaniel Pond and Marcia Fowler. He was sometimes known as "Ent". By 1870 the family had moved to Decatur, Iowa and then Kansas in 1880. In 1920 he was a salmon fisherman living in Tyonek. He was in Seldovia by 1930 and listed as a mariner. He was not known to have ever married or had children. He died January 1, 1941 and is buried in the Seldovia City Cemetery in Plot #124.  
+**ORIENT NATHANIEL POND**  was born October 10, 1862 in Faribault, Minnesota to **Orient Nathaniel Pond** and **Marcia Fowler Pond**.  
+
+At an early age, to distinguish him from his father, he became known as **"Ent"**, and he kept that nickname throughout his life. 
+
+By 1870 the family had moved to Decatur, Iowa and then Kansas in 1880. 
+
+In 1920 Ent was living in Tyonek. By 1930 he was in Seldovia, listed as a salmon fisherman and mariner. 
+
+He was not known to have ever married or had children. 
+
+Ent died January 1, 1941 and is buried in the Seldovia City Cemetery in Plot #124.  
