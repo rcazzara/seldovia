@@ -9,7 +9,7 @@ cemetery: Seldovia Hillside Cemetery
 cemetery_plot: 
 source_file: Cemetery Directory
 ---
-**Charles Elias  Charlie Younger** is buried in the Seldovia Hillside Cemetery in Fenced Area 1, Plot #1.  
+**Charles Elias "Charlie" Younger** is buried in the Seldovia Hillside Cemetery in Fenced Area 1, Plot #1.  
 
 
 
