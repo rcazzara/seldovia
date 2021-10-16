@@ -9,7 +9,9 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 102
 source_file: Cemetery Directory
 ---
-**JOHN GUSTAV JOHNSEN ROE**  was born July 11, 1893 in Trondheim, Norway and he immigrated to the US in 1907. At his Naturalization hearing in 1937 his name was changed by order of the court to **John Roe**. 
+**JOHN GUSTAV JOHNSEN ROE**  was born July 11, 1893 in Trondheim, Norway and he immigrated to the US in 1907. He first arrived in Quebec Canada, entered the United States at Valley City, North Dakota and then by train to Detroit, Michigan.
+
+At his Naturalization hearing in 1937 his name was officially changed by order of the court to **John Roe**. 
 
 He enlisted in the US Army in World War I and served for 5 months until November 13, 1918. In 1920 he lived in Kodiak.
 
