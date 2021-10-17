@@ -18,7 +18,7 @@ In 1928, Daisy married **Harry E. Cameron** and their children include **Victor*
 
 In 1941 she married **Benjamin Froeschle** in Washington. 
 
-In 1945 she married **Merril E. Hennington** in Seldovia.  That marriage lasted only a few months, and in 1946 she and [**Carl Lindstedt**](./Lindstedt_Carl_Gosta.md) were married in Seldovia. During the next five years, their sons Carl and John were born in Seldovia.
+In 1945 she married **Merril E. Hennington** in Seldovia.  That marriage lasted only a few months, and in 1946 she and [**Carl Lindstedt**](./Lindstedt_Carl_Gosta_Sr.md) were married in Seldovia. During the next five years, their sons Carl and John were born in Seldovia.
 
 Daisy died in Seldovia on December 14, 1999.
 
