@@ -18,12 +18,18 @@ cemetery_plot:
 **ALTA CRETE *ROSENBUSH* (Peterson) COLBERG** was born on Feb. 24, 1934, in Seattle,
 Wash., to **Alta Crete Phillips** and [**Leslie Grant Rosenbush**](./Rosenbush_Leslie_Grant.md). Her
 family moved to Seldovia, Alaska in 1936, when she was a young girl.
-Seldovia is where she spent the majority of her life. She married,
+Seldovia is where she spent the majority of her life. 
+
+She married,
 first, in 1951, [**Albert Martin Peterson**](./Peterson_Martin.md), and they had three children,
-Albert, Liza and Leslie. Then, in 1955 she married another Seldovian,
+Albert, Liza and Leslie. 
+
+Then, in 1955 she married another Seldovian,
 [**John Colberg**](./Colberg_John.md) and they had three more children, John, Alexis and
 Arlise. They raised these six children in Seldovia, she was busy member
-of the community. As a member of the Seldovia Hospital Guild, working
+of the community. 
+
+As a member of the Seldovia Hospital Guild, working
 and learning from the doctors, she took the x-rays and developed them,
 helped deliver babies and was the night nurse. She was a member of the
 Parent Teacher Association; along with other parents she helped make
