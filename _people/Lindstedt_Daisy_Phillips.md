@@ -10,9 +10,9 @@ cemetery: Not in cemetery
 cemetery_plot: 
 
 ---
-# Daisy Lenita Phillips
+# Daisy Lenita PHILLIPS Cameron/Froeschle/Henington/Lindstedt 
 
-**Daisy Lenita PHILLIPS Cameron, the daughter of **Eugene Burton Phillips and Angie CORBIN Phillips**, was born in Spokane Washington on November 10, 1907. She was the sister of **Alta PHILLIPS Rosenbush**.
+**Daisy Lenita PHILLIPS, the daughter of **Eugene Burton Phillips and Angie CORBIN Phillips**, was born in Spokane Washington on November 10, 1907. She was the sister of **Alta PHILLIPS Rosenbush**.
 
 In 1928, Daisy married **Harry E. Cameron** and their children include **Victor**, **Eugene**, and **Caroline (Parker)**.
 
