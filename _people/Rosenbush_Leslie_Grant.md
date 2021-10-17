@@ -13,6 +13,6 @@ source_file: Cemetery Directory
 
 Leslie and Alta had 4 children, including **Vesta ROSENBUSH Swenson**, wife of [**David Johnson Swenson**](./Swenson_David.md), and [**Alta Rosenbush**](Colberg_Alta_Rosenbush.md) who married [**Albert Martin Peterson**](./Peterson_Albert_Martin_Nute.md) and [**John Colberg**](./Colberg_John_Naismith.md). 
 
-They moved to Seldovia in 1936.
+The Rosenbush family moved to Seldovia in 1936.
 
 Leslie died on June 27, 1964 and is buried in the Seldovia City Cemetery in Plot #204.  
