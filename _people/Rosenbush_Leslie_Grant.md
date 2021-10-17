@@ -9,4 +9,10 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 204
 source_file: Cemetery Directory
 ---
-**LESLIE GRANT ROSENBUSH** was born March 20, 1894 in Tuttle Lake, Wisconsin.  He married Alta Crete Phillips (1910-1992) and they had 4 children, including Vesta Rosenbush Swenson, wife of [**David Johnson Swenson**](./Swenson_David.md), and [**Alta Rosenbush**](Colberg_Alta_Rosenbush.md) who married [**Albert Martin Peterson**](./Peterson_Albert_Martin_Nute.md) and [**John Colberg**]. Leslie died on June 27, 1964 and is buried in the Seldovia City Cemetery in Plot #204.  
+**LESLIE GRANT ROSENBUSH** was born March 20, 1894 in Tuttle Lake, Wisconsin.  He married **Alta Crete Phillips** (1910-1992). Alta was the sister of **Daisy Leneta Phillips** who married Harry Cameron and Carl Lindstedt. 
+
+Leslie and Alta had 4 children, including **Vesta ROSENBUSH Swenson**, wife of [**David Johnson Swenson**](./Swenson_David.md), and [**Alta Rosenbush**](Colberg_Alta_Rosenbush.md) who married [**Albert Martin Peterson**](./Peterson_Albert_Martin_Nute.md) and [**John Colberg**](./Colberg_John_Naismith.md). 
+
+They moved to Seldovia in 1936.
+
+Leslie died on June 27, 1964 and is buried in the Seldovia City Cemetery in Plot #204.  
