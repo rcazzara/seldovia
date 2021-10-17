@@ -9,7 +9,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 536
 source_file: Cemetery Directory
 ---
-**CARL GOSTA LINDSTEDT** was born in Stenby, Sweden on December 24, 1905 to Leander and Christina BACHMAN Lindstedt. He arrived at Ellis Island, NY February 14, 1925 and was listed as a farm laborer on his way to Seattle, Washington. He declared his oath to the US in 1926 in Seattle. 
+**CARL GOSTA LINDSTEDT** was born in Stenby, Sweden on December 24, 1905 to **Leander and Christina BACHMAN Lindstedt**. He arrived at Ellis Island, NY February 14, 1925 and was listed as a farm laborer on his way to Seattle, Washington. He declared his oath to the US in 1926 in Seattle. 
 
 He fished for cod in the Bering Sea before settling in Seldovia in the mid 1920's at the age of 19. He arrived from Seattle on the four-masted schooner, the *Alice Cook*. 
 
