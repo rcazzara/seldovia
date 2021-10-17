@@ -15,9 +15,9 @@ He fished for cod in the Bering Sea before settling in Seldovia.
 
 Carl married Anna Esther PONCHENE on December 2, 1929, in Seldovia. In 1930 he was still living in Seldovia but listed as single and living with fishing partners Carl Nordensen and Edward MacKenzie.  He was living in Seldovia in 1936 when he applied for US citizenship and received it in 1939. 
 
-He served in the Territorial National Guard and at one time was the Seldovia harbormaster. He also served on the Seldovia City Council and as mayor.
+He served in the Territorial National Guard and at one time was the Seldovia harbormaster. He also served on the Seldovia City Council and as Mayor.
 
-He married Daisy Froeschle on March 29, 1946, in Seldovia. Their two children, Carl and John were born and raised in Seldovia. 
+He married Daisy PHILLIPS Cameron Froeshle Henington on March 29, 1946, in Seldovia. Their two children, Carl and John were born and raised in Seldovia. 
 
 He loved to read, play cards and go moose hunting; many children in Seldovia knew him as "Grandpa."
 
