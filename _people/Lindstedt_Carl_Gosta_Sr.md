@@ -17,7 +17,7 @@ Carl married Anna Esther PONCHENE on December 2, 1929, in Seldovia. In 1930 he w
 
 He served in the Territorial National Guard and at one time was the Seldovia harbormaster. He also served on the Seldovia City Council and as Mayor.
 
-He married Daisy PHILLIPS Cameron Froeshle Henington on March 29, 1946, in Seldovia. Their two children, Carl and John were born and raised in Seldovia. 
+He married [**Daisy PHILLIPS Cameron Froeshle Henington**](Lindstedt_Daisy_Phillips.md) on March 29, 1946, in Seldovia. Their two children, Carl and John were born and raised in Seldovia. 
 
 He loved to read, play cards and go moose hunting; many children in Seldovia knew him as "Grandpa."
 
