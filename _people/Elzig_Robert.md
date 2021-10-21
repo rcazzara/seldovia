@@ -9,6 +9,8 @@ death_location: Seldovia, Alaska
 
 ---
 
+![](../assets/images/Bob%20Elzig%20Airforce.jpg)
+
 **Robert Elzig, "Bob"** was born on Februar 6, 1933 in Iowa. He graduated high school and soon after joined the U.S. Air Force in 1951, serving until 1974. He moved to Alaska in 1970, living in Anchorage. After the military, He worked for the FFA until the early 1990’s, when he retired and moved to Seldovia.
 
 The family wrote, “Bob proudly served his country in the Air Force, taking his young family with him when it was safe. Once he saw Alaska, he never wanted to leave. He loved the outdoors and the time spent hunting and fishing with his best friend and cousin, Elmer Elzig. His boat was his pride and joy. After retiring to Seldovia, he used any excuse to go fishing.”
