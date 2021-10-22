@@ -29,4 +29,6 @@ Emmett bought the Hart family farm in Lambert Township, Red Lake County, Minneso
 
 Emmett drowned on December 26, 1965 in Seldovia, AK after falling off an icy boardwalk as he walked home from a bar.  It was not possible to send his body back to Minnesota during the winter. The funeral was in the Catholic Church he helped build in Seldovia and he is buried  in the Seldovia City Cemetery, Plot #197. 
 
+Emmett's family has created an on-line blog of stories of many members of the family.  They have graciously provided us with photos and details of Emmett's life before coming to Seldovia. https://hartconnorsfamily.wordpress.com/
+
 Grave Marker: Minnesota World War II MOMM2 USNR May 12, 1922 - Dec 26, 1965
