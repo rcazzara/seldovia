@@ -17,7 +17,7 @@ He was living in Minnesota in 1930 and 1940 and registered for the draft in WWII
 
 His family says that Emmie was a hard-working, hard-drinking man – probably more intelligent and sensitive than many people knew.  He was kind of accident-prone — his arm was broken when he was thrown off a horse, his head was split open when he fell back onto a disc blade while discing a field with a team of horses that ran away, and he got pinned under a tractor that tipped over on him.  He also once drove a car into a stopped train.
 
-![](../assets/Emmett_Navy_portrait.jpg)  Emmett enlisted in the U.S. Navy on November 10, 1942.  He was a member of the US Navy and trained at Pearl Harbor. and then served on the U.S.S. Snyder, a Cannon-class destroyer escort built for the United States Navy during World War II. She provided escort service against submarine and air attack for Navy vessels and convoys in the Pacific Ocean. Records show that Emmett first boarded the USS Snyder on May 5, 1944. He was an MoMM2, Machine Motorist Second Class.  
+![](../assets/Emmett%20Navy%20portrait.jpg)  Emmett enlisted in the U.S. Navy on November 10, 1942.  He was a member of the US Navy and trained at Pearl Harbor. and then served on the U.S.S. Snyder, a Cannon-class destroyer escort built for the United States Navy during World War II. She provided escort service against submarine and air attack for Navy vessels and convoys in the Pacific Ocean. Records show that Emmett first boarded the USS Snyder on May 5, 1944. He was an MoMM2, Machine Motorist Second Class.  
 
 When Emmett returned to Minnesota in December 1945 he was featured on the front page of the Oklee Herald:
  
