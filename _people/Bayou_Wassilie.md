@@ -19,5 +19,7 @@ Wassilie was a trapper in Seldovia at the time of the 1930 census.
 
 He died May 10, 1937 and is buried in Seldovia City Cemetery, Plot # 91. 
 
+1900 Seldovia - left to right: Wassilie Bayou, Anisim Alexandroff, Rev John Pernosky, Nicholas Fomin 
+
 ![](../assets/images/ANISEM%20ALEXANDROFF/media/image1.jpeg)
-1900 Seldovia left to right: Wassilie Bayou, Anisim Alexandroff, Rev John Pernosky, Fumin, Romanovich, and Yackoloff. 
+
