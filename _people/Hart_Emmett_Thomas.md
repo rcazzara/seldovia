@@ -24,6 +24,7 @@ When Emmett returned to Minnesota in December 1945 he was featured on the front 
 Soon after the war Emmett and his brother Teddy bought or rented some land and a tractor in Red Lake County.  They raised flax.  Around 1955 Lester LaJambe, a neighbor and good friend, encouraged Emmett to move to Alaska where Lester’s two sisters lived.  Lester always went to Alaska in the spring long before Emmie went there.   
 
 Emmett found work there at the Columbia Lumber Company.  He would go back to Minnesota in the winter when there was less work in Alaska.  At the time of the 1964 Earthquake, when Emmett's family didn't hear from him,  his mother, Mary Hart, and sister, Buddy Sabetti, had the Red Cross find him to let them know he was safe.  Some interesting information on the Columbia Lumber Company and results of the earthquake can be found at https://www.alaskarails.org/industries/colombia-lumber.html
+![](../assets/Emmett%20in%20Alaska.jpg)
 
 Emmett bought the Hart family farm in Lambert Township, Red Lake County, Minnesota after his dad, Bill Hart, died in 1962.  He was in Alaska at the time but he didn’t want to see the farm go.  None of the family did.  
 
