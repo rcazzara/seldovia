@@ -12,7 +12,7 @@ source_file: Cemetery Directory
 **EMMETT THOMAS HART**, born on May 5, 1922 in Red Lake, Minnesota, was the middle child of **William and Mary CONNORS Hart's** five children. Both William and Mary were born in Minnesota but they came from Irish families, and Emmett has always been a popular Irish name. 
 
 Emmett's parents owned a farm near Lambert in Red Lake County, and that is where Emmett grew up.  As was common among farm families in much of the country at the time, Emmett attended the local school through the eighth grade, and then worked on the family farm and on neighboring farms.  
-![](../assets/Hart%20Emmett%20Family.jpg) 
+![](../assets/Hart_Emmett_family.jpg) 
 
 He was living in Minnesota in 1930 and 1940 and registered for the draft in WWII while employed by the Soo Line Railroad in Lambert. It is not known exactly when he started working for the railroad as indicated on his military registration card but most likely it was in 1939 or later. 
 
