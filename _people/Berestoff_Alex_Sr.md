@@ -16,6 +16,6 @@ IN 1910 he was single and living alone, next door to his brother Phillip Beresto
 
 At the time of the 1920 US Census, he was a widower, living in Seldovia, working as a laborer in a mill.
 
-He had several children, including **Alex**, **Anna** (who married [**Constantine Sorokovikoff**](./Sorokovikoff_Konstantine.md) and **Evelyn** before marrying  **Matrona Bayou** August 29, 1921 in Seldovia.   
+He had several children, including **Alex** and **Anna** (who married [**Constantine Sorokovikoff**](./Sorokovikoff_Konstantine.md)), before marrying  **Matrona Bayou** August 29, 1921 in Seldovia.   
 
 Alex Sr. died in Seldovia in 1960 and is buried in the Seldovia City Cemetery in Plot #165.  
