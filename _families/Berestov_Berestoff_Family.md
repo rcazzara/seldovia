@@ -9,6 +9,8 @@ cemetery_plot:
 ---
 # Berestoff (Berestov) Family
 
+The Berestoff/Berestov family in Alaska dates back to the earliest Russian-Alaskan settlements. There were Berestovs living on Kodiak and Afognak Islands in the mid-1800s.  
+
 [**Alex Berestoff**](../_people/Berestoff_Alex_Sr.md) d. June 1, 1960.
 
 [**Alex Berestoff, Jr.**](../_people/Berestoff_Alex_Jr.md) d. August 22, 1953
