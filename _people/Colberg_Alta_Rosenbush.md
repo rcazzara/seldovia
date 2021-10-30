@@ -11,11 +11,7 @@ death_location: "Anchorage, Alaska"
 cemetery: Not in cemetery
 cemetery_plot: 
 ---
-# Alta ROSENBUSH Colberg
-
-## February 24, 1934 – January 20, 2020, Anchorage, Alaska
-
-**ALTA CRETE *ROSENBUSH* (Peterson) COLBERG** was born on Feb. 24, 1934, in Seattle,
+**ALTA CRETE *ROSENBUSH* (Peterson) COLBERG** was born on Feb. 24, 1934, in Seattle,
 Wash., to **Alta Crete Phillips** and [**Leslie Grant Rosenbush**](./Rosenbush_Leslie_Grant.md). Her
 family moved to Seldovia, Alaska in 1936, when she was a young girl.
 Seldovia is where she spent the majority of her life. 

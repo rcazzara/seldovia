@@ -10,8 +10,6 @@ death_location:
 
 ---
 
-# JOE HILL
-
 **Joseph Fletcher Hill, “Joe”** was born in Pontiac Michigan on December 17, 1888. His father was from Maryland and his mother from Pennsylvania. By 1927 he was living in Seldovia where he was advertising his enterprise [**Joe Hill's Hall**](../_enterprises/Joe_Hills_Hall.md) as a dance hall, pool room and barbershop.  In 1930 Seldovia census he is listed as a barber. He was one of the few black men to live in Seldovia during his time there. After his first business was destroyed by a fire he rebuilt and over the years his enterprise grew and morphed into a dancehall/pool hall/movie theatre/tavern/barbershop. 
 
 In December 1940, a second fire burned his dance hall/tavern to the ground.  In January 1945 he bought the Polar Bar from John Roe and in 1947 he received from John Roe an additional deed including title to the land.  (Lot 3, Block One of Frank Raby Subdivision of Section Lots 2, 3, and 8 of Section 32, Township 8 South, Range 14, West of the Seward Meridian, within the incorporated Town of Seldovia, Alaska, and being part of the Fulmore Homestead, to which patent was issued November 21, 1930). By this time Frank Raby had bought the Fulmore Homestead and in 1948 he took court action to recover possession of this lot. (Raby v. Hill No. A-4558, June 2, 1948) Joe Hill lost the case but was granted three months from the date of the judge’s decision to remove his property. 
@@ -44,5 +42,4 @@ Joe Hill showed movies twice a week, with photograph or live piano music precedi
 
 On December 3, 1940 Joe Hill faced a second fire and his famous dancehall/pool hall/movie theatre/tavern/barbershop burned to the ground.  Joe later rebuilt and operated the Polar Bar until retiring to Philadelphia.  There he spent the last years of his life involved in the Civil Rights movement.
 Several years ago, a friend of mine was mucking about in the slough below where Joe Hills used to stand.  To his delight he found a china barber pole, about 6’ high and still bearing its red and white striping.  It was hollow, and with a good sized slot in the top.  We realized he had found the receptacle for Joe’s used razor blades!  An insignificant treasure to be sure, but still somehow proof for us 1990s folk that this great man did indeed exist.*
- 
 

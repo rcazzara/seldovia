@@ -9,9 +9,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 118
 source_file: Cemetery Directory
 ---
-# Terry Meehan
-
-**TERRANCE , "terry"** was born 1924 in Seldovia, Alaska to Vernon and Susan
+**TERRANCE , "Terry"** was born 1924 in Seldovia, Alaska to Vernon and Susan
 Oskolkoff Meehan. He died  24, 1936 after "dangerously wounding
 himself with a shotgun while hunting rabbits near Seldovia. He was the
 first person buried in the new Seldovia City Cemetery after land was

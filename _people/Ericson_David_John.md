@@ -11,8 +11,6 @@ cemetery: not in cemetery
 cemetery_plot: 
 ---
 
-**DAVID JOHN ERICKSON, "Eric"**
-
 *Submitted by Frieda Erickson*
 
 ![Eric Erickson](../assets/images/David%20John%20Ericson/media/image1.jpeg)

@@ -11,9 +11,7 @@ death_location: Seldovia, Alaska
 cemetery: not in cemetery
 cemetery_plot: 
 ---
-# Craig "Higgy" Higman
 
-## 1945– June 19, 2016 Seldovia, Alaska
 
 
 ![](../assets/images/Craig%20Higman/media/image1.jpeg)
@@ -27,16 +25,16 @@ philosophy. He lived a life full of fireworks, creative vision,
 misadventures, flagrant disregard of mortal limits, fine wood
 craftsmanship, cheap beer, and love. He is survived by his ex-wife Dede,
 children Valisa and Hig, brothers Jim and Terry, sister Jill, and
-grandchildren Katmai and Lituya, and a community of people that blurred
+grandchildren Katmai and Lituya, and a community of people that blurred
 the line between family and friends.
 
 Higgy is remembered with intemperate love by those who knew him – for
 his stunning craftsmanship, deep humor, genuine and unconventional
 honesty, his explosions, and for the indelible marks of joy, beauty, and
-creativity that he left. Wise from a lifetime of following his heart, he
+creativity that he left. Wise from a lifetime of following his heart, he
 always accepted what life threw at him, embraced changes, and made sure
 his children knew that no matter what, he loved them. His story telling
 knew no equal, his kindness knew no bounds, and his character was,
-without question, in a class of its own. He joins his mother Hona who
+without question, in a class of its own. He joins his mother Hona who
 learned to bungee jump at 80, his father Bopa who built boats and
 planes, and a pack of beloved dogs.

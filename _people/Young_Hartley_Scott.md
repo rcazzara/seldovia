@@ -6,14 +6,10 @@ source_file: "H. S. Young"
 birth_date: 1879- 07-19
 birth_location: Ontario Canada
 death_date: 1945-02-10
-death_location: Seattle, Washington
+death_location: Seldovia, Alaska
 cemetery: not in cemetery
 cemetery_plot: 
 ---
-# Hartley Scott Young
-
-## July 19, 1879, Ontario Canada – February 10, 1945, Seldovia, Alaska
-
 **Hartley Scott YOUNG,** was born in Thornbury, Ontario Canada on July
 19, 1879 to John and Mary SCOTT Young.
 

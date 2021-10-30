@@ -9,10 +9,6 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 164
 source_file: Cemetery Directory
 ---
-# Hilmar Olsen
-
-## 1879, Norway – August 11, 1959, Seldovia, Alaska
-
 **HILMAR OLSEN** was born, Norway in 1879. In 1910 he was on a ship in
 Shelikof Strait. He was living on Kachemak Bay by 1920 and was a fox and
 fur farmer then and in 1930 census as well. He was not married until

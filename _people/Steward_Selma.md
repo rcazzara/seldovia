@@ -8,6 +8,5 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 161
 source_file: Cemetery Directory
 ---
-# Selma Steward
-
 Selma Steward died as an infant in Seldovia on November 19, 1938. She is buried in the Seldovia City Cemetery in Plot #161.
+

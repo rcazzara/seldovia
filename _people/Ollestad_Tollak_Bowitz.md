@@ -18,10 +18,8 @@ Children of Tollak Bowitz Ollestad and Lucille Cleghorn are:
 - [**Alyce OLLESTAD Carlough**](./Carlough_Alice_Ollestadt.md), b: 16 May 1920 in Seldovia, Alaska, d: 21 Oct 2004
     in Tumwater, WA.
 
- 
-
 - [**Gilbert OLLESTAD**](./Ollestad_Gilbert.md), b. December 27, 1923, Yukon Island, Alaska;
-    d. August 10, 2013, Seward, Alaska. H
+    d. August 10, 2013, Seward, Alaska. H
 
 -  [**Wesley OLLESTAD**](./Ollestad_Wesley.md), b: 1927, d: 1965. Memorial in Seldovia City
     Cemetery, Plot \#195

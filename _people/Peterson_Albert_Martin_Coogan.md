@@ -9,10 +9,7 @@ death_date: 1989-12-28
 death_location: Seldovia, Alaska
 ---
 
-**ALBERT MARTIN PETERSON, "COOGAN", was born on January 3, 1933 in Seldovia to [**Martin_Peterson**](./Peterson_Martin.md) and Alexandria Lottie Howard. 
-
-He married Alta Rosenbush on October 25, 1951, and they had 3 children, including [**Albert Martin "Nute" Peterson**](./Peterson_Albert_Martin_Nute.md).
-
-Coogan and Alta divorced and in 1989 he married Lydia Shuravloff (1931, Kodiak - 2004, Anchorage).  
-
+**ALBERT MARTIN PETERSON, "COOGAN"**, was born on January 3, 1933 in Seldovia to [**Martin_Peterson**](./Peterson_Martin.md) and Alexandria Lottie Howard. 
+He married Alta Rosenbush on October 25, 1951, and they had 3 children, including [**Albert Martin "Nute" Peterson**](./Peterson_Albert_Martin_Nute.md). 
+Coogan and Alta divorced and in 1989 he married Lydia Shuravloff (1931, Kodiak - 2004, Anchorage). 
 He died in Seldovia on December 28, 1989.

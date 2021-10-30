@@ -9,9 +9,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 87
 source_file: Cemetery Directory
 ---
-# Sergei Holmstrom
-
-**SERGAI HOLMSTROM** was the son of [**Anna Walnusson**](./Holmstrom_Anna_Walmusson.md) and her first husband whose last name was Slater.  When she married [**Gus Holmstrom**](./Holmstrom_Gustave_Edvard.md), the children took his last name. Sergai was born in Alaska November 29, 1902 and died August 18, 1941
+**SERGEI HOLMSTROM** was the son of [**Anna Walnusson**](./Holmstrom_Anna_Walmusson.md) and her first husband whose last name was Slater.  When she married [**Gus Holmstrom**](./Holmstrom_Gustave_Edvard.md), the children took his last name. Sergai was born in Alaska November 29, 1902 and died August 18, 1941
 in Seldovia. He married Helen Nelson December 26, 1924 in Seldovia. His
 death was as a result of tuberculosis.**
 

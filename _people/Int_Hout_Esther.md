@@ -9,9 +9,7 @@ death_location: Seldovia, Alaska
 cemetery: not in cemetery
 
 ---
-# Esther
-
-In 1952, [**Tuggle Int-Hout](./Int_Hout_Garland_Brooks_Tuggle.md)’s bride-to-be, Esther, followed him to
+In 1952, [**Tuggle Int-Hout**](./Int_Hout_Garland_Brooks_Tuggle.md)’s bride-to-be, Esther, followed him to
 Seldovia. Her plane ride from Anchorage to Homer left a lasting
 impression. "We were flying along and it was snowing and nasty. He (the
 pilot) said, ‘Can you see anything?’ and I said, ‘No,’ and he said,

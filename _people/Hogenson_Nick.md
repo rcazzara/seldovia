@@ -9,10 +9,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 190
 source_file: Cemetery Directory
 ---
-# Nicholai "NICK" Hogenson
-
-
-**NICK HOGENSON**  was born in 1934 in Alaska. His father was [**Martin Hogenson**](./Haakonsen_hogenson_Martin.md),
+**Nicholai "NICK" HOGENSON**  was born in 1934 in Alaska. His father was [**Martin Hogenson**](./Haakonsen_hogenson_Martin.md),
 was 50 and his mother, Katie, was 36. He had one younger brother, Harry
 (195-2013). He died on June 30, 1988, at the age of 54, and was buried
 in Seldovia, Alaska.In August 1966, Nick Hogenson and 2 others were

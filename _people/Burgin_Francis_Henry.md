@@ -10,8 +10,6 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 97
 source_file: Cemetery Directory
 ---
-# James Henry Francis "Frank" Burgin
-
 
 **FRANCIS HENRY BURGIN, "Frank"** was the first of Seldovia’s many
 celebrated dentists\! He was born in Harrison, Missouri on February 7,

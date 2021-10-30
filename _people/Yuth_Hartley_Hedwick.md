@@ -9,12 +9,11 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 268
 source_file: Cemetery Directory
 ---
-# Hartley Hedwick YUTH
-
 [Matt and Eugenia Yuth](../_families/Yuth_Family.md) were the parents of **Hartley Hedwick Yuth** who
 was raised in Seldovia and entered the U.S. Army in 1945. He had previously been
-employed as a commercial fisherman. Mr. Yuth was a member of the
+employed as a commercial fisherman. Mr. Yuth was a member of the
 Veterans of Foreign Wars, the Seldovia Native Corp., and Cook Inlet
-Region Inc. He enjoyed fishing and cooking, and loved children. He died
+Region Inc. He enjoyed fishing and cooking, and loved children. He died
 November 11, 1992 and is buried in the Seldovia City Cemetery Plot
 \#268.
+

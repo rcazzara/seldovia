@@ -16,10 +16,11 @@ In pre-gold rush 1897, increased prospecting activity by cannery personnel from 
 
 Nels married **Irinia Uln**, an Aleut native (buried in row 6 of relocated graves) and they were the parents of at least 4 children including:
 
-[**Mary Jacobsen Borovena**](./Borovena_Mary_Jacobsen.md) (1904-1958) married 
-- 1.	[**John Nels Jensen**](./Jensen_John_Nels.md) in Kenai in 1919. They had at least 3 children, including:
+[**Mary Jacobsen Borovena**](./Borovena_Mary_Jacobsen.md) (1904-1958) married :
+
+1.	[**John Nels Jensen**](./Jensen_John_Nels.md) in Kenai in 1919. They had at least 3 children, including:
             JOHN NELS JENSON son of MARY JACOBSEN AND NELS JOHN JENSEN born March 1, 1924, married Alice Clark in Seldovia in 1947, died June 1953 in Kodiak, buried in Seldovia City Cemetery.
-- 2.	 **Frank Borovino**, born Sept 27, 1891 in Vela Luka, Yugoslaia; died Aug 1965, Washington).
+2.	 **Frank Borovino**, born Sept 27, 1891 in Vela Luka, Yugoslaia; died Aug 1965, Washington).
 
 [**Nellie Jacobsen Pilskog**](./Pilskog_Nellie_Jacobsen.md) (1907-1978) married [**Nels Pilskog**](./Pilskog_Nels_Rasmussen.md).
 

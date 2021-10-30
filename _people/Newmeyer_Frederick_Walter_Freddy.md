@@ -12,10 +12,10 @@ cemetery: not in cemetery
 source_file: "Frederick Walter Newmeyer not in cemetery"
 
 ---
-# Frederick Walter (Freddy) Newmeyer
+
 
 ![](../assets/images/Frederick%20Walter%20Newmeyer%20not%20in%20cemetery/media/image1.jpeg) 
-  
+
 **FREDERICK WALTER NEWMEYER, "FREDDY** was a leap year baby, born February 29, 1928 in San Francisco,
 California, the only child weighing in at 13 pounds in his day. His
 parents were Emma and Fredrick Walter Newmeyer. He graduated from high
@@ -49,7 +49,6 @@ fullest wherever that will take you\! He leaves numerous family member
 and friends. 
 
 Freddy died at home on September 18, 2012, with his wife and sister-in-law by his side. Graveside services with military honors were held at Fort Richardson National Cemetery, Anchorage.
-
 
 
 

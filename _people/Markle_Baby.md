@@ -7,6 +7,3 @@ source_file: Cemetery Directory
 ---
 **Baby Markle** is buried in the Seldovia Hillside Cemetery in plot N.A..  The cause of death is unknown.
 
-
-baby
-

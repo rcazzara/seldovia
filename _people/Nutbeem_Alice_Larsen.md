@@ -10,9 +10,10 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 116
 source_file: Cemetery Directory
 ---
-# Alice LARSEN Nutbeem
+
 
 ![](../assets/images/Ted%20and%20Alice%20Nutbeem/media/image2.jpeg)
+
 **Alice LARSEN** was the daughter of [**Peter and Mary (Hubley) Larsen**](../_families/Larsen_Family.md). She was born on Unga Island on September 15, 1899. Her
 father, from Denmark, was first a gold miner and later a bear hunting guide in Unga.  Her mother, Mary, was a Native Alaskan and a midwife. 
 

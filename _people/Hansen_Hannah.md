@@ -6,9 +6,6 @@ birth_location: Bergen, Norway
 death_date: 1959-09-13
 death_location: Seattle, Washington
 ---
-# Hanna Johanna HANSEN Anderson Pedersen Olsen
-
-
 **Hannah Johanna HANSEN** was born Feb 12, 1877 in Bergen Norway. 
 
 She married to **Henry Anderson** (born on February 5, 1866, in Flore, Norway). In the span of ten years, two sons and two daughters were born while they were living  in Bergen. 
