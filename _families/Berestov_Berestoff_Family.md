@@ -9,30 +9,45 @@ cemetery_plot:
 ---
 # Berestoff (Berestov) Family
 
-The Berestoff/Berestov family in Alaska dates back to the earliest Russian-Alaskan settlements. There were Berestovs living on Kodiak and Afognak Islands in the mid-1800s.  
+The **BERESTOFF/Berestov** family in Alaska dates back to earliest Russian-Alaskan settlements. There were Berestovs living on Kodiak and Afognak Islands at least as early as the mid 1800s. 
 
-[**Alex Berestoff**](../_people/Berestoff_Alex_Sr.md) d. June 1, 1960.
+Many of the ancestors of our Seldovia Berestoffs descend from **Feodor (Theodore) Berestov** who was chief of the Seldovia tribe at the turn of the 20th century.  He was born about 1850 in Kenai, Alaska, and died May 10, 1900 in Kenai. He was the husband of **Fevronia** and
+**Lebanah**; father of **Sicar Berestoff**, **Konstantin Berestoff**; **Alex Nick
+Berestoff**, **Anna Berestoff**, and **Phillip Berestoff**. 
 
-[**Alex Berestoff, Jr.**](../_people/Berestoff_Alex_Jr.md) d. August 22, 1953
+**Konstantin Berestoff** was born about 1880 in Alaska.  He married **Oleyana Dolchuck** and they had at least two daughters, **Marina BERESTOFF Oskolkoff** (1905-1925) and **Olga BERESTOFF Johansen** (1909-1994). He and his wife both died about 1911 and the children were sent to orphanages. Olga went to the Baptist Church Orphanage on Woody Island, Kodiak.
 
-[**Anesiem Berestoff**](../_people/Berestoff_Anesiem_Jr.md) d. February 1, 1951. Anesiem **Berestoff**, son of
-Phillip and grandson of Chief Feodor **Berestoff** was born February 28,
-1910 in Seldovia to Phillip and Liubov Chainyi **Berestoff** .
+[**Alex Nick Berestoff**](../_people/Berestoff_Alex_Sr.md), half-brother of **Konstantin** and **Sicar**, was the father of **Anna Mae Berestoff**, **Fred Berestoff** and perhaps **Alec Berestoff**, died in Seldovia June 1, 1960 and is buried in the Seldovia City Cemetery.
 
-**Feodor** (**Theodore**) **Berestov b. about 1850 in Kenai, Alaska;
-died May 10, 1900 in Kenai, Alaska. He was the husband of Fevronia and
-Lebanah; father of Sicar Berestoff, Konstanin Berestoff; Alex Nick
-Berestoff, Anna Berestoff, and Phillip Berestoff.**
+[**Alex Berestoff, Jr.**](../_people/Berestoff_Alex_Jr.md) d. August 22, 1953 is buried in the Seldovia City Cemetery.
 
-**Alex Nick Berestoff b.** March 03, 1885 in Seldovia, Alaska ;
+[**Anesiem Berestoff**](../_people/Berestoff_Anesiem_Jr.md) d. February 1, 1951. Anesiem **Berestoff**, son of **Phillip Berestoff** and grandson of **Chief Feodor Berestoff** was born February 28, 1910 in Seldovia to Phillip and Liubov Chainyi **Berestoff** .
 
-Son of Chief Feodor Berestov and Lebanah Berestov; husband of Matrona
-Berestoff  
-Father of Anna Mae Berestoff; Fred Berestoff and Alec Berestoff  
-Brother of Anna Berestoff and Phillip Berestoff  
-Half brother of Sicar Berestoff and Konstanin Berestoff
+**NOTABLE BERESTOFF OFFSPRING**
 
-**Alec Berestoff b.** February 13, 1924 Kenai, Alaska
+**ERNEST JAMES BERESTOFF**, the son of **Olga Berestoff**, was born in Seward, Alaska on Dec. 21, 1931, during the Great Depression. He was born hard of hearing. Hardship forced his mother to place him into the Jesse Lee Home, a boarding school and orphanage where he lived until the age of four years old, when a Seattle family with a deaf son took him into their home. He remained with that family and attended regular day school until April 1947, when he enrolled at the Washington School for the Deaf. In 2011, he was inducted into the Washington School for the Deaf Alumni Association Hall of Fame for his athletic accomplishments. 
 
-Son of Alex Nick Berestoff and Matrona Berestoff  
-Brother of Anna Mae Berestoff and Fred Berestoff
+Berestoff fell in love with the school and with a green-eyed classmate, Adele Hurst, who he married on Dec. 20, 1952. At the school, Berestoff became known for his athletic talents in basketball and boxing, and was honored with numerous awards, including All Star and All American Athlete awards.
+
+Berestoff went on to make a career as a linotype operator, and he and his wife Adele had three children together. He helped establish the Hearing Loss Center in Spokane, Wash., where he served on the board of directors. Berestoff enjoys fishing with his sons, grandchildren and friends.
+
+Adele Berestoff passed away Jan. 11, 2010, at the age of 76. The Berestoffs had been married 57 years. Berestoff continues to be involved with his church congregation.
+
+
+**EVELYN MAY BERESTOFF Hart**, the daughter of **Anna Mae Berestoff** who was daughter of **Alex Nick Berestoff**, was born May 4, 1933 in Seldovia but raised in the El Nathan Children's Home in Valdez, AK and attended Mt. Edgecumbe High School near Sitka. She was the first Alaskan woman to join the U.S. Air Force and later worked in the transportation industry as a design engineer for Boeing, ConMet, Freightliner. 
+
+Her family wrote this summary of her remarkable life::
+
+*"Biographies sometimes refer to "humble beginnings," but often there are few details of that early life. Evelyn May Berestoff was born into a family living in the remote small fishing village of Seldovia on the Kenai Peninsula in Alaska that, to this day, is accessible only by boat or air. She spoke little of her early years, and probably for good reason. Her grandfather was the local chief of the native people called Aleuts, and the Berestoff family in 1933 lived in a log house with a tarpaper roof. There was very little cash income for them, and their house was in poor condition and in need of repairs.*
+
+*"For reasons never discovered by us, she was removed from her home in the mid 1930s and placed in the El Nathan Children's Home in Valdez, Alaska - which she always referred to as "The Home". There she was among dozens of children who lived in dorm-like conditions. As our mother, she always spoke of never having a feeling of family and of doing for us what she believed having a family could have been for her. The morsels she shared of her early life, painfully extracted from her over the years, point to a difficult life. She was made to go clean "the white people's houses." When the Japanese invaded the Aleutian Islands during WWII, there were frequent air raids and she recalled being responsible for gathering the children and being transported to the mountains by the local military. Other memories seemed too painful for her to talk about, even 80 years later. But she made lifelong friends at the home - her chosen sisters, the family she never had - who called her daily during the last months and days of her life to get updates on her health. She went to a boarding school - Mt. Edgcumbe high school near Sitka, Alaska, where she graduated. She spoke fondly of that time, especially of her basketball prowess.* 
+
+*Eventually she joined the United States Air Force, the newly established branch of the military in the post WWII era. However, she had difficulty enlisting due to her being a minor ward of the territory with no parents to give her permission to enlist. Newspaper articles describe her as the first woman from the territory of Alaska to enlist in the USAF. She traveled while in the military, first to Texas for basic training, and eventually to Japan. During the Korean War she was a clerk, but in her spare time she took up motorcycles. So this pint-sized pioneer former high school basketball star was now a leather-clad motorcycle racer in her spare time in Japan! During leave in the Air Force, she spent some of her time as a volunteer, leaving her safe assignment in Japan to fly into the Korean war zone to help her nurse friends on C-47 evacuation flights.* 
+
+*She then landed in Washington state, where after her honorable discharge she took college courses in mechanical drafting and design engineering. That road led her to Boeing Aircraft Company, and her eventual husband, Richard Hart ("Dick"), where he, too, was in the engineering department. They married and formed their family of Charlene, Kevin, and Carl. During their years in Mountlake Terrace, she was active in the kids' lives as Cub Scouts Den Mother, youth athletic league volunteer, concessionaire manager, and neighborhood treehouse mother. After her career at Boeing, Richard's work led him to the Portland, Oregon area. The Harts settled in Vancouver in 1972. Not finding a soccer club for their sons in Vancouver, she and Richard were founding members of the Vancouver Youth Soccer Club.* 
+
+*Evelyn continued in her industrial engineering career while working at Consolidated Metal Company ("ConMet") designing radiators and other engine parts. During a labor disruption, as an exempt employee she was ordered to work the assembly line for a few weeks. She came home filthy and greasy and afraid - afraid of being screamed at and her car spit upon by the picketers, but with yet another skill learned.* 
+
+*She landed at her last job, at Freightliner, where she transitioned from an old school, pencil and eraser designer to a CAD qualified computer specialist. Yet the woman who could design microsized screws for an 18-wheeler engine with a 12-button mouse still needed help to get her email at home. She retired in about 2000. Then they called her back. Then she retired again, for good. Then they called her back. And she retired again. Truthfully, we lost track at how many times they called her back after another retirement. Her friends in her neighborhood of 44 years remember her as the quiet friendly lady with a big heart. She got to know them better during Dick's post heart transplant period, when they generously assisted us with fundraisers and emotional support. She always spoke fondly of how they helped. In her life after Dick died (in 1998), she became known as Grandma Sydney (the name of their dog, because the great grandkids had such trouble saying Grandma Evelyn). Then the older grandkids began calling her Gma. The terms of endearment for her are many and widely known outside of the family. In her retirement, Gma continued her Sunday dinners - the time of the week when family and friends knew the invitation was open. Her 6 o'clock dinners were frequently being served until 8 or later, as family and friends drifted in and out. Her independence was notorious among all. Up until last year, she would be seen by family and neighbors on the stepladder cleaning her gutters. We joked, "Maybe we should just buy her an extension ladder so she would be safer." But it just seemed wrong to offer to an 82-year-old. But she would continue to refuse help. She was trying to clean exterior windows just this month. Despite the hospice nurse telling her about the dangers of dust and airborne debris for her condition, we'd frequently catch her cleaning the fireplace or sweeping the floor. Her nurse said that her stubbornness kept her alive as long it could. She was everyone's grandma, a friend to her coworkers, and a trusted and steady neighbor. But she was just mom to us. The family of Evelyn Hart is and will be forever grateful to the kind, compassionate, and dedicated care of Community Home Health & Hospice staff. Paula Dexter provided the care and unyielding advocacy that changed her life from multiple hospitalizations and a crisis-to-crisis existence to an 8-month period of stable, quality care. Peggy Knowles provided the knowledge and force to pry open bureaucrats' doors to see the need - and obligation - to provide the care that mom deserved from the VA and Medicare. As mom said earlier this month, "Those two are just A-1!" In lieu of flowers, the family asks that she be remembered by your gift to her branch of service at the Air Force Aid Society. You may make an Honoree Donation her name at: https://www.afas.org/tribute"*
+
+
