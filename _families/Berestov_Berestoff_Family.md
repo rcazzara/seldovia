@@ -13,7 +13,7 @@ The **BERESTOFF/Berestov** family in Alaska dates back to earliest Russian-Alask
 
 Many of the ancestors of our Seldovia Berestoffs descend from **Feodor (Theodore) Berestov** who was chief of the Seldovia tribe at the turn of the 20th century.  He was born about 1850 in Kenai, Alaska, and died May 10, 1900 in Kenai. He was the husband of **Fevronia** and
 **Lebanah**; father of **Sicar Berestoff**, **Konstantin Berestoff**; **Alex Nick
-Berestoff**, **Anna Berestoff**, and **Phillip Berestoff**. 
+Berestoff**, [**Anna BERESTOFF Sorokovikoff**](../people/Sorokovikoff_Konstantine.md)), and **Phillip Berestoff**. 
 
 **Konstantin Berestoff** was born about 1880 in Alaska.  He married **Oleyana Dolchuck** and they had at least two daughters, **Marina BERESTOFF Oskolkoff** (1905-1925) and **Olga BERESTOFF Johansen** (1909-1994). He and his wife both died about 1911 and the children were sent to orphanages. Olga went to the Baptist Church Orphanage on Woody Island, Kodiak.
 
