@@ -1,9 +1,9 @@
 ---
 full_name: "Bayou Family"
 ---
-There were **Bayou** families living in Seldovia as early as 1900. It is
+There were **Bayou** families living in Seldovia before 1900. It is
 likely that the original Russian Bayou came to Kodiak in the
-19<sup>th</sup> century and married an Alaska Native women, as they
+19<sup>th</sup> century and married an Alaska Native woman, as their
 descendants are sometimes listed as
 [**Creoles**](../_resources/Seldovia_Russian_Creoles_In.md) in census records.
 
