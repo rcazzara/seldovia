@@ -18,11 +18,11 @@ Norwegian emigrants Matthias and Hannah (Olsen) Albrigtson/Albertson. The family
 
 In 1918, at the age of 22, Matt applied for his Seaman's Certificate of American Citizenship, which he received May 16, 1918.
 
-In November 1919, Matt married Mary E. Boyle and they had a son, Arnold Mattias Albertson, who was born in 1921 and died in 1927 when he was hit by a truck.
+In November 1919, Matt married **Mary E. "May" Boyle** and they had a son, **Arnold Mattias Albertson**, who was born in 1921 and died in 1927 when he was hit by a truck.
 
-In 1930 he and Mary were living in Seattle, Washington, with his widowed mother, but they divorced after that and on May 13, 1935 he married Thelma WARRICK Sutherland (1897, Texas – 1973, Washington) in Juneau. 
+In 1930 he and Mary were living in Seattle, Washington, with his widowed mother, but they divorced after that and on May 13, 1935 he married **Thelma WARRICK Sutherland** (1897, Texas – 1973, Washington) in Juneau. Thelma brought to the marriage a son, Gene Allen, who was born in 1931, and took the Albertson name.
 
-In 1940 he and Thelma lived in Sitka, Alaska with a son Gene Allen Albertson, born in 1931. 
+In 1940 Matt, Thelma and Gene lived in Sitka, Alaska, where he was working in a cannery.
 
 In 1942, when he registered for the WWII military draft, Matt was living in Hoonah, Alaska and working for Juneau Packing Company. 
 
