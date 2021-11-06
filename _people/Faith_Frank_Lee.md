@@ -19,7 +19,7 @@ At the time he registered for the draft for WWI, he was 22 years old and still l
 
 On May 6, 1918 Frank was a private in Company A 58th Infantry, embarking to Europe on the USS Moldavia with 250 other soldiers from Brooklyn, NY. The Moldavia had earlier served on the Northern patrol as part of the 10th Cruiser Squadron, intercepting and examining merchant vessels in the North Atlantic.  It later served as a troopship and was carrying U.S. troops when she was sunk on 23 May 1918 off Beachy Head in the English Channel, by a single torpedo from the German Type UB III submarine SM UB-57. Her sinking resulted in the deaths of 55 U.S. soldiers.
 
-
+![](../assets/RMS_Moldavia.jpg)
 
  - The Moldavia was purchased by the British Admiralty in 1915 and converted into an armed merchant cruiser.  She was torpedoed and sunk on 23 May 1918 off Beachy Head in the English Channel, by a single torpedo from U-Boat UB-57.  At the time of her sinking she was being used as a troopship for United States troops from the 58th Infantry Regiment.  The following excerpt from the book **The Fourth Division: It’s Services and Achievements in the World War**
 by Christian Albert Bach and Henry Nobel Hall
