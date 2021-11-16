@@ -1,11 +1,13 @@
 ---
 full_name: "Bayou Family"
 ---
-There were **Bayou** families living in Seldovia before 1900. It is
+There were **Bayou/Baiiu** families living in Seldovia before 1900. It is
 likely that the original Russian Bayou came to Kodiak in the
 19<sup>th</sup> century and married an Alaska Native woman, as their
 descendants are sometimes listed as
 [**Creoles**](../_resources/Seldovia_Russian_Creoles_In.md) in census records.
+
+In 1893 when Russian Orthodox priest Aleksandr Iaroshevich visited Seldovia, **Nikokai Baiu** was the *zakazchik* (second in command), while **Feodor Berestov** was the *toion* (leader) and **Zakhar Balashov** was the church warden.  The village did not have a song leader so the priest advised **Mikhail Balashov** and **Nikolai Baiiu** to come to his place in Kenai for the winter to be instructed, and they agreed.  When the priest returned to Seldovia in 1898 he stayed with Nikolai Baiiu wh served both as a songleader and zakazchik,, and he "put so much effort into teaching people proper singing." Nikolai was also the record-keeper for the Seldovia St. Theodosius Brotherhood, whose duty it was to maintain the church and cemetery, provide a school and provide for the needy.  In 1898 Nikolai provided written consent to turn his personal house into a school. Father Bortnovsky reported that his house was "quite neat and appropriate for the purposes of schooling...the major advantage of this donated house is its location near the chapel, the most convenient place in the whole village." Other villagers offered to help him build a new home.
 
 [**Wassilii Bayou**](../_people/Bayou_Wassilie.md) was born in 1873 in Alaska. Most census records claim
 that both of his parents were born in Alaska. He and his wife, Christina
