@@ -9,11 +9,11 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 168
 source_file: Cemetery Directory
 ---
-**JAMES GRAFTON MINANO, "Jim"**, was born in Beaver, Alaska September
+**JAMES GRAFTON MINANO, "Jimmy"**, was born in Beaver, Alaska September
 23, 1909 to James **Minano** and Susie **SHUKSHALIK (**various
 spellings).
 
-James **Minano**, Sr. was a Japanese immigrant who was shipwrecked near Point Barrow and spent 67 of
+Jimmy's father, James **Minano**, Sr. was a Japanese immigrant who was shipwrecked near Point Barrow and spent 67 of
 his life in Alaska and the United States. He left Japan for the first
 and last time in 1869 at the age of 11 as a mess boy on a ship. When his
 boat was wrecked in Siberia in 1880 he managed to walk the coast to a
@@ -46,7 +46,7 @@ in Coldfoot. By 1984, the building was abandoned and in a state of
 disrepair. It was then one of only two surviving historic buildings in
 Coldfoot. The cabin has since collapsed.
 
-Jim Jr. grew up in Beaver, Coldfoot and Wiseman in a busy era when there
+Jimmy Jr. grew up in Beaver, Coldfoot and Wiseman in a busy era when there
 was a great deal of mining activity along the Koyukuk. At that time the
 Territorial Government was responsible for the education of white
 children: the U.S. Bureau of Education supported schools for Natives.
@@ -62,9 +62,9 @@ Coldfoot and moved to Eklutna.
 
 ![](../assets/images/James%20Grafton%20Minano/media/image1.jpeg)
 
-By the 1930 US Census, Jim and Walter had finished school but they were
+By the 1930 US Census, Jimmy and Walter had finished school but they were
 still living in Eklutna, where their father was a cook for the Alaska
-Railroad. At the same time Jim is listed separately in Anchorage as a
+Railroad. At the same time Jimmy is listed separately in Anchorage as a
 gold miner.
 
 In the spring of 1942, just months after the bombing of Pearl Harbor,
@@ -82,7 +82,7 @@ Tacoma, was shipped to friends in Anchorage, Alaska. (This is from the
 Camp Harmony newsletter.)
 
 At the same time that he was being interred, his sons were conscripted
-into the US Army. James, Jr. who had been an employee at Libby Cannery,
+into the US Army. Jimmy, Jr. who had been an employee at Libby Cannery,
 enlisted in the US Army in April 1942, listing his residence as Kenai,
 Alaska. He was listed as single, Japanese with US citizenship, and
 having a grammar school education. He was enlisted "for the duration of
@@ -90,25 +90,28 @@ the War or other emergency, plus six months, subject to the discretion
 of the President or otherwise according to law".
 
 US General Land Office records list James G. Minano as owner of a tract
-of land in Kenai. He also was the owner of a fishing boat named "Polly"
-that had been built in Seldovia.
+of land in Kenai. There he lived alone in a cabin upriver from the cannery. His homesite was near a tidal estuary, which made it a choice location for wildlife and birds.  He trapped furs in the winter, commercial fished in the summer and grew ample garden fare to garnish the moose meat.  
 
-In January 1948, while living in Kenai, Jim Minano was involved in the
-apprehension of a murder suspect Bill Frank(e) there. Jim alerted the U.
-S. Marshall Alan Peterson that there had been a murder and was deputized
+In January 1948, while living in Kenai, Jimmy was involved in the
+apprehension of a murder suspect Bill Frank(e). Jim alerted the U.
+S. Marshall Alan Peterson that there had been a murder, and he was deputized
 with several others to find the suspect. Despite the possibilities posed
 by the accumulated manpower and firepower, the conclusion was
 anticlimactic: The accused, William "Bill" Frank, surrendered to the
 marshal, was taken into custody, and freely admitted to killing Ethan
 Cunningham after an argument. There is still speculation as to the cause
-of the murder and most agreed that it was a jealous husband. After the
-murder Martha Cunningham moved to Anchorage and became a nurse. She was
+of the murder and most agreed that it was a jealous husband. 
+
+>After the murder, Martha Cunningham moved to Anchorage and became a nurse. She was
 briefly remarried and then divorced, returning to her first married
 name. Before she died, in 1973, Martha Cunningham made a gift to the
 City of Kenai that has kept alive her Alaska family name. In August
 1971, she offered to donate a two-acre tract of her homestead land on
 the Kenai River to be used as a public park and to be named Cunningham
 Memorial Park. Council members unanimously voted to accept the offer.
+
+Jimmy also was the owner of a fishing boat named "Polly"
+that had been built in Seldovia.
 
 James Grafton Minano died April7, 1961 Alaska at the age of 51. He is
 buried in an unmarked grave in the Seldovia City Cemetery, Lot \#168.
