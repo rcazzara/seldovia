@@ -19,7 +19,7 @@ married Eva Odoyiah Hunter on September 22, 1925. Wassilii
 was a trapper in Seldovia at the time of the 1930 census. He died May
 10, 1937 and is buried in Seldovia City Cemetery, Plot \# 91.
 
-[**EVA Backoff**](../_people/Bayou_Eva_Hunter.md) b. 1882, d. 1937, first married 
+[**EVA BACKOFF Bayou**](../_people/Bayou_Eva_Hunter.md) b. 1882, d. 1937, first married 
 [William Hunter](../_families/Hunter_Family.md). After Hunter's death she married Wassilii
 Bayou and they were living in Seldovia with her children in 1930. She is
 buried in Seldovia City Cemetery, next to Wassilii in Plot \#90.
