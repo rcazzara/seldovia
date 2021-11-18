@@ -59,13 +59,12 @@ Coldfoot to Eklutna on the Teddy H. Soon after, James Sr. grew homesick
 for his sons and, taking Buddy with him, left the rest of the family in
 Coldfoot and moved to Eklutna.
 
-
-![](../assets/images/James%20Grafton%20Minano/media/image1.jpeg)
-
 By the 1930 US Census, Jimmy and Walter had finished school but they were
 still living in Eklutna, where their father was a cook for the Alaska
-Railroad. At the same time Jimmy is listed separately in Anchorage as a
+Railroad. At the same time Jimmy is also listed separately in Anchorage, as a
 gold miner.
+
+![](../assets/images/James%20Grafton%20Minano/media/image1.jpeg)
 
 In the spring of 1942, just months after the bombing of Pearl Harbor,
 more than 100,000 residents of Japanese ancestry were forcefully evicted
@@ -89,7 +88,7 @@ having a grammar school education. He was enlisted "for the duration of
 the War or other emergency, plus six months, subject to the discretion
 of the President or otherwise according to law".
 
-US General Land Office records list James G. Minano as owner of a tract
+Sometime after the war, Jimmy was living on the Kenai Peninsula. U.S. General Land Office records list James G. Minano as owner of a tract
 of land in Kenai. There he lived alone in a cabin upriver from the cannery. His homesite was near a tidal estuary, which made it a choice location for wildlife and birds.  He trapped furs in the winter, commercial fished in the summer and grew ample garden fare to garnish the moose meat.  
 
 In January 1948, while living in Kenai, Jimmy was involved in the
