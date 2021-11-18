@@ -113,8 +113,12 @@ Memorial Park. Council members unanimously voted to accept the offer.
 Jimmy also was the owner of a fishing boat named "Polly"
 that had been built in Seldovia.
 
-James Grafton Minano died April7, 1961 Alaska at the age of 51. He is
+**James Grafton Minano** died April 7, 1961 Alaska at the age of 51. He is
 buried in an unmarked grave in the Seldovia City Cemetery, Lot \#168.
+
+********************************************************************************************
+
+More about **James Minano, Sr**
 
 <table style="width:97%;">
 <colgroup>
