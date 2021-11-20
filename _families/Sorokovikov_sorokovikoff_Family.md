@@ -47,7 +47,7 @@ educated in a theological seminary in Eastern Siberia. He worked as a
 song leader in Kenai from
 1875-188730.
 
-**Konstantine (Conste) Sorokovikoff**, b. January 24, 1871 in Kodiak
+[**Konstantine (Conste) Sorokovikoff**](../_people/Sorokovikoff_Konstantine.md), b. January 24, 1871 in Kodiak
 married Sarafina and had children Sarafina (1903), Nick (1905), and
 Andrew (1908). He was a Dena'ina-speaking lay song leader who grew up in
 Kenai and was in charge of a chapel in Seldovia in the 1920s and 1930s.
