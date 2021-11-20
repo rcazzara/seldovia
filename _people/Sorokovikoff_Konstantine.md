@@ -27,14 +27,15 @@ Konste and his wife **Anna BERESTOFF Sorokovikoff** had 8 children:
 
 [**Virginia SOROKOVIKOFF Balashoff**](./Balashoff_Virginia_Sorokovikoff.md): b. 1918, married [**Mikkel Balashoff**](./Balashoff_Mikkel_Jr.md)
 
-[**Steve K. SOROKOVIKOFF**](./Sorokovikoff_Steve_Constantine.md): b. Dec. 12, 1920, died June 30, 1995, buried in Seldovia City Cemetery
+[**Steve K. SOROKOVIKOFF**](./Sorokovikoff_Steve_Constantine.md): b. Dec. 12, 1920, died June 30, 1995
 
 [**TANIA SOROKOVIKOFF WILSON**](./Wilson_Tania_Sorokovikoff.md), married Abraham Wilson, d. September 24, 1987, buried in Seldovia City Cemetery
-     Children: 
-        [**ANN MARIE WILSON ANDERSON**](./Anderson_Ann_Marie_Wilson.md): b. Jan. 9, 1947 in Seldovia, married Andy Anderson Feb. 11, 1967; d. Jan. 19, 2014 in Anchorage; buried in Seldovia City Cemetery
-        Gladys WILSON Yuth, married Harold Yuth
-        Helen WILSON Quijance, married Alfred Quijance
-        [**KENNETH WILSON**](./Wilson_Kenneth.md): buried in Seldovia City Cemetery
+     
+   Children: 
+   [**ANN MARIE WILSON ANDERSON**](./Anderson_Ann_Marie_Wilson.md): b. Jan. 9, 1947 in Seldovia, married Andy Anderson Feb. 11, 1967; d. Jan. 19, 2014 in Anchorage; buried in Seldovia City Cemetery;
+   Gladys WILSON Yuth, married Harold Yuth;
+   Helen WILSON Quijance, married Alfred Quijance;
+   [**KENNETH WILSON**](./Wilson_Kenneth.md): buried in Seldovia City Cemetery
 
-[**Alexander SOROKOVIKOFF**](./Sorokovikoff_Alexander.md)  b. April 4, 1926, died April 24, 1941 in Seldovia; buried in Seldovia City Cemetery
+Alexander SOROKOVIKOFF  b. April 4, 1926, died April 24, 1941 in Seldovia; buried in Seldovia City Cemetery
 
