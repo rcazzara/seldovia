@@ -9,17 +9,17 @@ cemetery_plot: 135
 ---
 # Beach Family
 
-**Zenas Beach** was born January 16, 1890 in Vancouver, Canada. In 1920, he was living in Seldovia, Alaska with his father Wade Hampton Beach and his brother, Jerome. They were all fishermen for a cannery there. In 1921,
+**Zenas Beach** was born January 16, 1890 in Vancouver, Canada. In 1920, he was living in Seldovia, Alaska with his father **Wade Hampton Beach** and his brother, **Jerome**. They were all fishermen for a cannery there. In 1921,
 at age 29, Zenas was inducted from Anchorage, Alaska into the US Army.
-That same year he married Barbara Marka in Seldovia. His occupation was
+That same year he married **Barbara Marka** in Seldovia. His occupation was
 "cannery worker".
 
-In 1930 he and Barbara were still in Seldovia with children William,
-Benjamin, Robert and Alice. By 1934, they had seven children. He was a
+In 1930 he and Barbara were still in Seldovia with children **William**,
+**Benjamin**, **Robert** and **Alice**. By 1934, they had seven children. He was a
 fisherman.
 
-In 1940 the children listed are William, Robert, Alice, Helen, Zenas,
-Wade, David and Markel.
+In 1940 the children listed are **William**, **Robert**, **Alice**, **Helen**, **Zenas**,
+**Wade**, **David** and **Markel**.
 
 In 1942, on his WWII registration form, Zenas, living in Seldovia,
 listed his employer as Washington Fish and Oyster Co. in Port Williams.
