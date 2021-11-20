@@ -27,7 +27,7 @@ Konste and his wife **Anna BERESTOFF Sorokovikoff** had 8 children:
 
 [**Virginia SOROKOVIKOFF Balashoff**](./Balashoff_Virginia_Sorokovikoff.md): b. 1918, married [**Mikkel Balashoff**](./Balashoff_Mikkel_Jr.md)
 
-Steve K. SOROKOVIKOFF: b. Dec. 12, 1920, died June 30, 1995
+[**Steve K. SOROKOVIKOFF**](./Sorokovikoff_Steve.md): b. Dec. 12, 1920, died June 30, 1995, buried in Seldovia City Cemetery
 
 [**TANIA SOROKOVIKOFF WILSON**](./Wilson_Tania_Sorokovikoff.md), married Abraham Wilson, d. September 24, 1987, buried in Seldovia City Cemetery
      Children: 
@@ -36,5 +36,5 @@ Steve K. SOROKOVIKOFF: b. Dec. 12, 1920, died June 30, 1995
         Helen WILSON Quijance, married Alfred Quijance
         [**KENNETH WILSON**](./Wilson_Kenneth.md): buried in Seldovia City Cemetery
 
-Alexander SOROKOVIKOFF  b. April 4, 1926, died April 24, 1941 in Seldovia; buried in Seldovia City Cemetery
+[**Alexander SOROKOVIKOFF**](./Sorokovikoff_Alexander.md)  b. April 4, 1926, died April 24, 1941 in Seldovia; buried in Seldovia City Cemetery
 
