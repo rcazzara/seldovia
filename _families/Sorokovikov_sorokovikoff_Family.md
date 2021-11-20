@@ -66,12 +66,12 @@ Konste and his wife Anna Berestoff Sorokovikoff had 8 children:
 **Nick Sorokovikoff**: Aug.12,1905- Feb.1968, buried in Seldovia City
 Cemetery
 
-**Anna Sorokovikoff Waterberry**: Feb 24, 1910 in Ninilchik, d. Nov. 19,
+[**Anna Sorokovikoff Waterberry**](../_people/Waterbury_Anna_Sorokovikoff.md): Feb 24, 1910 in Ninilchik, d. Nov. 19,
 2004 in Seldovia, buried in Seldovia City Cemetery
 
-**Jim Sorokovikoff**: Aug. 14, 1913 in Kenai, 1966 in Seldovia
+[**Jim Sorokovikoff**](../_people/Sorokovikoff_Jim.md): Aug. 14, 1913 in Kenai, 1966 in Seldovia
 
-**Peter Sorokovikoff**: July 15, 1915 in Kenai, d. 1966 in Seldovia
+[**Peter Sorokovikoff**]((../_people/Sorokovikoff_Peter.md): July 15, 1915 in Kenai, d. 1966 in Seldovia
 
 > Three die in Seldovia home fire SELDOVIA AP) - State Police said today
 > three men died in a fire which destroyed a twa-story house here Monday
@@ -84,14 +84,14 @@ Cemetery
 > which fell on a mattress. The flames apparently spread rapidly
 > throughout the frame building.
 
-**Steve K. Sorokovikoff**: b. Dec. 12, 1920, died June 30, 1995
+[**Steve K. Sorokovikoff**](../_people/Sorokovikoff_Steve_Constantine.md): b. Dec. 12, 1920, died June 30, 1995
 
-**Tania Sorokovikoff Wilson**, married Abraham Wilson, d. September 24,
+[**Tania Sorokovikoff Wilson**](../_people/Wilson_Tania_Sorokovikoff.md), married Abraham Wilson, d. September 24,
 1987, buried in Seldovia City Cemetery
 
 Children:
 
-> **Ann Marie Wilson Anderson**: b. Jan. 9, 1947 in Seldovia, married
+> [**Ann Marie Wilson Anderson**](_people/Anderson_Ann_Marie_Wilson.md): b. Jan. 9, 1947 in Seldovia, married
 > Andy Anderson Feb. 11, 1967; d. Jan. 19, 2014 in Anchorage; buried in
 > Seldovia City Cemetery
 > 
@@ -99,7 +99,7 @@ Children:
 > 
 > Helen **Wilson** Quijance, married Alfred Quijance
 > 
-> **Kenneth Wilson**: buried in Seldovia City Cemetery
+> [**Kenneth Wilson**](_people/Wilson_Kenneth.md): buried in Seldovia City Cemetery
 
-**Alexander Sorokovikoff** b. April 4, 1926, died April 24, 1941 in
+[**Alexander Sorokovikoff**](_people/Sookovikoff_Alexander.md) b. April 4, 1926, died April 24, 1941 in
 Seldovia; buried in Seldovia City Cemetery
