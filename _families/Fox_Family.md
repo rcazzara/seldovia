@@ -12,4 +12,4 @@ Thomas and Emma were the parents of nine children, including:
 
 - [**Katherine Ekatrina Fox**](../_people/Kashevarof_Katherine_F_Fox.md), born May 6, 1906, married Ernest Ferdinand Vinberg and Andrew Kashevarof.
 
-- Thomas Kerry Fox, born August 23, 1907, Unga Island, married Harriet Catherine Johnson, May 10, 1929 in Seldovia.; died May 29, 1943 in Seattle, Washington
+- **Thomas Kerry Fox**, born August 23, 1907, Unga Island, married **Harriet Catherine Johnson**, May 10, 1929 in Seldovia.; died May 29, 1943 in Seattle, Washington.  Harriet was the daughter of [**Andrew**](../_people/Johnson_Andrew.md) and [**Harriet Susanna BOWEN Johnson**](../_people/Johnson_Harriet_Susannah_Bowen.md), both of whom are buried in the Seldovia City Cemetery.
