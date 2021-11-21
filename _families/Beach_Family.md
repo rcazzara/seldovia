@@ -10,9 +10,10 @@ cemetery_plot: 135
 # Beach Family
 
 **Zenas Beach** was born January 16, 1890 in Vancouver, Canada. In 1920, he was living in Seldovia, Alaska with his father **Wade Hampton Beach** and his brother, **Jerome**. They were all fishermen for a cannery there. In 1921,
-at age 29, Zenas was inducted from Anchorage, Alaska into the US Army.
-That same year he married **Barbara Marka** in Seldovia. His occupation was
+at age 29, Zenas was inducted from Anchorage, Alaska into the US Army.  His occupation was
 "cannery worker".
+
+That same year he married **Barbara Marka** in Seldovia. Barbara was likely a niece of Asiente Romanov, listed on his death certificate as Barbara Beach, and cousin of Musik Romanov, who listed her as next of kin on his WWII draft registration form.
 
 In 1930 he and Barbara were still in Seldovia with children **William**,
 **Benjamin**, **Robert** and **Alice**. By 1934, they had seven children. He was a
