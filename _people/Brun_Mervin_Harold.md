@@ -14,7 +14,7 @@ family: Brun
 
 ![](../assets/images/BRUN%20FAMILY/media/image1.jpeg)
 
-[**MERVIN HAROLD BRUN**](../_families/Brun_Family.md) was born November 16, 1921, in Chignik to [**Carl Johan Brun**](../_family/Brun_family.md). As a child, he
+[**MERVIN HAROLD BRUN**](../_families/Brun_Family.md) was born November 16, 1921, in Chignik to [**Carl Johan Brun**](../_family/Brun_Family.md). As a child, he
 attended school from April to September. Many times his was one of only
 two families to stay in Chignik the entire winter, while the rest of the
 village left to hunt and trap. 
