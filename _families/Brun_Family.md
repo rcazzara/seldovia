@@ -22,6 +22,6 @@ September 15, 1939 at the age of 82.
 
 Children who lived in Seldovia include:
 
-[**Mervin Harold Brun**](../_people/Brun_Mervin.md) (1921-1993)
+[**Mervin Harold Brun**](../_people/Brun_Mervin_Harold.md) (1921-1993)
 [**Stella Brun Suydam**](../_people/Suydam_Stella_Alexandria_Brun.md)(1923-1987)
 
