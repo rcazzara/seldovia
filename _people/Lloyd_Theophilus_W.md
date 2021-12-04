@@ -10,7 +10,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 75
 source_file: Cemetery Directory
 ---
-**THEOPHILUS William LLOYD, "T.W"** was born in Kansas City, Kansas April 30, 1873. By 1900 he was a farmer in Jackson Hole, Wyoming.  There he soon married [**SUSAN LORETTA LAFFERTY**](./Lloyd_Susan_Loretta_Lafferty.md) whose family had migrated there from Iowa. T.W. and Susan had four daughters, Laura, Bessie, Grace Mary, and Georgia Charlotte before moving to Alaska. T.W is listed alone in Kenai in 1920 but eventually the rest of the family joined him in Seldovia. In 1930 Susan and his daughter Georgia were living with him. 
+**THEOPHILUS William LLOYD, "T.W"** was born in Kansas City, Kansas April 30, 1873. By 1900 he was a farmer in Jackson Hole, Wyoming.  Soon after this he married [**SUSAN LORETTA LAFFERTY**](./Lloyd_Susan_Loretta_Lafferty.md) whose family had migrated there from Iowa. T.W. and Susan had four daughters, Laura, Bessie, Grace Mary, and Georgia Charlotte before moving to Alaska. T.W is listed alone in Kenai in 1920 but eventually the rest of the family joined him in Seldovia. In 1930 Susan and his daughter Georgia were living with him. 
 
 In 1924 the Alaska Weekly published a list of Kachemak Bay Fox Farmers, including T.W., who had established a blue fox breeding business called Teton Ranch across Seldovia Bay from town He helped form the Cooks Inlet Blue and Black Fox Farmers Association of Alaska and in 1925 he was listed as Vice President , with Tollak Ollestad as President.  He was also known to make moonshine at a location across the bay. 
 
