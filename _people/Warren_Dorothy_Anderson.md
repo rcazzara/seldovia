@@ -14,3 +14,5 @@ source_file: Cemetery Directory
 Dorothy married Jack Harrison Warren in Anchorage in 1945.   
 
 She died in Seldovia November 7, 1945 and is buried in the Seldovia City Cemetery in Plot #39. Her son John was adopted by his grandfather as John C. Anderson, III.
+
+![](../assets/images/dorothy%20on%20horseback.jpeg)
