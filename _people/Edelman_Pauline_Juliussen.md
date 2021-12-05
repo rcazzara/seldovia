@@ -17,6 +17,8 @@ On August 27, 1951 Pauline and Jackie were killed in Seldovia when the small pla
 Pauline and Jacqueline are buried in adjacent graves in Seldovia City Cemetery.
 
 
-![](../assets/images/Edelman/media/image1.jpeg)  ![](../assets/images/Pauline%20and%20Jacob%20Edleman.jpeg)  
+![](../assets/images/Edelman/media/image1.jpeg)  
+
+![](../assets/images/Pauline%20and%20Jacob%20Edleman.jpeg)  
 
 
