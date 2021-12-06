@@ -10,4 +10,10 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 74
 source_file: Cemetery Directory
 ---
-**GEORGIA CHARLOTTE LLOYD PECK, "Charlotte"**, the youngest child of [**T.W. and Susan LAFFERTY Lloyd**](./Lloyd_Theophilus_W.md), was born 1915 in Jackson, Wyoming.  She was living with her parents in Seldovia by 1930.  She married WILLIAM EDWARD PECK August 4, 1935 in Seldovia.  She died in November 27, 1939 in Seattle at the age of 35. Her husband and daughter Susan Lanine Peck were back in Seldovia in 1940 census.  Charlotte LLOYD Peck is buried in the Seldovia City Cemetery, Plot #74, next to her parents and her sister, Grace. 
+**GEORGIA CHARLOTTE LLOYD PECK, "Charlotte"**, the youngest child of [**T.W. and Susan LAFFERTY Lloyd**](./Lloyd_Theophilus_W.md), was born 1915 in Jackson, Wyoming.  
+
+She was living with her parents in Seldovia by 1930, where she met and married WILLIAM EDWARD PECK August 4, 1935.  
+
+Charlotte passed away on November 27, 1939 in a sanatorium in Seattle, Washington, following fourteen months hospitalization at that place. She was only 25 years old. Surviving her were her husband and their two and a half year old daughter, Susan Lorraine Peck.   
+
+Charlotte LLOYD Peck is buried in the Seldovia City Cemetery, Plot #74, next to her parents and her sister, Grace. 
