@@ -10,7 +10,15 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 75
 source_file: Cemetery Directory
 ---
-**THEOPHILUS William LLOYD, "T.W"** was born in Kansas City, Kansas April 30, 1873. By 1900 he was a farmer in Jackson Hole, Wyoming.  Soon after this he married [**SUSAN LORETTA LAFFERTY**](./Lloyd_Susan_Loretta_Lafferty.md) whose family had migrated there from Iowa. T.W. and Susan had four daughters, Laura, Bessie, Grace Mary, and Georgia Charlotte before moving to Alaska. T.W is listed alone in Kenai in 1920 but eventually the rest of the family joined him in Seldovia. In 1930 Susan and his daughter Georgia were living with him. 
+**THEOPHILUS William LLOYD, "T.W"** was born in Kansas City, Kansas April 30, 1873. By 1900 he was a farmer in Jackson Hole, Wyoming.  Soon after this he married [**SUSAN LORETTA LAFFERTY**](./Lloyd_Susan_Loretta_Lafferty.md) whose family had migrated there from Iowa. 
+
+In 1911 T.W. and his brother-in-law William Lafferty patented two homesteads in Teton, Wyoming, near Jackson, and became stock farmers (ranchers). 
+
+He also owned a saloon in Jackson. Rube Tuttle (1870-1950) came "over the hill" into Jackson about 1902 and started a saloon. His was the first brick building in Jackson. By 1911, he had returned to Utah with Theophilus Lloyd owing the bar. In 1916, Lloyd sold the saloon. He was also regarded as one of main organizers of Jackson's Frontier Days Rodeo.
+
+T.W. and Susan had four daughters, Laura, Bessie, Grace Mary, and Georgia Charlotte, all born in Wyoming. 
+
+By 1920 he had joined a rush to the Kachemak Bay region of AlaskaT.W is listed alone in Kenai in 1920 but eventually the rest of the family joined him in Seldovia. In 1930 Susan and his daughter Georgia were living with him. 
 
 In 1924 the Alaska Weekly published a list of Kachemak Bay Fox Farmers, including T.W., who had established a blue fox breeding business called Teton Ranch across Seldovia Bay from town He helped form the Cooks Inlet Blue and Black Fox Farmers Association of Alaska and in 1925 he was listed as Vice President , with Tollak Ollestad as President.  He was also known to make moonshine at a location across the bay. 
 
