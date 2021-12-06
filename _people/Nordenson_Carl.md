@@ -29,4 +29,6 @@ Nordenson**, and **Ingrid Nordenson Bachman**.
 Wallin in 1994 at a moose camp during hunting season. He died in
 Anchorage, Alaska, March 30, 2009.
 
+**Bruce Nordenson**, born December 3, 1945, died in Seldovia, February 2, 2021. 
+
 
