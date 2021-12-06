@@ -14,7 +14,7 @@ source_file: Cemetery Directory
 
 In 1911 T.W. and his brother-in-law William Lafferty patented two homesteads in Teton, Wyoming, near Jackson, and became stock farmers (ranchers). 
 
-He also owned a saloon in Jackson. Rube Tuttle (1870-1950) came "over the hill" into Jackson about 1902 and started a saloon. His was the first brick building in Jackson. By 1911, he had returned to Utah with Theophilus Lloyd owing the bar. In 1916, Lloyd sold the saloon. He was also regarded as one of main organizers of Jackson's Frontier Days Rodeo.
+He also owned a saloon in Jackson. Rube Tuttle (1870-1950) came "over the hill" into Jackson about 1902 and started the saloon, the first brick building in Jackson. By 1911, he had returned to Utah with Theophilus Lloyd owing the bar. In 1916, Lloyd sold the saloon. He was also regarded as one of main organizers of Jackson's Frontier Days Rodeo.
 
 T.W. and Susan had four daughters, Laura, Bessie, Grace Mary, and Georgia Charlotte, all born in Wyoming. 
 
