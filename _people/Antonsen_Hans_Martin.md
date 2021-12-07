@@ -17,6 +17,6 @@ He first declared his intention to become a US citizen in Anchorage courts becam
 
 He died, while in Anchorage, on September 9, 1965 and is buried in the Seldovia City Cemetery in Plot # 195.  
 
-![](../assets/HM_Antonsen.jpg)
+![](../assets/images/HM_Antonsen_photo.JPG)
 
 
