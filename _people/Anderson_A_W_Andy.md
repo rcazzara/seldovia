@@ -5,7 +5,7 @@ birth_date: 1946-09-24
 birth_location: Illinois
 death_date: 2020-12-14
 death_location: Seldovia, Alaska
-cemetery_plot:
+cemetery_plot:  199
 source_file: Cemetery Directory
 ---
 
