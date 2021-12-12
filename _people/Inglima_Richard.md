@@ -9,7 +9,7 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 104
 source_file: Cemetery Directory
 ---
-**Richard   Inglima**, the son of **Morris and Helen O'BRIEN Inlima** was born May 30, 1925 in Brooklyn, New York. His entire shooling was there.  While attending school he was a middle distance runner and held some American, state and city records for the mile relay, half mile run, and 200 and 300 yard dashes.
+**Richard   Inglima**, the son of **Morris and Helen O'BRIEN Inlima** was born May 30, 1925 in Brooklyn, New York. His entire schooling was there.  While attending school he was a middle distance runner and held some American, state and city records for the mile relay, half mile run, and 200 and 300 yard dashes.
 
 In 1943 he joined the US Navy and was sent to weather school. During WWII he served on the ship Intrepid CV11. This carrier saw much action between Saipan and Japan and was hit often by kamakazis.  At war's end, it was considered the most hit carrier afloat.
 
