@@ -13,7 +13,7 @@ source_file: Cemetery Directory
 
 In 1943 he joined the US Navy and was sent to weather school. During WWII he served on the ship Intrepid CV11. This carrier saw much action between Saipan and Japan and was hit often by kamakazis.  At war's end, it was considered the most hit carrier afloat.
 
-Before he was discharged, in 1946, Dick had heard of the University of Alaska. He decided to apply and was accepted, arriving in Alaska in June 1946.  At the UofA he played varsity basketball and majored, as he says "in my future wife Lynn Morris" [**Luned Morris, "Lynn**](./Inglima_Luned_Morris.md). 
+Before he was discharged, in 1946, Dick had heard of the University of Alaska. He decided to apply and was accepted, arriving in Alaska in June 1946.  At the UofA he played varsity basketball and majored, as he says "in my future wife Lynn Morris" [**Luned Morris, "Lynn"**](./Inglima_Luned_Morris.md). 
 
 Lynn and Dick were married on May 1, 1947 in Fairbanks, Alaska, and spent that summer in Seldovia where he worked for [**Squeeky Anderson**](./Anderson_Carl_Eric_Squeaky.md). The next fall they went to Spokane, Washington where Dick attended Gonzaga University and their daughter, Dianne, was born. The following summer they returned to Seldovia where Dick fished halibut commercially and helped Lynn's Dad in the store, Morris and Morris. The next fall saw the family in New York where Dick studied at NY University and their son, Dicki was born there in 199.  Summer found them back in Seldovia, commercial fishing and working in the store. Another son, Mario, was born in Seward in 1950. 
 
