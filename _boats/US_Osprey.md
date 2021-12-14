@@ -38,7 +38,7 @@ cook. By the end of 1913 over 8,000 miles had been logged.
 Built in 1895 in San Francisco, California, the *Osprey* was equipped
 with a steam winch on the forward main deck and had two masts. The pilot
 house area on the boat deck quartered three crewmen, while immediately
-beneath was the galley and dinning room on the forward main deck. Six of
+beneath were the galley and dining room on the forward main deck. Six of
 the crew could be quartered in the below forecastle and four more could
 be accommodated in the after cabin which had folding berths and was
 finished in Spanish cedar.  
