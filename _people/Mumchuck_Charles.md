@@ -9,7 +9,7 @@ death_location: Anchorage, Alaska
 cemetery: Seldovia City Cemetery
 source_file: Cemetery Directory
 ---
-**Charles L. Mumchuck**, born in Anchorage on Jan. 4, 1974, was a lifelong resident of Alaska. His parents were [**Myra ANAHONAK Mumchuck**](./Mumchuck_Mrya.md)and John Stephan.
+**Charles L. Mumchuck**, born in Anchorage on Jan. 4, 1974, was a lifelong resident of Alaska. His parents were [**Myra ANAHONAK Mumchuck**](./Mumchuck_Mrya.md) and John Stephan.
 
 Charles worked in customer service industry.  He graduated from Soldotna High School and went to University of Alaska Anchorage to study human services, and also took many classes in drug counseling.
 Charles was raised and baptized Russian Orthodox.
