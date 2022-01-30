@@ -24,7 +24,7 @@ Carl died in 2003 and Myra continued to live in Seldovia.
 
 She died on June 7, 2008 in Seldovia and is buried in the Seldovia City Cemetery in Plot #315.  
 
-She was survived by her beloved Peter Wilber; her son, Charles Mumchuck; brother, Matthew J. Anahonak of Bakersfield, Calif.; sisters, Anesia L. Metcalf of Port Graham, Kathy L. May of Anchorage; sister and "bro"-in-law, Patti and David McComak; sister, Gina West; brothers, Alfred A. Anahonak Jr., Victor Anahonak, Steve Anahonak; sisters, Elezabeth Laird, Margie Yost; and numerous cousins, nieces and nephews; and all of her "adopted babies" (you know who you are!).
+She was survived by her beloved Peter Wilber; her son, [**Charles Mumchuck**](Mumchuck_Charles.md); brother, Matthew J. Anahonak of Bakersfield, Calif.; sisters, Anesia L. Metcalf of Port Graham, Kathy L. May of Anchorage; sister and "bro"-in-law, Patti and David McComak; sister, Gina West; brothers, Alfred A. Anahonak Jr., Victor Anahonak, Steve Anahonak; sisters, Elezabeth Laird, Margie Yost; and numerous cousins, nieces and nephews; and all of her "adopted babies" (you know who you are!).
 
 Myra is preceded in death by her parents, Alfred Alex Anahonak Sr. and Ann Moonin, and husband, Carl Mumchuck.
 
