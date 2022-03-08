@@ -1,9 +1,9 @@
 ---
 last_name: Ritchie
 first_name: George
-birth_date: 1905
+birth_date: August 1904
 birth_location: Kachemak Bay, Alaska
-death_date: 1952-12
+death_date: December 1952
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 14
