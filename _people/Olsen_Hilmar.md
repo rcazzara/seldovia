@@ -12,7 +12,7 @@ source_file: Cemetery Directory
 **HILMAR OLSEN** was born, Norway in 1879. In 1910 he was on a ship in
 Shelikof Strait. He was living on Kachemak Bay by 1920 and was a fox and
 fur farmer then and in 1930 census as well. He was not married until
-1943 when he married Hanna Hansen Pedersen, widow of [**Peder Pedersen**](./Pederson_Peter_Emanuel.md) in
+1943 when he married [**Hanna Hansen Pedersen**](./Hansen_Hannah.md), widow of [**Peder Pedersen**](./Pederson_Peter_Emanuel.md) in
 Seldovia on January 20, 1943.
 
 From Elsa Pedersen's book "Kachemak Bay Years": Hilmer Olsen of Bradley
