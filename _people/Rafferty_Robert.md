@@ -22,4 +22,4 @@ Bob made friends easily and had many. He could join in discussions quickly espec
 
 Bob was predeceased by his parents, his wives Barbara Grove & Anne Rafferty. He is survived by his 4 children and their families. Shelly (Rick) McGahan, Jason (Debi) Rafferty, Todd (Phillis) Rafferty & Paul Shannon Rafferty. His sister Barbara Ann (Tom) Fitzgerald of Cape Girardeau, Mo along with many Braun, Rafferty, Fitzgerald, Griffaw & Ford family members. The special friends in his life (you know who you are) are not forgotten. We appreciate you and your relationship with our dad.
 
-There will be a celebration of both Bob & Annie's lives in Seldovia on May 15th at the Outside Beach. 
+![](../assets/images/Bob%20Rafferty%20Alaska%20Paradise%20Charters.jpg)
