@@ -10,7 +10,7 @@ death_location: Homer, Alaska
 
 ---
 **Anna E COGGINS Rafferty** was born one of 11 children to Charles and Mattie Coggins on May 23rd, 1948 in West Point Mississippi. 
-After graduation she saw a bit of the world eventually settling in Olympia, Wa. It was here she met and married **Gerald (Jerry) Wybenga**. They lived in Shelton and shared two children, Theresa and Kenny.
+After graduation she saw a bit of the world eventually settling in Olympia, Wa. It was here she met and married **Gerald (Jerry) Wybenga**. They lived in Shelton and shared two children, **Theresa** and **Kenny**.
 
 She created many happy memories for her children and was always their biggest cheerleader.  From the crazy Halloween parties for all the kids in the neighborhood to feeding everyone one of her good meals just because. The times she would take us kids to the Donut Tree for two donuts & cocoa before school will never be forgotten. The camping trips around western Washington with mom were something we looked forward to, knowing she would cook up some yummy southern meal. Mom enjoyed spoiling, and was always sure to treat us both fairly. At Christmas, she would count each gift, fruit, nuts, and candy to make sure one didn't get more than the other. We also knew the morning rule! Coffee first then we'll discuss the day.
 
@@ -18,5 +18,5 @@ Annie and Jerry later divorced and she moved on, settling in Kenai, Alaska. On a
 
 Annie worked hard her whole life giving her best at all that was thrown at her. She was honest, positive, stubborn, and full of joy. She made life a happier place for all who knew her.
 
-Her husband, Bob Rafferty, passed away in Seldovia, just three weeks after her.  her children Theresa (Brian) Naugle of Montana and Kenny (Kara) Wybenga of Washington.  Numerous grand and great grandchildren.   
+Her husband, Bob Rafferty, passed away in Seldovia, just three weeks after her.  Her children are Theresa (Brian) Naugle of Montana and Kenny (Kara) Wybenga of Washington, and there are numerous grand and great grandchildren.   
 
