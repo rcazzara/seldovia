@@ -1,6 +1,6 @@
 ---
 last_name: Hansen
-first_name: Hanna Joanna
+first_name: Hannah Joanna
 birth_date: 1877-02-12
 birth_location: Bergen, Norway
 death_date: 1959-09-13
