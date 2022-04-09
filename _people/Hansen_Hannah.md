@@ -9,10 +9,11 @@ death_location: Seattle, Washington
 **Hannah Johanna HANSEN** was born Feb 12, 1877 in Bergen Norway. 
 
 She married to **Henry Anderson** (born on February 5, 1866, in Flore, Norway). In the span of ten years, two sons and two daughters were born while they were living  in Bergen. 
-[**Konrad Johan “Jack”**](./Anderson_Jack_Conrad_Sr.md), born August 11, 1899
-Jacob Andreas“Jimmy” born March 4, 1905
-Jessie Henriette, born May 10, 1902
-Hannah Henrikke, born October 17, 1907
+
+- [**Konrad Johan “Jack” Anderson**](./Anderson_Jack_Conrad_Sr.md), born August 11, 1899
+- Jacob Andreas“Jimmy” Anderson, born March 4, 1905
+- Jessie Henriette Anderson, born May 10, 1902
+- Hannah Henrikke Anderson, born October 17, 1907
 
 Henry came to the US in 1910 and the rest of the family followed in 1912. They were living in Gray’s Harbor, Washington at the time of the 1920 US Census. Henry and Hannah divorced soon after. 
 
