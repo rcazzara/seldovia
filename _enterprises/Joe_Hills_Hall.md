@@ -1,12 +1,12 @@
 ---
 business_name: Joe Hill's 
 owner: Joe Hill
-dates: 1927-1947
+dates: 1927-1941
 ---
 
 # **Joe Hill's Dance Hall**
 
-[**Joe Hill**](../_people/Hill_Joe.md) came to Seldovia in the 1920s and it wasn't long after that that he established **Joe Hill's Hall**. When Prohibition ended he could legally include a bar and eventually even showed movies there.
+[**Joe Hill**](../_people/Hill_Joe.md) came to Seldovia in the 1920s and it wasn't long after that that he established **Joe Hill's Hall**. When Prohibition ended he could legally include a bar and eventually even showed movies there. In 1940 the saloon burned to the ground in an impressive fire visible even from Homer, and later Joe rebuilt the [**Polar Bar**](./Polar Bar.md) and operated it until 1948 when he was forced to cede the property to the new owner, Frank Raby.
 
 Here is an ad from Seward newspaper in 1927.
 
@@ -37,7 +37,8 @@ When Jim and his parents came to Seldovia in 1928, Joe ran a pool hall and barbe
 
 > Joe Hill showed movies twice a week, with photograph or live piano music preceding the picture.  He ran the whole operation himself, and took time to lecture young people who came in for a haircut.  In fact it is said that with Joe trying to tend bar and oversee the pool hall while running the barbershop, a haircut could take the better part of a leisurely afternoon.
 
-> On December 3, 1940 Joe Hill faced a second fire and his famous dancehall/pool hall/movie theatre/tavern/barbershop burned to the ground.  Joe later rebuilt and operated the Polar Bar until retiring to Philadelphia.  There he spent the last years of his life involved in the Civil Rights movement.
+> On December 3, 1940 Joe Hill faced a second fire and his famous dancehall/pool hall/movie theatre/tavern/barbershop burned to the ground.  Joe later rebuilt and operated the **Polar Bar** until retiring to Philadelphia.  There he spent the last years of his life involved in the Civil Rights movement.
+> 
 Several years ago, a friend of mine was mucking about in the slough below where Joe Hills used to stand.  To his delight he found a china barber pole, about 6’ high and still bearing its red and white striping.  It was hollow, and with a good sized slot in the top.  We realized he had found the receptacle for Joe’s used razor blades!  An insignificant treasure to be sure, but still somehow proof for us 1990s folk that this great man did indeed exist."
 
 
