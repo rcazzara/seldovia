@@ -7,7 +7,7 @@ owners: John Roe (1925-1941); Joe Hill (1941-1948)
 
 # **Polar Bar**
 
-The Polar Bar located on the east side of Main Street and south side of Bay Street, was owned first by [**John Roe**](../_people/Roe_John.md).  He began renting the business to **Joe Hill** in 1941. In January 1945 he sold the business, and then the land to Joe Hill. Subsequent court proceedings rules that John Roe did not own title to the land at the time he "sold" it (or ever) and Joe Hill was required to vacate the property. 
+The Polar Bar located on the east side of Main Street and south side of Bay Street, was owned first by [**John Roe**](../_people/Roe_John.md).  In 1941,he began renting the business to [**Joe Hill**](./Joe_Hills_Hall.md) whose own business had recently burned down. In January 1945 he sold the business, and then the land to Joe Hill. Subsequent court proceedings rules that John Roe did not own title to the land at the time he "sold" it (or ever) and Joe Hill was required to vacate the property. 
 
 From Court Proceedings of Frank Raby vs. Joe Hill -  Action by Frank Raby against Joe Hill to recover possession of a town lot.
 
