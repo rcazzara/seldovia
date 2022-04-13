@@ -23,7 +23,7 @@ CHILDREN:
 
 - - [**JACQUELINE EDELMAN**](../_people/Edelman_Jacqueline.md)  was born 1940 in Seldovia, Alaska.  She, along with four others including her mother, died August 27, 1951, Seldovia, when the plane she was in crashed upon takeoff.  She was eleven years old. She is buried adjacent to her mother in Seldovia City Cemetery.
 
-- [**EMMA EDELMAN JOSEFSEN**](../_people/Haakonsen_Emma_Edelman_Josefsen.md) was born June 23, 1902, in Kenai, Alaska, to Domnina Oskolkoff Edelman, of Kenaitze (Athabaskan) Indian and Russian decent, and Edvin (Edwin) Edelman, a Finn explorer from Porvoo. She attended a school run by the Russian Orthodox Church in Kenai.   She was the wife of Simon Josefsen and Martin Haakonsen, both of Seldovia. She died May 11, 1993, Seldovia, Alaska.
+- [**EMMA EDELMAN JOSEFSEN**](../_people/Haakonsen_Emma_Edelman_Josefsen.md) was born June 23, 1902, in Kenai, Alaska, to Domnina Oskolkoff Edelman, of Kenaitze (Athabaskan) Indian and Russian decent, and Edvin (Edwin) Edelman, a Finn explorer from Porvoo. Her Russian Orthodox baptismal name was Evgeniia. She attended a school run by the Russian Orthodox Church in Kenai.   She was the wife of Simon Josefsen and Martin Haakonsen, both of Seldovia. She died May 11, 1993, Seldovia, Alaska.
 
 - MARTHA EDELMAN was born in Kenai, Alaska on February 23, 1904.  On January 9, 1927, in Seldovia, she married [**ARTHUR KVARNESS**](../_people/Kvarness_Arthur.md)  who was born October 15, 1892 in Trondheim, Norway. They had three children, one of whom died as an infant and is buried in the Seldovia Hillside Cemetery.  In 1948 they were living in Seattle, Washington.  She died there in 1950.  He died March 16, 1953 and is buried in the Seldovia City Cemetery.
 
