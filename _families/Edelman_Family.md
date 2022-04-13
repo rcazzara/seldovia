@@ -27,7 +27,6 @@ CHILDREN:
 
 - MARTHA EDELMAN was born in Kenai, Alaska on February 23, 1904.  On January 9, 1927, in Seldovia, she married [**ARTHUR KVARNESS**](../_people/Kvarness_Arthur.md)  who was born October 15, 1892 in Trondheim, Norway. They had three children, one of whom died as an infant and is buried in the Seldovia Hillside Cemetery.  In 1948 they were living in Seattle, Washington.  She died there in 1950.  He died March 16, 1953 and is buried in the Seldovia City Cemetery.
 
-- JOHN EDELMAN was born 1906 in Kenai, Alaska and died 1975 in Everett, Washington. 
 
 - EUGENIA EDELMAN was born August 5, 1907 in Kenai, Alaska and died October 1984 in Belgium.
 
