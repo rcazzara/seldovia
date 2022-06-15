@@ -5,9 +5,7 @@ birth_date: 1942-03-31
 birth_location: St. Louis, Missouri
 death_date: 2022-02-15
 death_location: Seldovia, Alaska
-cemetery: Seldovia City Cemetery
-cemetery_plot: 2
-source_file: Cemetery Directory
+
 ---
 
 **ROBERT MONTROSE RAFFERTY** was born in St Louis Missouri in 1942 to Paul Hugh & Margaret I. (Griffaw)Rafferty. He lived his early years in Cape Girardeau, Missouri where he went through school, enlisted in the Army National Guard and married Kathleen M Braun.
