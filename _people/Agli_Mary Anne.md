@@ -5,9 +5,7 @@ birth_date: 1957-06-02
 birth_location: Pendleton, Oregon
 death_date: 2018-07-17
 death_location: Seldovia, Alaska
-cemetery: Seldovia City Cemetery
-cemetery_plot: 29
-source_file: Cemetery Directory
+
 ---
 
 **Mary Anne Agli** was born June 2, 1957 in Pendleton, Oregon to Gladys Brown and James Burke.
