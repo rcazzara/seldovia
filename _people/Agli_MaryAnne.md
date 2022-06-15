@@ -18,7 +18,7 @@ In her earlier years, MaryAnne was well known for dressing up as a Playboy bunny
 
 More than anything, she cherished her husband Frank and dog Sheba as well as her children, grandchildren and friends. She had a heart of gold and would do anything for anyone. Her spirit and selflessness will live on in all who knew her.
 
-MaryAnne Agli, 61, died on July 17, 2018 in Anchorage after a month-long hospital stay.  Her husband Frank Agli [**Frank Agli**](./Agli_Frank.md)died May 31, 2022.
+MaryAnne Agli, 61, died on July 17, 2018 in Anchorage after a month-long hospital stay.  Her husband [**Frank Agli**](./Agli_Frank.md)died May 31, 2022.
 
 MaryAnne was preceded in death by her parents, Gladys and James; and her older brother, Rodney Bixler. 
 
