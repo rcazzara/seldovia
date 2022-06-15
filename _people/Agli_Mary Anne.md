@@ -1,6 +1,6 @@
 ---
 last_name: Agli
-first_name: MaryAnne
+first_name: Mary Anne
 birth_date: 1957-06-02
 birth_location: Pendleton, Oregon
 death_date: 2018-07-17
