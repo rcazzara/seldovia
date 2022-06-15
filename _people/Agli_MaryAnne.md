@@ -18,10 +18,10 @@ In her earlier years, MaryAnne was well known for dressing up as a Playboy bunny
 
 More than anything, she cherished her husband Frank and dog Sheba as well as her children, grandchildren and friends. She had a heart of gold and would do anything for anyone. Her spirit and selflessness will live on in all who knew her.
 
-MaryAnne Agli, 61, died on July 17, 2018 in Anchorage after a month-long hospital stay.
+MaryAnne Agli, 61, died on July 17, 2018 in Anchorage after a month-long hospital stay.  Her husband Frank Agli [**Frank Agli**](./Agli_Frank.md)died May 31, 2022.
 
-MaryAnne was preceded in death by her parents, Gladys and James; and her older brother, Rodney Bixler.
+MaryAnne was preceded in death by her parents, Gladys and James; and her older brother, Rodney Bixler. 
 
-She is survived by her husband, Frank, and dog, Sheba; older sisters Jody Coe and Becky Roberts; younger brother, Frank Morgan; daughter, Michelle; stepdaughters Andria, Missy, Poppy and Shiloh; stepsons Frank, Thomas, John, Dwayne, Sonny, Bobby and Jason; 27 grandchildren; four great-grandchildren; and many nieces and nephews.
+She was survived by her husband, Frank, and dog, Sheba; older sisters Jody Coe and Becky Roberts; younger brother, Frank Morgan; daughter, Michelle; stepdaughters Andria, Missy, Poppy and Shiloh; stepsons Frank, Thomas, John, Dwayne, Sonny, Bobby and Jason; 27 grandchildren; four great-grandchildren; and many nieces and nephews.
 
 A celebration of life was held on Saturday July 28, 2018 at Outside Beach in Seldovia, Alaska. In lieu of flowers, the family asked that donations be made in MaryAnne’s name to the Homer Animal Shelter in Homer, Alaska.
