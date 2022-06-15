@@ -20,4 +20,4 @@ Bob made friends easily and had many. He could join in discussions quickly espec
 
 Bob was predeceased by his parents, his wives Barbara Grove & Anne Coggins Rafferty. He was survived by his 4 children and their families. Shelly (Rick) McGahan, Jason (Debi) Rafferty, Todd (Phillis) Rafferty & Paul Shannon Rafferty. His sister Barbara Ann (Tom) Fitzgerald of Cape Girardeau, Mo along with many Braun, Rafferty, Fitzgerald, Griffaw & Ford family members. 
 
-![Bob and Paradise Charters](../assets/images/Bob%20Rafferty%20Alaska%20Paradise%20Charters.jpg)
+[](../assets/images/Bob%20Rafferty%20Alaska%20Paradise%20Charters.jpg)
