@@ -10,7 +10,7 @@ cemetery_plot: 29
 source_file: Cemetery Directory
 ---
 
-**MaryAnne Agli** was born June 2, 1957 in Pendleton, Oregon to Gladys Brown and James Burke.
+**Mary Anne Agli** was born June 2, 1957 in Pendleton, Oregon to Gladys Brown and James Burke.
 
 She was always a wild and free spirit who was full of spunk and sass. She was often the life of the party. Probably best known from her years as a bartender in Seldovia and as the Seldovia Harbormaster, she made friends from all over the world and all walks of life.
 
