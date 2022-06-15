@@ -11,7 +11,7 @@ death_location: Seldovia, Alaska
 
 Frank was a barber, air traffic controller, charter boat captain, bartender, commercial fisherman, airplane pilot, flight instructor, master wood artisan, carpenter, plumber, electrician, mechanic, sport fish guide, merchant marine officer, heavy equipment operator and gardener, and had the mind of an engineer – he could fix or build anything. 
 
-Frank loved Alaska and became an avid hunter and fisher providing for his family. He had a great love for luxury cars, owning several Cadillacs and Toronados in his day. He also had an extensive model car collection. Frank was lovingly known as Dad, Pops, Poppa Frank, Grandpop Agli or Uncle Frank to family and friends. He was an animal lover, providing home to many dogs and cats over the years. Sheba, a lab-mix, was his faithful companion after the passing of his beloved wife [**Mary Anne**](./Agli_MaryAnne.md).
+Frank loved Alaska and became an avid hunter and fisher providing for his family. He had a great love for luxury cars, owning several Cadillacs and Toronados in his day. He also had an extensive model car collection. Frank was lovingly known as Dad, Pops, Poppa Frank, Grandpop Agli or Uncle Frank to family and friends. He was an animal lover, providing home to many dogs and cats over the years. Sheba, a lab-mix, was his faithful companion after the passing of his beloved wife [**MaryAnne**](./Agli_MaryAnne.md).
 
 His family wrote: “Dad was wickedly intelligent and quick-witted. He had a wry sense of humor and had the biggest heart. He lived life to the fullest in all that he did, and he did a lot! We would often joke that Dad was going to outlive us all.
 Dad loved his children and grandchildren dearly.”
