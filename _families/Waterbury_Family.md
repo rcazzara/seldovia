@@ -8,7 +8,7 @@ full_name: "Waterbury Family"
 
 The Waterbury family line in Seldovia begins with Russell Seville, Sr.
 
-**Russell Waterbury, Sr. was born October 6, 1885 in Minnesota. His
+**Russell Waterbury, Sr.** was born October 6, 1885 in Minnesota. His
 father, Thomas, was from Canada and his mother, Zulina, from New York.
 He lived in Wrangell in 1917 when he registered for the US Military
 draft in WWI. He listed his occupation as Marine Fireman, and he worked
@@ -18,7 +18,7 @@ fisherman. Marie died between 1934 and 1938. On September 3 1938 Russell
 married Anna Sorokovikoff in Seldovia. He adopted her daughter Marion,
 who took Waterbury as her last name. At the time of registration for the
 WWII draft (age 56) Russell was still in Seldovia. He died October 1965
-in Seldovia.**
+in Seldovia.
 
 **Anna Sorokovikoff Waterbury** was the 3<sup>rd</sup> wife of Russell
 Waterbury. They married September 3, 1938 in Seldovia. She was born
