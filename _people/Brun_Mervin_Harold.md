@@ -13,7 +13,7 @@ family: Brun
 ---
 
 ![](../assets/images/BRUN%20FAMILY/media/image1.jpeg)
- **HAROLD MERVIN BRUN**, or **MERVIN HAROLD BRUN**as some records show, was born November 16, 1921, in Chignik to **Martha** and [**Carl Johan Brun**](../_families/Brun_Family.md).  As a child, he attended school from April to September. Many times his was one of only two families to stay in Chignik the entire winter, while the rest of the village left to hunt and trap. 
+ **HAROLD MERVIN BRUN**, or **MERVIN HAROLD BRUN**, as some records show, was born November 16, 1921, in Chignik to **Martha** and [**Carl Johan Brun**](../_families/Brun_Family.md).  As a child, he attended school from April to September. Many times his was one of only two families to stay in Chignik the entire winter, while the rest of the village left to hunt and trap. 
 
 The Aleut village of Perryville formed a cooperative to stock and farm blue fox on Chiachi Island and for a period of time, he lived on the island with his father, where they raised blue fox. 
 
