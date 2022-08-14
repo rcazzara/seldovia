@@ -19,9 +19,9 @@ The Aleut village of Perryville formed a cooperative to stock and farm blue fox 
 
 In 1940 Mervin was living in Chignik with his mother’s family and working in the cannery. 
 
-Mervin went from Chignik to Seldovia in 1941. From there, he went to Anchorage to sign up to fight in war, but due to an enlarged heart was he was turned away. So like others from here, he worked on building the railroad for a bit and came back to Seldovia. Then he worked with Frank Raby, married Flossy, after married Josie, who is Linda, who was related to Elaine Giles or very close to her family in Washington. They had 2 kids, Merann and Armand. 
+Mervin went from Chignik to Seldovia in 1941. From there, he went to Anchorage to sign up to fight in WWII, but due to an enlarged heart was he was turned away. He then worked on building the railroad for a bit before returning to Seldovia. 
 
-His years between 1961-62 were spent in Seward, and then he returned to Seldovia where he worked for years for Frank Raby, then for AYR Cannery and Whitney Fidalgo. He was superintendent of Whitney Fidalgo during the 64 earthquake. After the earthquake in 1966, he moved Whitney Fidalgo to Kodiak. He also was partners with Wakeland in a photography business in Seldovia.
+His years between 1961-62 were spent in Seward, and then he returned to Seldovia where he worked for years for Frank Raby, then for AYR Cannery and Whitney Fidalgo. He was superintendent of Whitney Fidalgo during the 64 earthquake. After the earthquake in 1966, he moved Whitney Fidalgo to Kodiak. He also was a partner with Wakeland in a photography business in Seldovia.
 
 He was married to **Florence Nyman**, **Linda Thomason** and **Honeybee Wallin** and fathered five children. 
 
