@@ -1,5 +1,5 @@
 ---
-last_name: Elvsass
+last_name: Elvsaas
 first_name: Charlotte
 birth_date: 1950-10-22
 birth_location: Seldovia, Alaska
