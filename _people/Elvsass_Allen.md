@@ -1,5 +1,5 @@
 ---
-last_name: Elvsass
+last_name: Elvsaas
 first_name: Allen
 cemetery: Seldovia City Cemetery
 cemetery_plot: 210
