@@ -1,7 +1,7 @@
 ---
 last_name: Baines
-maiden_name: Hilts
-first_name: Della HILTS
+first_name: Della 
+maiden_name: HILTS
 birth_date: 1958-05-19
 birth_location: Noatak, Alaska
 death_date: 2000-05-30
