@@ -1,7 +1,7 @@
 ---
 last_name: Brooks
-maiden_name: Huntsman
-first_name: Dora HUNTSMAN
+first_name: Dora 
+maiden_name: HUNTSMAN
 birth_date: 1862-02-28
 birth_location: Emerson, Iowa
 death_date: 1944-10-25
