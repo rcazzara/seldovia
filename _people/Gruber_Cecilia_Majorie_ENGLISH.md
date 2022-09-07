@@ -1,7 +1,8 @@
 ---
 full_name: "Cecilia Majorie ENGLISH Gruber"
 last_name: "Gruber"
-first_name: "Cecilia Majorie English"
+first_name: "Cecilia Majorie"
+maiden_name: "ENGLISH"
 source_file: "Adam Bloch and English"
 birth_date: 1929-04-29
 birth_location: Seldovia, Alaska
