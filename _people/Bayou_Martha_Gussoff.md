@@ -1,7 +1,7 @@
 ---
 last_name: Bayou
-maiden_name: Gussoff
-first_name: Martha GUSSOFF
+first_name: Martha
+maiden_name: GUSSOFF
 birth date: 1901
 birth_location: Seldovia, Alaska
 death_date: 1938-06-10
