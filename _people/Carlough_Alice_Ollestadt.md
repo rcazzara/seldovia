@@ -1,7 +1,7 @@
 ---
-full_name: "Alyce OLLESTAD Carlough"
 last_name: "Carlough"
-first_name: "Alyce OLLESTAD"
+first_name: "Alyce"
+maiden_name: "OLLESTAD
 source_file: "James Howard Carlough"
 birth_date: 1920-05-16
 birth_location: Seldovia, Alaska
