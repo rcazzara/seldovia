@@ -1,7 +1,7 @@
 ---
 last_name: Markle
-maiden_name: Bloch
 first_name: Elizabeth
+maiden_name: BLOCH
 birth_date: 1885
 birth_location: Kenai, Alaska
 death_date: 1920-05-01
