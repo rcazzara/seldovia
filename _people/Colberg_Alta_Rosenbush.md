@@ -1,8 +1,7 @@
 ---
-full_name: "Alta ROSENBUSH Colberg"
 last_name: "Colberg"
-maiden_name: Rosenbush
-first_name: "Alta"
+first_name: "Alta Crete"
+maiden_name: "ROSENBUSH
 source_file: "COLBERG Family"
 birth_date: 1934-02-24
 birth_location: Seattle, Washington
