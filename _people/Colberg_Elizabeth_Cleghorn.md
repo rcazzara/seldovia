@@ -1,7 +1,7 @@
 ---
 last_name: Colberg
-maiden_name: Cleghorn
 first_name: Elizabeth
+maiden_name: Cleghorn
 birth_date: 1904-02-24
 birth_location: Alaska
 death_date: 1980-01-01
