@@ -1,7 +1,7 @@
 ---
 last_name: Fisk
-maiden_name: Suydam
 first_name: Marilyn
+maiden_name: Suydam
 birth_date: 1956-10-21
 birth_location: Seldovia, Alaska
 death_date: 1998-06-02
