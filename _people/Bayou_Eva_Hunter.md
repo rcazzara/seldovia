@@ -1,7 +1,7 @@
 ---
 last_name: Bayou
-maiden_name: Backoff
-first_name: Eva BACKOFF
+first_name: Eva 
+maiden_name: BACKOFF
 birth_date: 1882
 birth_location: Alaska
 death_date: 1937
