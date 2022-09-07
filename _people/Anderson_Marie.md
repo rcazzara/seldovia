@@ -1,6 +1,7 @@
 ---
-last_name: Anderson
+last_name: Swaney
 first_name: Marie
+maiden_name: ANDERSON
 birth_date: 1904
 birth_location: Alaska
 death_date: 1971-12-22
