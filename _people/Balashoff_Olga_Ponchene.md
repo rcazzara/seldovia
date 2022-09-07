@@ -1,7 +1,8 @@
 ---
 last_name: Balashoff
 maiden_name: Rysev
-first_name: Olga PONCHENE
+first_name: Olga 
+maiden_name: Rysev/PONCHENE
 birth_date: 1883
 birth_location: Alaska
 death_date: 1962-05-04
