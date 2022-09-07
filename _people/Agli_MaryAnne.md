@@ -1,6 +1,7 @@
 ---
 last_name: Agli
 first_name: MaryAnne
+maiden_name: MORGAN
 birth_date: 1957-06-02
 birth_location: Pendleton, Oregon
 death_date: 2018-07-17
@@ -8,7 +9,7 @@ death_location: Seldovia, Alaska
 
 ---
 
-**MaryAnne Agli** was born June 2, 1957 in Pendleton, Oregon to Gladys Brown and James Burke.
+**MaryAnne Agli** was born June 2, 1957 in Pendleton, Oregon to Gladys Morgan and James Burke.
 
 She was always a wild and free spirit who was full of spunk and sass. She was often the life of the party. Probably best known from her years as a bartender in Seldovia and as the Seldovia Harbormaster, she made friends from all over the world and all walks of life.
 
