@@ -1,7 +1,7 @@
 ---
 last_name: Borovena
-maiden_name: Jacobsen
-first_name: Mary JACOBSEN
+first_name: Mary
+maiden_name: JACOBSEN
 birth_date: 1904
 birth_location: Alaska
 death_date: 1958-11-14
