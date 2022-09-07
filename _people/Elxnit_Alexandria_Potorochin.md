@@ -1,7 +1,7 @@
 ---
 last_name: Elxnit
-maiden_name: Potorochin
 first_name: Alexandria
+maiden_name: Potorochin
 birth_date: 1885-03-16
 birth_location: Kodiak, Alaska
 death_date: 1966-03-20
