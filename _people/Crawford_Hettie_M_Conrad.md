@@ -1,7 +1,7 @@
 ---
 last_name: Crawford
-maiden_name: Conrad
-first_name: Hettie M.
+first_name: Hettie Maria
+maiden_name: Hultberg
 birth_date: 1908
 birth_location: Bethel, Alaska
 death_date: 1981-06-16
