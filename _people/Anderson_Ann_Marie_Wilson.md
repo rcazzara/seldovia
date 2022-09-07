@@ -1,5 +1,4 @@
 ---
-full_name: "Ann Marie WILSON Anderson"
 last_name: "Anderson"
 first_name: "Ann Marie"
 maiden_name: "WILSON"
