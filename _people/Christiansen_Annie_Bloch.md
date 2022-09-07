@@ -1,7 +1,7 @@
 ---
 last_name: Christiansen
-maiden_name: Bloch
-first_name: Annie BLOCH
+first_name: Annie
+maiden_name: BLOCH
 birth_date: 1871-10-11
 birth_location: San Francisco, California
 death_date: 1921-01-11
