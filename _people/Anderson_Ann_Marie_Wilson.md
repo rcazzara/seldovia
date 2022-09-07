@@ -1,7 +1,8 @@
 ---
 full_name: "Ann Marie WILSON Anderson"
 last_name: "Anderson"
-first_name: "Ann Marie WILSON"
+first_name: "Ann Marie"
+maiden_name: "WILSON"
 source_file: "Wilson Family"
 birth_date: 1947-01-09
 birth_location: "Seldovia, Alaska"
