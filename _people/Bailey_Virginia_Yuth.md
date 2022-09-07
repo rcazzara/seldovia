@@ -1,6 +1,6 @@
 ---
 last_name: Bailey
-first_name: Virginia YUTH
+first_name: Virginia
 maiden_name: YUTH
 birth_date: 1924-08-16
 birth_location: Seldovia, Alaska
