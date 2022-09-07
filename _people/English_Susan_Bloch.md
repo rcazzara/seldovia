@@ -1,7 +1,7 @@
 ---
 last_name: English
-maiden_name: Bloch
 first_name: Susan
+maiden_name: BLOCH
 birth_date: 1904-02-26
 birth_location: Seldovia, Alaska
 death_date: 1986-10-10
