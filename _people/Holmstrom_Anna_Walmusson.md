@@ -1,7 +1,7 @@
 ---
 last_name: Holmstrom
-maiden_name: Walnusson
 first_name: Anna
+maiden_name: Walnusson
 birth_date: 1876-02-15
 birth_location: Alaska
 death_date: 1941-10-28
