@@ -1,7 +1,7 @@
 ---
 last_name: Kanaback
-maiden_name: Maguila
 first_name: Olympia
+maiden_name: Maguila
 birth_date: 1903-02-28
 birth_location: Seldovia, Alaska
 death_date: 1939-01-19
