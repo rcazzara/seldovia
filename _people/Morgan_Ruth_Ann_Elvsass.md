@@ -1,7 +1,7 @@
 ---
 last_name: Morgan
-maiden_name: Elvsass
 first_name: Ruth Ann
+maiden_name: Elvsaas
 birth_date: 1960-03-27
 death_date: 1983-09-10
 cemetery: Seldovia City Cemetery
