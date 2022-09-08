@@ -1,7 +1,7 @@
 ---
 last_name: Johnson
-maiden_name: Bowen
 first_name: Harriet Susannah
+maiden_name: Bowen
 aka: Hattie
 birth_date: 1888-12-13
 birth_location: Kodiak, Alaska
