@@ -1,7 +1,6 @@
 ---
-full_name: "Emma Edelman Hogenson Josefsen"
-maiden_name: Edelman
 last_name: Josefsen
+maiden_name: Edelman
 first_name: "Emma"
 source_file: "Edelman"
 birth_date: 1902-06-23
