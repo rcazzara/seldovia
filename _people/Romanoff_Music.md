@@ -1,6 +1,8 @@
 ---
 last_name: Romanoff
 first_name: Arsiente "Musik"
+birth_date: 1912
+death_date:
 cemetery: Seldovia City Cemetery
 cemetery_plot: 169
 source_file: Cemetery Directory
