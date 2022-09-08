@@ -1,7 +1,7 @@
 ---
 last_name: Inglima
-maiden_name: Morris
 first_name: Luned Dolwin
+maiden_naem: Morris
 aka: Lynn
 birth_date: 1926-04-30
 birth_location: Seldovia, Alaska
