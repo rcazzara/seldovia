@@ -1,7 +1,7 @@
 ---
 last_name: McDonough
-maiden_name: Hunter
 first_name: Mary
+maiden_name: Hunter
 birth_date: 1903
 birth_location: King Cove, Alaska
 death_date: 1947-07-17
