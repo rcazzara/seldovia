@@ -1,7 +1,7 @@
 ---
 last_name: Gronlund
-maiden_name: Hilts
 first_name: Mildred Elizabeth
+maiden_name: Hilts
 birth_date: 1902-06-23
 birth_location: Colorado Springs, Colorado
 death_date: 1998-09-07
