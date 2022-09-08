@@ -1,7 +1,7 @@
 ---
 last_name: Edelman
-maiden_name: Juliussen
 first_name: Pauline
+maiden_name: Juliussen
 birth_date: 1919
 birth_location: Kenai,Alaska
 death_date: 1951-10-27
