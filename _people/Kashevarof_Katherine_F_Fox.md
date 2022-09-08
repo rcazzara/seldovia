@@ -1,7 +1,7 @@
 ---
 last_name: Kashevarof
-maiden_name: Fox
 first_name: Katherine 
+maiden_name: Fox
 birth_date: 1906-05-06
 birth_location: Unga Island, Alaska
 death_date: 1998-03-22
