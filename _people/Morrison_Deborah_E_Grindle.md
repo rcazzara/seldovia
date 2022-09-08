@@ -1,7 +1,7 @@
 ---
 last_name: Morrison
-maiden_name: Grindle
 first_name: Deborah E.
+maiden_name: Grindle
 birth_date: 1953-06-10
 death_date: 2010-11-26
 death_location: Seldovia, Alaska
