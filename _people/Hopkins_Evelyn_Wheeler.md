@@ -1,7 +1,7 @@
 ---
 last_name: Hopkins
-maiden_name: Wheeler
 first_name: Evelyn
+maiden_name: Wheeler
 birth_date: 1928-07-05
 birth_location: Greenville, California
 death_date: 2007-09-29
