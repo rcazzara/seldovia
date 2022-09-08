@@ -1,6 +1,7 @@
 ---
 last_name: MacKenzie
 first_name: Elizabeth May
+maiden_name: Mackenzie
 birth_date: 1911-07-07
 birth_location: Hong Kong, China
 death_date: 1954-11-11
