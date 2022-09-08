@@ -1,7 +1,7 @@
 ---
 last_name: Miller Avery
-maiden_name: Gleason
 first_name: Grace
+maiden_name: Gleason
 birth_date: 1907-12-18
 birth_location: California
 death_date: 1979-12-26
