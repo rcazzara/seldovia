@@ -1,7 +1,7 @@
 ---
 last_name: Matson
-maiden_name: Oskolkoff
 first_name: Demina
+maiden_name: Oskolkoff
 aka: Nina
 birth_date: 1879-0-14
 birth_location: Ninilchik, Alaska
@@ -11,7 +11,6 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 61
 source_file: Cemetery Directory
 ---
-
 
 **DEMNINA *OSKOLKOFF* EDELMAN MATSON** was the daughter of **Zakharii Oskolkoff** and **Elizaveta
 KNAGIN Oskolkoff** of Ninilchik, Alaska. She was born March 27, 1880 in Ninilchik, Alaska. She married first **Edvin
