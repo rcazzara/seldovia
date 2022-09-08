@@ -1,7 +1,7 @@
 ---
 last_name: Nutbeem
-maiden_name: Larsen
 first_name: Alice
+maiden_name: Larsen
 birth_date: 1899-09-15
 birth_location: Unga Island, Alaska
 death_date: 1990-07-13
