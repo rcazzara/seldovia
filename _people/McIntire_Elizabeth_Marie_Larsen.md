@@ -1,7 +1,7 @@
 ---
 last_name: McIntire
-maiden_name: Larsen
 first_name: Elizabeth Marie
+maiden_name: Larsen
 aka: Betty
 birth_date: 1912-10-01
 birth_location: Unga Island, Alaska
