@@ -1,7 +1,7 @@
 ---
 last_name: Giles
-maiden_name: Laizure
 first_name: Helen Winifred 
+maiden_name: Laizure
 birth_date: 1908-10-21
 birth_location: North Dakota
 death_date: 1994-01-10
