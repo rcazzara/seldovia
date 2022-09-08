@@ -1,7 +1,7 @@
 ---
 last_name: Matthewson
-maiden_name: Bystedt
 first_name: Anna Elizabeth
+maiden_name: Bystedt
 aka: Betty
 birth_date: 1913-10-11
 birth_location: Valdez, Alaska
