@@ -1,7 +1,7 @@
 ---
 last_name: Nordenson
-maiden_name: Lloyd
 first_name: Grace Mary
+maiden_name: Lloyd
 birth_date: 1906-08-16
 birth_location: Wyoming
 death_date: 1961-04-17
