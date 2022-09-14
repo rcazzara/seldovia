@@ -1,7 +1,7 @@
 ---
 last_name: Agli
 first_name: Franklin Robin "Frank"
-birth_date: 1867-06-12
+birth_date: 1939-10-07
 birth_location: New York, New York
 death_date: 2022-05-31
 death_location: Seldovia, Alaska
