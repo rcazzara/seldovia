@@ -1,6 +1,6 @@
 ---
 last_name: Bowdon
-first_name: Pattilu
+first_name: Patti Lu
 maiden_name: HANSEN
 birth_date: 1952-09-11
 birth_location: Alaska
@@ -10,9 +10,9 @@ cemetery: Seldovia City Cemetery
 cemetery_plot: 221.5
 source_file: Cemetery Directory
 ---
-**PATTILU *HANSEN* BOWDON** was born September 11, 1952 to [**Roy and Lucille OLLESTAD Hansen**](./Hansen_Roy_Louis.md). 
+**PATTI LU *HANSEN* BOWDON** was born September 11, 1952 to [**Roy and Lucille OLLESTAD Hansen**](./Hansen_Roy_Louis.md). 
 
-She married **Thomas Bowdon** and had two children before she died March 12, 2010.  
+She married **Thomas Bowdon** and had two children before she died at her home in Seldovia on March 12, 2010. 
 
 She is buried in the Seldovia City Cemetery in plot 221.5. 
 
