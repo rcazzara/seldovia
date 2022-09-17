@@ -11,7 +11,7 @@ source_file: Cemetery Directory
 ---
 **ROBERT EUGENE ANDERSON**, the infant son of John (Jack, Jr.) and Lois ERICKSON Anderson, was born and died on November 19, 1948. 
 
-Robert was the grandson of [**Jack Conrad Anderson**](./Anderson_Jack_Conrad_Sr.md) and the great grandson of [**Hannah HANSEN Anderson Martensen Pedersen**](./Hansen_Hannah.md). 
+Robert was the grandson of [**Jack Conrad Anderson**](./Anderson_Jack_Conrad_Sr.md) and the great grandson of [**Hannah HANSEN Anderson Pedersen Olsen**](./Hansen_Hannah.md). 
 
 He is buried in the Seldovia City Cemetery in plot 40 near Hannah and his aunt [**Dorothy Anderson Warren**](./Warren_Dorothy_Anderson.md).  
 
