@@ -21,7 +21,7 @@ demolished the original Russian Orthodox graveyard.
 
 Children of James Howard Carlough and Jessie MOONIN Carlough include:
 
-- **James Brook Carlough, "Jim"** - b. Jan. 31, 1914, AK; m. Minnie YAKNAK; d. Aug. 1966
+- [**James Brooke Carlough, "Jim"**](../_people/Carlough_James_Brooke.md) - b. Jan. 31, 1914, AK; m. Minnie YAKNAK; d. Aug. 1966
 
 - **Patrick Mike Carlough** -  b. Nov. 22, 1917, Port Graham, Kenai Peninsula Borough, AK; occupation best man for a salmon tanker, 1940, and probably continued to work on ships arecords include numerous ship passenger records for Patrick; residences Seldovia, Third Judicial District, AK, 1930; Portlock Village, Seldovia Recording District, Alaska Territory, 1940; Snohomish Co., WA, 1966; and King Co., WA; m. Betty L. DAVIES (b. ca. 1925, MN), Jan. 9, 1966, Seattle, King Co., WA; d. Jan. 14, 1991.
 
