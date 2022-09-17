@@ -29,7 +29,7 @@ The Hansen family moved from Katalla to Cordova when Roy was four years
 old. He attended school in Cordova and was in the US Army during WW II.
 
 Roy married [**Lucille OLLESTAD**](./Hansen_Lucille_Ollestad.md) in Seldovia
-in 1953 and they had 3 sons and 5 daughters.
+in 1953 and they had 3 sons and 6 daughters.
 
 
 ![](../assets/images/Roy%20L%20Hansen%20with%20children%20Anne%20Marie%20and%20Roy%20H%20about%201982.jpg)  
