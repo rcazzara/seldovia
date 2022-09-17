@@ -46,4 +46,4 @@ Daughter Sandi Hansen, who died in Anchorage in 2018, was the mother of
 [**"Baby Groothof"**](./Groothof_Baby_Boy.md) (1975-1975) who is buried in the Seldovia City
 Cemetery.
 
-Another daughter [**Patti Lu**](./Bowden_Pattilu_Hansen.md) married Thomas Bowden.  She died in 2010 and is buried in the Seldovia Cemetery next to her parents.
+Another daughter [**Patti Lu**](./Bowdon_Pattilu_Hansen.md) married Thomas Bowden.  She died in 2010 and is buried in the Seldovia Cemetery next to her parents.
