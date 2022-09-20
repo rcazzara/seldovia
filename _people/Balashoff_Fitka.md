@@ -16,8 +16,8 @@ him as the grandson of Vasilii Ksenofontov Bal’shev, born in Russia
 about 1778. Vasilii’s son Vasilli (1831-1887) was in Kodiak in the late
 1800s. Much of the information we have about Fitka comes from Yale
 anthropologist Cornelius Osgood who spent many months in Seldovia in
-1930-1931**.** Fitka was the primary source for the Seldovia dialect of
-Dena'ina in the vocabulary recorded by Osgood.
+1930-1931. Fitka was the primary source for the Seldovia dialect of
+Dena'ina in the vocabulary recorded by Osgood. He was also a resource for Frederika de Laguna in 1932 when she was exploring Kachemak Bay archeological sites. 
 
 Osgood says: *"The informant to whom I am most deeply indebted is Fitka
 Balishoff of Seldovia who was born in that place about sixty-five years
