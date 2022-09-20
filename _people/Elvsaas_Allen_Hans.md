@@ -12,5 +12,9 @@ family: Elvsaas
 cemetery_plot: 236
 ---
 
-**ALLEN HANS ELVSAAS** was born in 1953 to **Fred and Gladys SIMEONOFF [Elvsaas](../_families/Elvsaas_Family.md)**. He drowned in Seldovia July 1970.  He is buried in the Seldovia City Cemetery in Plot #236.
+**ALLEN HANS ELVSAAS**, son of [**Frederick Hans Elvsaas**](./Elvsaas_Fred_Hans.md) and [**Gladys SIMIENOFF Ogle Elvsaas**](./Elvsass_Gladys_Ogle.md) was born in Seldovia in 1953. 
+
+He drowned in Seldovia July 1970.  
+
+Allen is buried in the Seldovia City Cemetery in Plot #236.
 
