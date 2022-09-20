@@ -11,7 +11,7 @@ cemetery_plot: 120
 source_file: Cemetery Directory
 ---
 **LLEWLYN JAMES MORGAN, "Lew"** was born on February 8, 1894 in Dowagiac, Michigan to Clarence and Jennie
-Morgan. He married Lucille Sisson in May 1926 and had 3 children, Valdy (1927-2015), Patsy, and Jerry (1931-1997). 
+Morgan. He married **Lucille Sisson** in May 1926 and had 3 children, Valdy (1927-2015), Patsy, and Jerry (1931-1997). 
 
 At the time of the 1930 US Census, Lew was in the Michigan Reformatory, working as a laborer in road construction and Lucille and children were living with Lew's father.
 
