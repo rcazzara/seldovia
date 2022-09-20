@@ -2,13 +2,11 @@
 full_name: "Allen Hans Elvsaas"
 last_name: "Elvsaas"
 first_name: "Allen Hans"
-source_file: "Remembering Our Children"
 birth_date: 1953
 birth_location: Seldovia, Alaska
 death_date: 1970
 death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
-family: Elvsaas
 cemetery_plot: 236
 ---
 
