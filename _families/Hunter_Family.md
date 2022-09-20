@@ -36,13 +36,13 @@ buried beside each other in Seldovia City Cemetery, Plots \#90 and \#91.
 > 
 > [**Sam Hunter**](../_people/Hunter_Sam.md), b. Aug. 20, 1916, d. May 1951; buried in Seldovia City
 > Cemetery, Plot \#106.
-
-    Theodore Hunter (1906-1980); was a railroad
-    
-    Alice HUNTER McMeeken (1908-1989); married Edward Gordon McMeeken; died in Washington
-    
-    Elizabeth (Lizzie) Hunter (1910-?)
-    
-    Mildred HUNTER Scrape (1915-1956), married Grover Scrape, died in San Rafael, California
-    
-    Nicholas Hunter (1913-?)
+> 
+> **Theodore Hunter** (1906-1980); was a railroad employee
+> 
+> **Alice HUNTER McMeeken** (1908-1989); married Edward Gordon McMeeken; died in Washington
+> 
+> **Elizabeth (Lizzie) Hunter** (1910-?)
+> 
+> **Mildred HUNTER Scrape** (1915-1956), married Grover Scrape, died in San Rafael, California
+> 
+> **Nicholas Hunter** (1913-?)
