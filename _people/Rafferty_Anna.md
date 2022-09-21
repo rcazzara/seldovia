@@ -18,5 +18,5 @@ Annie and Jerry later divorced and she moved on, settling in Kenai, Alaska. On a
 
 Annie worked hard her whole life giving her best at all that was thrown at her. She was honest, positive, stubborn, and full of joy. She made life a happier place for all who knew her.
 
-Annie died in Homer on January 25, 2022.  Her husband, Bob, passed away in Seldovia, just three weeks later.  Her children are **Theresa (Brian) Naugle** of Montana and **Kenny (Kara) Wybenga** of Washington, and there are numerous grand and great grandchildren.   
+Annie died in Homer on January 25, 2022 just three weeks ahead of her husband Bob.  Her children are **Theresa (Brian) Naugle** of Montana and **Kenny (Kara) Wybenga** of Washington, and there are numerous grand and great grandchildren.   
 
