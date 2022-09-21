@@ -12,8 +12,10 @@ source_file: Cemetery Directory
 ---
 **LOUIS JOSEPH NAGY, "Louie"** was born Oct. 10, 1919, in Sharon, Pa. He arrived in Seward in 1946. 
 
-Louis married Helen Mae Crawford, daughter of **Reynard** and **Henrietta "Hetty" Crawford**(./Crawford_Hetty.md)
+Louis married Helen Mae Crawford, daughter of **Reynard** and [**Henrietta "Hetty" Crawford**](./Crawford_Hettie_M_Conrad.md) and they raised four children in Seldovia. 
 
-According to family, his career was applying his artistic talents in different areas. He loved art, the human spirit and traveling. He died August 6, 1993 in Homer, Alaska and is buried in the Seldovia City Cemetery in Plot #534.
+According to family, his career always involved applying his artistic talents in different areas. He loved art, the human spirit and traveling. 
+
+Louie died August 6, 1993 in Homer, Alaska and is buried in the Seldovia City Cemetery in Plot #534.
 
 
