@@ -12,7 +12,7 @@ source_file: Cemetery Directory
 ---
 **ANDREW EDWARD MYHRE, "Andy"** was born in Tromso, Norway on May 9, 1886 to **Nels Olsen** and **Martha Palser**.  
 
-He emigrated to the United States in 1911, leaving Liverpool, England on the SS Baltic, and arrived in New York City on April 3, 1911. By 1914 when he declared his intent to become a U.S. citizen he was working as a laborer in Dillon, Montana, but it wasn't until 1947 when he was 61 and living in Alaska, that he actually received his naturalization papers.
+He emigrated to the United States in 1911, leaving Liverpool, England on the SS Baltic, and arrived in New York City on April 3, 1911. By 1914 when he declared his intent to become a U.S. citizen he was working as a laborer in Dillon, Montana, and he did so again in 1924 when he was living in Ketchikan, Alaska, but it wasn't until 1948 when he was 62 and living in Naknek, Alaska, that he actually received his naturalization papers.
 
 He was living in Bellingham, Washinton when he registered for the draft for WWI and in Egegik, Alaska when he registered for the draft in WWII. 
 
