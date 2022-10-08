@@ -10,9 +10,11 @@ cemetery_plot: 25
 source_file: Cemetery Directory
 ---
 
-**ANESIEM ALEXANDEROFF** was born in Kodiak in March 1872 to John and Lubov Alexandroff. His name may be spelled as **Anisim** and his last name is sometimes spelled **Alexandroff**
+**ANESIEM ALEXANDEROFF** was born in Kodiak in March 1872 to John and Lubov Alexandroff. His name may be spelled as **Anisim** and his family name is sometimes spelled **Alexandroff**. 
 
-He lived on  Woody Island, Kodiak in 1900, with Otto Anderson, from Sweden as a lodger. In 1910 he lived with his parents, John and Leuboff (?)
+The name Alexandroff is likely an outgrowth of the Russian name Aleksandrov. Early Russians at Kodiak and at Fort Ross had some version of this name and the Alexanderoffs were sometimes listed in US Census records as "Creole", meaning of a Russian father and Alaska native woman. 
+
+Anesiem lived on  Woody Island, Kodiak in 1900, with Otto Anderson, from Sweden as a lodger. In 1910 he lived with his parents, John and Leuboff (?)
 Alexandroff in Seldovia. In 1920 he and his wife Catherine were living on Kachemak Bay and he was a fox farmer. He had 3 adopted children
 including Andrew Beristoff. 
 
@@ -25,8 +27,6 @@ Anesiem drowned in Seldovia Bay on June 27, 1945.  He was offshore in his boat a
 
 Anesiem is buried in Seldovia City Cemetery Plot #25.
 
-
-
 **Anisim Point** (From "Inventory of Cook Inlet Historical Sites, 1975")
 
 *On the south shore of Kachemak Bay and due east of Yukon Island is a point of the mainland called Anisim Point.  At the beach next to the southern knob there is a historic cabin. The site continues along the furthest inland shore of the adjacent lagoon, and on the hill behind it.*  
@@ -38,10 +38,7 @@ Anesiem is buried in Seldovia City Cemetery Plot #25.
 *Sources: Delaguna 1934:30, Keler 1971:38, Reger 1973:4, Maury Porter and Fred Elvsaas.*
 
 
-The name Alexandroff is likely an outgrowth of the Russian name Aleksandrov, which can also be seen as Alexandroff. Early Russians at
-Kodiak and at Fort Ross had some version of this name and the Alexandroffs were sometimes listed in US Census records as "Creole", meaning of a Russian father and Alaska native woman. 
-
-All of the men in the photo below were considered [**"Creoles"**](../_resources/Seldovia_Russian_Creoles_In.md). At the far left are Vasilii Baiiu (church warden), Anisim Alexandrov (member of the St. Nicholas Temperance Society), standing next to Rev. Ioann Bortnovsky, and Nikolai Romanovich Fomin (a Seldovia chapel reader), and a man only identified as Yackolofff. Photograph courtesy of Alaska Historical Library Juneau (PCA 243 1-90)
+All of the men in the photo below were considered [**"Creoles"**](../_resources/Seldovia_Russian_Creoles_In.md). At the far left are Vasilii Baiiu (church warden), Anisim Alexandrov (member of the St. Nicholas Temperance Society), standing next to Rev. Ioann Bortnovsky, and Nikolai Romanovich Fomin (a Seldovia chapel reader), and a man only identified as Yackoloff is just out of the picture. *Photograph courtesy of Alaska Historical Library Juneau (PCA 243 1-90)*
 
 ![](../assets/images/ANISEM%20ALEXANDROFF/media/image1.jpeg)
 
