@@ -17,7 +17,7 @@ Alexandroff in Seldovia. In 1920 he and his wife Catherine were living on Kachem
 including Andrew Beristoff. 
 
 He married **Agnes NAUMOFF Barnes** on April 12, 1931 in
-Seldovia. He was listed as a rancher (fox farmer, actually) at the time and both he and Agnes had been married twice before. Both of his wives had previously died as had Agnes' second husband **Reuben Barnes**. 
+Seldovia. He was listed as a rancher (fox farmer, actually) at the time and both he and Agnes had been married twice before. Both of his wives had previously died, as had Agnes' second husband, **Reuben Barnes**. 
 
 Anesiem was one of several native people who assisted Frederika DeLaguna and other archeologists in their explorations of Kachemak Bay in the 1930s.  He was from the Aleut culture of Kodiak but susequently was married for many years to Indian women and thus he was able to supply names and details about relics found from the point of view of both cultures.
 
@@ -38,12 +38,10 @@ Anesiem is buried in Seldovia City Cemetery Plot #25.
 *Sources: Delaguna 1934:30, Keler 1971:38, Reger 1973:4, Maury Porter and Fred Elvsaas.*
 
 
-The name Alexandroff is likely an outgrowth of the Russian name
-Aleksandrov, which can also be seen as Alexandroff. Early Russians at
-Kodiak and at Fort Ross had some version of this name and the
-Alexandroffs were sometimes listed in US Census records as "Creole",
-meaning of a Russian father and Alaska native woman. All of the men in
-the photo below were considered [**"Creoles"**](../_resources/Seldovia_Russian_Creoles_In.md).
+The name Alexandroff is likely an outgrowth of the Russian name Aleksandrov, which can also be seen as Alexandroff. Early Russians at
+Kodiak and at Fort Ross had some version of this name and the Alexandroffs were sometimes listed in US Census records as "Creole", meaning of a Russian father and Alaska native woman. 
+
+All of the men in the photo below were considered [**"Creoles"**](../_resources/Seldovia_Russian_Creoles_In.md). At the far left are Vasilii Baiiu (church warden), Anisim Alexandrov (member of the St. Nicholas Temperance Society), standing next to Rev. Ioann Bortnovsky, and Nikolai Romanovich Fomin (a Seldovia chapel reader), and a man only identified as Yackolofff. Photograph courtesy of Alaska Historical Library Juneau (PCA 243 1-90)
 
 ![](../assets/images/ANISEM%20ALEXANDROFF/media/image1.jpeg)
 
