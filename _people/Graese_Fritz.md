@@ -1,7 +1,7 @@
 ---
 last_name: Graese
 first_name: Frederick Arthur 
-aka: Tuffy
+aka: Fritz
 birth_date: 1945-08-12
 birth_location: Loveland, Colorado
 death_date: 2012-01-03
