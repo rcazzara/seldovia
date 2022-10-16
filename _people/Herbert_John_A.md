@@ -32,6 +32,8 @@ Courtesy of the Steve Zawistowski historical photograph collection – PM 1982-0
 PM 1982-046-0002
 A photo of John Herbert with two blue foxes on Passage Island.  Courtesy of the Steve Zawistowski historical photograph collection – PM 1982-046-0002 – Pratt Museum Photo Archives. 
 
+![](../assets/images/JA Herbert Fox farm PM 1982-046-0002.jpg
+
 
 In the Cook Inlet country J. A. Herbert, of Seldovia, engaged for the first time this season in mild-cure operations. The fish came chiefly from 
 two traps driven at favorable locations in Cook Inlet. *US Bureau of Fisheries Report, 1921*
