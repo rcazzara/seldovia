@@ -10,7 +10,7 @@ death_location: Seldovia, Alaska
 cemetery: Seldovia City Cemetery
 cemetery_plot: 41
 ---
-**EMMA *EDELMAN* HOGENSON JOSEFSEN** was born June 23, 1902, in Kenai, Alaska, to **Domnina Oskolkoff Edelman**, of Kenaitze (Athabaskan) Indian and Russian descent, and [**Edvin (Edwin) Edelman**](../_families/Edelman_Family.md), a Finn explorer from Porvoo. She was the sister of [**Nina EDELMAN Lund**](../_people/Lund_Nina_E_Edelman.md) and sister-in-law of [**Arthur Kvarness**](../_people/Kvarness_Arthur.md).  Her brother, Jack's wife, [**Pauline JULIUSSEN Edelman**](../_people/Edelman_Pauline_Juliussen.md), died in a plane crash with her daughter [**Jacqueline Edelman**](../_people/Edelman_Jacqueline.md) in 1951.
+**EMMA *EDELMAN* HAAKONSEN JOSEFSEN** was born June 23, 1902, in Kenai, Alaska, to **Demnina Oskolkoff Edelman** (aka Nina Edelman Matson (m. Andy), of Kenaitze (Athabaskan) Indian and Russian descent, and [**Edvin (Edwin) Edelman**](../_families/Edelman_Family.md), a Finn explorer from Porvoo. She was the sister of [**Nina EDELMAN Lund**](../_people/Lund_Nina_E_Edelman.md) and sister-in-law of [**Arthur Kvarness**](../_people/Kvarness_Arthur.md).  Her brother, Jack's wife, [**Pauline JULIUSSEN Edelman**](../_people/Edelman_Pauline_Juliussen.md), died in a plane crash with her daughter [**Jacqueline Edelman**](../_people/Edelman_Jacqueline.md) in 1951.
 
 Emma grew up in Kenai and attended a school run by the Russian Orthodox Church there, but she lived in Seldovia most of her adult life.   
 
