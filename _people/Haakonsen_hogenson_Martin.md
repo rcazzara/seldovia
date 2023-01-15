@@ -14,7 +14,7 @@ cemetery_plot: 191
 **MARTIN HOGENSON** was born **Martinus Haagensen** in Stavanger,
 Rogaland, Norway in 1885. His parents were Hartvig and Karen Haagensen. His name is spelled many different ways in the records: Haakonsen/Hagensen/Hogenson.
 
-In 1910 he was living in Bristol Bay. Martin married [**Emma Edlemann**](./Haakonsen_Emma_Edelman_Josefsen.md) 
+In 1910 he was living in Bristol Bay. Martin married [**Emma Edelman(n)**](./Haakonsen_Emma_Edelman_Josefsen.md) 
 in Kenai, Alaska, on August 3, 1919, when he was 34 years old. 
 
 By 1930 he was living alone in Seldovia. 
